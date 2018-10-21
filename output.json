@@ -1,0 +1,80 @@
+{
+    "links": [
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 123",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 124",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 124",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 126",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 132",
+            "value": 1
+        },
+        {
+            "source": "AEPS 132",
+            "target": "AEPS 133",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "AEPS 101"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 110"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 120"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 123"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 124"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 126"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 127"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 132"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 133"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 150"
+        },
+        {
+            "group": 2,
+            "id": "BOT 121"
+        }
+    ]
+}
