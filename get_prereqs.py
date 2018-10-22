@@ -8,8 +8,8 @@ import sys
 
 courses = {}
 
-limit = 15 # -1 for no limit
-filter = "" # comma separated list of
+limit =  -1# -1 for no limit
+filter = "AERO" # comma separated list of
 
 name_links = []
 graph = {"nodes":[], "links": [] }

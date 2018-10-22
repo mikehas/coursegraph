@@ -2,6 +2,10 @@
 <body>
 <div style="width: 200px; float: left">
    <div id='info' style="width: 100%; height: 400px">
+      <form>
+         <input type='text' id='courseid'></input>
+         <button type='button' id='findcourse'>Find Course</button>
+      </form>
    <div style="float: left; width: 75px;"> Course:</div> <p class="course"/>
       <p class="status"/>
    </div>
@@ -10,6 +14,7 @@
 <svg id='viz'></svg>
 </div>
 </body>
+
 <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
 <script src='https://d3js.org/d3.v5.min.js'></script>
 <script>
@@ -75,7 +80,6 @@ function isPrereq(pre, crs) {
    }
 }
 
-
 var svg = d3.select("#viz").attr("width", width).attr("height", height);
 var container = svg.append("g");
 
@@ -114,10 +118,9 @@ var node = container.append("g").attr("class", "nodes")
     .enter()
     .append("circle")
     .attr("id", function(d) { return d.id; })
-    .attr("r", 5)
+    .attr("r", 10)
     .attr("fill", function(d) { return color(d.group); })
 
-node.on("mouseover", focus).on("mouseout", unfocus);
 
 node.call(
     d3.drag()
@@ -137,7 +140,7 @@ var labelNode = container.append("g").attr("class", "labelNodes")
     .style("font-size", 12)
     .style("pointer-events", "none"); // to prevent mouseover/drag capture
 
-node.on("mouseover", focus).on("mouseout", unfocus);
+node.on("click", focus);
 
 function ticked() {
 
@@ -172,19 +175,27 @@ function fixna(x) {
     return 0;
 }
 
+var toggle = 0;
 function focus(d) {
-   console.log("d: " + d);
-   node.style("opacity", 0.1).enter();
-   labelNode.style("visibility", "hidden");
-   link.style("opacity", 0.1);
+   if (toggle == 0) {
+      toggle = 1;
 
-   var id = d3.select(d3.event.target).datum().id;
-   rfocus(id);
+      // Hide everything
+      node.style("opacity", 0.1).enter();
+      labelNode.style("visibility", "hidden");
+      link.style("opacity", 0.1);
+
+      // Show specific
+      var id = d3.select(d3.event.target).datum().id;
+      rfocus(id);
+   } else {
+      toggle = 0;
+      unfocus();
+   }
 }
 
 // Highlight all prerequisites
 function rfocus(id) {
-    console.log('rfocus called. id: ' + id);
     node.style("opacity", function(o) {
         return prereq(id, o.id) ? 1.0 : this.style.opacity;
     });
@@ -195,12 +206,9 @@ function rfocus(id) {
         return o.target.id == id ? 1 : this.style.opacity;
     });
 
-    // $('#info').text('Hello');
-    // $('#info .course').text(id);
-
+    // call on prerequisite nodes
     node.each(function(o) {
       if (prereq(id, o.id) && id != o.id) {
-         console.log(o.id);
          rfocus(o.id);
       }
     });
@@ -234,7 +242,6 @@ function focus(d) {
         return o.source.index == index || o.target.index == index ? 1 : 0.1;
     });
 }
-
 */
 
 function unfocus() {
@@ -274,7 +281,17 @@ function dragended(d) {
     d.fy = null;
 }
 
-console.log(prereqlist);
+$( '#info #findcourse' ).click(
+function(str) {
+   console.log(str);
+   console.log($('#courseid').val());
+   console.log(d3.select('#'+$('#courseid').val()));
+   node.findall
+}
+);
+// console.log(prereqlist);
 }); // d3.json
+
+
 </script>
 </html>

@@ -1,105 +1,1068 @@
 {
     "links": [
         {
-            "source": "AEPS 120",
-            "target": "AEPS 123",
+            "source": "AERO 121",
+            "target": "AERO 215",
             "value": 1
         },
         {
-            "source": "AEPS 120",
-            "target": "AEPS 124",
+            "source": "MATH 143",
+            "target": "AERO 215",
             "value": 1
         },
         {
-            "source": "BOT 121",
-            "target": "AEPS 124",
+            "source": "IME 144",
+            "target": "AERO 215",
             "value": 1
         },
         {
-            "source": "AEPS 120",
-            "target": "AEPS 126",
+            "source": "AERO 121",
+            "target": "AERO 220",
             "value": 1
         },
         {
-            "source": "AEPS 120",
-            "target": "AEPS 132",
+            "source": "ME 212",
+            "target": "AERO 299",
             "value": 1
         },
         {
-            "source": "AEPS 132",
-            "target": "AEPS 133",
+            "source": "AERO 215",
+            "target": "AERO 300",
             "value": 1
         },
         {
-            "source": "AEPS 120",
-            "target": "AEPS 190",
+            "source": "MATH 244",
+            "target": "AERO 300",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "AERO 300",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "AERO 300",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 302",
+            "value": 1
+        },
+        {
+            "source": "AERO 299",
+            "target": "AERO 303",
+            "value": 1
+        },
+        {
+            "source": "AERO 301",
+            "target": "AERO 303",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 303",
+            "value": 1
+        },
+        {
+            "source": "AERO 299",
+            "target": "AERO 304",
+            "value": 1
+        },
+        {
+            "source": "AERO 301",
+            "target": "AERO 304",
+            "value": 1
+        },
+        {
+            "source": "ENGL 149",
+            "target": "AERO 304",
+            "value": 1
+        },
+        {
+            "source": "AERO 215",
+            "target": "AERO 306",
+            "value": 1
+        },
+        {
+            "source": "AERO 299",
+            "target": "AERO 306",
+            "value": 1
+        },
+        {
+            "source": "AERO 301",
+            "target": "AERO 306",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 307",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 307",
+            "value": 1
+        },
+        {
+            "source": "ENGL 149",
+            "target": "AERO 307",
+            "value": 1
+        },
+        {
+            "source": "AERO 215",
+            "target": "AERO 311",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 320",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 320",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 331",
+            "value": 1
+        },
+        {
+            "source": "CE 207",
+            "target": "AERO 331",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 331",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 351",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 351",
+            "value": 1
+        },
+        {
+            "source": "AERO 299",
+            "target": "AERO 353",
+            "value": 1
+        },
+        {
+            "source": "AERO 301",
+            "target": "AERO 353",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 353",
+            "value": 1
+        },
+        {
+            "source": "ENGL 149",
+            "target": "AERO 354",
+            "value": 1
+        },
+        {
+            "source": "AERO 353",
+            "target": "AERO 354",
+            "value": 1
+        },
+        {
+            "source": "PSY 350",
+            "target": "AERO 360",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 401",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "AERO 401",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 402",
+            "value": 1
+        },
+        {
+            "source": "AERO 353",
+            "target": "AERO 402",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "AERO 402",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 405",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 405",
+            "value": 1
+        },
+        {
+            "source": "AERO 353",
+            "target": "AERO 405",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 406",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 406",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 407",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 409",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 420",
+            "value": 1
+        },
+        {
+            "source": "AERO 320",
+            "target": "AERO 420",
+            "value": 1
+        },
+        {
+            "source": "AERO 320",
+            "target": "AERO 421",
+            "value": 1
+        },
+        {
+            "source": "AERO 351",
+            "target": "AERO 421",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 425",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 425",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 425",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 431",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 432",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 433",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 433",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 434",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "AERO 435",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 435",
+            "value": 1
+        },
+        {
+            "source": "IME 144",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 215",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 405",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 420",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 443",
+            "value": 1
+        },
+        {
+            "source": "AERO 443",
+            "target": "AERO 444",
+            "value": 1
+        },
+        {
+            "source": "AERO 444",
+            "target": "AERO 445",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "AERO 446",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "AERO 446",
+            "value": 1
+        },
+        {
+            "source": "EE 251",
+            "target": "AERO 446",
+            "value": 1
+        },
+        {
+            "source": "AERO 353",
+            "target": "AERO 446",
+            "value": 1
+        },
+        {
+            "source": "IME 144",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 215",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 331",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 351",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 420",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 421",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 446",
+            "target": "AERO 447",
+            "value": 1
+        },
+        {
+            "source": "AERO 447",
+            "target": "AERO 448",
+            "value": 1
+        },
+        {
+            "source": "AERO 448",
+            "target": "AERO 449",
+            "value": 1
+        },
+        {
+            "source": "AERO 351",
+            "target": "AERO 452",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 465",
+            "value": 1
+        },
+        {
+            "source": "AERO 320",
+            "target": "AERO 465",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 465",
+            "value": 1
+        },
+        {
+            "source": "AERO 510",
+            "target": "AERO 511",
+            "value": 1
+        },
+        {
+            "source": "IME 510",
+            "target": "AERO 511",
+            "value": 1
+        },
+        {
+            "source": "AERO 510",
+            "target": "AERO 512",
+            "value": 1
+        },
+        {
+            "source": "AERO 546",
+            "target": "AERO 512",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 522",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 523",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 525",
+            "value": 1
+        },
+        {
+            "source": "AERO 299",
+            "target": "AERO 526",
+            "value": 1
+        },
+        {
+            "source": "AERO 301",
+            "target": "AERO 526",
+            "value": 1
+        },
+        {
+            "source": "AERO 302",
+            "target": "AERO 526",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 526",
+            "value": 1
+        },
+        {
+            "source": "AERO 306",
+            "target": "AERO 528",
+            "value": 1
+        },
+        {
+            "source": "AERO 307",
+            "target": "AERO 528",
+            "value": 1
+        },
+        {
+            "source": "AERO 307",
+            "target": "AERO 529",
+            "value": 1
+        },
+        {
+            "source": "AERO 406",
+            "target": "AERO 529",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 531",
+            "value": 1
+        },
+        {
+            "source": "AERO 431",
+            "target": "AERO 533",
+            "value": 1
+        },
+        {
+            "source": "AERO 303",
+            "target": "AERO 540",
+            "value": 1
+        },
+        {
+            "source": "AERO 401",
+            "target": "AERO 540",
+            "value": 1
+        },
+        {
+            "source": "AERO 401",
+            "target": "AERO 541",
+            "value": 1
+        },
+        {
+            "source": "AERO 420",
+            "target": "AERO 551",
+            "value": 1
+        },
+        {
+            "source": "AERO 320",
+            "target": "AERO 553",
+            "value": 1
+        },
+        {
+            "source": "AERO 351",
+            "target": "AERO 557",
+            "value": 1
+        },
+        {
+            "source": "AERO 421",
+            "target": "AERO 560",
+            "value": 1
+        },
+        {
+            "source": "AERO 446",
+            "target": "AERO 561",
+            "value": 1
+        },
+        {
+            "source": "AERO 446",
+            "target": "AERO 562",
+            "value": 1
+        },
+        {
+            "source": "AERO 522",
+            "target": "AERO 565",
+            "value": 1
+        },
+        {
+            "source": "AERO 510",
+            "target": "AERO 566",
+            "value": 1
+        },
+        {
+            "source": "AERO 546",
+            "target": "AERO 566",
+            "value": 1
+        },
+        {
+            "source": "AERO 401",
+            "target": "AERO 567",
+            "value": 1
+        },
+        {
+            "source": "AERO 450",
+            "target": "AERO 567",
+            "value": 1
+        },
+        {
+            "source": "AERO 446",
+            "target": "AERO 567",
+            "value": 1
+        },
+        {
+            "source": "AERO 307",
+            "target": "AERO 568",
+            "value": 1
+        },
+        {
+            "source": "AERO 406",
+            "target": "AERO 568",
+            "value": 1
+        },
+        {
+            "source": "AERO 568",
+            "target": "AERO 569",
             "value": 1
         }
     ],
     "nodes": [
         {
             "group": 1,
-            "id": "AEPS 101"
+            "id": "AERO 121"
         },
         {
             "group": 1,
-            "id": "AEPS 110"
+            "id": "AERO 200"
         },
         {
             "group": 1,
-            "id": "AEPS 120"
+            "id": "AERO 215"
         },
         {
             "group": 1,
-            "id": "AEPS 123"
+            "id": "AERO 220"
         },
         {
             "group": 1,
-            "id": "AEPS 124"
+            "id": "AERO 270"
         },
         {
             "group": 1,
-            "id": "AEPS 126"
+            "id": "AERO 299"
         },
         {
             "group": 1,
-            "id": "AEPS 127"
+            "id": "AERO 300"
         },
         {
             "group": 1,
-            "id": "AEPS 132"
+            "id": "AERO 302"
         },
         {
             "group": 1,
-            "id": "AEPS 133"
+            "id": "AERO 303"
         },
         {
             "group": 1,
-            "id": "AEPS 150"
+            "id": "AERO 304"
         },
         {
             "group": 1,
-            "id": "AEPS 175"
+            "id": "AERO 306"
         },
         {
             "group": 1,
-            "id": "AEPS 190"
+            "id": "AERO 307"
         },
         {
             "group": 1,
-            "id": "AEPS 200"
+            "id": "AERO 310"
         },
         {
             "group": 1,
-            "id": "AEPS 202"
+            "id": "AERO 311"
         },
         {
             "group": 1,
-            "id": "AEPS 203"
+            "id": "AERO 320"
+        },
+        {
+            "group": 1,
+            "id": "AERO 321"
+        },
+        {
+            "group": 1,
+            "id": "AERO 331"
+        },
+        {
+            "group": 1,
+            "id": "AERO 351"
+        },
+        {
+            "group": 1,
+            "id": "AERO 353"
+        },
+        {
+            "group": 1,
+            "id": "AERO 354"
+        },
+        {
+            "group": 1,
+            "id": "AERO 360"
+        },
+        {
+            "group": 1,
+            "id": "AERO 400"
+        },
+        {
+            "group": 1,
+            "id": "AERO 401"
+        },
+        {
+            "group": 1,
+            "id": "AERO 402"
+        },
+        {
+            "group": 1,
+            "id": "AERO 405"
+        },
+        {
+            "group": 1,
+            "id": "AERO 406"
+        },
+        {
+            "group": 1,
+            "id": "AERO 407"
+        },
+        {
+            "group": 1,
+            "id": "AERO 409"
+        },
+        {
+            "group": 1,
+            "id": "AERO 420"
+        },
+        {
+            "group": 1,
+            "id": "AERO 421"
+        },
+        {
+            "group": 1,
+            "id": "AERO 425"
+        },
+        {
+            "group": 1,
+            "id": "AERO 431"
+        },
+        {
+            "group": 1,
+            "id": "AERO 432"
+        },
+        {
+            "group": 1,
+            "id": "AERO 433"
+        },
+        {
+            "group": 1,
+            "id": "AERO 434"
+        },
+        {
+            "group": 1,
+            "id": "AERO 435"
+        },
+        {
+            "group": 1,
+            "id": "AERO 443"
+        },
+        {
+            "group": 1,
+            "id": "AERO 444"
+        },
+        {
+            "group": 1,
+            "id": "AERO 445"
+        },
+        {
+            "group": 1,
+            "id": "AERO 446"
+        },
+        {
+            "group": 1,
+            "id": "AERO 447"
+        },
+        {
+            "group": 1,
+            "id": "AERO 448"
+        },
+        {
+            "group": 1,
+            "id": "AERO 449"
+        },
+        {
+            "group": 1,
+            "id": "AERO 450"
+        },
+        {
+            "group": 1,
+            "id": "AERO 452"
+        },
+        {
+            "group": 1,
+            "id": "AERO 460"
+        },
+        {
+            "group": 1,
+            "id": "AERO 463"
+        },
+        {
+            "group": 1,
+            "id": "AERO 464"
+        },
+        {
+            "group": 1,
+            "id": "AERO 465"
+        },
+        {
+            "group": 1,
+            "id": "AERO 470"
+        },
+        {
+            "group": 1,
+            "id": "AERO 471"
+        },
+        {
+            "group": 1,
+            "id": "AERO 493"
+        },
+        {
+            "group": 1,
+            "id": "AERO 494"
+        },
+        {
+            "group": 1,
+            "id": "AERO 495"
+        },
+        {
+            "group": 1,
+            "id": "AERO 500"
+        },
+        {
+            "group": 1,
+            "id": "AERO 510"
+        },
+        {
+            "group": 1,
+            "id": "AERO 511"
+        },
+        {
+            "group": 1,
+            "id": "AERO 512"
+        },
+        {
+            "group": 1,
+            "id": "AERO 513"
+        },
+        {
+            "group": 1,
+            "id": "AERO 515"
+        },
+        {
+            "group": 1,
+            "id": "AERO 517"
+        },
+        {
+            "group": 1,
+            "id": "AERO 519"
+        },
+        {
+            "group": 1,
+            "id": "AERO 522"
+        },
+        {
+            "group": 1,
+            "id": "AERO 523"
+        },
+        {
+            "group": 1,
+            "id": "AERO 525"
+        },
+        {
+            "group": 1,
+            "id": "AERO 526"
+        },
+        {
+            "group": 1,
+            "id": "AERO 528"
+        },
+        {
+            "group": 1,
+            "id": "AERO 529"
+        },
+        {
+            "group": 1,
+            "id": "AERO 531"
+        },
+        {
+            "group": 1,
+            "id": "AERO 532"
+        },
+        {
+            "group": 1,
+            "id": "AERO 533"
+        },
+        {
+            "group": 1,
+            "id": "AERO 534"
+        },
+        {
+            "group": 1,
+            "id": "AERO 535"
+        },
+        {
+            "group": 1,
+            "id": "AERO 540"
+        },
+        {
+            "group": 1,
+            "id": "AERO 541"
+        },
+        {
+            "group": 1,
+            "id": "AERO 546"
+        },
+        {
+            "group": 1,
+            "id": "AERO 551"
+        },
+        {
+            "group": 1,
+            "id": "AERO 553"
+        },
+        {
+            "group": 1,
+            "id": "AERO 557"
+        },
+        {
+            "group": 1,
+            "id": "AERO 560"
+        },
+        {
+            "group": 1,
+            "id": "AERO 561"
+        },
+        {
+            "group": 1,
+            "id": "AERO 562"
+        },
+        {
+            "group": 1,
+            "id": "AERO 565"
+        },
+        {
+            "group": 1,
+            "id": "AERO 566"
+        },
+        {
+            "group": 1,
+            "id": "AERO 567"
+        },
+        {
+            "group": 1,
+            "id": "AERO 568"
+        },
+        {
+            "group": 1,
+            "id": "AERO 569"
+        },
+        {
+            "group": 1,
+            "id": "AERO 570"
+        },
+        {
+            "group": 1,
+            "id": "AERO 571"
+        },
+        {
+            "group": 1,
+            "id": "AERO 593"
+        },
+        {
+            "group": 1,
+            "id": "AERO 594"
+        },
+        {
+            "group": 1,
+            "id": "AERO 595"
+        },
+        {
+            "group": 1,
+            "id": "AERO 596"
+        },
+        {
+            "group": 1,
+            "id": "AERO 599"
         },
         {
             "group": 2,
-            "id": "BOT 121"
+            "id": "MATH 143"
+        },
+        {
+            "group": 3,
+            "id": "IME 144"
+        },
+        {
+            "group": 4,
+            "id": "ME 212"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 4,
+            "id": "ME 211"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 1,
+            "id": "AERO 301"
+        },
+        {
+            "group": 6,
+            "id": "ENGL 149"
+        },
+        {
+            "group": 7,
+            "id": "CE 207"
+        },
+        {
+            "group": 8,
+            "id": "PSY 350"
+        },
+        {
+            "group": 9,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 10,
+            "id": "EE 201"
+        },
+        {
+            "group": 10,
+            "id": "EE 251"
+        },
+        {
+            "group": 3,
+            "id": "IME 510"
         }
     ]
 }
