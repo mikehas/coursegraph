@@ -1,0 +1,28 @@
+<svg width="200" height="200">
+  <!-- Hidden container for effects and figures -->
+
+  <!-- Usage of the figures -->
+   <g>
+  <use xlink:href="#sun" x="120" y="60"/>
+  <use xlink:href="#rect" x="0" y="110" transform="rotate(10 100 110)"/>
+  </g>
+  <defs>
+    <!-- Group of gradients -->
+    <g>
+      <linearGradient id="g1" x1="0%" y1="0%" x2="90%" y2="90%">
+        <stop stop-color="crimson" offset="0%"/>
+        <stop stop-color="gold" offset="100%"/>
+      </linearGradient>
+      <linearGradient id="g2" x1="0%" y1="0%" x2="90%" y2="90%">
+        <stop stop-color="yellowgreen" offset="0%"/>
+        <stop stop-color="green" offset="100%"/>
+      </linearGradient>
+    </g>
+    <!-- Group of figures, not shown on the page -->
+    <g>
+      <circle fill="url(#g1)" r="50" id="sun"/>
+      <rect width="200" height="70" id="rect" fill="url(#g2)"/>
+    </g>
+  </defs>
+
+</svg>

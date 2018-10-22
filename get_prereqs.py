@@ -4,10 +4,13 @@ import csv
 import re
 from pprint import pprint
 import json
+import sys
 
 courses = {}
 
-limit = 10
+limit = 15 # -1 for no limit
+filter = "" # comma separated list of
+
 name_links = []
 graph = {"nodes":[], "links": [] }
 name_idx = {}
@@ -16,6 +19,7 @@ groups_idx = 0
 groups = {}
 all_prereqs = {}
 
+depts = []
 
 def getGroupNum(prefix):
     global groups_idx, groups
@@ -47,9 +51,10 @@ def cleanDict(row):
     for key, val in row.items():
         row[key] = val.replace(u'\xa0', u' ')
 
-
-
-
+def addDept(name):
+    global depts
+    if name not in depts:
+        depts.append(name)
 
 f = open('courses.csv', 'r')
 with f:
@@ -57,8 +62,12 @@ with f:
     reader = csv.DictReader(f)
 
     for row in reader:
+        if filter != "" and row['courseprefix'] not in [ x.strip() for x in filter.split(',')]:
+            continue
+
+        addDept(row['courseprefix'])
         itr = itr + 1
-        if itr > limit:
+        if limit != -1 and itr > limit:
           break
         course = {}
         # row['course_id'] = cleanCourseId(row['course_id'])
@@ -88,5 +97,6 @@ for p in all_prereqs:
 graph['links'] = name_links
 
 pprint(graph)
+pprint(depts)
 
 writeFile(graph, "output.json")

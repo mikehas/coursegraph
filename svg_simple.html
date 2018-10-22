@@ -93,7 +93,7 @@ d3.json("output.json", function(error, json) {
 
   var link = svg.selectAll(".link")
       .data(json.links)
-    .enter().append("line")
+    .enter().append("path")
       .attr("class", "link");
 
   var node = svg.selectAll(".node")

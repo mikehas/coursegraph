@@ -1,12 +1,20 @@
 <html>
 <body>
+<div style="width: 200px; float: left">
+   <div id='info' style="width: 100%; height: 400px">
+      <p class="course"/>
+      <p class="status"/>
+   </div>
+</div>
+<div style="margin-left: 200px">
 <svg id='viz'></svg>
+</div>
 </body>
-
+<script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
 <script src='https://d3js.org/d3.v5.min.js'></script>
 <script>
 var width = 1200;
-var height = 1000;
+var height = 700;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
 d3.json("output.json").then(function(graph) {
@@ -41,14 +49,24 @@ var graphLayout = d3.forceSimulation(graph.nodes)
 // for (var i = 0; i < 300; ++i) graphLayout.tick();
 
 var adjlist = [];
+var prereqlist = [];
+
 
 graph.links.forEach(function(d) {
-    adjlist[d.source.index + "-" + d.target.index] = true;
-    adjlist[d.target.index + "-" + d.source.index] = true;
+    // console.log(d.source.id);
+    // console.log(d.target.id);
+    prereqlist[d.source.id + "-" + d.target.id] = true;
+    adjlist[d.source.id + "-" + d.target.id] = true;
+    adjlist[d.target.id + "-" + d.source.id] = true;
 });
 
 function neigh(a, b) {
     return a == b || adjlist[a + "-" + b];
+}
+
+
+function prereq(a, b) {
+    return a == b || prereqlist[b + "-" + a];
 }
 
 
@@ -61,19 +79,35 @@ svg.call(
         .on("zoom", function() { container.attr("transform", d3.event.transform); })
 );
 
+var marker = svg.append('defs')
+    .append('marker').attr('id', 'arrow')
+    .attr('viewBox', '0 0 20 20')
+    .attr('refX', 15)
+    .attr('refY', 5)
+    .attr('markerWidth', 25)
+    .attr('markerHeight', 25)
+    .attr('orient', 'auto');
+
+marker.append('path')
+  .attr("d", 'M0,0 L10,5 L0,10 z')
+  .attr('fill', '#aaa');
+
 var link = container.append("g").attr("class", "links")
     .selectAll("line")
     .data(graph.links)
     .enter()
     .append("line")
     .attr("stroke", "#aaa")
-    .attr("stroke-width", "1px");
+    .attr("stroke-width", "1px")
+    .attr("marker-end", "url(#arrow)")
+;
 
 var node = container.append("g").attr("class", "nodes")
     .selectAll("g")
     .data(graph.nodes)
     .enter()
     .append("circle")
+    .attr("id", function(d) { return d.id; })
     .attr("r", 5)
     .attr("fill", function(d) { return color(d.group); })
 
@@ -132,21 +166,62 @@ function fixna(x) {
     return 0;
 }
 
+// Highlight all prerequisites
+function focus(d) {
+    var id = d3.select(d3.event.target).datum().id;
+    node.style("opacity", function(o) {
+        return prereq(id, o.id) ? 1 : 0.1;
+    });
+    labelNode.attr("visibility", function(o) {
+      return prereq(id, o.node.id) ? "visible": "hidden";
+    });
+    link.style("opacity", function(o) {
+        return o.target.id == id ? 1 : 0.1;
+    });
+
+    // $('#info').text('Hello');
+    $('#info .course').text(id);
+
+    // link.each(function(o) {
+    //   if (prereq(index, o.index)) {
+    //      focus(o.index);
+    //   }
+    // });
+}
+
+/* Highlight immediate prerequisites
 function focus(d) {
     var index = d3.select(d3.event.target).datum().index;
     node.style("opacity", function(o) {
-        return neigh(index, o.index) ? 1 : 0.1;
+        return prereq(index, o.index) ? 1 : 0.1;
     });
     labelNode.attr("display", function(o) {
-      return neigh(index, o.node.index) ? "block": "none";
+      return prereq(index, o.node.index) ? "block": "none";
+    });
+    link.style("opacity", function(o) {
+        return o.target.index == index ? 1 : 0.1;
+    });
+
+}
+*/
+/*  Highlight all neighbors
+function focus(d) {
+    var index = d3.select(d3.event.target).datum().index;
+    node.style("opacity", function(o) {
+        return neight(index, o.index) ? 1 : 0.1;
+    });
+    labelNode.attr("display", function(o) {
+      return prereq(index, o.node.index) ? "block": "none";
     });
     link.style("opacity", function(o) {
         return o.source.index == index || o.target.index == index ? 1 : 0.1;
     });
 }
 
+*/
+
 function unfocus() {
-   labelNode.attr("display", "block");
+   labelNode.attr("visibility", "visible");
    node.style("opacity", 1);
    link.style("opacity", 1);
 }
