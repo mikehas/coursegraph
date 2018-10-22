@@ -2,7 +2,7 @@
 <body>
 <div style="width: 200px; float: left">
    <div id='info' style="width: 100%; height: 400px">
-      <p class="course"/>
+   <div style="float: left; width: 75px;"> Course:</div> <p class="course"/>
       <p class="status"/>
    </div>
 </div>
@@ -67,6 +67,12 @@ function neigh(a, b) {
 
 function prereq(a, b) {
     return a == b || prereqlist[b + "-" + a];
+}
+
+function isPrereq(pre, crs) {
+   if (prereqlist[crs + "-" + pre]) {
+
+   }
 }
 
 
@@ -166,27 +172,38 @@ function fixna(x) {
     return 0;
 }
 
-// Highlight all prerequisites
 function focus(d) {
-    var id = d3.select(d3.event.target).datum().id;
+   console.log("d: " + d);
+   node.style("opacity", 0.1).enter();
+   labelNode.style("visibility", "hidden");
+   link.style("opacity", 0.1);
+
+   var id = d3.select(d3.event.target).datum().id;
+   rfocus(id);
+}
+
+// Highlight all prerequisites
+function rfocus(id) {
+    console.log('rfocus called. id: ' + id);
     node.style("opacity", function(o) {
-        return prereq(id, o.id) ? 1 : 0.1;
+        return prereq(id, o.id) ? 1.0 : this.style.opacity;
     });
-    labelNode.attr("visibility", function(o) {
-      return prereq(id, o.node.id) ? "visible": "hidden";
+    labelNode.style("visibility", function(o) {
+        return prereq(id, o.node.id) ? "visible": this.style.visibility;
     });
     link.style("opacity", function(o) {
-        return o.target.id == id ? 1 : 0.1;
+        return o.target.id == id ? 1 : this.style.opacity;
     });
 
     // $('#info').text('Hello');
-    $('#info .course').text(id);
+    // $('#info .course').text(id);
 
-    // link.each(function(o) {
-    //   if (prereq(index, o.index)) {
-    //      focus(o.index);
-    //   }
-    // });
+    node.each(function(o) {
+      if (prereq(id, o.id) && id != o.id) {
+         console.log(o.id);
+         rfocus(o.id);
+      }
+    });
 }
 
 /* Highlight immediate prerequisites
@@ -221,7 +238,7 @@ function focus(d) {
 */
 
 function unfocus() {
-   labelNode.attr("visibility", "visible");
+   labelNode.style("visibility", "visible");
    node.style("opacity", 1);
    link.style("opacity", 1);
 }
@@ -257,6 +274,7 @@ function dragended(d) {
     d.fy = null;
 }
 
+console.log(prereqlist);
 }); // d3.json
 </script>
 </html>
