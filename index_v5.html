@@ -1,39 +1,50 @@
 <html>
 <head>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+
   <style>
-  .svg-container {
-    display: inline-block;
-    position: relative;
-    width: 100%;
-    padding-bottom: 100%; /* aspect ratio */
-    vertical-align: top;
-    overflow: hidden;
-}
-.svg-content-responsive {
-    display: inline-block;
-    position: absolute;
-    top: 10px;
-    left: 0;
-}
+
   </style>
 </head>
 <body>
-<div style="width: 200px; float: left">
-   <div id='info' style="width: 100%; height: 400px">
-      <form>
-         <input type='text' id='courseid'></input>
-         <button type='button' id='findcourse'>Find Course</button>
-      </form>
-   <div style="float: left; width: 75px;"> Course:</div> <p class="course"/>
-      <p class="status"/>
+
+  <div class="row">
+   <div class="col-sm-2" style='background-color: rgba(2, 68, 52, 0.9); color: white; border-right: 2px solid rgba(68, 68, 68, 1);'>
+     <div class='content' style='padding: 10px; height: 1500px;'>
+       <div id='pagetitle' style='margin-bottom: 15px;border-bottom: 1px solid rgba(200, 200, 200, 1);'>
+         <h1>Course Curriculum Analysis</h1>
+       </div>
+
+       <div id='controls'>
+          <div id='info' style="width: 100%;">
+
+            <div class="ui-widget">
+              <label for="courseid">Course: </label>
+              <input type='text' id='courseid' style='width: 100px'></input>
+            </div>
+
+              <button type='button' id='findcourse'>Find Course</button>
+
+             <p class="course"/>
+             <p class="status"/>
+          </div>
+       </div>
+     </div>
+
    </div>
-</div>
-<div style="margin-left: 200px">
-<svg id='viz'></svg>
-</div>
+   <div class="col-sm-6">
+     <div>
+       <svg id='viz'></svg>
+     </div>
+   </div>
+ </div>
+
 </body>
 
 <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src='https://d3js.org/d3.v5.min.js'></script>
 <script>
 var width = 1200;
@@ -366,35 +377,53 @@ function updateInfo(o) {
 
 }
 
+function selectCourse() {
+  document.getElementById($('#courseid').val());
+  courseid = $('#courseid').val();
+  graph.nodes.forEach(function(d,i) {
+    if (d.id == courseid) {
+      console.log(courseid);
+      console.log(d);
+      focus(d);
+    };
+  });
+}
+
+$('#info #courseid').on('keyup', function (e) {
+    if (e.key === "Enter") {
+        selectCourse();
+    }
+});
+
 $( '#info #findcourse' ).click(
 function(str) {
-   // console.log(str);
-   // console.log($('#courseid').val());
-   // console.log(document.getElementById($('#courseid').val()));
-   document.getElementById($('#courseid').val());
-   courseid = $('#courseid').val();
-   // console.log(d3.select("node[id='" + $('#courseid').val() + "']"));
-   // var selected = d3.select("node[id='" + $('#courseid').val() + "']");
-   // selected.on('click')();
-   graph.nodes.forEach(function(d,i) {
-     if (d.id == courseid) {
-       console.log(courseid);
-       console.log(d);
-       focus(d);
+  selectCourse();
+});
 
-     };
-   });
-   return false;
-   // selected.each(function(d) {
-   //   console.log(d);
-   //    focus(d);
-   // });
+var availableTags = ['Hello'];
 
+$( function() {
+  $('#courseid').autocomplete({
+    source: availableTags
+  });
+  $('#courseid').focus( function() {
+    availableTags = graph.nodes.map(o => {
+      return o.id;
+    })
+    $('#courseid').autocomplete({
+      source: availableTags
+    });
+  });
 
-}
-);
+} );
+
 // console.log(prereqlist);
+
+
+
 }); // d3.json
+
+
 
 
 </script>
