@@ -9,7 +9,7 @@ import sys
 courses = {}
 
 limit =  -1# -1 for no limit
-filter = "AERO" # comma separated list of
+filter = "CPE,CSC" # comma separated list of
 
 name_links = []
 graph = {"nodes":[], "links": [] }

@@ -14,21 +14,28 @@
    <div class="col-sm-2" style='background-color: rgba(2, 68, 52, 0.9); color: white; border-right: 2px solid rgba(68, 68, 68, 1);'>
      <div class='content' style='padding: 10px; height: 1500px;'>
        <div id='pagetitle' style='margin-bottom: 15px;border-bottom: 1px solid rgba(200, 200, 200, 1);'>
-         <h1>Course Curriculum Analysis</h1>
+         <h1>Course Analysis</h1>
        </div>
 
-       <div id='controls'>
+       <div id='controls' style='center'>
           <div id='info' style="width: 100%;">
 
             <div class="ui-widget">
               <label for="courseid">Course: </label>
-              <input type='text' id='courseid' style='width: 100px'></input>
+              <input type='text' id='courseid' style='width: 100%'></input>
             </div>
 
-              <button type='button' id='findcourse'>Find Course</button>
+            <button type='button' id='findcourse' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Show Prerequisites</button>
 
-             <p class="course"/>
-             <p class="status"/>
+            <div class="ui-widget">
+              <label for="deptid">Department: </label>
+              <input type='text' id='deptid' style='width: 100%'></input>
+            </div>
+
+            <button type='button' id='deptidbutton' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Select Department</button>
+
+
+
           </div>
        </div>
      </div>
@@ -223,7 +230,7 @@ function focus(d) {
       node.each(function(o) {
         if (d.id == o.id) {
           // console.log('selected');
-          console.log(o);
+          // console.log(o);
 
           d3.select(this).attr('r', '25');
           // console.log(this.attr.fill);
@@ -382,8 +389,8 @@ function selectCourse() {
   courseid = $('#courseid').val();
   graph.nodes.forEach(function(d,i) {
     if (d.id == courseid) {
-      console.log(courseid);
-      console.log(d);
+      // console.log(courseid);
+      // console.log(d);
       focus(d);
     };
   });
@@ -414,8 +421,18 @@ $( function() {
       source: availableTags
     });
   });
+});
 
-} );
+$( "#deptid" )
+.selectmenu()
+.selectmenu( "menuWidget" )
+.addClass( "overflow" );
+
+graph.nodes.map(o => {
+  $('#deptid').append($('<option><\/option>')
+       .attr("value",o.id).text(o.id)
+  );
+});
 
 // console.log(prereqlist);
 
