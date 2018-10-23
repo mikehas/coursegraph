@@ -8,10 +8,10 @@
 
   </style>
 </head>
-<body>
+<body style='overflow-x: hidden;'>
 
   <div class="row">
-   <div class="col-sm-2" style='background-color: rgba(2, 68, 52, 0.9); color: white; border-right: 2px solid rgba(68, 68, 68, 1);'>
+   <div class="col-sm-2" style='background-color: rgba(2, 68, 52, 0.9); color: white; solid rgba(68, 68, 68, 1);'>
      <div class='content' style='padding: 10px; height: 1500px;'>
        <div id='pagetitle' style='margin-bottom: 15px;border-bottom: 1px solid rgba(200, 200, 200, 1);'>
          <h1>Course Analysis</h1>
@@ -23,31 +23,26 @@
             <div class="ui-widget">
               <label for="courseid">Course: </label>
               <input type='text' id='courseid' style='width: 100%'></input>
-            </div>
 
-            <button type='button' id='findcourse' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Show Prerequisites</button>
+              <button type='button' id='findcourse' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Show Prerequisites</button>
 
-            <div class="ui-widget">
               <label for="deptid">Department: </label>
-              <input type='text' id='deptid' style='width: 100%'></input>
+              <select id='deptid'></select>
             </div>
 
-            <button type='button' id='deptidbutton' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Select Department</button>
 
 
-
-          </div>
+            </div>
+         </div>
+       </div>
+     </div>
+     <div class="col-sm-6">
+       <div>
+         <svg id='viz'></svg>
        </div>
      </div>
 
    </div>
-   <div class="col-sm-6">
-     <div>
-       <svg id='viz'></svg>
-     </div>
-   </div>
- </div>
-
 </body>
 
 <script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
@@ -426,12 +421,11 @@ $( function() {
 $( "#deptid" )
 .selectmenu()
 .selectmenu( "menuWidget" )
-.addClass( "overflow" );
+.addClass( "overflow" )
 
+// console.log(graph.nodes);
 graph.nodes.map(o => {
-  $('#deptid').append($('<option><\/option>')
-       .attr("value",o.id).text(o.id)
-  );
+  $( "#deptid" ).append($('<option></option>').val(o.id).html(o.id));
 });
 
 // console.log(prereqlist);
