@@ -9,7 +9,7 @@ import sys
 courses = {}
 
 limit =  -1# -1 for no limit
-filter = "CPE,CSC" # comma separated list of
+filter = "" # comma separated list of
 
 name_links = []
 graph = {"nodes":[], "links": [] }
@@ -99,4 +99,5 @@ graph['links'] = name_links
 pprint(graph)
 pprint(depts)
 
-writeFile(graph, "output.json")
+writeFile(graph, "courses.json")
+# writeFile(depts, "departments.json")

@@ -53,12 +53,14 @@ var width = 1200;
 var height = 900;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-d3.json("output.json").then(function(graph) {
+d3.json("departments.json").then(function(deptdata) {
+d3.json("courses.json").then(function(graph) {
 
 var label = {
     'nodes': [],
     'links': []
 };
+console.log(deptdata);
 
 function loadAll() {
   graph.nodes.forEach(function(d, i) {
@@ -209,6 +211,7 @@ function fixna(x) {
     return 0;
 }
 
+// Toggle Focus on particular "datum"
 var toggle = 0;
 function focus(d) {
    if (toggle == 0) {
@@ -231,6 +234,7 @@ function focus(d) {
           // console.log(this.attr.fill);
         }
       });
+      centered(d);
       // d.attr('fill','#000');
       var id = d.id;
       rfocus(id);
@@ -306,7 +310,17 @@ function revealAll() {
 
 }
 
+function centered(d) {
+   var zoom = d3.zoom();
 
+   zoom.translateTo(container, d.x, d.y);
+   var transform = d3.zoomTransform(container.node());
+   console.log(transform);
+   container.attr("transform", transform)
+   console.log("x: " + d.x + " y: " + d.y);
+
+   // zoom.translateTo(container, d.x, d.y );
+}
 
 /* Highlight immediate prerequisites
 function focus(d) {
@@ -433,6 +447,7 @@ graph.nodes.map(o => {
 
 
 }); // d3.json
+});// d3.json
 
 
 
