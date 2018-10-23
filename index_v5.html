@@ -28,6 +28,9 @@
 
               <label for="deptid">Department: </label>
               <select id='deptid'></select>
+
+              <button type='button' id='updatedept' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Update Department</button>
+
             </div>
 
 
@@ -54,7 +57,7 @@ var height = 900;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
 d3.json("departments.json").then(function(deptdata) {
-d3.json("courses.json").then(function(graph) {
+d3.json("AEPS.json").then(function(graph) {
 
 var label = {
     'nodes': [],
@@ -73,6 +76,7 @@ function loadAll() {
   });
 };
 loadAll();
+
 
 var labelLayout = d3.forceSimulation(label.nodes)
     .force("charge", d3.forceManyBody().strength(-50))
@@ -216,6 +220,8 @@ var toggle = 0;
 function focus(d) {
    if (toggle == 0) {
       toggle = 1;
+      $('#findcourse').html('Show All');
+      $('#courseid').val(d.id);
 
       // Hide everything
       node.style("opacity", 0.1).enter();
@@ -243,6 +249,7 @@ function focus(d) {
 
    } else {
       toggle = 0;
+      $('#findcourse').html('Show Prerequisites');
       unfocus();
    }
 }
@@ -315,11 +322,7 @@ function centered(d) {
 
    zoom.translateTo(container, d.x, d.y);
    var transform = d3.zoomTransform(container.node());
-   console.log(transform);
    container.attr("transform", transform)
-   console.log("x: " + d.x + " y: " + d.y);
-
-   // zoom.translateTo(container, d.x, d.y );
 }
 
 /* Highlight immediate prerequisites
@@ -405,6 +408,7 @@ function selectCourse() {
   });
 }
 
+
 $('#info #courseid').on('keyup', function (e) {
     if (e.key === "Enter") {
         selectCourse();
@@ -432,14 +436,12 @@ $( function() {
   });
 });
 
-$( "#deptid" )
-.selectmenu()
-.selectmenu( "menuWidget" )
-.addClass( "overflow" )
+$( ".selector" ).selectmenu( "option", "appendTo", "#deptid" );
+
 
 // console.log(graph.nodes);
-graph.nodes.map(o => {
-  $( "#deptid" ).append($('<option></option>').val(o.id).html(o.id));
+deptdata.map(o => {
+  $( "#deptid" ).append($('<option></option>').val(o).html(o));
 });
 
 // console.log(prereqlist);
@@ -448,6 +450,23 @@ graph.nodes.map(o => {
 
 }); // d3.json
 });// d3.json
+
+function updateData(jsonfile) {
+   console.log(jsonfile);
+   d3.json(jsonfile, function(graph) {
+      graph.nodes.forEach(function(d, i) {
+          label.nodes.push({node: d});
+          label.nodes.push({node: d});
+          label.links.push({
+             source: i * 2,
+             target: i * 2 + 1
+          });
+      });
+
+   });
+}
+updateData('AERO.json');
+$('#updatedept').click(updateData);
 
 
 

@@ -1,0 +1,63 @@
+{
+    "links": [
+        {
+            "source": "GE D1",
+            "target": "UNIV 391",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "UNIV 100"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 125"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 321"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 330"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 333"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 350"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 391"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 392"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 424"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 470"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 491"
+        },
+        {
+            "group": 1,
+            "id": "UNIV 492"
+        },
+        {
+            "group": 2,
+            "id": "GE D1"
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "links": [
+        {
+            "source": "PSY 201",
+            "target": "CD 207",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "CD 207",
+            "value": 1
+        },
+        {
+            "source": "CD 131",
+            "target": "CD 230",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 230",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "CD 254",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "CD 254",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "CD 256",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "CD 256",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 304",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 305",
+            "value": 1
+        },
+        {
+            "source": "EDUC 207",
+            "target": "CD 305",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 306",
+            "value": 1
+        },
+        {
+            "source": "EDUC 207",
+            "target": "CD 306",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 329",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "CD 329",
+            "value": 1
+        },
+        {
+            "source": "CD 230",
+            "target": "CD 330",
+            "value": 1
+        },
+        {
+            "source": "PSY 323",
+            "target": "CD 330",
+            "value": 1
+        },
+        {
+            "source": "CD 230",
+            "target": "CD 333",
+            "value": 1
+        },
+        {
+            "source": "CD 329",
+            "target": "CD 333",
+            "value": 1
+        },
+        {
+            "source": "EDUC 207",
+            "target": "CD 350",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 350",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 351",
+            "value": 1
+        },
+        {
+            "source": "EDUC 207",
+            "target": "CD 351",
+            "value": 1
+        },
+        {
+            "source": "CD 304",
+            "target": "CD 401",
+            "value": 1
+        },
+        {
+            "source": "CD 305",
+            "target": "CD 401",
+            "value": 1
+        },
+        {
+            "source": "CD 306",
+            "target": "CD 401",
+            "value": 1
+        },
+        {
+            "source": "CD 329",
+            "target": "CD 401",
+            "value": 1
+        },
+        {
+            "source": "CD 305",
+            "target": "CD 413",
+            "value": 1
+        },
+        {
+            "source": "CD 306",
+            "target": "CD 413",
+            "value": 1
+        },
+        {
+            "source": "CD 329",
+            "target": "CD 413",
+            "value": 1
+        },
+        {
+            "source": "CD 304",
+            "target": "CD 417",
+            "value": 1
+        },
+        {
+            "source": "CD 305",
+            "target": "CD 417",
+            "value": 1
+        },
+        {
+            "source": "CD 306",
+            "target": "CD 417",
+            "value": 1
+        },
+        {
+            "source": "PSY 256",
+            "target": "CD 417",
+            "value": 1
+        },
+        {
+            "source": "PSY 305",
+            "target": "CD 417",
+            "value": 1
+        },
+        {
+            "source": "CD 304",
+            "target": "CD 424",
+            "value": 1
+        },
+        {
+            "source": "CD 305",
+            "target": "CD 424",
+            "value": 1
+        },
+        {
+            "source": "CD 306",
+            "target": "CD 424",
+            "value": 1
+        },
+        {
+            "source": "CD 330",
+            "target": "CD 430",
+            "value": 1
+        },
+        {
+            "source": "CD 304",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "CD 305",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "PSY 419",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "PSY 420",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "PSY 421",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "CD 329",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "PSY 329",
+            "target": "CD 431",
+            "value": 1
+        },
+        {
+            "source": "CD 333",
+            "target": "CD 433",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "CD 456",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "CD 456",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "CD 460",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "CD 460",
+            "value": 1
+        },
+        {
+            "source": "CD 329",
+            "target": "CD 461",
+            "value": 1
+        },
+        {
+            "source": "CD 461",
+            "target": "CD 462",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CD 102"
+        },
+        {
+            "group": 1,
+            "id": "CD 131"
+        },
+        {
+            "group": 1,
+            "id": "CD 200"
+        },
+        {
+            "group": 1,
+            "id": "CD 207"
+        },
+        {
+            "group": 1,
+            "id": "CD 230"
+        },
+        {
+            "group": 1,
+            "id": "CD 254"
+        },
+        {
+            "group": 1,
+            "id": "CD 256"
+        },
+        {
+            "group": 1,
+            "id": "CD 270"
+        },
+        {
+            "group": 1,
+            "id": "CD 304"
+        },
+        {
+            "group": 1,
+            "id": "CD 305"
+        },
+        {
+            "group": 1,
+            "id": "CD 306"
+        },
+        {
+            "group": 1,
+            "id": "CD 329"
+        },
+        {
+            "group": 1,
+            "id": "CD 330"
+        },
+        {
+            "group": 1,
+            "id": "CD 333"
+        },
+        {
+            "group": 1,
+            "id": "CD 350"
+        },
+        {
+            "group": 1,
+            "id": "CD 351"
+        },
+        {
+            "group": 1,
+            "id": "CD 400"
+        },
+        {
+            "group": 1,
+            "id": "CD 401"
+        },
+        {
+            "group": 1,
+            "id": "CD 413"
+        },
+        {
+            "group": 1,
+            "id": "CD 417"
+        },
+        {
+            "group": 1,
+            "id": "CD 424"
+        },
+        {
+            "group": 1,
+            "id": "CD 430"
+        },
+        {
+            "group": 1,
+            "id": "CD 431"
+        },
+        {
+            "group": 1,
+            "id": "CD 433"
+        },
+        {
+            "group": 1,
+            "id": "CD 456"
+        },
+        {
+            "group": 1,
+            "id": "CD 460"
+        },
+        {
+            "group": 1,
+            "id": "CD 461"
+        },
+        {
+            "group": 1,
+            "id": "CD 462"
+        },
+        {
+            "group": 1,
+            "id": "CD 470"
+        },
+        {
+            "group": 2,
+            "id": "PSY 201"
+        },
+        {
+            "group": 2,
+            "id": "PSY 202"
+        },
+        {
+            "group": 2,
+            "id": "PSY 256"
+        },
+        {
+            "group": 3,
+            "id": "EDUC 207"
+        },
+        {
+            "group": 4,
+            "id": "STAT 217"
+        },
+        {
+            "group": 2,
+            "id": "PSY 323"
+        },
+        {
+            "group": 2,
+            "id": "PSY 305"
+        },
+        {
+            "group": 2,
+            "id": "PSY 419"
+        },
+        {
+            "group": 2,
+            "id": "PSY 420"
+        },
+        {
+            "group": 2,
+            "id": "PSY 421"
+        },
+        {
+            "group": 2,
+            "id": "PSY 329"
+        }
+    ]
+}

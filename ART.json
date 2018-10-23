@@ -1,0 +1,907 @@
+{
+    "links": [
+        {
+            "source": "ART 102",
+            "target": "ART 103",
+            "value": 1
+        },
+        {
+            "source": "ART 103",
+            "target": "ART 104",
+            "value": 1
+        },
+        {
+            "source": "ART 182",
+            "target": "ART 183",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 201",
+            "value": 1
+        },
+        {
+            "source": "ART 102",
+            "target": "ART 201",
+            "value": 1
+        },
+        {
+            "source": "ART 106",
+            "target": "ART 201",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 203",
+            "value": 1
+        },
+        {
+            "source": "ART 102",
+            "target": "ART 203",
+            "value": 1
+        },
+        {
+            "source": "ART 106",
+            "target": "ART 203",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 209",
+            "value": 1
+        },
+        {
+            "source": "ART 224",
+            "target": "ART 227",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 237",
+            "value": 1
+        },
+        {
+            "source": "ART 183",
+            "target": "ART 237",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 238",
+            "value": 1
+        },
+        {
+            "source": "ART 183",
+            "target": "ART 238",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 245",
+            "value": 1
+        },
+        {
+            "source": "ART 107",
+            "target": "ART 245",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 260",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 260",
+            "value": 1
+        },
+        {
+            "source": "ART 237",
+            "target": "ART 288",
+            "value": 1
+        },
+        {
+            "source": "ART 238",
+            "target": "ART 288",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 302",
+            "value": 1
+        },
+        {
+            "source": "ART 209",
+            "target": "ART 309",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 310",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 310",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 310",
+            "value": 1
+        },
+        {
+            "source": "ART 111",
+            "target": "ART 311",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 311",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 311",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 311",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 313",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 313",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 313",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 313",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 315",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 315",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 315",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 315",
+            "value": 1
+        },
+        {
+            "source": "ART 111",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "ART 316",
+            "value": 1
+        },
+        {
+            "source": "ART 111",
+            "target": "ART 317",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ART 317",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 317",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 317",
+            "value": 1
+        },
+        {
+            "source": "ART 122",
+            "target": "ART 324",
+            "value": 1
+        },
+        {
+            "source": "ART 224",
+            "target": "ART 324",
+            "value": 1
+        },
+        {
+            "source": "ART 224",
+            "target": "ART 325",
+            "value": 1
+        },
+        {
+            "source": "ART 325",
+            "target": "ART 329",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 334",
+            "value": 1
+        },
+        {
+            "source": "ART 237",
+            "target": "ART 337",
+            "value": 1
+        },
+        {
+            "source": "ART 238",
+            "target": "ART 337",
+            "value": 1
+        },
+        {
+            "source": "ART 238",
+            "target": "ART 338",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 345",
+            "value": 1
+        },
+        {
+            "source": "ART 107",
+            "target": "ART 345",
+            "value": 1
+        },
+        {
+            "source": "ART 148",
+            "target": "ART 345",
+            "value": 1
+        },
+        {
+            "source": "ART 245",
+            "target": "ART 345",
+            "value": 1
+        },
+        {
+            "source": "ART 104",
+            "target": "ART 348",
+            "value": 1
+        },
+        {
+            "source": "ART 107",
+            "target": "ART 348",
+            "value": 1
+        },
+        {
+            "source": "ART 148",
+            "target": "ART 348",
+            "value": 1
+        },
+        {
+            "source": "ART 384",
+            "target": "ART 350",
+            "value": 1
+        },
+        {
+            "source": "CPE 102",
+            "target": "ART 350",
+            "value": 1
+        },
+        {
+            "source": "CPE 103",
+            "target": "ART 350",
+            "value": 1
+        },
+        {
+            "source": "CPE 202",
+            "target": "ART 350",
+            "value": 1
+        },
+        {
+            "source": "CPE 203",
+            "target": "ART 350",
+            "value": 1
+        },
+        {
+            "source": "ART 101",
+            "target": "ART 353",
+            "value": 1
+        },
+        {
+            "source": "ART 102",
+            "target": "ART 353",
+            "value": 1
+        },
+        {
+            "source": "ART 106",
+            "target": "ART 353",
+            "value": 1
+        },
+        {
+            "source": "ART 148",
+            "target": "ART 353",
+            "value": 1
+        },
+        {
+            "source": "ART 148",
+            "target": "ART 366",
+            "value": 1
+        },
+        {
+            "source": "ART 201",
+            "target": "ART 366",
+            "value": 1
+        },
+        {
+            "source": "ART 260",
+            "target": "ART 366",
+            "value": 1
+        },
+        {
+            "source": "ART 209",
+            "target": "ART 366",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 370",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 370",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 370",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "ART 371",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 371",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 371",
+            "value": 1
+        },
+        {
+            "source": "ART 111",
+            "target": "ART 373",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "ART 373",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "ART 373",
+            "value": 1
+        },
+        {
+            "source": "ART 122",
+            "target": "ART 383",
+            "value": 1
+        },
+        {
+            "source": "ART 224",
+            "target": "ART 383",
+            "value": 1
+        },
+        {
+            "source": "ART 182",
+            "target": "ART 384",
+            "value": 1
+        },
+        {
+            "source": "ART 288",
+            "target": "ART 388",
+            "value": 1
+        },
+        {
+            "source": "ART 302",
+            "target": "ART 402",
+            "value": 1
+        },
+        {
+            "source": "ART 201",
+            "target": "ART 409",
+            "value": 1
+        },
+        {
+            "source": "ART 309",
+            "target": "ART 409",
+            "value": 1
+        },
+        {
+            "source": "ART 325",
+            "target": "ART 427",
+            "value": 1
+        },
+        {
+            "source": "ART 337",
+            "target": "ART 432",
+            "value": 1
+        },
+        {
+            "source": "ART 338",
+            "target": "ART 432",
+            "value": 1
+        },
+        {
+            "source": "ART 209",
+            "target": "ART 434",
+            "value": 1
+        },
+        {
+            "source": "ART 334",
+            "target": "ART 434",
+            "value": 1
+        },
+        {
+            "source": "ART 337",
+            "target": "ART 437",
+            "value": 1
+        },
+        {
+            "source": "ART 338",
+            "target": "ART 437",
+            "value": 1
+        },
+        {
+            "source": "ART 338",
+            "target": "ART 438",
+            "value": 1
+        },
+        {
+            "source": "ART 438",
+            "target": "ART 439",
+            "value": 1
+        },
+        {
+            "source": "ART 488",
+            "target": "ART 439",
+            "value": 1
+        },
+        {
+            "source": "ART 348",
+            "target": "ART 448",
+            "value": 1
+        },
+        {
+            "source": "CSC 350",
+            "target": "ART 450",
+            "value": 1
+        },
+        {
+            "source": "ART 260",
+            "target": "ART 463",
+            "value": 1
+        },
+        {
+            "source": "ART 366",
+            "target": "ART 466",
+            "value": 1
+        },
+        {
+            "source": "ART 384",
+            "target": "ART 474",
+            "value": 1
+        },
+        {
+            "source": "ART 383",
+            "target": "ART 483",
+            "value": 1
+        },
+        {
+            "source": "ART 122",
+            "target": "ART 484",
+            "value": 1
+        },
+        {
+            "source": "ART 182",
+            "target": "ART 484",
+            "value": 1
+        },
+        {
+            "source": "ART 224",
+            "target": "ART 484",
+            "value": 1
+        },
+        {
+            "source": "ART 388",
+            "target": "ART 488",
+            "value": 1
+        },
+        {
+            "source": "ART 488",
+            "target": "ART 489",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ART 101"
+        },
+        {
+            "group": 1,
+            "id": "ART 102"
+        },
+        {
+            "group": 1,
+            "id": "ART 103"
+        },
+        {
+            "group": 1,
+            "id": "ART 104"
+        },
+        {
+            "group": 1,
+            "id": "ART 111"
+        },
+        {
+            "group": 1,
+            "id": "ART 112"
+        },
+        {
+            "group": 1,
+            "id": "ART 122"
+        },
+        {
+            "group": 1,
+            "id": "ART 148"
+        },
+        {
+            "group": 1,
+            "id": "ART 182"
+        },
+        {
+            "group": 1,
+            "id": "ART 183"
+        },
+        {
+            "group": 1,
+            "id": "ART 200"
+        },
+        {
+            "group": 1,
+            "id": "ART 201"
+        },
+        {
+            "group": 1,
+            "id": "ART 203"
+        },
+        {
+            "group": 1,
+            "id": "ART 209"
+        },
+        {
+            "group": 1,
+            "id": "ART 211"
+        },
+        {
+            "group": 1,
+            "id": "ART 212"
+        },
+        {
+            "group": 1,
+            "id": "ART 213"
+        },
+        {
+            "group": 1,
+            "id": "ART 222"
+        },
+        {
+            "group": 1,
+            "id": "ART 224"
+        },
+        {
+            "group": 1,
+            "id": "ART 227"
+        },
+        {
+            "group": 1,
+            "id": "ART 237"
+        },
+        {
+            "group": 1,
+            "id": "ART 238"
+        },
+        {
+            "group": 1,
+            "id": "ART 245"
+        },
+        {
+            "group": 1,
+            "id": "ART 260"
+        },
+        {
+            "group": 1,
+            "id": "ART 270"
+        },
+        {
+            "group": 1,
+            "id": "ART 288"
+        },
+        {
+            "group": 1,
+            "id": "ART 302"
+        },
+        {
+            "group": 1,
+            "id": "ART 309"
+        },
+        {
+            "group": 1,
+            "id": "ART 310"
+        },
+        {
+            "group": 1,
+            "id": "ART 311"
+        },
+        {
+            "group": 1,
+            "id": "ART 313"
+        },
+        {
+            "group": 1,
+            "id": "ART 314"
+        },
+        {
+            "group": 1,
+            "id": "ART 315"
+        },
+        {
+            "group": 1,
+            "id": "ART 316"
+        },
+        {
+            "group": 1,
+            "id": "ART 317"
+        },
+        {
+            "group": 1,
+            "id": "ART 318"
+        },
+        {
+            "group": 1,
+            "id": "ART 324"
+        },
+        {
+            "group": 1,
+            "id": "ART 325"
+        },
+        {
+            "group": 1,
+            "id": "ART 329"
+        },
+        {
+            "group": 1,
+            "id": "ART 330"
+        },
+        {
+            "group": 1,
+            "id": "ART 334"
+        },
+        {
+            "group": 1,
+            "id": "ART 337"
+        },
+        {
+            "group": 1,
+            "id": "ART 338"
+        },
+        {
+            "group": 1,
+            "id": "ART 345"
+        },
+        {
+            "group": 1,
+            "id": "ART 348"
+        },
+        {
+            "group": 1,
+            "id": "ART 350"
+        },
+        {
+            "group": 1,
+            "id": "ART 353"
+        },
+        {
+            "group": 1,
+            "id": "ART 366"
+        },
+        {
+            "group": 1,
+            "id": "ART 370"
+        },
+        {
+            "group": 1,
+            "id": "ART 371"
+        },
+        {
+            "group": 1,
+            "id": "ART 373"
+        },
+        {
+            "group": 1,
+            "id": "ART 383"
+        },
+        {
+            "group": 1,
+            "id": "ART 384"
+        },
+        {
+            "group": 1,
+            "id": "ART 388"
+        },
+        {
+            "group": 1,
+            "id": "ART 400"
+        },
+        {
+            "group": 1,
+            "id": "ART 402"
+        },
+        {
+            "group": 1,
+            "id": "ART 409"
+        },
+        {
+            "group": 1,
+            "id": "ART 427"
+        },
+        {
+            "group": 1,
+            "id": "ART 432"
+        },
+        {
+            "group": 1,
+            "id": "ART 434"
+        },
+        {
+            "group": 1,
+            "id": "ART 437"
+        },
+        {
+            "group": 1,
+            "id": "ART 438"
+        },
+        {
+            "group": 1,
+            "id": "ART 439"
+        },
+        {
+            "group": 1,
+            "id": "ART 448"
+        },
+        {
+            "group": 1,
+            "id": "ART 450"
+        },
+        {
+            "group": 1,
+            "id": "ART 463"
+        },
+        {
+            "group": 1,
+            "id": "ART 466"
+        },
+        {
+            "group": 1,
+            "id": "ART 470"
+        },
+        {
+            "group": 1,
+            "id": "ART 471"
+        },
+        {
+            "group": 1,
+            "id": "ART 474"
+        },
+        {
+            "group": 1,
+            "id": "ART 483"
+        },
+        {
+            "group": 1,
+            "id": "ART 484"
+        },
+        {
+            "group": 1,
+            "id": "ART 488"
+        },
+        {
+            "group": 1,
+            "id": "ART 489"
+        },
+        {
+            "group": 1,
+            "id": "ART 494"
+        },
+        {
+            "group": 1,
+            "id": "ART 495"
+        },
+        {
+            "group": 1,
+            "id": "ART 106"
+        },
+        {
+            "group": 1,
+            "id": "ART 107"
+        },
+        {
+            "group": 2,
+            "id": "WGS 201"
+        },
+        {
+            "group": 3,
+            "id": "CPE 102"
+        },
+        {
+            "group": 3,
+            "id": "CPE 103"
+        },
+        {
+            "group": 3,
+            "id": "CPE 202"
+        },
+        {
+            "group": 3,
+            "id": "CPE 203"
+        },
+        {
+            "group": 4,
+            "id": "CSC 350"
+        }
+    ]
+}

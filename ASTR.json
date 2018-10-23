@@ -1,0 +1,137 @@
+{
+    "links": [
+        {
+            "source": "PHYS 132",
+            "target": "ASTR 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "ASTR 301",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ASTR 301",
+            "value": 1
+        },
+        {
+            "source": "MATH 161",
+            "target": "ASTR 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "ASTR 302",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "ASTR 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ASTR 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 161",
+            "target": "ASTR 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "ASTR 324",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "ASTR 326",
+            "value": 1
+        },
+        {
+            "source": "ASTR 302",
+            "target": "ASTR 444",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ASTR 101"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 102"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 200"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 270"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 301"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 302"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 324"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 326"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 400"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 404"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 444"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 470"
+        },
+        {
+            "group": 1,
+            "id": "ASTR 471"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 122"
+        },
+        {
+            "group": 3,
+            "id": "MATH 141"
+        },
+        {
+            "group": 3,
+            "id": "MATH 161"
+        },
+        {
+            "group": 3,
+            "id": "MATH 119"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 211"
+        }
+    ]
+}

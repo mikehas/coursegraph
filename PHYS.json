@@ -1,0 +1,912 @@
+{
+    "links": [
+        {
+            "source": "MATH 96",
+            "target": "PHYS 104",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "PHYS 104",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "PHYS 104",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "PHYS 107",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "PHYS 107",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "PHYS 107",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "PHYS 121",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "PHYS 121",
+            "value": 1
+        },
+        {
+            "source": "PHYS 118",
+            "target": "PHYS 122",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "PHYS 122",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PHYS 122",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PHYS 122",
+            "value": 1
+        },
+        {
+            "source": "PHYS 118",
+            "target": "PHYS 123",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "PHYS 123",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PHYS 123",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PHYS 123",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "PHYS 131",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "PHYS 131",
+            "value": 1
+        },
+        {
+            "source": "MATH 182",
+            "target": "PHYS 131",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PHYS 132",
+            "value": 1
+        },
+        {
+            "source": "HNRS 131",
+            "target": "PHYS 132",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PHYS 132",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PHYS 133",
+            "value": 1
+        },
+        {
+            "source": "HNRS 131",
+            "target": "PHYS 133",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PHYS 133",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "PHYS 133",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "PHYS 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "PHYS 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 182",
+            "target": "PHYS 141",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 202",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 202",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 202",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 206",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "PHYS 206",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 211",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 211",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 211",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 212",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PHYS 302",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PHYS 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "PHYS 302",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 302",
+            "value": 1
+        },
+        {
+            "source": "PHYS 302",
+            "target": "PHYS 303",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 310",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 313",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "PHYS 313",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 313",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 315",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "PHYS 315",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 318",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 322",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "PHYS 322",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 322",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "PHYS 322",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "ME 318",
+            "target": "PHYS 323",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PHYS 123",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PSC 102",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PSC 103",
+            "target": "PHYS 330",
+            "value": 1
+        },
+        {
+            "source": "PHYS 206",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "PHYS 212",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "PHYS 202",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "CSC 231",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "CSC 234",
+            "target": "PHYS 340",
+            "value": 1
+        },
+        {
+            "source": "PHYS 340",
+            "target": "PHYS 341",
+            "value": 1
+        },
+        {
+            "source": "PHYS 341",
+            "target": "PHYS 342",
+            "value": 1
+        },
+        {
+            "source": "PHYS 206",
+            "target": "PHYS 357",
+            "value": 1
+        },
+        {
+            "source": "PHYS 301",
+            "target": "PHYS 401",
+            "value": 1
+        },
+        {
+            "source": "PHYS 212",
+            "target": "PHYS 403",
+            "value": 1
+        },
+        {
+            "source": "PHYS 405",
+            "target": "PHYS 403",
+            "value": 1
+        },
+        {
+            "source": "PHYS 212",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "PHYS 302",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "PHYS 322",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 405",
+            "value": 1
+        },
+        {
+            "source": "PHYS 405",
+            "target": "PHYS 406",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 408",
+            "value": 1
+        },
+        {
+            "source": "MATH 304",
+            "target": "PHYS 408",
+            "value": 1
+        },
+        {
+            "source": "PHYS 408",
+            "target": "PHYS 409",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 410",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 410",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 410",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 412",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 412",
+            "value": 1
+        },
+        {
+            "source": "PHYS 412",
+            "target": "PHYS 413",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "PHYS 123",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "PHYS 417",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "PHYS 418",
+            "value": 1
+        },
+        {
+            "source": "PHYS 302",
+            "target": "PHYS 418",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "PHYS 422",
+            "value": 1
+        },
+        {
+            "source": "MATE 340",
+            "target": "PHYS 422",
+            "value": 1
+        },
+        {
+            "source": "CHEM 319",
+            "target": "PHYS 422",
+            "value": 1
+        },
+        {
+            "source": "PHYS 340",
+            "target": "PHYS 422",
+            "value": 1
+        },
+        {
+            "source": "PHYS 323",
+            "target": "PHYS 423",
+            "value": 1
+        },
+        {
+            "source": "MATH 304",
+            "target": "PHYS 424",
+            "value": 1
+        },
+        {
+            "source": "MATH 344",
+            "target": "PHYS 424",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "PHYS 424",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "PHYS 104"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 107"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 111"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 122"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 123"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 125"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 131"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 200"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 202"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 206"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 211"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 212"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 220"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 270"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 301"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 302"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 303"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 310"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 313"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 315"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 318"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 322"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 323"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 330"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 340"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 341"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 342"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 357"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 400"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 401"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 403"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 404"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 405"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 406"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 408"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 409"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 410"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 412"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 413"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 417"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 418"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 422"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 423"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 424"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 452"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 461"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 462"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 463"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 464"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 470"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 471"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 485"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 495"
+        },
+        {
+            "group": 2,
+            "id": "MATH 96"
+        },
+        {
+            "group": 2,
+            "id": "MATH 104"
+        },
+        {
+            "group": 2,
+            "id": "MATH 115"
+        },
+        {
+            "group": 2,
+            "id": "MATH 118"
+        },
+        {
+            "group": 2,
+            "id": "MATH 119"
+        },
+        {
+            "group": 1,
+            "id": "PHYS 118"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 2,
+            "id": "MATH 182"
+        },
+        {
+            "group": 3,
+            "id": "HNRS 131"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 2,
+            "id": "MATH 143"
+        },
+        {
+            "group": 2,
+            "id": "MATH 242"
+        },
+        {
+            "group": 4,
+            "id": "EE 228"
+        },
+        {
+            "group": 4,
+            "id": "EE 201"
+        },
+        {
+            "group": 5,
+            "id": "ME 318"
+        },
+        {
+            "group": 6,
+            "id": "PSC 102"
+        },
+        {
+            "group": 6,
+            "id": "PSC 103"
+        },
+        {
+            "group": 7,
+            "id": "CSC 101"
+        },
+        {
+            "group": 7,
+            "id": "CSC 231"
+        },
+        {
+            "group": 7,
+            "id": "CSC 234"
+        },
+        {
+            "group": 2,
+            "id": "MATH 304"
+        },
+        {
+            "group": 4,
+            "id": "EE 347"
+        },
+        {
+            "group": 8,
+            "id": "MATE 340"
+        },
+        {
+            "group": 9,
+            "id": "CHEM 319"
+        },
+        {
+            "group": 2,
+            "id": "MATH 344"
+        }
+    ]
+}

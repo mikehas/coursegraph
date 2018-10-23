@@ -1,0 +1,599 @@
+{
+    "links": [
+        {
+            "source": "NR 215",
+            "target": "NR 247",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 314",
+            "value": 1
+        },
+        {
+            "source": "BRAE 239",
+            "target": "NR 315",
+            "value": 1
+        },
+        {
+            "source": "NR 247",
+            "target": "NR 315",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "NR 315",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "NR 315",
+            "value": 1
+        },
+        {
+            "source": "LA 218",
+            "target": "NR 320",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "NR 320",
+            "value": 1
+        },
+        {
+            "source": "MATH 161",
+            "target": "NR 326",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "NR 326",
+            "value": 1
+        },
+        {
+            "source": "NR 141",
+            "target": "NR 335",
+            "value": 1
+        },
+        {
+            "source": "NR 142",
+            "target": "NR 335",
+            "value": 1
+        },
+        {
+            "source": "NR 204",
+            "target": "NR 340",
+            "value": 1
+        },
+        {
+            "source": "NR 208",
+            "target": "NR 350",
+            "value": 1
+        },
+        {
+            "source": "NR 208",
+            "target": "NR 365",
+            "value": 1
+        },
+        {
+            "source": "NR 315",
+            "target": "NR 365",
+            "value": 1
+        },
+        {
+            "source": "NR 351",
+            "target": "NR 401",
+            "value": 1
+        },
+        {
+            "source": "NR 208",
+            "target": "NR 402",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 402",
+            "value": 1
+        },
+        {
+            "source": "BIO 325",
+            "target": "NR 402",
+            "value": 1
+        },
+        {
+            "source": "ES 241",
+            "target": "NR 406",
+            "value": 1
+        },
+        {
+            "source": "NR 141",
+            "target": "NR 406",
+            "value": 1
+        },
+        {
+            "source": "NR 142",
+            "target": "NR 406",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 412",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 414",
+            "value": 1
+        },
+        {
+            "source": "NR 365",
+            "target": "NR 414",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "NR 416",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 416",
+            "value": 1
+        },
+        {
+            "source": "LA 218",
+            "target": "NR 418",
+            "value": 1
+        },
+        {
+            "source": "NR 320",
+            "target": "NR 420",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "SS 131",
+            "target": "NR 421",
+            "value": 1
+        },
+        {
+            "source": "NR 416",
+            "target": "NR 425",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 435",
+            "value": 1
+        },
+        {
+            "source": "NR 340",
+            "target": "NR 455",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 465",
+            "value": 1
+        },
+        {
+            "source": "NR 416",
+            "target": "NR 465",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "NR 476",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 476",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 476",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "NR 477",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 477",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 477",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "NR 478",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 478",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 478",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "NR 479",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "NR 479",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "NR 479",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "NR 140"
+        },
+        {
+            "group": 1,
+            "id": "NR 141"
+        },
+        {
+            "group": 1,
+            "id": "NR 142"
+        },
+        {
+            "group": 1,
+            "id": "NR 203"
+        },
+        {
+            "group": 1,
+            "id": "NR 204"
+        },
+        {
+            "group": 1,
+            "id": "NR 208"
+        },
+        {
+            "group": 1,
+            "id": "NR 215"
+        },
+        {
+            "group": 1,
+            "id": "NR 218"
+        },
+        {
+            "group": 1,
+            "id": "NR 247"
+        },
+        {
+            "group": 1,
+            "id": "NR 260"
+        },
+        {
+            "group": 1,
+            "id": "NR 270"
+        },
+        {
+            "group": 1,
+            "id": "NR 290"
+        },
+        {
+            "group": 1,
+            "id": "NR 306"
+        },
+        {
+            "group": 1,
+            "id": "NR 307"
+        },
+        {
+            "group": 1,
+            "id": "NR 308"
+        },
+        {
+            "group": 1,
+            "id": "NR 312"
+        },
+        {
+            "group": 1,
+            "id": "NR 314"
+        },
+        {
+            "group": 1,
+            "id": "NR 315"
+        },
+        {
+            "group": 1,
+            "id": "NR 317"
+        },
+        {
+            "group": 1,
+            "id": "NR 320"
+        },
+        {
+            "group": 1,
+            "id": "NR 321"
+        },
+        {
+            "group": 1,
+            "id": "NR 323"
+        },
+        {
+            "group": 1,
+            "id": "NR 324"
+        },
+        {
+            "group": 1,
+            "id": "NR 326"
+        },
+        {
+            "group": 1,
+            "id": "NR 335"
+        },
+        {
+            "group": 1,
+            "id": "NR 339"
+        },
+        {
+            "group": 1,
+            "id": "NR 340"
+        },
+        {
+            "group": 1,
+            "id": "NR 350"
+        },
+        {
+            "group": 1,
+            "id": "NR 351"
+        },
+        {
+            "group": 1,
+            "id": "NR 360"
+        },
+        {
+            "group": 1,
+            "id": "NR 365"
+        },
+        {
+            "group": 1,
+            "id": "NR 400"
+        },
+        {
+            "group": 1,
+            "id": "NR 401"
+        },
+        {
+            "group": 1,
+            "id": "NR 402"
+        },
+        {
+            "group": 1,
+            "id": "NR 404"
+        },
+        {
+            "group": 1,
+            "id": "NR 406"
+        },
+        {
+            "group": 1,
+            "id": "NR 408"
+        },
+        {
+            "group": 1,
+            "id": "NR 412"
+        },
+        {
+            "group": 1,
+            "id": "NR 414"
+        },
+        {
+            "group": 1,
+            "id": "NR 416"
+        },
+        {
+            "group": 1,
+            "id": "NR 418"
+        },
+        {
+            "group": 1,
+            "id": "NR 420"
+        },
+        {
+            "group": 1,
+            "id": "NR 421"
+        },
+        {
+            "group": 1,
+            "id": "NR 425"
+        },
+        {
+            "group": 1,
+            "id": "NR 434"
+        },
+        {
+            "group": 1,
+            "id": "NR 435"
+        },
+        {
+            "group": 1,
+            "id": "NR 455"
+        },
+        {
+            "group": 1,
+            "id": "NR 465"
+        },
+        {
+            "group": 1,
+            "id": "NR 470"
+        },
+        {
+            "group": 1,
+            "id": "NR 471"
+        },
+        {
+            "group": 1,
+            "id": "NR 472"
+        },
+        {
+            "group": 1,
+            "id": "NR 475"
+        },
+        {
+            "group": 1,
+            "id": "NR 476"
+        },
+        {
+            "group": 1,
+            "id": "NR 477"
+        },
+        {
+            "group": 1,
+            "id": "NR 478"
+        },
+        {
+            "group": 1,
+            "id": "NR 479"
+        },
+        {
+            "group": 1,
+            "id": "NR 500"
+        },
+        {
+            "group": 1,
+            "id": "NR 503"
+        },
+        {
+            "group": 1,
+            "id": "NR 532"
+        },
+        {
+            "group": 1,
+            "id": "NR 534"
+        },
+        {
+            "group": 1,
+            "id": "NR 539"
+        },
+        {
+            "group": 1,
+            "id": "NR 570"
+        },
+        {
+            "group": 1,
+            "id": "NR 571"
+        },
+        {
+            "group": 1,
+            "id": "NR 575"
+        },
+        {
+            "group": 1,
+            "id": "NR 581"
+        },
+        {
+            "group": 1,
+            "id": "NR 599"
+        },
+        {
+            "group": 2,
+            "id": "BRAE 239"
+        },
+        {
+            "group": 3,
+            "id": "STAT 217"
+        },
+        {
+            "group": 3,
+            "id": "STAT 218"
+        },
+        {
+            "group": 4,
+            "id": "LA 218"
+        },
+        {
+            "group": 5,
+            "id": "SS 121"
+        },
+        {
+            "group": 6,
+            "id": "MATH 161"
+        },
+        {
+            "group": 6,
+            "id": "MATH 221"
+        },
+        {
+            "group": 7,
+            "id": "BIO 325"
+        },
+        {
+            "group": 8,
+            "id": "ES 241"
+        },
+        {
+            "group": 7,
+            "id": "BIO 263"
+        },
+        {
+            "group": 9,
+            "id": "BOT 121"
+        },
+        {
+            "group": 7,
+            "id": "BIO 162"
+        },
+        {
+            "group": 10,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 10,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 5,
+            "id": "SS 131"
+        },
+        {
+            "group": 11,
+            "id": "ERSC 363"
+        }
+    ]
+}

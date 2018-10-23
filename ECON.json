@@ -1,0 +1,430 @@
+{
+    "links": [
+        {
+            "source": "ECON 201",
+            "target": "ECON 303",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 303",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 304",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 304",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 311",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 311",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 311",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ECON 311",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "ECON 311",
+            "value": 1
+        },
+        {
+            "source": "ECON 311",
+            "target": "ECON 312",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 325",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 325",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 325",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 330",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 330",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 330",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 337",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 337",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 337",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "ECON 339",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "ECON 345",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "ECON 345",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "ECON 345",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "ECON 395",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "ECON 395",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 403",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 404",
+            "value": 1
+        },
+        {
+            "source": "ECON 313",
+            "target": "ECON 405",
+            "value": 1
+        },
+        {
+            "source": "ECON 311",
+            "target": "ECON 406",
+            "value": 1
+        },
+        {
+            "source": "ECON 339",
+            "target": "ECON 406",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 408",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 409",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 410",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 413",
+            "value": 1
+        },
+        {
+            "source": "ECON 311",
+            "target": "ECON 417",
+            "value": 1
+        },
+        {
+            "source": "ECON 313",
+            "target": "ECON 424",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 431",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 432",
+            "value": 1
+        },
+        {
+            "source": "ECON 311",
+            "target": "ECON 434",
+            "value": 1
+        },
+        {
+            "source": "ECON 312",
+            "target": "ECON 435",
+            "value": 1
+        },
+        {
+            "source": "ECON 339",
+            "target": "ECON 440",
+            "value": 1
+        },
+        {
+            "source": "ECON 313",
+            "target": "ECON 460",
+            "value": 1
+        },
+        {
+            "source": "ECON 339",
+            "target": "ECON 460",
+            "value": 1
+        },
+        {
+            "source": "ECON 313",
+            "target": "ECON 461",
+            "value": 1
+        },
+        {
+            "source": "ECON 313",
+            "target": "ECON 462",
+            "value": 1
+        },
+        {
+            "source": "ECON 460",
+            "target": "ECON 464",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ECON 200"
+        },
+        {
+            "group": 1,
+            "id": "ECON 201"
+        },
+        {
+            "group": 1,
+            "id": "ECON 221"
+        },
+        {
+            "group": 1,
+            "id": "ECON 222"
+        },
+        {
+            "group": 1,
+            "id": "ECON 270"
+        },
+        {
+            "group": 1,
+            "id": "ECON 303"
+        },
+        {
+            "group": 1,
+            "id": "ECON 304"
+        },
+        {
+            "group": 1,
+            "id": "ECON 311"
+        },
+        {
+            "group": 1,
+            "id": "ECON 312"
+        },
+        {
+            "group": 1,
+            "id": "ECON 313"
+        },
+        {
+            "group": 1,
+            "id": "ECON 325"
+        },
+        {
+            "group": 1,
+            "id": "ECON 330"
+        },
+        {
+            "group": 1,
+            "id": "ECON 337"
+        },
+        {
+            "group": 1,
+            "id": "ECON 339"
+        },
+        {
+            "group": 1,
+            "id": "ECON 345"
+        },
+        {
+            "group": 1,
+            "id": "ECON 395"
+        },
+        {
+            "group": 1,
+            "id": "ECON 400"
+        },
+        {
+            "group": 1,
+            "id": "ECON 403"
+        },
+        {
+            "group": 1,
+            "id": "ECON 404"
+        },
+        {
+            "group": 1,
+            "id": "ECON 405"
+        },
+        {
+            "group": 1,
+            "id": "ECON 406"
+        },
+        {
+            "group": 1,
+            "id": "ECON 408"
+        },
+        {
+            "group": 1,
+            "id": "ECON 409"
+        },
+        {
+            "group": 1,
+            "id": "ECON 410"
+        },
+        {
+            "group": 1,
+            "id": "ECON 413"
+        },
+        {
+            "group": 1,
+            "id": "ECON 417"
+        },
+        {
+            "group": 1,
+            "id": "ECON 424"
+        },
+        {
+            "group": 1,
+            "id": "ECON 431"
+        },
+        {
+            "group": 1,
+            "id": "ECON 432"
+        },
+        {
+            "group": 1,
+            "id": "ECON 434"
+        },
+        {
+            "group": 1,
+            "id": "ECON 435"
+        },
+        {
+            "group": 1,
+            "id": "ECON 440"
+        },
+        {
+            "group": 1,
+            "id": "ECON 460"
+        },
+        {
+            "group": 1,
+            "id": "ECON 461"
+        },
+        {
+            "group": 1,
+            "id": "ECON 462"
+        },
+        {
+            "group": 1,
+            "id": "ECON 464"
+        },
+        {
+            "group": 1,
+            "id": "ECON 470"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 2,
+            "id": "MATH 221"
+        },
+        {
+            "group": 3,
+            "id": "STAT 252"
+        },
+        {
+            "group": 3,
+            "id": "STAT 302"
+        }
+    ]
+}

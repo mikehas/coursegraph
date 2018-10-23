@@ -1,0 +1,1042 @@
+{
+    "links": [
+        {
+            "source": "BUS 212",
+            "target": "BUS 215",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "BUS 215",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 301",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 303",
+            "value": 1
+        },
+        {
+            "source": "BUS 206",
+            "target": "BUS 306",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "BUS 319",
+            "value": 1
+        },
+        {
+            "source": "AGB 214",
+            "target": "BUS 319",
+            "value": 1
+        },
+        {
+            "source": "BUS 319",
+            "target": "BUS 320",
+            "value": 1
+        },
+        {
+            "source": "BUS 319",
+            "target": "BUS 321",
+            "value": 1
+        },
+        {
+            "source": "BUS 321",
+            "target": "BUS 322",
+            "value": 1
+        },
+        {
+            "source": "BUS 322",
+            "target": "BUS 323",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "BUS 342",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "BUS 342",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 346",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "BUS 346",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "BUS 346",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 346",
+            "value": 1
+        },
+        {
+            "source": "BUS 384",
+            "target": "BUS 386",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "BUS 387",
+            "value": 1
+        },
+        {
+            "source": "BUS 207",
+            "target": "BUS 387",
+            "value": 1
+        },
+        {
+            "source": "BUS 212",
+            "target": "BUS 391",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "BUS 391",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "BUS 391",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "BUS 392",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "BUS 394",
+            "value": 1
+        },
+        {
+            "source": "BUS 394",
+            "target": "BUS 395",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "ITP 303",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "ITP 326",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "ITP 341",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "ITP 371",
+            "target": "BUS 401",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 402",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 402",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 402",
+            "value": 1
+        },
+        {
+            "source": "BUS 302",
+            "target": "BUS 403",
+            "value": 1
+        },
+        {
+            "source": "BUS 402",
+            "target": "BUS 403",
+            "value": 1
+        },
+        {
+            "source": "BUS 207",
+            "target": "BUS 404",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 404",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 406",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 406",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 406",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 407",
+            "value": 1
+        },
+        {
+            "source": "BUS 207",
+            "target": "BUS 410",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "BUS 410",
+            "value": 1
+        },
+        {
+            "source": "BUS 215",
+            "target": "BUS 412",
+            "value": 1
+        },
+        {
+            "source": "BUS 320",
+            "target": "BUS 416",
+            "value": 1
+        },
+        {
+            "source": "BUS 320",
+            "target": "BUS 417",
+            "value": 1
+        },
+        {
+            "source": "GRC 361",
+            "target": "BUS 418",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 418",
+            "value": 1
+        },
+        {
+            "source": "BUS 418",
+            "target": "BUS 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "BUS 419",
+            "value": 1
+        },
+        {
+            "source": "BUS 418",
+            "target": "BUS 421",
+            "value": 1
+        },
+        {
+            "source": "BUS 321",
+            "target": "BUS 422",
+            "value": 1
+        },
+        {
+            "source": "BUS 322",
+            "target": "BUS 425",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 431",
+            "value": 1
+        },
+        {
+            "source": "ECON 339",
+            "target": "BUS 431",
+            "value": 1
+        },
+        {
+            "source": "STAT 324",
+            "target": "BUS 431",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 432",
+            "value": 1
+        },
+        {
+            "source": "BUS 431",
+            "target": "BUS 433",
+            "value": 1
+        },
+        {
+            "source": "BUS 439",
+            "target": "BUS 433",
+            "value": 1
+        },
+        {
+            "source": "BUS 439",
+            "target": "BUS 434",
+            "value": 1
+        },
+        {
+            "source": "BUS 439",
+            "target": "BUS 435",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 436",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 437",
+            "value": 1
+        },
+        {
+            "source": "BUS 431",
+            "target": "BUS 438",
+            "value": 1
+        },
+        {
+            "source": "BUS 439",
+            "target": "BUS 438",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 439",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 441",
+            "value": 1
+        },
+        {
+            "source": "BUS 431",
+            "target": "BUS 442",
+            "value": 1
+        },
+        {
+            "source": "BUS 431",
+            "target": "BUS 443",
+            "value": 1
+        },
+        {
+            "source": "BUS 439",
+            "target": "BUS 443",
+            "value": 1
+        },
+        {
+            "source": "BUS 431",
+            "target": "BUS 444",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 445",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 446",
+            "value": 1
+        },
+        {
+            "source": "BUS 438",
+            "target": "BUS 448",
+            "value": 1
+        },
+        {
+            "source": "BUS 418",
+            "target": "BUS 451",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "BUS 451",
+            "value": 1
+        },
+        {
+            "source": "BUS 419",
+            "target": "BUS 452",
+            "value": 1
+        },
+        {
+            "source": "BUS 418",
+            "target": "BUS 453",
+            "value": 1
+        },
+        {
+            "source": "GRC 201",
+            "target": "BUS 453",
+            "value": 1
+        },
+        {
+            "source": "GRC 377",
+            "target": "BUS 453",
+            "value": 1
+        },
+        {
+            "source": "JOUR 331",
+            "target": "BUS 453",
+            "value": 1
+        },
+        {
+            "source": "JOUR 342",
+            "target": "BUS 453",
+            "value": 1
+        },
+        {
+            "source": "BUS 451",
+            "target": "BUS 454",
+            "value": 1
+        },
+        {
+            "source": "BUS 452",
+            "target": "BUS 454",
+            "value": 1
+        },
+        {
+            "source": "BUS 451",
+            "target": "BUS 455",
+            "value": 1
+        },
+        {
+            "source": "BUS 452",
+            "target": "BUS 455",
+            "value": 1
+        },
+        {
+            "source": "BUS 453",
+            "target": "BUS 459",
+            "value": 1
+        },
+        {
+            "source": "BUS 320",
+            "target": "BUS 463",
+            "value": 1
+        },
+        {
+            "source": "AGB 309",
+            "target": "BUS 466",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 466",
+            "value": 1
+        },
+        {
+            "source": "BUS 384",
+            "target": "BUS 471",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "BUS 471",
+            "value": 1
+        },
+        {
+            "source": "BUS 207",
+            "target": "BUS 473",
+            "value": 1
+        },
+        {
+            "source": "BUS 384",
+            "target": "BUS 473",
+            "value": 1
+        },
+        {
+            "source": "BUS 322",
+            "target": "BUS 474",
+            "value": 1
+        },
+        {
+            "source": "BUS 384",
+            "target": "BUS 475",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "BUS 475",
+            "value": 1
+        },
+        {
+            "source": "BUS 382",
+            "target": "BUS 477",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 477",
+            "value": 1
+        },
+        {
+            "source": "BUS 215",
+            "target": "BUS 488",
+            "value": 1
+        },
+        {
+            "source": "BUS 310",
+            "target": "BUS 488",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "BUS 488",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "BUS 488",
+            "value": 1
+        },
+        {
+            "source": "BUS 436",
+            "target": "BUS 488",
+            "value": 1
+        },
+        {
+            "source": "BUS 387",
+            "target": "BUS 489",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "BUS 491",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "BUS 491",
+            "value": 1
+        },
+        {
+            "source": "BUS 392",
+            "target": "BUS 495",
+            "value": 1
+        },
+        {
+            "source": "BUS 392",
+            "target": "BUS 496",
+            "value": 1
+        },
+        {
+            "source": "BUS 392",
+            "target": "BUS 498",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "BUS 499",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "BUS 100"
+        },
+        {
+            "group": 1,
+            "id": "BUS 200"
+        },
+        {
+            "group": 1,
+            "id": "BUS 205"
+        },
+        {
+            "group": 1,
+            "id": "BUS 206"
+        },
+        {
+            "group": 1,
+            "id": "BUS 207"
+        },
+        {
+            "group": 1,
+            "id": "BUS 212"
+        },
+        {
+            "group": 1,
+            "id": "BUS 214"
+        },
+        {
+            "group": 1,
+            "id": "BUS 215"
+        },
+        {
+            "group": 1,
+            "id": "BUS 220"
+        },
+        {
+            "group": 1,
+            "id": "BUS 270"
+        },
+        {
+            "group": 1,
+            "id": "BUS 301"
+        },
+        {
+            "group": 1,
+            "id": "BUS 302"
+        },
+        {
+            "group": 1,
+            "id": "BUS 303"
+        },
+        {
+            "group": 1,
+            "id": "BUS 304"
+        },
+        {
+            "group": 1,
+            "id": "BUS 306"
+        },
+        {
+            "group": 1,
+            "id": "BUS 310"
+        },
+        {
+            "group": 1,
+            "id": "BUS 311"
+        },
+        {
+            "group": 1,
+            "id": "BUS 313"
+        },
+        {
+            "group": 1,
+            "id": "BUS 319"
+        },
+        {
+            "group": 1,
+            "id": "BUS 320"
+        },
+        {
+            "group": 1,
+            "id": "BUS 321"
+        },
+        {
+            "group": 1,
+            "id": "BUS 322"
+        },
+        {
+            "group": 1,
+            "id": "BUS 323"
+        },
+        {
+            "group": 1,
+            "id": "BUS 342"
+        },
+        {
+            "group": 1,
+            "id": "BUS 346"
+        },
+        {
+            "group": 1,
+            "id": "BUS 382"
+        },
+        {
+            "group": 1,
+            "id": "BUS 384"
+        },
+        {
+            "group": 1,
+            "id": "BUS 386"
+        },
+        {
+            "group": 1,
+            "id": "BUS 387"
+        },
+        {
+            "group": 1,
+            "id": "BUS 389"
+        },
+        {
+            "group": 1,
+            "id": "BUS 391"
+        },
+        {
+            "group": 1,
+            "id": "BUS 392"
+        },
+        {
+            "group": 1,
+            "id": "BUS 393"
+        },
+        {
+            "group": 1,
+            "id": "BUS 394"
+        },
+        {
+            "group": 1,
+            "id": "BUS 395"
+        },
+        {
+            "group": 1,
+            "id": "BUS 400"
+        },
+        {
+            "group": 1,
+            "id": "BUS 401"
+        },
+        {
+            "group": 1,
+            "id": "BUS 402"
+        },
+        {
+            "group": 1,
+            "id": "BUS 403"
+        },
+        {
+            "group": 1,
+            "id": "BUS 404"
+        },
+        {
+            "group": 1,
+            "id": "BUS 406"
+        },
+        {
+            "group": 1,
+            "id": "BUS 407"
+        },
+        {
+            "group": 1,
+            "id": "BUS 409"
+        },
+        {
+            "group": 1,
+            "id": "BUS 410"
+        },
+        {
+            "group": 1,
+            "id": "BUS 412"
+        },
+        {
+            "group": 1,
+            "id": "BUS 416"
+        },
+        {
+            "group": 1,
+            "id": "BUS 417"
+        },
+        {
+            "group": 1,
+            "id": "BUS 418"
+        },
+        {
+            "group": 1,
+            "id": "BUS 419"
+        },
+        {
+            "group": 1,
+            "id": "BUS 421"
+        },
+        {
+            "group": 1,
+            "id": "BUS 422"
+        },
+        {
+            "group": 1,
+            "id": "BUS 424"
+        },
+        {
+            "group": 1,
+            "id": "BUS 425"
+        },
+        {
+            "group": 1,
+            "id": "BUS 430"
+        },
+        {
+            "group": 1,
+            "id": "BUS 431"
+        },
+        {
+            "group": 1,
+            "id": "BUS 432"
+        },
+        {
+            "group": 1,
+            "id": "BUS 433"
+        },
+        {
+            "group": 1,
+            "id": "BUS 434"
+        },
+        {
+            "group": 1,
+            "id": "BUS 435"
+        },
+        {
+            "group": 1,
+            "id": "BUS 436"
+        },
+        {
+            "group": 1,
+            "id": "BUS 437"
+        },
+        {
+            "group": 1,
+            "id": "BUS 438"
+        },
+        {
+            "group": 1,
+            "id": "BUS 439"
+        },
+        {
+            "group": 1,
+            "id": "BUS 441"
+        },
+        {
+            "group": 1,
+            "id": "BUS 442"
+        },
+        {
+            "group": 1,
+            "id": "BUS 443"
+        },
+        {
+            "group": 1,
+            "id": "BUS 444"
+        },
+        {
+            "group": 1,
+            "id": "BUS 445"
+        },
+        {
+            "group": 1,
+            "id": "BUS 446"
+        },
+        {
+            "group": 1,
+            "id": "BUS 448"
+        },
+        {
+            "group": 1,
+            "id": "BUS 451"
+        },
+        {
+            "group": 1,
+            "id": "BUS 452"
+        },
+        {
+            "group": 1,
+            "id": "BUS 453"
+        },
+        {
+            "group": 1,
+            "id": "BUS 454"
+        },
+        {
+            "group": 1,
+            "id": "BUS 455"
+        },
+        {
+            "group": 1,
+            "id": "BUS 458"
+        },
+        {
+            "group": 1,
+            "id": "BUS 459"
+        },
+        {
+            "group": 1,
+            "id": "BUS 461"
+        },
+        {
+            "group": 1,
+            "id": "BUS 462"
+        },
+        {
+            "group": 1,
+            "id": "BUS 463"
+        },
+        {
+            "group": 1,
+            "id": "BUS 464"
+        },
+        {
+            "group": 1,
+            "id": "BUS 466"
+        },
+        {
+            "group": 1,
+            "id": "BUS 470"
+        },
+        {
+            "group": 1,
+            "id": "BUS 471"
+        },
+        {
+            "group": 1,
+            "id": "BUS 473"
+        },
+        {
+            "group": 1,
+            "id": "BUS 474"
+        },
+        {
+            "group": 1,
+            "id": "BUS 475"
+        },
+        {
+            "group": 1,
+            "id": "BUS 477"
+        },
+        {
+            "group": 1,
+            "id": "BUS 488"
+        },
+        {
+            "group": 1,
+            "id": "BUS 489"
+        },
+        {
+            "group": 1,
+            "id": "BUS 491"
+        },
+        {
+            "group": 1,
+            "id": "BUS 495"
+        },
+        {
+            "group": 1,
+            "id": "BUS 496"
+        },
+        {
+            "group": 1,
+            "id": "BUS 498"
+        },
+        {
+            "group": 1,
+            "id": "BUS 499"
+        },
+        {
+            "group": 2,
+            "id": "ECON 222"
+        },
+        {
+            "group": 3,
+            "id": "AGB 214"
+        },
+        {
+            "group": 4,
+            "id": "STAT 252"
+        },
+        {
+            "group": 2,
+            "id": "ECON 201"
+        },
+        {
+            "group": 2,
+            "id": "ECON 221"
+        },
+        {
+            "group": 5,
+            "id": "ITP 303"
+        },
+        {
+            "group": 5,
+            "id": "ITP 326"
+        },
+        {
+            "group": 5,
+            "id": "ITP 330"
+        },
+        {
+            "group": 5,
+            "id": "ITP 341"
+        },
+        {
+            "group": 5,
+            "id": "ITP 371"
+        },
+        {
+            "group": 6,
+            "id": "GRC 361"
+        },
+        {
+            "group": 2,
+            "id": "ECON 339"
+        },
+        {
+            "group": 4,
+            "id": "STAT 324"
+        },
+        {
+            "group": 6,
+            "id": "GRC 201"
+        },
+        {
+            "group": 6,
+            "id": "GRC 377"
+        },
+        {
+            "group": 7,
+            "id": "JOUR 331"
+        },
+        {
+            "group": 7,
+            "id": "JOUR 342"
+        },
+        {
+            "group": 3,
+            "id": "AGB 309"
+        },
+        {
+            "group": 4,
+            "id": "STAT 251"
+        }
+    ]
+}

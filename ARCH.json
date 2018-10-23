@@ -1,0 +1,539 @@
+{
+    "links": [
+        {
+            "source": "ARCH 131",
+            "target": "ARCH 132",
+            "value": 1
+        },
+        {
+            "source": "ARCH 132",
+            "target": "ARCH 133",
+            "value": 1
+        },
+        {
+            "source": "EDES 101",
+            "target": "ARCH 204",
+            "value": 1
+        },
+        {
+            "source": "EDES 123",
+            "target": "ARCH 204",
+            "value": 1
+        },
+        {
+            "source": "ARCH 242",
+            "target": "ARCH 207",
+            "value": 1
+        },
+        {
+            "source": "ARCH 133",
+            "target": "ARCH 241",
+            "value": 1
+        },
+        {
+            "source": "ARCH 241",
+            "target": "ARCH 242",
+            "value": 1
+        },
+        {
+            "source": "ARCH 133",
+            "target": "ARCH 251",
+            "value": 1
+        },
+        {
+            "source": "ARCH 251",
+            "target": "ARCH 252",
+            "value": 1
+        },
+        {
+            "source": "ARCH 241",
+            "target": "ARCH 252",
+            "value": 1
+        },
+        {
+            "source": "ARCH 252",
+            "target": "ARCH 253",
+            "value": 1
+        },
+        {
+            "source": "ARCH 242",
+            "target": "ARCH 253",
+            "value": 1
+        },
+        {
+            "source": "ARCH 253",
+            "target": "ARCH 302",
+            "value": 1
+        },
+        {
+            "source": "ARCH 341",
+            "target": "ARCH 307",
+            "value": 1
+        },
+        {
+            "source": "ARCH 253",
+            "target": "ARCH 313",
+            "value": 1
+        },
+        {
+            "source": "ARCH 217",
+            "target": "ARCH 320",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "ARCH 320",
+            "value": 1
+        },
+        {
+            "source": "ARCH 207",
+            "target": "ARCH 341",
+            "value": 1
+        },
+        {
+            "source": "ARCH 253",
+            "target": "ARCH 341",
+            "value": 1
+        },
+        {
+            "source": "ARCH 307",
+            "target": "ARCH 342",
+            "value": 1
+        },
+        {
+            "source": "ARCE 212",
+            "target": "ARCH 351",
+            "value": 1
+        },
+        {
+            "source": "ARCH 253",
+            "target": "ARCH 351",
+            "value": 1
+        },
+        {
+            "source": "ARCH 207",
+            "target": "ARCH 351",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "ARCH 351",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "ARCH 351",
+            "value": 1
+        },
+        {
+            "source": "ARCH 351",
+            "target": "ARCH 352",
+            "value": 1
+        },
+        {
+            "source": "ARCH 341",
+            "target": "ARCH 352",
+            "value": 1
+        },
+        {
+            "source": "ARCH 352",
+            "target": "ARCH 353",
+            "value": 1
+        },
+        {
+            "source": "ARCH 307",
+            "target": "ARCH 353",
+            "value": 1
+        },
+        {
+            "source": "ARCH 217",
+            "target": "ARCH 420",
+            "value": 1
+        },
+        {
+            "source": "ARCH 218",
+            "target": "ARCH 420",
+            "value": 1
+        },
+        {
+            "source": "ARCH 219",
+            "target": "ARCH 420",
+            "value": 1
+        },
+        {
+            "source": "ARCH 342",
+            "target": "ARCH 443",
+            "value": 1
+        },
+        {
+            "source": "ARCH 353",
+            "target": "ARCH 443",
+            "value": 1
+        },
+        {
+            "source": "ARCE 316",
+            "target": "ARCH 451",
+            "value": 1
+        },
+        {
+            "source": "ARCH 353",
+            "target": "ARCH 451",
+            "value": 1
+        },
+        {
+            "source": "ARCH 342",
+            "target": "ARCH 451",
+            "value": 1
+        },
+        {
+            "source": "ARCE 316",
+            "target": "ARCH 452",
+            "value": 1
+        },
+        {
+            "source": "ARCH 353",
+            "target": "ARCH 452",
+            "value": 1
+        },
+        {
+            "source": "ARCH 342",
+            "target": "ARCH 452",
+            "value": 1
+        },
+        {
+            "source": "ARCE 316",
+            "target": "ARCH 453",
+            "value": 1
+        },
+        {
+            "source": "ARCH 353",
+            "target": "ARCH 453",
+            "value": 1
+        },
+        {
+            "source": "ARCH 342",
+            "target": "ARCH 453",
+            "value": 1
+        },
+        {
+            "source": "ARCH 133",
+            "target": "ARCH 460",
+            "value": 1
+        },
+        {
+            "source": "ARCH 160",
+            "target": "ARCH 460",
+            "value": 1
+        },
+        {
+            "source": "ARCH 342",
+            "target": "ARCH 462",
+            "value": 1
+        },
+        {
+            "source": "ARCH 461",
+            "target": "ARCH 473",
+            "value": 1
+        },
+        {
+            "source": "ARCH 451",
+            "target": "ARCH 481",
+            "value": 1
+        },
+        {
+            "source": "ARCH 452",
+            "target": "ARCH 481",
+            "value": 1
+        },
+        {
+            "source": "ARCH 453",
+            "target": "ARCH 481",
+            "value": 1
+        },
+        {
+            "source": "ARCH 451",
+            "target": "ARCH 492",
+            "value": 1
+        },
+        {
+            "source": "ARCH 452",
+            "target": "ARCH 492",
+            "value": 1
+        },
+        {
+            "source": "ARCH 453",
+            "target": "ARCH 492",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ARCH 101"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 106"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 131"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 132"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 133"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 204"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 207"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 217"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 218"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 219"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 241"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 242"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 251"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 252"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 253"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 270"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 302"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 307"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 313"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 320"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 326"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 341"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 342"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 351"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 352"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 353"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 363"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 400"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 420"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 443"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 445"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 451"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 452"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 453"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 460"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 461"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 462"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 464"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 465"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 466"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 467"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 468"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 469"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 470"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 471"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 472"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 473"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 480"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 481"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 485"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 492"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 510"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 532"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 551"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 561"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 570"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 580"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 598"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 599"
+        },
+        {
+            "group": 2,
+            "id": "EDES 101"
+        },
+        {
+            "group": 2,
+            "id": "EDES 123"
+        },
+        {
+            "group": 3,
+            "id": "ART 112"
+        },
+        {
+            "group": 4,
+            "id": "ARCE 212"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 122"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 4,
+            "id": "ARCE 316"
+        },
+        {
+            "group": 1,
+            "id": "ARCH 160"
+        }
+    ]
+}

@@ -1,0 +1,538 @@
+{
+    "links": [
+        {
+            "source": "ITP 150",
+            "target": "ITP 211",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "ITP 260",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "ITP 260",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "ITP 260",
+            "value": 1
+        },
+        {
+            "source": "ITP 150",
+            "target": "ITP 275",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "ITP 302",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "ITP 303",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "ITP 303",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "ITP 303",
+            "value": 1
+        },
+        {
+            "source": "ITP 233",
+            "target": "ITP 326",
+            "value": 1
+        },
+        {
+            "source": "BUS 310",
+            "target": "ITP 326",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "ITP 329",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "ITP 329",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ITP 371",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "ITP 371",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "ITP 371",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "ITP 371",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "ITP 371",
+            "value": 1
+        },
+        {
+            "source": "ITP 233",
+            "target": "ITP 390",
+            "value": 1
+        },
+        {
+            "source": "ITP 260",
+            "target": "ITP 390",
+            "value": 1
+        },
+        {
+            "source": "ITP 303",
+            "target": "ITP 403",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "ITP 406",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 408",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 409",
+            "value": 1
+        },
+        {
+            "source": "BUS 391",
+            "target": "ITP 410",
+            "value": 1
+        },
+        {
+            "source": "ITP 303",
+            "target": "ITP 410",
+            "value": 1
+        },
+        {
+            "source": "ITP 371",
+            "target": "ITP 410",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 411",
+            "value": 1
+        },
+        {
+            "source": "ITP 341",
+            "target": "ITP 412",
+            "value": 1
+        },
+        {
+            "source": "ITP 341",
+            "target": "ITP 413",
+            "value": 1
+        },
+        {
+            "source": "ITP 408",
+            "target": "ITP 413",
+            "value": 1
+        },
+        {
+            "source": "ITP 408",
+            "target": "ITP 414",
+            "value": 1
+        },
+        {
+            "source": "ITP 411",
+            "target": "ITP 414",
+            "value": 1
+        },
+        {
+            "source": "ITP 303",
+            "target": "ITP 415",
+            "value": 1
+        },
+        {
+            "source": "ITP 326",
+            "target": "ITP 415",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 415",
+            "value": 1
+        },
+        {
+            "source": "ITP 341",
+            "target": "ITP 415",
+            "value": 1
+        },
+        {
+            "source": "ITP 371",
+            "target": "ITP 415",
+            "value": 1
+        },
+        {
+            "source": "ITP 326",
+            "target": "ITP 428",
+            "value": 1
+        },
+        {
+            "source": "BUS 342",
+            "target": "ITP 428",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "ITP 428",
+            "value": 1
+        },
+        {
+            "source": "BUS 212",
+            "target": "ITP 428",
+            "value": 1
+        },
+        {
+            "source": "BUS 214",
+            "target": "ITP 428",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 430",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "ITP 457",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "ITP 457",
+            "value": 1
+        },
+        {
+            "source": "ITP 211",
+            "target": "ITP 467",
+            "value": 1
+        },
+        {
+            "source": "ITP 233",
+            "target": "ITP 467",
+            "value": 1
+        },
+        {
+            "source": "ITP 260",
+            "target": "ITP 467",
+            "value": 1
+        },
+        {
+            "source": "ITP 326",
+            "target": "ITP 467",
+            "value": 1
+        },
+        {
+            "source": "BUS 346",
+            "target": "ITP 467",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 475",
+            "value": 1
+        },
+        {
+            "source": "ITP 330",
+            "target": "ITP 485",
+            "value": 1
+        },
+        {
+            "source": "ITP 341",
+            "target": "ITP 485",
+            "value": 1
+        },
+        {
+            "source": "ITP 408",
+            "target": "ITP 485",
+            "value": 1
+        },
+        {
+            "source": "ITP 475",
+            "target": "ITP 485",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ITP 137"
+        },
+        {
+            "group": 1,
+            "id": "ITP 150"
+        },
+        {
+            "group": 1,
+            "id": "ITP 211"
+        },
+        {
+            "group": 1,
+            "id": "ITP 233"
+        },
+        {
+            "group": 1,
+            "id": "ITP 234"
+        },
+        {
+            "group": 1,
+            "id": "ITP 260"
+        },
+        {
+            "group": 1,
+            "id": "ITP 270"
+        },
+        {
+            "group": 1,
+            "id": "ITP 275"
+        },
+        {
+            "group": 1,
+            "id": "ITP 302"
+        },
+        {
+            "group": 1,
+            "id": "ITP 303"
+        },
+        {
+            "group": 1,
+            "id": "ITP 326"
+        },
+        {
+            "group": 1,
+            "id": "ITP 329"
+        },
+        {
+            "group": 1,
+            "id": "ITP 330"
+        },
+        {
+            "group": 1,
+            "id": "ITP 341"
+        },
+        {
+            "group": 1,
+            "id": "ITP 371"
+        },
+        {
+            "group": 1,
+            "id": "ITP 390"
+        },
+        {
+            "group": 1,
+            "id": "ITP 400"
+        },
+        {
+            "group": 1,
+            "id": "ITP 403"
+        },
+        {
+            "group": 1,
+            "id": "ITP 406"
+        },
+        {
+            "group": 1,
+            "id": "ITP 408"
+        },
+        {
+            "group": 1,
+            "id": "ITP 409"
+        },
+        {
+            "group": 1,
+            "id": "ITP 410"
+        },
+        {
+            "group": 1,
+            "id": "ITP 411"
+        },
+        {
+            "group": 1,
+            "id": "ITP 412"
+        },
+        {
+            "group": 1,
+            "id": "ITP 413"
+        },
+        {
+            "group": 1,
+            "id": "ITP 414"
+        },
+        {
+            "group": 1,
+            "id": "ITP 415"
+        },
+        {
+            "group": 1,
+            "id": "ITP 419"
+        },
+        {
+            "group": 1,
+            "id": "ITP 428"
+        },
+        {
+            "group": 1,
+            "id": "ITP 430"
+        },
+        {
+            "group": 1,
+            "id": "ITP 457"
+        },
+        {
+            "group": 1,
+            "id": "ITP 461"
+        },
+        {
+            "group": 1,
+            "id": "ITP 462"
+        },
+        {
+            "group": 1,
+            "id": "ITP 464"
+        },
+        {
+            "group": 1,
+            "id": "ITP 467"
+        },
+        {
+            "group": 1,
+            "id": "ITP 470"
+        },
+        {
+            "group": 1,
+            "id": "ITP 471"
+        },
+        {
+            "group": 1,
+            "id": "ITP 475"
+        },
+        {
+            "group": 1,
+            "id": "ITP 485"
+        },
+        {
+            "group": 1,
+            "id": "ITP 500"
+        },
+        {
+            "group": 1,
+            "id": "ITP 532"
+        },
+        {
+            "group": 1,
+            "id": "ITP 537"
+        },
+        {
+            "group": 1,
+            "id": "ITP 545"
+        },
+        {
+            "group": 1,
+            "id": "ITP 570"
+        },
+        {
+            "group": 1,
+            "id": "ITP 571"
+        },
+        {
+            "group": 1,
+            "id": "ITP 591"
+        },
+        {
+            "group": 1,
+            "id": "ITP 592"
+        },
+        {
+            "group": 1,
+            "id": "ITP 599"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 3,
+            "id": "BUS 346"
+        },
+        {
+            "group": 4,
+            "id": "STAT 217"
+        },
+        {
+            "group": 4,
+            "id": "STAT 218"
+        },
+        {
+            "group": 4,
+            "id": "STAT 251"
+        },
+        {
+            "group": 3,
+            "id": "BUS 310"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 110"
+        },
+        {
+            "group": 5,
+            "id": "MATH 141"
+        },
+        {
+            "group": 5,
+            "id": "MATH 221"
+        },
+        {
+            "group": 3,
+            "id": "BUS 391"
+        },
+        {
+            "group": 3,
+            "id": "BUS 342"
+        },
+        {
+            "group": 3,
+            "id": "BUS 212"
+        },
+        {
+            "group": 3,
+            "id": "BUS 214"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "links": [
+        {
+            "source": "ITAL 101",
+            "target": "ITAL 102",
+            "value": 1
+        },
+        {
+            "source": "ITAL 102",
+            "target": "ITAL 103",
+            "value": 1
+        },
+        {
+            "source": "ITAL 103",
+            "target": "ITAL 201",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ITAL 101"
+        },
+        {
+            "group": 1,
+            "id": "ITAL 102"
+        },
+        {
+            "group": 1,
+            "id": "ITAL 103"
+        },
+        {
+            "group": 1,
+            "id": "ITAL 201"
+        }
+    ]
+}

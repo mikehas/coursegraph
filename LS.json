@@ -1,0 +1,134 @@
+{
+    "links": [
+        {
+            "source": "LS 211",
+            "target": "LS 370",
+            "value": 1
+        },
+        {
+            "source": "GE C3",
+            "target": "LS 370",
+            "value": 1
+        },
+        {
+            "source": "GEOG 308",
+            "target": "LS 411",
+            "value": 1
+        },
+        {
+            "source": "HIST 208",
+            "target": "LS 411",
+            "value": 1
+        },
+        {
+            "source": "LS 211",
+            "target": "LS 412",
+            "value": 1
+        },
+        {
+            "source": "LS 410",
+            "target": "LS 462",
+            "value": 1
+        },
+        {
+            "source": "LS 411",
+            "target": "LS 462",
+            "value": 1
+        },
+        {
+            "source": "LS 412",
+            "target": "LS 462",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "LS 201"
+        },
+        {
+            "group": 1,
+            "id": "LS 211"
+        },
+        {
+            "group": 1,
+            "id": "LS 214"
+        },
+        {
+            "group": 1,
+            "id": "LS 230"
+        },
+        {
+            "group": 1,
+            "id": "LS 250"
+        },
+        {
+            "group": 1,
+            "id": "LS 260"
+        },
+        {
+            "group": 1,
+            "id": "LS 290"
+        },
+        {
+            "group": 1,
+            "id": "LS 301"
+        },
+        {
+            "group": 1,
+            "id": "LS 305"
+        },
+        {
+            "group": 1,
+            "id": "LS 310"
+        },
+        {
+            "group": 1,
+            "id": "LS 370"
+        },
+        {
+            "group": 1,
+            "id": "LS 380"
+        },
+        {
+            "group": 1,
+            "id": "LS 400"
+        },
+        {
+            "group": 1,
+            "id": "LS 410"
+        },
+        {
+            "group": 1,
+            "id": "LS 411"
+        },
+        {
+            "group": 1,
+            "id": "LS 412"
+        },
+        {
+            "group": 1,
+            "id": "LS 461"
+        },
+        {
+            "group": 1,
+            "id": "LS 462"
+        },
+        {
+            "group": 1,
+            "id": "LS 470"
+        },
+        {
+            "group": 2,
+            "id": "GE C3"
+        },
+        {
+            "group": 3,
+            "id": "GEOG 308"
+        },
+        {
+            "group": 4,
+            "id": "HIST 208"
+        }
+    ]
+}

@@ -1,0 +1,1168 @@
+{
+    "links": [
+        {
+            "source": "MATH 96",
+            "target": "CHEM 106",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "CHEM 106",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "CHEM 106",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "CHEM 110",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "CHEM 110",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "CHEM 110",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "CHEM 111",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "CHEM 111",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "CHEM 111",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "CHEM 124",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "CHEM 124",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "CHEM 124",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "CHEM 125",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "CHEM 126",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "CHEM 127",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "CHEM 127",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "CHEM 127",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "CHEM 128",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "CHEM 129",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "CHEM 200",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "CHEM 200",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "CHEM 200",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 203",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "CHEM 212",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "CHEM 212",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "CHEM 212",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 216",
+            "value": 1
+        },
+        {
+            "source": "CHEM 129",
+            "target": "CHEM 216",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 217",
+            "value": 1
+        },
+        {
+            "source": "CHEM 217",
+            "target": "CHEM 218",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "CHEM 129",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "MATH 162",
+            "target": "CHEM 222",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 231",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "CHEM 252",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "CHEM 252",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "CHEM 252",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 302",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "CHEM 302",
+            "value": 1
+        },
+        {
+            "source": "CHEM 203",
+            "target": "CHEM 303",
+            "value": 1
+        },
+        {
+            "source": "CHEM 218",
+            "target": "CHEM 303",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "CHEM 308",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "CHEM 312",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "CHEM 312",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "CHEM 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "CHEM 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 331",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 341",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 341",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "CHEM 341",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 341",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "CHEM 341",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 350",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 350",
+            "value": 1
+        },
+        {
+            "source": "CHEM 126",
+            "target": "CHEM 351",
+            "value": 1
+        },
+        {
+            "source": "CHEM 129",
+            "target": "CHEM 351",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "CHEM 351",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "CHEM 351",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "CHEM 351",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "CHEM 352",
+            "value": 1
+        },
+        {
+            "source": "CHEM 352",
+            "target": "CHEM 353",
+            "value": 1
+        },
+        {
+            "source": "CHEM 231",
+            "target": "CHEM 354",
+            "value": 1
+        },
+        {
+            "source": "CHEM 217",
+            "target": "CHEM 371",
+            "value": 1
+        },
+        {
+            "source": "CHEM 317",
+            "target": "CHEM 371",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "CHEM 371",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 372",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 373",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "CHEM 377",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 377",
+            "value": 1
+        },
+        {
+            "source": "CHEM 303",
+            "target": "CHEM 403",
+            "value": 1
+        },
+        {
+            "source": "CHEM 352",
+            "target": "CHEM 403",
+            "value": 1
+        },
+        {
+            "source": "CHEM 353",
+            "target": "CHEM 405",
+            "value": 1
+        },
+        {
+            "source": "CHEM 218",
+            "target": "CHEM 414",
+            "value": 1
+        },
+        {
+            "source": "CHEM 318",
+            "target": "CHEM 414",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "CHEM 418",
+            "value": 1
+        },
+        {
+            "source": "CHEM 217",
+            "target": "CHEM 418",
+            "value": 1
+        },
+        {
+            "source": "CHEM 218",
+            "target": "CHEM 419",
+            "value": 1
+        },
+        {
+            "source": "CHEM 318",
+            "target": "CHEM 419",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "CHEM 419",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 419",
+            "value": 1
+        },
+        {
+            "source": "CHEM 218",
+            "target": "CHEM 420",
+            "value": 1
+        },
+        {
+            "source": "CHEM 231",
+            "target": "CHEM 439",
+            "value": 1
+        },
+        {
+            "source": "CHEM 354",
+            "target": "CHEM 439",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "CHEM 441",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "CHEM 441",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 444",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 444",
+            "value": 1
+        },
+        {
+            "source": "CHEM 217",
+            "target": "CHEM 445",
+            "value": 1
+        },
+        {
+            "source": "CHEM 444",
+            "target": "CHEM 445",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "CHEM 446",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "CHEM 446",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "CHEM 446",
+            "value": 1
+        },
+        {
+            "source": "MATE 380",
+            "target": "CHEM 446",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "CHEM 446",
+            "value": 1
+        },
+        {
+            "source": "CHEM 447",
+            "target": "CHEM 448",
+            "value": 1
+        },
+        {
+            "source": "CHEM 444",
+            "target": "CHEM 449",
+            "value": 1
+        },
+        {
+            "source": "CHEM 444",
+            "target": "CHEM 450",
+            "value": 1
+        },
+        {
+            "source": "CHEM 544",
+            "target": "CHEM 450",
+            "value": 1
+        },
+        {
+            "source": "CHEM 447",
+            "target": "CHEM 451",
+            "value": 1
+        },
+        {
+            "source": "CHEM 547",
+            "target": "CHEM 451",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "MATE 380",
+            "target": "CHEM 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 324",
+            "target": "CHEM 458",
+            "value": 1
+        },
+        {
+            "source": "CHEM 231",
+            "target": "CHEM 465",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "CHEM 470",
+            "value": 1
+        },
+        {
+            "source": "CHEM 217",
+            "target": "CHEM 470",
+            "value": 1
+        },
+        {
+            "source": "CHEM 317",
+            "target": "CHEM 470",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 474",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "CHEM 475",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "CHEM 475",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "CHEM 475",
+            "value": 1
+        },
+        {
+            "source": "CHEM 475",
+            "target": "CHEM 476",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "CHEM 476",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "CHEM 476",
+            "value": 1
+        },
+        {
+            "source": "CHEM 218",
+            "target": "CHEM 477",
+            "value": 1
+        },
+        {
+            "source": "CHEM 318",
+            "target": "CHEM 477",
+            "value": 1
+        },
+        {
+            "source": "CHEM 352",
+            "target": "CHEM 481",
+            "value": 1
+        },
+        {
+            "source": "CHEM 231",
+            "target": "CHEM 481",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "CHEM 528",
+            "value": 1
+        },
+        {
+            "source": "CHEM 372",
+            "target": "CHEM 528",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "CHEM 544",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "CHEM 544",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "CHEM 544",
+            "value": 1
+        },
+        {
+            "source": "CHEM 544",
+            "target": "CHEM 545",
+            "value": 1
+        },
+        {
+            "source": "CHEM 547",
+            "target": "CHEM 548",
+            "value": 1
+        },
+        {
+            "source": "CHEM 444",
+            "target": "CHEM 550",
+            "value": 1
+        },
+        {
+            "source": "CHEM 544",
+            "target": "CHEM 550",
+            "value": 1
+        },
+        {
+            "source": "CHEM 545",
+            "target": "CHEM 598",
+            "value": 1
+        },
+        {
+            "source": "CHEM 547",
+            "target": "CHEM 598",
+            "value": 1
+        },
+        {
+            "source": "CHEM 548",
+            "target": "CHEM 598",
+            "value": 1
+        },
+        {
+            "source": "CHEM 550",
+            "target": "CHEM 598",
+            "value": 1
+        },
+        {
+            "source": "CHEM 551",
+            "target": "CHEM 598",
+            "value": 1
+        },
+        {
+            "source": "CHEM 545",
+            "target": "CHEM 599",
+            "value": 1
+        },
+        {
+            "source": "CHEM 547",
+            "target": "CHEM 599",
+            "value": 1
+        },
+        {
+            "source": "CHEM 548",
+            "target": "CHEM 599",
+            "value": 1
+        },
+        {
+            "source": "CHEM 550",
+            "target": "CHEM 599",
+            "value": 1
+        },
+        {
+            "source": "CHEM 551",
+            "target": "CHEM 599",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CHEM 101"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 106"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 110"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 125"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 126"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 128"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 129"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 200"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 201"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 202"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 203"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 212"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 217"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 218"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 220"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 221"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 222"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 223"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 231"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 252"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 270"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 302"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 303"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 308"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 324"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 331"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 341"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 349"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 350"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 351"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 352"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 353"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 354"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 357"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 371"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 372"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 373"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 377"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 400"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 401"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 403"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 405"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 414"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 418"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 419"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 420"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 439"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 441"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 444"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 445"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 446"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 447"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 448"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 449"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 450"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 451"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 454"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 458"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 459"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 461"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 463"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 465"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 466"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 470"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 471"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 474"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 475"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 476"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 477"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 481"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 484"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 485"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 495"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 500"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 528"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 544"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 545"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 547"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 548"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 550"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 551"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 570"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 571"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 590"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 598"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 96"
+        },
+        {
+            "group": 2,
+            "id": "MATH 104"
+        },
+        {
+            "group": 2,
+            "id": "MATH 115"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 316"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 2,
+            "id": "MATH 162"
+        },
+        {
+            "group": 2,
+            "id": "MATH 143"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 122"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 317"
+        },
+        {
+            "group": 4,
+            "id": "BIO 161"
+        },
+        {
+            "group": 1,
+            "id": "CHEM 318"
+        },
+        {
+            "group": 4,
+            "id": "BIO 303"
+        },
+        {
+            "group": 5,
+            "id": "MATE 380"
+        },
+        {
+            "group": 6,
+            "id": "ME 302"
+        },
+        {
+            "group": 4,
+            "id": "BIO 351"
+        }
+    ]
+}

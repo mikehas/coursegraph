@@ -1,0 +1,44 @@
+{
+    "links": [
+        {
+            "source": "EDES 406",
+            "target": "EDES 408",
+            "value": 1
+        },
+        {
+            "source": "EDES 408",
+            "target": "EDES 410",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "EDES 101"
+        },
+        {
+            "group": 1,
+            "id": "EDES 123"
+        },
+        {
+            "group": 1,
+            "id": "EDES 333"
+        },
+        {
+            "group": 1,
+            "id": "EDES 350"
+        },
+        {
+            "group": 1,
+            "id": "EDES 406"
+        },
+        {
+            "group": 1,
+            "id": "EDES 408"
+        },
+        {
+            "group": 1,
+            "id": "EDES 410"
+        }
+    ]
+}

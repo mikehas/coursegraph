@@ -1,0 +1,361 @@
+{
+    "links": [
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 285",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 302",
+            "value": 1
+        },
+        {
+            "source": "JOUR 285",
+            "target": "JOUR 303",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 304",
+            "value": 1
+        },
+        {
+            "source": "JOUR 220",
+            "target": "JOUR 320",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 334",
+            "value": 1
+        },
+        {
+            "source": "JOUR 312",
+            "target": "JOUR 342",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 346",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 348",
+            "value": 1
+        },
+        {
+            "source": "JOUR 333",
+            "target": "JOUR 348",
+            "value": 1
+        },
+        {
+            "source": "JOUR 285",
+            "target": "JOUR 350",
+            "value": 1
+        },
+        {
+            "source": "STAT 130",
+            "target": "JOUR 350",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "JOUR 350",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "JOUR 350",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "JOUR 350",
+            "value": 1
+        },
+        {
+            "source": "JOUR 304",
+            "target": "JOUR 352",
+            "value": 1
+        },
+        {
+            "source": "JOUR 334",
+            "target": "JOUR 352",
+            "value": 1
+        },
+        {
+            "source": "JOUR 233",
+            "target": "JOUR 352",
+            "value": 1
+        },
+        {
+            "source": "JOUR 333",
+            "target": "JOUR 353",
+            "value": 1
+        },
+        {
+            "source": "JOUR 346",
+            "target": "JOUR 353",
+            "value": 1
+        },
+        {
+            "source": "JOUR 348",
+            "target": "JOUR 353",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 390",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 401",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 402",
+            "value": 1
+        },
+        {
+            "source": "JOUR 303",
+            "target": "JOUR 403",
+            "value": 1
+        },
+        {
+            "source": "JOUR 348",
+            "target": "JOUR 403",
+            "value": 1
+        },
+        {
+            "source": "JOUR 203",
+            "target": "JOUR 407",
+            "value": 1
+        },
+        {
+            "source": "JOUR 285",
+            "target": "JOUR 410",
+            "value": 1
+        },
+        {
+            "source": "JOUR 312",
+            "target": "JOUR 413",
+            "value": 1
+        },
+        {
+            "source": "JOUR 342",
+            "target": "JOUR 413",
+            "value": 1
+        },
+        {
+            "source": "BUS 453",
+            "target": "JOUR 415",
+            "value": 1
+        },
+        {
+            "source": "JOUR 413",
+            "target": "JOUR 415",
+            "value": 1
+        },
+        {
+            "source": "JOUR 352",
+            "target": "JOUR 444",
+            "value": 1
+        },
+        {
+            "source": "JOUR 353",
+            "target": "JOUR 444",
+            "value": 1
+        },
+        {
+            "source": "JOUR 413",
+            "target": "JOUR 444",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "JOUR 102"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 201"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 203"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 205"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 218"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 219"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 220"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 270"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 285"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 302"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 303"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 304"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 312"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 320"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 331"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 333"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 334"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 342"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 346"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 348"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 350"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 352"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 353"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 390"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 400"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 401"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 402"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 403"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 407"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 410"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 412"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 413"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 415"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 418"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 444"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 460"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 462"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 470"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 471"
+        },
+        {
+            "group": 2,
+            "id": "STAT 130"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 2,
+            "id": "STAT 218"
+        },
+        {
+            "group": 2,
+            "id": "STAT 251"
+        },
+        {
+            "group": 1,
+            "id": "JOUR 233"
+        },
+        {
+            "group": 3,
+            "id": "BUS 453"
+        }
+    ]
+}

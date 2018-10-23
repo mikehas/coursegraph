@@ -1,0 +1,341 @@
+{
+    "links": [
+        {
+            "source": "BIO 161",
+            "target": "MCRO 100",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "MCRO 221",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "MCRO 221",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "MCRO 221",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "MCRO 221",
+            "value": 1
+        },
+        {
+            "source": "PSC 102",
+            "target": "MCRO 221",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "MCRO 224",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "MCRO 224",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "MCRO 224",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "MCRO 224",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 225",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 301",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "MCRO 301",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "MCRO 320",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 320",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 320",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 342",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 342",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "MCRO 402",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "MCRO 402",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 421",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 421",
+            "value": 1
+        },
+        {
+            "source": "MCRO 225",
+            "target": "MCRO 423",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "MCRO 423",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "MCRO 423",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "MCRO 423",
+            "value": 1
+        },
+        {
+            "source": "MCRO 225",
+            "target": "MCRO 424",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "MCRO 424",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "MCRO 424",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "MCRO 433",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "MCRO 436",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "MCRO 436",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MCRO 436",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "MCRO 436",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "MCRO 436",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "MCRO 100"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 221"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 224"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 225"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 301"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 320"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 342"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 402"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 421"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 423"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 424"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 433"
+        },
+        {
+            "group": 1,
+            "id": "MCRO 436"
+        },
+        {
+            "group": 2,
+            "id": "BIO 161"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 110"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 4,
+            "id": "PSC 102"
+        },
+        {
+            "group": 5,
+            "id": "WVIT 202"
+        },
+        {
+            "group": 2,
+            "id": "BIO 351"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 373"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 316"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 371"
+        },
+        {
+            "group": 2,
+            "id": "BIO 303"
+        },
+        {
+            "group": 2,
+            "id": "BIO 160"
+        },
+        {
+            "group": 2,
+            "id": "BIO 263"
+        }
+    ]
+}

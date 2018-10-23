@@ -1,0 +1,133 @@
+{
+    "links": [
+        {
+            "source": "BIO 114",
+            "target": "BOT 313",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BOT 313",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BOT 313",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BOT 323",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BOT 323",
+            "value": 1
+        },
+        {
+            "source": "BIO 114",
+            "target": "BOT 326",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BOT 326",
+            "value": 1
+        },
+        {
+            "source": "BIO 211",
+            "target": "BOT 326",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BOT 326",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "BOT 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BOT 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 114",
+            "target": "BOT 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BOT 329",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BOT 329",
+            "value": 1
+        },
+        {
+            "source": "BOT 313",
+            "target": "BOT 433",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "BOT 121"
+        },
+        {
+            "group": 1,
+            "id": "BOT 311"
+        },
+        {
+            "group": 1,
+            "id": "BOT 313"
+        },
+        {
+            "group": 1,
+            "id": "BOT 323"
+        },
+        {
+            "group": 1,
+            "id": "BOT 326"
+        },
+        {
+            "group": 1,
+            "id": "BOT 329"
+        },
+        {
+            "group": 1,
+            "id": "BOT 433"
+        },
+        {
+            "group": 2,
+            "id": "BIO 114"
+        },
+        {
+            "group": 2,
+            "id": "BIO 162"
+        },
+        {
+            "group": 2,
+            "id": "BIO 211"
+        },
+        {
+            "group": 3,
+            "id": "AEPS 120"
+        },
+        {
+            "group": 2,
+            "id": "BIO 111"
+        },
+        {
+            "group": 2,
+            "id": "BIO 161"
+        }
+    ]
+}

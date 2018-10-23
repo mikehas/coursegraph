@@ -1,0 +1,299 @@
+{
+    "links": [
+        {
+            "source": "PHIL 231",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 331",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 332",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 333",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 334",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 335",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 336",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 337",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 339",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 340",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 341",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 439",
+            "target": "PHIL 285",
+            "value": 1
+        },
+        {
+            "source": "PHIL 285",
+            "target": "PHIL 385",
+            "value": 1
+        },
+        {
+            "source": "PHIL 225",
+            "target": "PHIL 460",
+            "value": 1
+        },
+        {
+            "source": "PHIL 241",
+            "target": "PHIL 460",
+            "value": 1
+        },
+        {
+            "source": "PHIL 460",
+            "target": "PHIL 461",
+            "value": 1
+        },
+        {
+            "source": "PHIL 461",
+            "target": "PHIL 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "PHIL 101"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 126"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 230"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 231"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 241"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 270"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 285"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 309"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 310"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 312"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 313"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 314"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 315"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 317"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 318"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 319"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 320"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 321"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 322"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 323"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 327"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 328"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 331"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 332"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 333"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 334"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 335"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 336"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 337"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 339"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 340"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 341"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 342"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 343"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 350"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 351"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 369"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 385"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 400"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 411"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 412"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 421"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 422"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 423"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 429"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 439"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 449"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 451"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 460"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 461"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 470"
+        },
+        {
+            "group": 1,
+            "id": "PHIL 225"
+        }
+    ]
+}

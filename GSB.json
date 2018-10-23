@@ -1,0 +1,251 @@
+{
+    "links": [
+        {
+            "source": "GSB 512",
+            "target": "GSB 516",
+            "value": 1
+        },
+        {
+            "source": "GSE 518",
+            "target": "GSB 516",
+            "value": 1
+        },
+        {
+            "source": "IME 503",
+            "target": "GSB 516",
+            "value": 1
+        },
+        {
+            "source": "GSA 555",
+            "target": "GSB 530",
+            "value": 1
+        },
+        {
+            "source": "GSB 520",
+            "target": "GSB 530",
+            "value": 1
+        },
+        {
+            "source": "GSE 520",
+            "target": "GSB 550",
+            "value": 1
+        },
+        {
+            "source": "GSB 531",
+            "target": "GSB 564",
+            "value": 1
+        },
+        {
+            "source": "GSB 512",
+            "target": "GSB 573",
+            "value": 1
+        },
+        {
+            "source": "GSE 518",
+            "target": "GSB 573",
+            "value": 1
+        },
+        {
+            "source": "IME 503",
+            "target": "GSB 573",
+            "value": 1
+        },
+        {
+            "source": "GSB 512",
+            "target": "GSB 577",
+            "value": 1
+        },
+        {
+            "source": "GSB 531",
+            "target": "GSB 584",
+            "value": 1
+        },
+        {
+            "source": "GSB 531",
+            "target": "GSB 585",
+            "value": 1
+        },
+        {
+            "source": "GSB 531",
+            "target": "GSB 587",
+            "value": 1
+        },
+        {
+            "source": "GSB 512",
+            "target": "GSB 596",
+            "value": 1
+        },
+        {
+            "source": "GSB 523",
+            "target": "GSB 596",
+            "value": 1
+        },
+        {
+            "source": "GSB 523",
+            "target": "GSB 597",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GSB 500"
+        },
+        {
+            "group": 1,
+            "id": "GSB 501"
+        },
+        {
+            "group": 1,
+            "id": "GSB 503"
+        },
+        {
+            "group": 1,
+            "id": "GSB 510"
+        },
+        {
+            "group": 1,
+            "id": "GSB 511"
+        },
+        {
+            "group": 1,
+            "id": "GSB 512"
+        },
+        {
+            "group": 1,
+            "id": "GSB 513"
+        },
+        {
+            "group": 1,
+            "id": "GSB 514"
+        },
+        {
+            "group": 1,
+            "id": "GSB 516"
+        },
+        {
+            "group": 1,
+            "id": "GSB 520"
+        },
+        {
+            "group": 1,
+            "id": "GSB 522"
+        },
+        {
+            "group": 1,
+            "id": "GSB 523"
+        },
+        {
+            "group": 1,
+            "id": "GSB 524"
+        },
+        {
+            "group": 1,
+            "id": "GSB 529"
+        },
+        {
+            "group": 1,
+            "id": "GSB 530"
+        },
+        {
+            "group": 1,
+            "id": "GSB 531"
+        },
+        {
+            "group": 1,
+            "id": "GSB 533"
+        },
+        {
+            "group": 1,
+            "id": "GSB 534"
+        },
+        {
+            "group": 1,
+            "id": "GSB 539"
+        },
+        {
+            "group": 1,
+            "id": "GSB 550"
+        },
+        {
+            "group": 1,
+            "id": "GSB 555"
+        },
+        {
+            "group": 1,
+            "id": "GSB 556"
+        },
+        {
+            "group": 1,
+            "id": "GSB 562"
+        },
+        {
+            "group": 1,
+            "id": "GSB 563"
+        },
+        {
+            "group": 1,
+            "id": "GSB 564"
+        },
+        {
+            "group": 1,
+            "id": "GSB 569"
+        },
+        {
+            "group": 1,
+            "id": "GSB 570"
+        },
+        {
+            "group": 1,
+            "id": "GSB 573"
+        },
+        {
+            "group": 1,
+            "id": "GSB 577"
+        },
+        {
+            "group": 1,
+            "id": "GSB 583"
+        },
+        {
+            "group": 1,
+            "id": "GSB 584"
+        },
+        {
+            "group": 1,
+            "id": "GSB 585"
+        },
+        {
+            "group": 1,
+            "id": "GSB 587"
+        },
+        {
+            "group": 1,
+            "id": "GSB 595"
+        },
+        {
+            "group": 1,
+            "id": "GSB 596"
+        },
+        {
+            "group": 1,
+            "id": "GSB 597"
+        },
+        {
+            "group": 2,
+            "id": "GSE 518"
+        },
+        {
+            "group": 3,
+            "id": "IME 503"
+        },
+        {
+            "group": 4,
+            "id": "GSA 555"
+        },
+        {
+            "group": 2,
+            "id": "GSE 520"
+        }
+    ]
+}

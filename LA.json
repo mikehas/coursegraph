@@ -1,0 +1,474 @@
+{
+    "links": [
+        {
+            "source": "LA 202",
+            "target": "LA 203",
+            "value": 1
+        },
+        {
+            "source": "LA 243",
+            "target": "LA 203",
+            "value": 1
+        },
+        {
+            "source": "LA 203",
+            "target": "LA 204",
+            "value": 1
+        },
+        {
+            "source": "LA 241",
+            "target": "LA 204",
+            "value": 1
+        },
+        {
+            "source": "BIO 114",
+            "target": "LA 221",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "LA 221",
+            "value": 1
+        },
+        {
+            "source": "LA 202",
+            "target": "LA 241",
+            "value": 1
+        },
+        {
+            "source": "LA 243",
+            "target": "LA 241",
+            "value": 1
+        },
+        {
+            "source": "LA 203",
+            "target": "LA 242",
+            "value": 1
+        },
+        {
+            "source": "LA 241",
+            "target": "LA 242",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 320",
+            "value": 1
+        },
+        {
+            "source": "LA 212",
+            "target": "LA 320",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 330",
+            "value": 1
+        },
+        {
+            "source": "LA 212",
+            "target": "LA 330",
+            "value": 1
+        },
+        {
+            "source": "AEPS 233",
+            "target": "LA 349",
+            "value": 1
+        },
+        {
+            "source": "AEPS 234",
+            "target": "LA 349",
+            "value": 1
+        },
+        {
+            "source": "AEPS 381",
+            "target": "LA 349",
+            "value": 1
+        },
+        {
+            "source": "LA 221",
+            "target": "LA 349",
+            "value": 1
+        },
+        {
+            "source": "LA 242",
+            "target": "LA 350",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 370",
+            "value": 1
+        },
+        {
+            "source": "LA 402",
+            "target": "LA 401",
+            "value": 1
+        },
+        {
+            "source": "LA 405",
+            "target": "LA 401",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 402",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 402",
+            "value": 1
+        },
+        {
+            "source": "LA 212",
+            "target": "LA 402",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 403",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 403",
+            "value": 1
+        },
+        {
+            "source": "LA 212",
+            "target": "LA 403",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 404",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 404",
+            "value": 1
+        },
+        {
+            "source": "LA 212",
+            "target": "LA 404",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 405",
+            "value": 1
+        },
+        {
+            "source": "LA 243",
+            "target": "LA 405",
+            "value": 1
+        },
+        {
+            "source": "LA 242",
+            "target": "LA 405",
+            "value": 1
+        },
+        {
+            "source": "LA 241",
+            "target": "LA 405",
+            "value": 1
+        },
+        {
+            "source": "LA 402",
+            "target": "LA 406",
+            "value": 1
+        },
+        {
+            "source": "LA 405",
+            "target": "LA 406",
+            "value": 1
+        },
+        {
+            "source": "LA 170",
+            "target": "LA 431",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 431",
+            "value": 1
+        },
+        {
+            "source": "LA 211",
+            "target": "LA 433",
+            "value": 1
+        },
+        {
+            "source": "LA 241",
+            "target": "LA 434",
+            "value": 1
+        },
+        {
+            "source": "LA 242",
+            "target": "LA 434",
+            "value": 1
+        },
+        {
+            "source": "LA 243",
+            "target": "LA 434",
+            "value": 1
+        },
+        {
+            "source": "LA 170",
+            "target": "LA 436",
+            "value": 1
+        },
+        {
+            "source": "LA 202",
+            "target": "LA 436",
+            "value": 1
+        },
+        {
+            "source": "LA 203",
+            "target": "LA 436",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 436",
+            "value": 1
+        },
+        {
+            "source": "LA 170",
+            "target": "LA 437",
+            "value": 1
+        },
+        {
+            "source": "LA 204",
+            "target": "LA 437",
+            "value": 1
+        },
+        {
+            "source": "LA 221",
+            "target": "LA 439",
+            "value": 1
+        },
+        {
+            "source": "LA 402",
+            "target": "LA 461",
+            "value": 1
+        },
+        {
+            "source": "LA 405",
+            "target": "LA 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "LA 101"
+        },
+        {
+            "group": 1,
+            "id": "LA 170"
+        },
+        {
+            "group": 1,
+            "id": "LA 171"
+        },
+        {
+            "group": 1,
+            "id": "LA 202"
+        },
+        {
+            "group": 1,
+            "id": "LA 203"
+        },
+        {
+            "group": 1,
+            "id": "LA 204"
+        },
+        {
+            "group": 1,
+            "id": "LA 211"
+        },
+        {
+            "group": 1,
+            "id": "LA 212"
+        },
+        {
+            "group": 1,
+            "id": "LA 218"
+        },
+        {
+            "group": 1,
+            "id": "LA 220"
+        },
+        {
+            "group": 1,
+            "id": "LA 221"
+        },
+        {
+            "group": 1,
+            "id": "LA 241"
+        },
+        {
+            "group": 1,
+            "id": "LA 242"
+        },
+        {
+            "group": 1,
+            "id": "LA 243"
+        },
+        {
+            "group": 1,
+            "id": "LA 270"
+        },
+        {
+            "group": 1,
+            "id": "LA 317"
+        },
+        {
+            "group": 1,
+            "id": "LA 320"
+        },
+        {
+            "group": 1,
+            "id": "LA 330"
+        },
+        {
+            "group": 1,
+            "id": "LA 349"
+        },
+        {
+            "group": 1,
+            "id": "LA 350"
+        },
+        {
+            "group": 1,
+            "id": "LA 370"
+        },
+        {
+            "group": 1,
+            "id": "LA 371"
+        },
+        {
+            "group": 1,
+            "id": "LA 400"
+        },
+        {
+            "group": 1,
+            "id": "LA 401"
+        },
+        {
+            "group": 1,
+            "id": "LA 402"
+        },
+        {
+            "group": 1,
+            "id": "LA 403"
+        },
+        {
+            "group": 1,
+            "id": "LA 404"
+        },
+        {
+            "group": 1,
+            "id": "LA 405"
+        },
+        {
+            "group": 1,
+            "id": "LA 406"
+        },
+        {
+            "group": 1,
+            "id": "LA 431"
+        },
+        {
+            "group": 1,
+            "id": "LA 432"
+        },
+        {
+            "group": 1,
+            "id": "LA 433"
+        },
+        {
+            "group": 1,
+            "id": "LA 434"
+        },
+        {
+            "group": 1,
+            "id": "LA 435"
+        },
+        {
+            "group": 1,
+            "id": "LA 436"
+        },
+        {
+            "group": 1,
+            "id": "LA 437"
+        },
+        {
+            "group": 1,
+            "id": "LA 438"
+        },
+        {
+            "group": 1,
+            "id": "LA 439"
+        },
+        {
+            "group": 1,
+            "id": "LA 461"
+        },
+        {
+            "group": 1,
+            "id": "LA 470"
+        },
+        {
+            "group": 1,
+            "id": "LA 471"
+        },
+        {
+            "group": 1,
+            "id": "LA 482"
+        },
+        {
+            "group": 1,
+            "id": "LA 483"
+        },
+        {
+            "group": 1,
+            "id": "LA 485"
+        },
+        {
+            "group": 1,
+            "id": "LA 495"
+        },
+        {
+            "group": 1,
+            "id": "LA 585"
+        },
+        {
+            "group": 1,
+            "id": "LA 595"
+        },
+        {
+            "group": 2,
+            "id": "BIO 114"
+        },
+        {
+            "group": 3,
+            "id": "BOT 121"
+        },
+        {
+            "group": 4,
+            "id": "AEPS 233"
+        },
+        {
+            "group": 4,
+            "id": "AEPS 234"
+        },
+        {
+            "group": 4,
+            "id": "AEPS 381"
+        }
+    ]
+}

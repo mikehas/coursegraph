@@ -1,0 +1,103 @@
+{
+    "links": [
+        {
+            "source": "GER 101",
+            "target": "GER 102",
+            "value": 1
+        },
+        {
+            "source": "GER 102",
+            "target": "GER 103",
+            "value": 1
+        },
+        {
+            "source": "GER 103",
+            "target": "GER 201",
+            "value": 1
+        },
+        {
+            "source": "GER 201",
+            "target": "GER 202",
+            "value": 1
+        },
+        {
+            "source": "GER 202",
+            "target": "GER 203",
+            "value": 1
+        },
+        {
+            "source": "GER 203",
+            "target": "GER 233",
+            "value": 1
+        },
+        {
+            "source": "GER 203",
+            "target": "GER 301",
+            "value": 1
+        },
+        {
+            "source": "GER 203",
+            "target": "GER 302",
+            "value": 1
+        },
+        {
+            "source": "GER 233",
+            "target": "GER 305",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GER 101"
+        },
+        {
+            "group": 1,
+            "id": "GER 102"
+        },
+        {
+            "group": 1,
+            "id": "GER 103"
+        },
+        {
+            "group": 1,
+            "id": "GER 201"
+        },
+        {
+            "group": 1,
+            "id": "GER 202"
+        },
+        {
+            "group": 1,
+            "id": "GER 203"
+        },
+        {
+            "group": 1,
+            "id": "GER 233"
+        },
+        {
+            "group": 1,
+            "id": "GER 270"
+        },
+        {
+            "group": 1,
+            "id": "GER 301"
+        },
+        {
+            "group": 1,
+            "id": "GER 302"
+        },
+        {
+            "group": 1,
+            "id": "GER 305"
+        },
+        {
+            "group": 1,
+            "id": "GER 350"
+        },
+        {
+            "group": 1,
+            "id": "GER 470"
+        }
+    ]
+}

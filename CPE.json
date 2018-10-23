@@ -1,0 +1,750 @@
+{
+    "links": [
+        {
+            "source": "MATH 117",
+            "target": "CPE 101",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "CPE 101",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "CPE 108",
+            "value": 1
+        },
+        {
+            "source": "EE 111",
+            "target": "CPE 133",
+            "value": 1
+        },
+        {
+            "source": "EE 151",
+            "target": "CPE 133",
+            "value": 1
+        },
+        {
+            "source": "CPE 100",
+            "target": "CPE 133",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "CPE 133",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "CPE 202",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "CPE 202",
+            "value": 1
+        },
+        {
+            "source": "MATH 221",
+            "target": "CPE 202",
+            "value": 1
+        },
+        {
+            "source": "CSC 202",
+            "target": "CPE 203",
+            "value": 1
+        },
+        {
+            "source": "EE 133",
+            "target": "CPE 233",
+            "value": 1
+        },
+        {
+            "source": "CPE 102",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "CPE 103",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "CPE 202",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "CPE 203",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "CSC 225",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "EE 229",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "CPE 315",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 321",
+            "value": 1
+        },
+        {
+            "source": "BMED 355",
+            "target": "CPE 328",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "CPE 328",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "CPE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 229",
+            "target": "CPE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "CPE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "CPE 336",
+            "value": 1
+        },
+        {
+            "source": "CPE 329",
+            "target": "CPE 350",
+            "value": 1
+        },
+        {
+            "source": "CPE 102",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "CPE 103",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "CPE 202",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "CPE 203",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "CSC 225",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "EE 229",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "CPE 357",
+            "value": 1
+        },
+        {
+            "source": "BMED 355",
+            "target": "CPE 368",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "CPE 368",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "CPE 416",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "CPE 416",
+            "value": 1
+        },
+        {
+            "source": "CPE 315",
+            "target": "CPE 416",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 416",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 419",
+            "value": 1
+        },
+        {
+            "source": "CPE 464",
+            "target": "CPE 422",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 428",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "CPE 428",
+            "value": 1
+        },
+        {
+            "source": "ME 305",
+            "target": "CPE 428",
+            "value": 1
+        },
+        {
+            "source": "CSC 430",
+            "target": "CPE 431",
+            "value": 1
+        },
+        {
+            "source": "EE 302",
+            "target": "CPE 432",
+            "value": 1
+        },
+        {
+            "source": "EE 342",
+            "target": "CPE 432",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "CPE 439",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "CPE 439",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "CPE 441",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "CPE 441",
+            "value": 1
+        },
+        {
+            "source": "CPE 350",
+            "target": "CPE 450",
+            "value": 1
+        },
+        {
+            "source": "CPE 357",
+            "target": "CPE 453",
+            "value": 1
+        },
+        {
+            "source": "CPE 225",
+            "target": "CPE 453",
+            "value": 1
+        },
+        {
+            "source": "EE 229",
+            "target": "CPE 453",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "CPE 453",
+            "value": 1
+        },
+        {
+            "source": "CPE 453",
+            "target": "CPE 454",
+            "value": 1
+        },
+        {
+            "source": "CPE 357",
+            "target": "CPE 458",
+            "value": 1
+        },
+        {
+            "source": "CPE 350",
+            "target": "CPE 461",
+            "value": 1
+        },
+        {
+            "source": "CPE 450",
+            "target": "CPE 462",
+            "value": 1
+        },
+        {
+            "source": "CPE 357",
+            "target": "CPE 464",
+            "value": 1
+        },
+        {
+            "source": "CPE 453",
+            "target": "CPE 465",
+            "value": 1
+        },
+        {
+            "source": "CPE 464",
+            "target": "CPE 465",
+            "value": 1
+        },
+        {
+            "source": "CPE 357",
+            "target": "CPE 469",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 471",
+            "value": 1
+        },
+        {
+            "source": "CPE 471",
+            "target": "CPE 476",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 485",
+            "value": 1
+        },
+        {
+            "source": "EE 112",
+            "target": "CPE 488",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "CPE 488",
+            "value": 1
+        },
+        {
+            "source": "CPE 315",
+            "target": "CPE 515",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "CPE 521",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "CPE 521",
+            "value": 1
+        },
+        {
+            "source": "EE 439",
+            "target": "CPE 522",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "CPE 523",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "CPE 523",
+            "value": 1
+        },
+        {
+            "source": "CPE 464",
+            "target": "CPE 564",
+            "value": 1
+        },
+        {
+            "source": "CSC 141",
+            "target": "CPE 569",
+            "value": 1
+        },
+        {
+            "source": "CSC 348",
+            "target": "CPE 569",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "CPE 569",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CPE 100"
+        },
+        {
+            "group": 1,
+            "id": "CPE 101"
+        },
+        {
+            "group": 1,
+            "id": "CPE 105"
+        },
+        {
+            "group": 1,
+            "id": "CPE 108"
+        },
+        {
+            "group": 1,
+            "id": "CPE 123"
+        },
+        {
+            "group": 1,
+            "id": "CPE 133"
+        },
+        {
+            "group": 1,
+            "id": "CPE 200"
+        },
+        {
+            "group": 1,
+            "id": "CPE 202"
+        },
+        {
+            "group": 1,
+            "id": "CPE 203"
+        },
+        {
+            "group": 1,
+            "id": "CPE 233"
+        },
+        {
+            "group": 1,
+            "id": "CPE 290"
+        },
+        {
+            "group": 1,
+            "id": "CPE 315"
+        },
+        {
+            "group": 1,
+            "id": "CPE 321"
+        },
+        {
+            "group": 1,
+            "id": "CPE 328"
+        },
+        {
+            "group": 1,
+            "id": "CPE 329"
+        },
+        {
+            "group": 1,
+            "id": "CPE 336"
+        },
+        {
+            "group": 1,
+            "id": "CPE 350"
+        },
+        {
+            "group": 1,
+            "id": "CPE 357"
+        },
+        {
+            "group": 1,
+            "id": "CPE 368"
+        },
+        {
+            "group": 1,
+            "id": "CPE 400"
+        },
+        {
+            "group": 1,
+            "id": "CPE 416"
+        },
+        {
+            "group": 1,
+            "id": "CPE 419"
+        },
+        {
+            "group": 1,
+            "id": "CPE 422"
+        },
+        {
+            "group": 1,
+            "id": "CPE 428"
+        },
+        {
+            "group": 1,
+            "id": "CPE 431"
+        },
+        {
+            "group": 1,
+            "id": "CPE 432"
+        },
+        {
+            "group": 1,
+            "id": "CPE 439"
+        },
+        {
+            "group": 1,
+            "id": "CPE 441"
+        },
+        {
+            "group": 1,
+            "id": "CPE 450"
+        },
+        {
+            "group": 1,
+            "id": "CPE 453"
+        },
+        {
+            "group": 1,
+            "id": "CPE 454"
+        },
+        {
+            "group": 1,
+            "id": "CPE 458"
+        },
+        {
+            "group": 1,
+            "id": "CPE 461"
+        },
+        {
+            "group": 1,
+            "id": "CPE 462"
+        },
+        {
+            "group": 1,
+            "id": "CPE 464"
+        },
+        {
+            "group": 1,
+            "id": "CPE 465"
+        },
+        {
+            "group": 1,
+            "id": "CPE 469"
+        },
+        {
+            "group": 1,
+            "id": "CPE 470"
+        },
+        {
+            "group": 1,
+            "id": "CPE 471"
+        },
+        {
+            "group": 1,
+            "id": "CPE 472"
+        },
+        {
+            "group": 1,
+            "id": "CPE 476"
+        },
+        {
+            "group": 1,
+            "id": "CPE 479"
+        },
+        {
+            "group": 1,
+            "id": "CPE 482"
+        },
+        {
+            "group": 1,
+            "id": "CPE 485"
+        },
+        {
+            "group": 1,
+            "id": "CPE 488"
+        },
+        {
+            "group": 1,
+            "id": "CPE 493"
+        },
+        {
+            "group": 1,
+            "id": "CPE 494"
+        },
+        {
+            "group": 1,
+            "id": "CPE 495"
+        },
+        {
+            "group": 1,
+            "id": "CPE 515"
+        },
+        {
+            "group": 1,
+            "id": "CPE 521"
+        },
+        {
+            "group": 1,
+            "id": "CPE 522"
+        },
+        {
+            "group": 1,
+            "id": "CPE 523"
+        },
+        {
+            "group": 1,
+            "id": "CPE 564"
+        },
+        {
+            "group": 1,
+            "id": "CPE 569"
+        },
+        {
+            "group": 2,
+            "id": "MATH 117"
+        },
+        {
+            "group": 2,
+            "id": "MATH 118"
+        },
+        {
+            "group": 3,
+            "id": "EE 111"
+        },
+        {
+            "group": 3,
+            "id": "EE 151"
+        },
+        {
+            "group": 4,
+            "id": "CSC 101"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 2,
+            "id": "MATH 221"
+        },
+        {
+            "group": 4,
+            "id": "CSC 202"
+        },
+        {
+            "group": 3,
+            "id": "EE 133"
+        },
+        {
+            "group": 1,
+            "id": "CPE 102"
+        },
+        {
+            "group": 1,
+            "id": "CPE 103"
+        },
+        {
+            "group": 4,
+            "id": "CSC 225"
+        },
+        {
+            "group": 3,
+            "id": "EE 229"
+        },
+        {
+            "group": 3,
+            "id": "EE 233"
+        },
+        {
+            "group": 4,
+            "id": "CSC 357"
+        },
+        {
+            "group": 5,
+            "id": "BMED 355"
+        },
+        {
+            "group": 3,
+            "id": "EE 228"
+        },
+        {
+            "group": 3,
+            "id": "EE 307"
+        },
+        {
+            "group": 3,
+            "id": "EE 329"
+        },
+        {
+            "group": 3,
+            "id": "EE 336"
+        },
+        {
+            "group": 3,
+            "id": "EE 328"
+        },
+        {
+            "group": 6,
+            "id": "ME 305"
+        },
+        {
+            "group": 4,
+            "id": "CSC 430"
+        },
+        {
+            "group": 3,
+            "id": "EE 302"
+        },
+        {
+            "group": 3,
+            "id": "EE 342"
+        },
+        {
+            "group": 3,
+            "id": "EE 347"
+        },
+        {
+            "group": 1,
+            "id": "CPE 225"
+        },
+        {
+            "group": 3,
+            "id": "EE 112"
+        },
+        {
+            "group": 3,
+            "id": "EE 201"
+        },
+        {
+            "group": 3,
+            "id": "EE 439"
+        },
+        {
+            "group": 4,
+            "id": "CSC 141"
+        },
+        {
+            "group": 4,
+            "id": "CSC 348"
+        }
+    ]
+}

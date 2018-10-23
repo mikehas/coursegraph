@@ -1,0 +1,128 @@
+{
+    "links": [
+        {
+            "source": "FPE 501",
+            "target": "FPE 502",
+            "value": 1
+        },
+        {
+            "source": "FPE 502",
+            "target": "FPE 503",
+            "value": 1
+        },
+        {
+            "source": "FPE 502",
+            "target": "FPE 504",
+            "value": 1
+        },
+        {
+            "source": "FPE 503",
+            "target": "FPE 504",
+            "value": 1
+        },
+        {
+            "source": "FPE 502",
+            "target": "FPE 552",
+            "value": 1
+        },
+        {
+            "source": "FPE 504",
+            "target": "FPE 552",
+            "value": 1
+        },
+        {
+            "source": "ME 347",
+            "target": "FPE 556",
+            "value": 1
+        },
+        {
+            "source": "FPE 502",
+            "target": "FPE 556",
+            "value": 1
+        },
+        {
+            "source": "ME 350",
+            "target": "FPE 556",
+            "value": 1
+        },
+        {
+            "source": "FPE 504",
+            "target": "FPE 596",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "FPE 500"
+        },
+        {
+            "group": 1,
+            "id": "FPE 501"
+        },
+        {
+            "group": 1,
+            "id": "FPE 502"
+        },
+        {
+            "group": 1,
+            "id": "FPE 503"
+        },
+        {
+            "group": 1,
+            "id": "FPE 504"
+        },
+        {
+            "group": 1,
+            "id": "FPE 521"
+        },
+        {
+            "group": 1,
+            "id": "FPE 522"
+        },
+        {
+            "group": 1,
+            "id": "FPE 523"
+        },
+        {
+            "group": 1,
+            "id": "FPE 524"
+        },
+        {
+            "group": 1,
+            "id": "FPE 551"
+        },
+        {
+            "group": 1,
+            "id": "FPE 552"
+        },
+        {
+            "group": 1,
+            "id": "FPE 554"
+        },
+        {
+            "group": 1,
+            "id": "FPE 555"
+        },
+        {
+            "group": 1,
+            "id": "FPE 556"
+        },
+        {
+            "group": 1,
+            "id": "FPE 596"
+        },
+        {
+            "group": 1,
+            "id": "FPE 599"
+        },
+        {
+            "group": 2,
+            "id": "ME 347"
+        },
+        {
+            "group": 2,
+            "id": "ME 350"
+        }
+    ]
+}

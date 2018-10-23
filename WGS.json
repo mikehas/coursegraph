@@ -1,0 +1,232 @@
+{
+    "links": [
+        {
+            "source": "ART 111",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "ART 112",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "ART 211",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "ART 212",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "ART 213",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "WGS 316",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "WGS 324",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "WGS 324",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "WGS 400",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "WGS 401",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "WGS 417",
+            "value": 1
+        },
+        {
+            "source": "HIST 303",
+            "target": "WGS 421",
+            "value": 1
+        },
+        {
+            "source": "HIST 303",
+            "target": "WGS 434",
+            "value": 1
+        },
+        {
+            "source": "HIST 303",
+            "target": "WGS 435",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "WGS 450",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "WGS 457",
+            "value": 1
+        },
+        {
+            "source": "HIST 303",
+            "target": "WGS 458",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "WGS 467",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "WGS 201"
+        },
+        {
+            "group": 1,
+            "id": "WGS 270"
+        },
+        {
+            "group": 1,
+            "id": "WGS 301"
+        },
+        {
+            "group": 1,
+            "id": "WGS 302"
+        },
+        {
+            "group": 1,
+            "id": "WGS 311"
+        },
+        {
+            "group": 1,
+            "id": "WGS 316"
+        },
+        {
+            "group": 1,
+            "id": "WGS 320"
+        },
+        {
+            "group": 1,
+            "id": "WGS 324"
+        },
+        {
+            "group": 1,
+            "id": "WGS 336"
+        },
+        {
+            "group": 1,
+            "id": "WGS 340"
+        },
+        {
+            "group": 1,
+            "id": "WGS 345"
+        },
+        {
+            "group": 1,
+            "id": "WGS 350"
+        },
+        {
+            "group": 1,
+            "id": "WGS 351"
+        },
+        {
+            "group": 1,
+            "id": "WGS 370"
+        },
+        {
+            "group": 1,
+            "id": "WGS 400"
+        },
+        {
+            "group": 1,
+            "id": "WGS 401"
+        },
+        {
+            "group": 1,
+            "id": "WGS 417"
+        },
+        {
+            "group": 1,
+            "id": "WGS 421"
+        },
+        {
+            "group": 1,
+            "id": "WGS 434"
+        },
+        {
+            "group": 1,
+            "id": "WGS 435"
+        },
+        {
+            "group": 1,
+            "id": "WGS 450"
+        },
+        {
+            "group": 1,
+            "id": "WGS 457"
+        },
+        {
+            "group": 1,
+            "id": "WGS 458"
+        },
+        {
+            "group": 1,
+            "id": "WGS 467"
+        },
+        {
+            "group": 1,
+            "id": "WGS 470"
+        },
+        {
+            "group": 2,
+            "id": "ART 111"
+        },
+        {
+            "group": 2,
+            "id": "ART 112"
+        },
+        {
+            "group": 2,
+            "id": "ART 211"
+        },
+        {
+            "group": 2,
+            "id": "ART 212"
+        },
+        {
+            "group": 2,
+            "id": "ART 213"
+        },
+        {
+            "group": 3,
+            "id": "PSY 201"
+        },
+        {
+            "group": 3,
+            "id": "PSY 202"
+        },
+        {
+            "group": 4,
+            "id": "GE D1"
+        },
+        {
+            "group": 5,
+            "id": "HIST 303"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "links": [],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "SOCS 200"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 400"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 440"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 461"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 462"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 485"
+        },
+        {
+            "group": 1,
+            "id": "SOCS 495"
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "links": [
+        {
+            "source": "BIO 160",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "PSC 201",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "CHEM 129",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "MSCI 301",
+            "value": 1
+        },
+        {
+            "source": "CHEM 302",
+            "target": "MSCI 303",
+            "value": 1
+        },
+        {
+            "source": "MSCI 301",
+            "target": "MSCI 303",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "MSCI 303",
+            "value": 1
+        },
+        {
+            "source": "GE B2",
+            "target": "MSCI 307",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "MSCI 324",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 324",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "MSCI 324",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "MSCI 328",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "MSCI 328",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 328",
+            "value": 1
+        },
+        {
+            "source": "PSC 201",
+            "target": "MSCI 401",
+            "value": 1
+        },
+        {
+            "source": "MSCI 301",
+            "target": "MSCI 401",
+            "value": 1
+        },
+        {
+            "source": "MSCI 328",
+            "target": "MSCI 401",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 327",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 401",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "BOT 326",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "MSCI 328",
+            "target": "MSCI 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "MSCI 437",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "MSCI 438",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "MSCI 438",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "MSCI 438",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "MSCI 439",
+            "value": 1
+        },
+        {
+            "source": "MSCI 328",
+            "target": "MSCI 440",
+            "value": 1
+        },
+        {
+            "source": "PSC 201",
+            "target": "MSCI 440",
+            "value": 1
+        },
+        {
+            "source": "ZOO 322",
+            "target": "MSCI 440",
+            "value": 1
+        },
+        {
+            "source": "ZOO 336",
+            "target": "MSCI 440",
+            "value": 1
+        },
+        {
+            "source": "BIO 211",
+            "target": "MSCI 440",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "MSCI 100"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 301"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 303"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 307"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 324"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 328"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 330"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 401"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 410"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 428"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 437"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 438"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 439"
+        },
+        {
+            "group": 1,
+            "id": "MSCI 440"
+        },
+        {
+            "group": 2,
+            "id": "BIO 160"
+        },
+        {
+            "group": 2,
+            "id": "BIO 161"
+        },
+        {
+            "group": 2,
+            "id": "BIO 263"
+        },
+        {
+            "group": 3,
+            "id": "PSC 201"
+        },
+        {
+            "group": 4,
+            "id": "CHEM 129"
+        },
+        {
+            "group": 5,
+            "id": "STAT 218"
+        },
+        {
+            "group": 4,
+            "id": "CHEM 302"
+        },
+        {
+            "group": 6,
+            "id": "GE B2"
+        },
+        {
+            "group": 2,
+            "id": "BIO 162"
+        },
+        {
+            "group": 2,
+            "id": "BIO 327"
+        },
+        {
+            "group": 2,
+            "id": "BIO 401"
+        },
+        {
+            "group": 7,
+            "id": "BOT 326"
+        },
+        {
+            "group": 8,
+            "id": "ZOO 322"
+        },
+        {
+            "group": 8,
+            "id": "ZOO 336"
+        },
+        {
+            "group": 2,
+            "id": "BIO 211"
+        }
+    ]
+}

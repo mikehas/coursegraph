@@ -1,0 +1,288 @@
+{
+    "links": [
+        {
+            "source": "BMED 212",
+            "target": "ENGR 334",
+            "value": 1
+        },
+        {
+            "source": "ENGR 234",
+            "target": "ENGR 334",
+            "value": 1
+        },
+        {
+            "source": "IME 144",
+            "target": "ENGR 334",
+            "value": 1
+        },
+        {
+            "source": "ME 234",
+            "target": "ENGR 334",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "ENGR 400",
+            "value": 1
+        },
+        {
+            "source": "ENGR 459",
+            "target": "ENGR 460",
+            "value": 1
+        },
+        {
+            "source": "ENGR 460",
+            "target": "ENGR 461",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "ENGR 462",
+            "value": 1
+        },
+        {
+            "source": "ENGR 463",
+            "target": "ENGR 464",
+            "value": 1
+        },
+        {
+            "source": "ENGR 464",
+            "target": "ENGR 465",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "ENGR 481",
+            "value": 1
+        },
+        {
+            "source": "IME 314",
+            "target": "ENGR 481",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "ENGR 481",
+            "value": 1
+        },
+        {
+            "source": "ENGR 481",
+            "target": "ENGR 482",
+            "value": 1
+        },
+        {
+            "source": "ENGR 482",
+            "target": "ENGR 483",
+            "value": 1
+        },
+        {
+            "source": "ENGR 450",
+            "target": "ENGR 551",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "ENGR 581",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "ENGR 581",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ENGR 101"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 110"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 234"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 270"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 301"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 302"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 310"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 322"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 334"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 350"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 400"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 440"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 451"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 459"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 460"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 461"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 462"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 463"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 464"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 465"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 470"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 471"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 481"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 482"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 483"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 493"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 494"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 495"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 500"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 551"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 570"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 571"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 581"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 593"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 594"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 595"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 596"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 599"
+        },
+        {
+            "group": 2,
+            "id": "BMED 212"
+        },
+        {
+            "group": 3,
+            "id": "IME 144"
+        },
+        {
+            "group": 4,
+            "id": "ME 234"
+        },
+        {
+            "group": 4,
+            "id": "ME 212"
+        },
+        {
+            "group": 5,
+            "id": "MATH 244"
+        },
+        {
+            "group": 3,
+            "id": "IME 314"
+        },
+        {
+            "group": 4,
+            "id": "ME 302"
+        },
+        {
+            "group": 1,
+            "id": "ENGR 450"
+        },
+        {
+            "group": 6,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 7,
+            "id": "MCRO 221"
+        }
+    ]
+}

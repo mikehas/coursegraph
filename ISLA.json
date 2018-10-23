@@ -1,0 +1,193 @@
+{
+    "links": [
+        {
+            "source": "ES 112",
+            "target": "ISLA 201",
+            "value": 1
+        },
+        {
+            "source": "ISLA 123",
+            "target": "ISLA 201",
+            "value": 1
+        },
+        {
+            "source": "RELS 201",
+            "target": "ISLA 201",
+            "value": 1
+        },
+        {
+            "source": "WGS 201",
+            "target": "ISLA 201",
+            "value": 1
+        },
+        {
+            "source": "GE C3",
+            "target": "ISLA 240",
+            "value": 1
+        },
+        {
+            "source": "ISLA 240",
+            "target": "ISLA 340",
+            "value": 1
+        },
+        {
+            "source": "ISLA 340",
+            "target": "ISLA 341",
+            "value": 1
+        },
+        {
+            "source": "ISLA 201",
+            "target": "ISLA 355",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ISLA 393",
+            "value": 1
+        },
+        {
+            "source": "ANT 202",
+            "target": "ISLA 393",
+            "value": 1
+        },
+        {
+            "source": "ANT 250",
+            "target": "ISLA 393",
+            "value": 1
+        },
+        {
+            "source": "ISLA 123",
+            "target": "ISLA 393",
+            "value": 1
+        },
+        {
+            "source": "ISLA 201",
+            "target": "ISLA 440",
+            "value": 1
+        },
+        {
+            "source": "ISLA 123",
+            "target": "ISLA 456",
+            "value": 1
+        },
+        {
+            "source": "ISLA 355",
+            "target": "ISLA 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ISLA 123"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 201"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 240"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 303"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 305"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 315"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 316"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 319"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 320"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 330"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 340"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 341"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 350"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 355"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 393"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 400"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 440"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 450"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 456"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 461"
+        },
+        {
+            "group": 1,
+            "id": "ISLA 470"
+        },
+        {
+            "group": 2,
+            "id": "ES 112"
+        },
+        {
+            "group": 3,
+            "id": "RELS 201"
+        },
+        {
+            "group": 4,
+            "id": "WGS 201"
+        },
+        {
+            "group": 5,
+            "id": "GE C3"
+        },
+        {
+            "group": 6,
+            "id": "ANT 201"
+        },
+        {
+            "group": 6,
+            "id": "ANT 202"
+        },
+        {
+            "group": 6,
+            "id": "ANT 250"
+        }
+    ]
+}

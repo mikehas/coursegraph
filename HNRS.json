@@ -1,0 +1,589 @@
+{
+    "links": [
+        {
+            "source": "MATH 141",
+            "target": "HNRS 131",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "HNRS 131",
+            "value": 1
+        },
+        {
+            "source": "MATH 182",
+            "target": "HNRS 131",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "HNRS 132",
+            "value": 1
+        },
+        {
+            "source": "HNRS 131",
+            "target": "HNRS 132",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "HNRS 132",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "HNRS 134",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "HNRS 134",
+            "value": 1
+        },
+        {
+            "source": "MATH 182",
+            "target": "HNRS 134",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "HNRS 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "HNRS 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "HNRS 142",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "HNRS 143",
+            "value": 1
+        },
+        {
+            "source": "HNRS 161",
+            "target": "HNRS 162",
+            "value": 1
+        },
+        {
+            "source": "HNRS 162",
+            "target": "HNRS 163",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "HNRS 211",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "HNRS 211",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "HNRS 211",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "HNRS 214",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "HNRS 214",
+            "value": 1
+        },
+        {
+            "source": "ARCE 211",
+            "target": "HNRS 214",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "HNRS 241",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "HNRS 244",
+            "value": 1
+        },
+        {
+            "source": "HNRS 261",
+            "target": "HNRS 262",
+            "value": 1
+        },
+        {
+            "source": "HNRS 262",
+            "target": "HNRS 263",
+            "value": 1
+        },
+        {
+            "source": "HNRS 162",
+            "target": "HNRS 265",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "HNRS 303",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "HNRS 303",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "HNRS 338",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "HNRS 391",
+            "value": 1
+        },
+        {
+            "source": "ENGL 411",
+            "target": "HNRS 412",
+            "value": 1
+        },
+        {
+            "source": "PHYS 104",
+            "target": "HNRS 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 118",
+            "target": "HNRS 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "HNRS 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "HNRS 450",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "HNRS 100"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 101"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 102"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 112"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 131"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 132"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 134"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 141"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 142"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 143"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 145"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 148"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 149"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 161"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 162"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 163"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 200"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 201"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 202"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 203"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 204"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 207"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 211"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 212"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 213"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 214"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 216"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 223"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 230"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 231"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 232"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 241"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 242"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 244"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 251"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 261"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 262"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 263"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 265"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 270"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 299"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 302"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 303"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 304"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 310"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 311"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 312"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 317"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 320"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 321"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 322"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 323"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 324"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 332"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 333"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 334"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 335"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 336"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 338"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 340"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 341"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 342"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 343"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 345"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 347"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 350"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 352"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 353"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 361"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 380"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 391"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 392"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 400"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 411"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 412"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 424"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 450"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 461"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 470"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 471"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 475"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 492"
+        },
+        {
+            "group": 1,
+            "id": "HNRS 499"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 2,
+            "id": "MATH 182"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 131"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 2,
+            "id": "MATH 118"
+        },
+        {
+            "group": 2,
+            "id": "MATH 119"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 4,
+            "id": "ME 211"
+        },
+        {
+            "group": 5,
+            "id": "ARCE 211"
+        },
+        {
+            "group": 2,
+            "id": "MATH 143"
+        },
+        {
+            "group": 6,
+            "id": "ECON 201"
+        },
+        {
+            "group": 6,
+            "id": "ECON 222"
+        },
+        {
+            "group": 7,
+            "id": "POLS 112"
+        },
+        {
+            "group": 8,
+            "id": "GE D1"
+        },
+        {
+            "group": 9,
+            "id": "ENGL 411"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 104"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 118"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 121"
+        }
+    ]
+}

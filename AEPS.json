@@ -1,0 +1,915 @@
+{
+    "links": [
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 123",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 124",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 124",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 126",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 132",
+            "value": 1
+        },
+        {
+            "source": "AEPS 132",
+            "target": "AEPS 133",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 190",
+            "value": 1
+        },
+        {
+            "source": "AEPS 215",
+            "target": "AEPS 225",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 240",
+            "value": 1
+        },
+        {
+            "source": "AEPS 260",
+            "target": "AEPS 240",
+            "value": 1
+        },
+        {
+            "source": "AEPS 133",
+            "target": "AEPS 244",
+            "value": 1
+        },
+        {
+            "source": "AEPS 190",
+            "target": "AEPS 244",
+            "value": 1
+        },
+        {
+            "source": "AEPS 260",
+            "target": "AEPS 244",
+            "value": 1
+        },
+        {
+            "source": "BRAE 237",
+            "target": "AEPS 244",
+            "value": 1
+        },
+        {
+            "source": "BRAE 239",
+            "target": "AEPS 244",
+            "value": 1
+        },
+        {
+            "source": "AEPS 127",
+            "target": "AEPS 301",
+            "value": 1
+        },
+        {
+            "source": "AEPS 233",
+            "target": "AEPS 301",
+            "value": 1
+        },
+        {
+            "source": "AEPS 234",
+            "target": "AEPS 301",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 304",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "AEPS 304",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 313",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "AEPS 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "AEPS 313",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "AEPS 313",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 321",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "AEPS 323",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 323",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "AEPS 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 114",
+            "target": "AEPS 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "AEPS 329",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 329",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "AEPS 331",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "AEPS 331",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "AEPS 331",
+            "value": 1
+        },
+        {
+            "source": "AEPS 126",
+            "target": "AEPS 332",
+            "value": 1
+        },
+        {
+            "source": "AEPS 127",
+            "target": "AEPS 332",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 333",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "AEPS 333",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "AEPS 333",
+            "value": 1
+        },
+        {
+            "source": "SS 221",
+            "target": "AEPS 333",
+            "value": 1
+        },
+        {
+            "source": "AEPS 245",
+            "target": "AEPS 340",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 341",
+            "value": 1
+        },
+        {
+            "source": "AEPS 245",
+            "target": "AEPS 342",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 343",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 343",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "AEPS 343",
+            "value": 1
+        },
+        {
+            "source": "AEPS 124",
+            "target": "AEPS 350",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "AEPS 350",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "AEPS 350",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "AEPS 350",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "AEPS 351",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "AEPS 351",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 355",
+            "value": 1
+        },
+        {
+            "source": "AEPS 250",
+            "target": "AEPS 355",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 381",
+            "value": 1
+        },
+        {
+            "source": "AEPS 202",
+            "target": "AEPS 402",
+            "value": 1
+        },
+        {
+            "source": "AEPS 203",
+            "target": "AEPS 403",
+            "value": 1
+        },
+        {
+            "source": "AEPS 204",
+            "target": "AEPS 404",
+            "value": 1
+        },
+        {
+            "source": "AEPS 321",
+            "target": "AEPS 406",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "AEPS 410",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "AEPS 414",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "AEPS 414",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "AEPS 414",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "AEPS 414",
+            "value": 1
+        },
+        {
+            "source": "BOT 323",
+            "target": "AEPS 414",
+            "value": 1
+        },
+        {
+            "source": "AEPS 190",
+            "target": "AEPS 423",
+            "value": 1
+        },
+        {
+            "source": "AEPS 260",
+            "target": "AEPS 423",
+            "value": 1
+        },
+        {
+            "source": "AEPS 124",
+            "target": "AEPS 424",
+            "value": 1
+        },
+        {
+            "source": "AEPS 123",
+            "target": "AEPS 425",
+            "value": 1
+        },
+        {
+            "source": "AEPS 233",
+            "target": "AEPS 425",
+            "value": 1
+        },
+        {
+            "source": "AEPS 234",
+            "target": "AEPS 425",
+            "value": 1
+        },
+        {
+            "source": "NR 208",
+            "target": "AEPS 425",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 427",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "AEPS 427",
+            "value": 1
+        },
+        {
+            "source": "AEPS 321",
+            "target": "AEPS 427",
+            "value": 1
+        },
+        {
+            "source": "BOT 323",
+            "target": "AEPS 427",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "AEPS 431",
+            "value": 1
+        },
+        {
+            "source": "AEPS 343",
+            "target": "AEPS 432",
+            "value": 1
+        },
+        {
+            "source": "AEPS 123",
+            "target": "AEPS 434",
+            "value": 1
+        },
+        {
+            "source": "AEPS 126",
+            "target": "AEPS 434",
+            "value": 1
+        },
+        {
+            "source": "AEPS 233",
+            "target": "AEPS 435",
+            "value": 1
+        },
+        {
+            "source": "AEPS 234",
+            "target": "AEPS 435",
+            "value": 1
+        },
+        {
+            "source": "AEPS 301",
+            "target": "AEPS 435",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "AEPS 441",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AEPS 445",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "AEPS 445",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "AEPS 445",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "AEPS 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "AEPS 101"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 110"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 120"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 123"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 124"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 126"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 127"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 132"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 133"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 150"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 175"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 190"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 200"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 202"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 203"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 204"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 210"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 212"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 215"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 225"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 230"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 233"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 234"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 240"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 244"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 245"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 250"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 260"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 270"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 301"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 304"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 312"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 313"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 315"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 321"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 323"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 327"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 329"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 331"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 332"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 333"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 339"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 340"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 341"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 342"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 343"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 350"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 351"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 355"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 381"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 400"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 402"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 403"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 404"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 406"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 410"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 414"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 421"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 423"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 424"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 425"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 427"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 431"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 432"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 434"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 435"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 437"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 441"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 445"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 461"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 462"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 470"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 471"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 500"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 539"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 570"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 571"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 575"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 581"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 596"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 597"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 598"
+        },
+        {
+            "group": 1,
+            "id": "AEPS 599"
+        },
+        {
+            "group": 2,
+            "id": "BOT 121"
+        },
+        {
+            "group": 3,
+            "id": "BRAE 237"
+        },
+        {
+            "group": 3,
+            "id": "BRAE 239"
+        },
+        {
+            "group": 4,
+            "id": "STAT 218"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 110"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 6,
+            "id": "BIO 162"
+        },
+        {
+            "group": 6,
+            "id": "BIO 111"
+        },
+        {
+            "group": 6,
+            "id": "BIO 114"
+        },
+        {
+            "group": 6,
+            "id": "BIO 161"
+        },
+        {
+            "group": 7,
+            "id": "WVIT 231"
+        },
+        {
+            "group": 7,
+            "id": "WVIT 232"
+        },
+        {
+            "group": 7,
+            "id": "WVIT 233"
+        },
+        {
+            "group": 8,
+            "id": "SS 221"
+        },
+        {
+            "group": 8,
+            "id": "SS 121"
+        },
+        {
+            "group": 9,
+            "id": "MATH 118"
+        },
+        {
+            "group": 6,
+            "id": "BIO 263"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 316"
+        },
+        {
+            "group": 2,
+            "id": "BOT 323"
+        },
+        {
+            "group": 10,
+            "id": "NR 208"
+        }
+    ]
+}

@@ -1,0 +1,1073 @@
+{
+    "links": [
+        {
+            "source": "KINE 109",
+            "target": "KINE 112",
+            "value": 1
+        },
+        {
+            "source": "KINE 121",
+            "target": "KINE 122",
+            "value": 1
+        },
+        {
+            "source": "KINE 132",
+            "target": "KINE 133",
+            "value": 1
+        },
+        {
+            "source": "KINE 148",
+            "target": "KINE 149",
+            "value": 1
+        },
+        {
+            "source": "KINE 230",
+            "target": "KINE 231",
+            "value": 1
+        },
+        {
+            "source": "HLTH 101",
+            "target": "KINE 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 180",
+            "target": "KINE 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "KINE 298",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "KINE 301",
+            "value": 1
+        },
+        {
+            "source": "BIO 409",
+            "target": "KINE 301",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "KINE 303",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "KINE 303",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "KINE 303",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 304",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "KINE 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 443",
+            "target": "KINE 305",
+            "value": 1
+        },
+        {
+            "source": "GE D4",
+            "target": "KINE 308",
+            "value": 1
+        },
+        {
+            "source": "KINE 231",
+            "target": "KINE 311",
+            "value": 1
+        },
+        {
+            "source": "KINE 301",
+            "target": "KINE 311",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "KINE 319",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "KINE 319",
+            "value": 1
+        },
+        {
+            "source": "KINE 180",
+            "target": "KINE 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "KINE 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 301",
+            "target": "KINE 330",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "KINE 366",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "KINE 402",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "KINE 402",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "KINE 403",
+            "value": 1
+        },
+        {
+            "source": "KINE 301",
+            "target": "KINE 403",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "KINE 406",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "KINE 406",
+            "value": 1
+        },
+        {
+            "source": "ZOO 331",
+            "target": "KINE 406",
+            "value": 1
+        },
+        {
+            "source": "ZOO 332",
+            "target": "KINE 406",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "KINE 406",
+            "value": 1
+        },
+        {
+            "source": "KINE 230",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 231",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 330",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 459",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 408",
+            "value": 1
+        },
+        {
+            "source": "KINE 403",
+            "target": "KINE 409",
+            "value": 1
+        },
+        {
+            "source": "ME 326",
+            "target": "KINE 409",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "KINE 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 298",
+            "target": "KINE 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "KINE 434",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "KINE 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 320",
+            "target": "KINE 435",
+            "value": 1
+        },
+        {
+            "source": "KINE 434",
+            "target": "KINE 435",
+            "value": 1
+        },
+        {
+            "source": "KINE 407",
+            "target": "KINE 438",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 445",
+            "value": 1
+        },
+        {
+            "source": "KINE 445",
+            "target": "KINE 446",
+            "value": 1
+        },
+        {
+            "source": "KINE 230",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 231",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 330",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 459",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 304",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 445",
+            "target": "KINE 449",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "KINE 450",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "KINE 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "KINE 451",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "KINE 451",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "KINE 451",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 451",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 452",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "KINE 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 451",
+            "target": "KINE 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 298",
+            "target": "KINE 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 304",
+            "target": "KINE 453",
+            "value": 1
+        },
+        {
+            "source": "FSN 310",
+            "target": "KINE 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "KINE 454",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "KINE 454",
+            "value": 1
+        },
+        {
+            "source": "KINE 301",
+            "target": "KINE 459",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 459",
+            "value": 1
+        },
+        {
+            "source": "KINE 402",
+            "target": "KINE 459",
+            "value": 1
+        },
+        {
+            "source": "KINE 319",
+            "target": "KINE 460",
+            "value": 1
+        },
+        {
+            "source": "KINE 319",
+            "target": "KINE 461",
+            "value": 1
+        },
+        {
+            "source": "KINE 319",
+            "target": "KINE 462",
+            "value": 1
+        },
+        {
+            "source": "KINE 517",
+            "target": "KINE 500",
+            "value": 1
+        },
+        {
+            "source": "KINE 503",
+            "target": "KINE 510",
+            "value": 1
+        },
+        {
+            "source": "KINE 504",
+            "target": "KINE 510",
+            "value": 1
+        },
+        {
+            "source": "KINE 501",
+            "target": "KINE 517",
+            "value": 1
+        },
+        {
+            "source": "KINE 517",
+            "target": "KINE 518",
+            "value": 1
+        },
+        {
+            "source": "KINE 403",
+            "target": "KINE 522",
+            "value": 1
+        },
+        {
+            "source": "KINE 402",
+            "target": "KINE 525",
+            "value": 1
+        },
+        {
+            "source": "KINE 303",
+            "target": "KINE 530",
+            "value": 1
+        },
+        {
+            "source": "KINE 445",
+            "target": "KINE 536",
+            "value": 1
+        },
+        {
+            "source": "KINE 517",
+            "target": "KINE 599",
+            "value": 1
+        },
+        {
+            "source": "KINE 518",
+            "target": "KINE 599",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "KINE 100"
+        },
+        {
+            "group": 1,
+            "id": "KINE 108"
+        },
+        {
+            "group": 1,
+            "id": "KINE 109"
+        },
+        {
+            "group": 1,
+            "id": "KINE 112"
+        },
+        {
+            "group": 1,
+            "id": "KINE 121"
+        },
+        {
+            "group": 1,
+            "id": "KINE 122"
+        },
+        {
+            "group": 1,
+            "id": "KINE 125"
+        },
+        {
+            "group": 1,
+            "id": "KINE 129"
+        },
+        {
+            "group": 1,
+            "id": "KINE 131"
+        },
+        {
+            "group": 1,
+            "id": "KINE 132"
+        },
+        {
+            "group": 1,
+            "id": "KINE 133"
+        },
+        {
+            "group": 1,
+            "id": "KINE 137"
+        },
+        {
+            "group": 1,
+            "id": "KINE 138"
+        },
+        {
+            "group": 1,
+            "id": "KINE 139"
+        },
+        {
+            "group": 1,
+            "id": "KINE 143"
+        },
+        {
+            "group": 1,
+            "id": "KINE 144"
+        },
+        {
+            "group": 1,
+            "id": "KINE 145"
+        },
+        {
+            "group": 1,
+            "id": "KINE 147"
+        },
+        {
+            "group": 1,
+            "id": "KINE 148"
+        },
+        {
+            "group": 1,
+            "id": "KINE 149"
+        },
+        {
+            "group": 1,
+            "id": "KINE 151"
+        },
+        {
+            "group": 1,
+            "id": "KINE 154"
+        },
+        {
+            "group": 1,
+            "id": "KINE 176"
+        },
+        {
+            "group": 1,
+            "id": "KINE 180"
+        },
+        {
+            "group": 1,
+            "id": "KINE 181"
+        },
+        {
+            "group": 1,
+            "id": "KINE 208"
+        },
+        {
+            "group": 1,
+            "id": "KINE 210"
+        },
+        {
+            "group": 1,
+            "id": "KINE 212"
+        },
+        {
+            "group": 1,
+            "id": "KINE 213"
+        },
+        {
+            "group": 1,
+            "id": "KINE 214"
+        },
+        {
+            "group": 1,
+            "id": "KINE 223"
+        },
+        {
+            "group": 1,
+            "id": "KINE 224"
+        },
+        {
+            "group": 1,
+            "id": "KINE 226"
+        },
+        {
+            "group": 1,
+            "id": "KINE 229"
+        },
+        {
+            "group": 1,
+            "id": "KINE 230"
+        },
+        {
+            "group": 1,
+            "id": "KINE 231"
+        },
+        {
+            "group": 1,
+            "id": "KINE 250"
+        },
+        {
+            "group": 1,
+            "id": "KINE 255"
+        },
+        {
+            "group": 1,
+            "id": "KINE 260"
+        },
+        {
+            "group": 1,
+            "id": "KINE 265"
+        },
+        {
+            "group": 1,
+            "id": "KINE 266"
+        },
+        {
+            "group": 1,
+            "id": "KINE 278"
+        },
+        {
+            "group": 1,
+            "id": "KINE 280"
+        },
+        {
+            "group": 1,
+            "id": "KINE 281"
+        },
+        {
+            "group": 1,
+            "id": "KINE 290"
+        },
+        {
+            "group": 1,
+            "id": "KINE 297"
+        },
+        {
+            "group": 1,
+            "id": "KINE 298"
+        },
+        {
+            "group": 1,
+            "id": "KINE 301"
+        },
+        {
+            "group": 1,
+            "id": "KINE 303"
+        },
+        {
+            "group": 1,
+            "id": "KINE 304"
+        },
+        {
+            "group": 1,
+            "id": "KINE 305"
+        },
+        {
+            "group": 1,
+            "id": "KINE 308"
+        },
+        {
+            "group": 1,
+            "id": "KINE 310"
+        },
+        {
+            "group": 1,
+            "id": "KINE 311"
+        },
+        {
+            "group": 1,
+            "id": "KINE 319"
+        },
+        {
+            "group": 1,
+            "id": "KINE 320"
+        },
+        {
+            "group": 1,
+            "id": "KINE 323"
+        },
+        {
+            "group": 1,
+            "id": "KINE 324"
+        },
+        {
+            "group": 1,
+            "id": "KINE 330"
+        },
+        {
+            "group": 1,
+            "id": "KINE 366"
+        },
+        {
+            "group": 1,
+            "id": "KINE 400"
+        },
+        {
+            "group": 1,
+            "id": "KINE 401"
+        },
+        {
+            "group": 1,
+            "id": "KINE 402"
+        },
+        {
+            "group": 1,
+            "id": "KINE 403"
+        },
+        {
+            "group": 1,
+            "id": "KINE 406"
+        },
+        {
+            "group": 1,
+            "id": "KINE 407"
+        },
+        {
+            "group": 1,
+            "id": "KINE 408"
+        },
+        {
+            "group": 1,
+            "id": "KINE 409"
+        },
+        {
+            "group": 1,
+            "id": "KINE 434"
+        },
+        {
+            "group": 1,
+            "id": "KINE 435"
+        },
+        {
+            "group": 1,
+            "id": "KINE 437"
+        },
+        {
+            "group": 1,
+            "id": "KINE 438"
+        },
+        {
+            "group": 1,
+            "id": "KINE 440"
+        },
+        {
+            "group": 1,
+            "id": "KINE 443"
+        },
+        {
+            "group": 1,
+            "id": "KINE 445"
+        },
+        {
+            "group": 1,
+            "id": "KINE 446"
+        },
+        {
+            "group": 1,
+            "id": "KINE 449"
+        },
+        {
+            "group": 1,
+            "id": "KINE 450"
+        },
+        {
+            "group": 1,
+            "id": "KINE 451"
+        },
+        {
+            "group": 1,
+            "id": "KINE 452"
+        },
+        {
+            "group": 1,
+            "id": "KINE 453"
+        },
+        {
+            "group": 1,
+            "id": "KINE 454"
+        },
+        {
+            "group": 1,
+            "id": "KINE 459"
+        },
+        {
+            "group": 1,
+            "id": "KINE 460"
+        },
+        {
+            "group": 1,
+            "id": "KINE 461"
+        },
+        {
+            "group": 1,
+            "id": "KINE 462"
+        },
+        {
+            "group": 1,
+            "id": "KINE 463"
+        },
+        {
+            "group": 1,
+            "id": "KINE 470"
+        },
+        {
+            "group": 1,
+            "id": "KINE 471"
+        },
+        {
+            "group": 1,
+            "id": "KINE 485"
+        },
+        {
+            "group": 1,
+            "id": "KINE 495"
+        },
+        {
+            "group": 1,
+            "id": "KINE 500"
+        },
+        {
+            "group": 1,
+            "id": "KINE 501"
+        },
+        {
+            "group": 1,
+            "id": "KINE 503"
+        },
+        {
+            "group": 1,
+            "id": "KINE 504"
+        },
+        {
+            "group": 1,
+            "id": "KINE 505"
+        },
+        {
+            "group": 1,
+            "id": "KINE 510"
+        },
+        {
+            "group": 1,
+            "id": "KINE 511"
+        },
+        {
+            "group": 1,
+            "id": "KINE 517"
+        },
+        {
+            "group": 1,
+            "id": "KINE 518"
+        },
+        {
+            "group": 1,
+            "id": "KINE 522"
+        },
+        {
+            "group": 1,
+            "id": "KINE 525"
+        },
+        {
+            "group": 1,
+            "id": "KINE 526"
+        },
+        {
+            "group": 1,
+            "id": "KINE 530"
+        },
+        {
+            "group": 1,
+            "id": "KINE 536"
+        },
+        {
+            "group": 1,
+            "id": "KINE 537"
+        },
+        {
+            "group": 1,
+            "id": "KINE 539"
+        },
+        {
+            "group": 1,
+            "id": "KINE 570"
+        },
+        {
+            "group": 1,
+            "id": "KINE 581"
+        },
+        {
+            "group": 1,
+            "id": "KINE 585"
+        },
+        {
+            "group": 1,
+            "id": "KINE 599"
+        },
+        {
+            "group": 2,
+            "id": "HLTH 101"
+        },
+        {
+            "group": 3,
+            "id": "BIO 231"
+        },
+        {
+            "group": 3,
+            "id": "BIO 409"
+        },
+        {
+            "group": 3,
+            "id": "BIO 232"
+        },
+        {
+            "group": 3,
+            "id": "BIO 361"
+        },
+        {
+            "group": 4,
+            "id": "GE D4"
+        },
+        {
+            "group": 5,
+            "id": "STAT 217"
+        },
+        {
+            "group": 5,
+            "id": "STAT 218"
+        },
+        {
+            "group": 6,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 7,
+            "id": "ZOO 331"
+        },
+        {
+            "group": 7,
+            "id": "ZOO 332"
+        },
+        {
+            "group": 8,
+            "id": "ME 326"
+        },
+        {
+            "group": 2,
+            "id": "HLTH 334"
+        },
+        {
+            "group": 9,
+            "id": "FSN 210"
+        },
+        {
+            "group": 9,
+            "id": "FSN 310"
+        },
+        {
+            "group": 10,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 10,
+            "id": "CHEM 312"
+        }
+    ]
+}

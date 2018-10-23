@@ -1,0 +1,242 @@
+{
+    "links": [
+        {
+            "source": "AGED 303",
+            "target": "AGED 350",
+            "value": 1
+        },
+        {
+            "source": "GE D4",
+            "target": "AGED 404",
+            "value": 1
+        },
+        {
+            "source": "AGED 102",
+            "target": "AGED 410",
+            "value": 1
+        },
+        {
+            "source": "AGED 438",
+            "target": "AGED 424",
+            "value": 1
+        },
+        {
+            "source": "AGED 460",
+            "target": "AGED 461",
+            "value": 1
+        },
+        {
+            "source": "AGED 461",
+            "target": "AGED 462",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "AGED 525",
+            "value": 1
+        },
+        {
+            "source": "AEPS 230",
+            "target": "AGED 525",
+            "value": 1
+        },
+        {
+            "source": "AGED 438",
+            "target": "AGED 526",
+            "value": 1
+        },
+        {
+            "source": "AGED 438",
+            "target": "AGED 537",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "AGED 537",
+            "value": 1
+        },
+        {
+            "source": "AGED 524",
+            "target": "AGED 540",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "AGED 102"
+        },
+        {
+            "group": 1,
+            "id": "AGED 200"
+        },
+        {
+            "group": 1,
+            "id": "AGED 220"
+        },
+        {
+            "group": 1,
+            "id": "AGED 270"
+        },
+        {
+            "group": 1,
+            "id": "AGED 303"
+        },
+        {
+            "group": 1,
+            "id": "AGED 339"
+        },
+        {
+            "group": 1,
+            "id": "AGED 350"
+        },
+        {
+            "group": 1,
+            "id": "AGED 400"
+        },
+        {
+            "group": 1,
+            "id": "AGED 404"
+        },
+        {
+            "group": 1,
+            "id": "AGED 410"
+        },
+        {
+            "group": 1,
+            "id": "AGED 412"
+        },
+        {
+            "group": 1,
+            "id": "AGED 424"
+        },
+        {
+            "group": 1,
+            "id": "AGED 440"
+        },
+        {
+            "group": 1,
+            "id": "AGED 441"
+        },
+        {
+            "group": 1,
+            "id": "AGED 460"
+        },
+        {
+            "group": 1,
+            "id": "AGED 461"
+        },
+        {
+            "group": 1,
+            "id": "AGED 462"
+        },
+        {
+            "group": 1,
+            "id": "AGED 470"
+        },
+        {
+            "group": 1,
+            "id": "AGED 471"
+        },
+        {
+            "group": 1,
+            "id": "AGED 481"
+        },
+        {
+            "group": 1,
+            "id": "AGED 482"
+        },
+        {
+            "group": 1,
+            "id": "AGED 500"
+        },
+        {
+            "group": 1,
+            "id": "AGED 501"
+        },
+        {
+            "group": 1,
+            "id": "AGED 513"
+        },
+        {
+            "group": 1,
+            "id": "AGED 520"
+        },
+        {
+            "group": 1,
+            "id": "AGED 522"
+        },
+        {
+            "group": 1,
+            "id": "AGED 523"
+        },
+        {
+            "group": 1,
+            "id": "AGED 524"
+        },
+        {
+            "group": 1,
+            "id": "AGED 525"
+        },
+        {
+            "group": 1,
+            "id": "AGED 526"
+        },
+        {
+            "group": 1,
+            "id": "AGED 530"
+        },
+        {
+            "group": 1,
+            "id": "AGED 536"
+        },
+        {
+            "group": 1,
+            "id": "AGED 537"
+        },
+        {
+            "group": 1,
+            "id": "AGED 539"
+        },
+        {
+            "group": 1,
+            "id": "AGED 540"
+        },
+        {
+            "group": 1,
+            "id": "AGED 570"
+        },
+        {
+            "group": 1,
+            "id": "AGED 571"
+        },
+        {
+            "group": 1,
+            "id": "AGED 580"
+        },
+        {
+            "group": 1,
+            "id": "AGED 581"
+        },
+        {
+            "group": 2,
+            "id": "GE D4"
+        },
+        {
+            "group": 1,
+            "id": "AGED 438"
+        },
+        {
+            "group": 3,
+            "id": "AEPS 120"
+        },
+        {
+            "group": 3,
+            "id": "AEPS 230"
+        },
+        {
+            "group": 4,
+            "id": "BIO 111"
+        }
+    ]
+}

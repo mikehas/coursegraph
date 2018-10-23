@@ -6,11 +6,19 @@ from pprint import pprint
 import json
 import sys
 
-courses = {}
+
+args = sys.argv
+
 
 limit =  -1# -1 for no limit
 filter = "" # comma separated list of
 
+if len(args) > 1:
+    filter = args[1]
+if len(args) > 2:
+    limit = args[2]
+
+courses = {}
 name_links = []
 graph = {"nodes":[], "links": [] }
 name_idx = {}
@@ -99,5 +107,9 @@ graph['links'] = name_links
 pprint(graph)
 pprint(depts)
 
-writeFile(graph, "courses.json")
+if filter == "":
+    writeFile(graph, "courses.json")
+else:
+    writeFile(graph, filter + ".json")
+
 # writeFile(depts, "departments.json")

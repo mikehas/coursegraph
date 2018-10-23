@@ -1,0 +1,625 @@
+{
+    "links": [
+        {
+            "source": "MATE 110",
+            "target": "MATE 120",
+            "value": 1
+        },
+        {
+            "source": "MATE 120",
+            "target": "MATE 130",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "MATE 210",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "MATE 210",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "MATE 210",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 222",
+            "value": 1
+        },
+        {
+            "source": "MATE 215",
+            "target": "MATE 225",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 232",
+            "value": 1
+        },
+        {
+            "source": "MATE 225",
+            "target": "MATE 235",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 310",
+            "value": 1
+        },
+        {
+            "source": "MATE 340",
+            "target": "MATE 310",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "MATE 310",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "MATE 325",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "MATE 325",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "MATE 326",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "MATE 326",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "MATE 327",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "MATE 327",
+            "value": 1
+        },
+        {
+            "source": "MATE 350",
+            "target": "MATE 330",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 340",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "MATE 340",
+            "value": 1
+        },
+        {
+            "source": "MATE 360",
+            "target": "MATE 350",
+            "value": 1
+        },
+        {
+            "source": "MATE 232",
+            "target": "MATE 360",
+            "value": 1
+        },
+        {
+            "source": "MATE 235",
+            "target": "MATE 360",
+            "value": 1
+        },
+        {
+            "source": "MATE 360",
+            "target": "MATE 370",
+            "value": 1
+        },
+        {
+            "source": "MATE 380",
+            "target": "MATE 370",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "MATE 380",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "MATE 380",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATE 380",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 380",
+            "value": 1
+        },
+        {
+            "source": "MATE 215",
+            "target": "MATE 380",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 401",
+            "value": 1
+        },
+        {
+            "source": "MATE 215",
+            "target": "MATE 401",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "MATE 410",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "MATE 410",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 410",
+            "value": 1
+        },
+        {
+            "source": "MATE 310",
+            "target": "MATE 420",
+            "value": 1
+        },
+        {
+            "source": "CHEM 444",
+            "target": "MATE 420",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "MATE 425",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "MATE 425",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 425",
+            "value": 1
+        },
+        {
+            "source": "MATE 215",
+            "target": "MATE 425",
+            "value": 1
+        },
+        {
+            "source": "BMED 212",
+            "target": "MATE 430",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 430",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 440",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 445",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "MATE 446",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "MATE 446",
+            "value": 1
+        },
+        {
+            "source": "CHEM 351",
+            "target": "MATE 446",
+            "value": 1
+        },
+        {
+            "source": "MATE 380",
+            "target": "MATE 446",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "MATE 446",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 450",
+            "value": 1
+        },
+        {
+            "source": "MATE 215",
+            "target": "MATE 450",
+            "value": 1
+        },
+        {
+            "source": "MATE 350",
+            "target": "MATE 450",
+            "value": 1
+        },
+        {
+            "source": "EE 112",
+            "target": "MATE 458",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "MATE 458",
+            "value": 1
+        },
+        {
+            "source": "MATE 350",
+            "target": "MATE 460",
+            "value": 1
+        },
+        {
+            "source": "IME 144",
+            "target": "MATE 482",
+            "value": 1
+        },
+        {
+            "source": "MATE 482",
+            "target": "MATE 483",
+            "value": 1
+        },
+        {
+            "source": "MATE 483",
+            "target": "MATE 484",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 510",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 522",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "MATE 530",
+            "value": 1
+        },
+        {
+            "source": "BIO 213",
+            "target": "MATE 530",
+            "value": 1
+        },
+        {
+            "source": "BRAE 213",
+            "target": "MATE 530",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 530",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "MATE 590",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "MATE 110"
+        },
+        {
+            "group": 1,
+            "id": "MATE 120"
+        },
+        {
+            "group": 1,
+            "id": "MATE 130"
+        },
+        {
+            "group": 1,
+            "id": "MATE 200"
+        },
+        {
+            "group": 1,
+            "id": "MATE 210"
+        },
+        {
+            "group": 1,
+            "id": "MATE 215"
+        },
+        {
+            "group": 1,
+            "id": "MATE 222"
+        },
+        {
+            "group": 1,
+            "id": "MATE 225"
+        },
+        {
+            "group": 1,
+            "id": "MATE 232"
+        },
+        {
+            "group": 1,
+            "id": "MATE 235"
+        },
+        {
+            "group": 1,
+            "id": "MATE 270"
+        },
+        {
+            "group": 1,
+            "id": "MATE 310"
+        },
+        {
+            "group": 1,
+            "id": "MATE 325"
+        },
+        {
+            "group": 1,
+            "id": "MATE 326"
+        },
+        {
+            "group": 1,
+            "id": "MATE 327"
+        },
+        {
+            "group": 1,
+            "id": "MATE 330"
+        },
+        {
+            "group": 1,
+            "id": "MATE 340"
+        },
+        {
+            "group": 1,
+            "id": "MATE 350"
+        },
+        {
+            "group": 1,
+            "id": "MATE 359"
+        },
+        {
+            "group": 1,
+            "id": "MATE 360"
+        },
+        {
+            "group": 1,
+            "id": "MATE 370"
+        },
+        {
+            "group": 1,
+            "id": "MATE 380"
+        },
+        {
+            "group": 1,
+            "id": "MATE 400"
+        },
+        {
+            "group": 1,
+            "id": "MATE 401"
+        },
+        {
+            "group": 1,
+            "id": "MATE 410"
+        },
+        {
+            "group": 1,
+            "id": "MATE 420"
+        },
+        {
+            "group": 1,
+            "id": "MATE 425"
+        },
+        {
+            "group": 1,
+            "id": "MATE 430"
+        },
+        {
+            "group": 1,
+            "id": "MATE 435"
+        },
+        {
+            "group": 1,
+            "id": "MATE 440"
+        },
+        {
+            "group": 1,
+            "id": "MATE 445"
+        },
+        {
+            "group": 1,
+            "id": "MATE 446"
+        },
+        {
+            "group": 1,
+            "id": "MATE 450"
+        },
+        {
+            "group": 1,
+            "id": "MATE 458"
+        },
+        {
+            "group": 1,
+            "id": "MATE 460"
+        },
+        {
+            "group": 1,
+            "id": "MATE 470"
+        },
+        {
+            "group": 1,
+            "id": "MATE 471"
+        },
+        {
+            "group": 1,
+            "id": "MATE 482"
+        },
+        {
+            "group": 1,
+            "id": "MATE 483"
+        },
+        {
+            "group": 1,
+            "id": "MATE 484"
+        },
+        {
+            "group": 1,
+            "id": "MATE 495"
+        },
+        {
+            "group": 1,
+            "id": "MATE 500"
+        },
+        {
+            "group": 1,
+            "id": "MATE 510"
+        },
+        {
+            "group": 1,
+            "id": "MATE 522"
+        },
+        {
+            "group": 1,
+            "id": "MATE 530"
+        },
+        {
+            "group": 1,
+            "id": "MATE 550"
+        },
+        {
+            "group": 1,
+            "id": "MATE 570"
+        },
+        {
+            "group": 1,
+            "id": "MATE 571"
+        },
+        {
+            "group": 1,
+            "id": "MATE 590"
+        },
+        {
+            "group": 1,
+            "id": "MATE 599"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 3,
+            "id": "STAT 312"
+        },
+        {
+            "group": 4,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 5,
+            "id": "MATH 141"
+        },
+        {
+            "group": 6,
+            "id": "ME 211"
+        },
+        {
+            "group": 4,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 125"
+        },
+        {
+            "group": 5,
+            "id": "MATH 143"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 444"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 128"
+        },
+        {
+            "group": 7,
+            "id": "BMED 212"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 351"
+        },
+        {
+            "group": 6,
+            "id": "ME 302"
+        },
+        {
+            "group": 8,
+            "id": "EE 112"
+        },
+        {
+            "group": 8,
+            "id": "EE 201"
+        },
+        {
+            "group": 9,
+            "id": "IME 144"
+        },
+        {
+            "group": 10,
+            "id": "BIO 161"
+        },
+        {
+            "group": 10,
+            "id": "BIO 213"
+        },
+        {
+            "group": 11,
+            "id": "BRAE 213"
+        }
+    ]
+}

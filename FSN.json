@@ -1,0 +1,730 @@
+{
+    "links": [
+        {
+            "source": "FSN 125",
+            "target": "FSN 201",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 201",
+            "value": 1
+        },
+        {
+            "source": "FSN 121",
+            "target": "FSN 201",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 204",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 204",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 244",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 244",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "FSN 304",
+            "value": 1
+        },
+        {
+            "source": "FSN 121",
+            "target": "FSN 304",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "FSN 310",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "FSN 311",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 311",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 311",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "FSN 315",
+            "value": 1
+        },
+        {
+            "source": "FSN 121",
+            "target": "FSN 321",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "FSN 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "FSN 328",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "FSN 328",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "FSN 328",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "FSN 328",
+            "value": 1
+        },
+        {
+            "source": "FSN 328",
+            "target": "FSN 329",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 330",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "FSN 330",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "FSN 330",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 334",
+            "value": 1
+        },
+        {
+            "source": "FSN 204",
+            "target": "FSN 334",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 335",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 335",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "FSN 342",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "FSN 342",
+            "value": 1
+        },
+        {
+            "source": "FSN 121",
+            "target": "FSN 343",
+            "value": 1
+        },
+        {
+            "source": "FSN 321",
+            "target": "FSN 344",
+            "value": 1
+        },
+        {
+            "source": "FSN 343",
+            "target": "FSN 344",
+            "value": 1
+        },
+        {
+            "source": "FSN 342",
+            "target": "FSN 346",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 364",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 364",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "FSN 364",
+            "value": 1
+        },
+        {
+            "source": "FSN 364",
+            "target": "FSN 368",
+            "value": 1
+        },
+        {
+            "source": "FSN 204",
+            "target": "FSN 370",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "FSN 370",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 374",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 374",
+            "value": 1
+        },
+        {
+            "source": "WVIT 102",
+            "target": "FSN 374",
+            "value": 1
+        },
+        {
+            "source": "FSN 370",
+            "target": "FSN 375",
+            "value": 1
+        },
+        {
+            "source": "FSN 201",
+            "target": "FSN 401",
+            "value": 1
+        },
+        {
+            "source": "FSN 311",
+            "target": "FSN 408",
+            "value": 1
+        },
+        {
+            "source": "FSN 368",
+            "target": "FSN 408",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "FSN 410",
+            "value": 1
+        },
+        {
+            "source": "FSN 125",
+            "target": "FSN 410",
+            "value": 1
+        },
+        {
+            "source": "FSN 230",
+            "target": "FSN 410",
+            "value": 1
+        },
+        {
+            "source": "FSN 328",
+            "target": "FSN 416",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "FSN 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "FSN 420",
+            "value": 1
+        },
+        {
+            "source": "FSN 344",
+            "target": "FSN 426",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "FSN 429",
+            "value": 1
+        },
+        {
+            "source": "ZOO 331",
+            "target": "FSN 429",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "FSN 429",
+            "value": 1
+        },
+        {
+            "source": "ZOO 332",
+            "target": "FSN 429",
+            "value": 1
+        },
+        {
+            "source": "FSN 429",
+            "target": "FSN 430",
+            "value": 1
+        },
+        {
+            "source": "FSN 204",
+            "target": "FSN 444",
+            "value": 1
+        },
+        {
+            "source": "FSN 330",
+            "target": "FSN 444",
+            "value": 1
+        },
+        {
+            "source": "FSN 364",
+            "target": "FSN 461",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "FSN 461",
+            "value": 1
+        },
+        {
+            "source": "FSN 461",
+            "target": "FSN 462",
+            "value": 1
+        },
+        {
+            "source": "FSN 444",
+            "target": "FSN 474",
+            "value": 1
+        },
+        {
+            "source": "FSN 408",
+            "target": "FSN 508",
+            "value": 1
+        },
+        {
+            "source": "FSN 416",
+            "target": "FSN 516",
+            "value": 1
+        },
+        {
+            "source": "FSN 328",
+            "target": "FSN 528",
+            "value": 1
+        },
+        {
+            "source": "FSN 329",
+            "target": "FSN 529",
+            "value": 1
+        },
+        {
+            "source": "FSN 329",
+            "target": "FSN 530",
+            "value": 1
+        },
+        {
+            "source": "FSN 364",
+            "target": "FSN 564",
+            "value": 1
+        },
+        {
+            "source": "FSN 335",
+            "target": "FSN 574",
+            "value": 1
+        },
+        {
+            "source": "FSN 444",
+            "target": "FSN 574",
+            "value": 1
+        },
+        {
+            "source": "FSN 474",
+            "target": "FSN 574",
+            "value": 1
+        },
+        {
+            "source": "FSN 375",
+            "target": "FSN 575",
+            "value": 1
+        },
+        {
+            "source": "MCRO 421",
+            "target": "FSN 575",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "FSN 101"
+        },
+        {
+            "group": 1,
+            "id": "FSN 121"
+        },
+        {
+            "group": 1,
+            "id": "FSN 125"
+        },
+        {
+            "group": 1,
+            "id": "FSN 200"
+        },
+        {
+            "group": 1,
+            "id": "FSN 201"
+        },
+        {
+            "group": 1,
+            "id": "FSN 204"
+        },
+        {
+            "group": 1,
+            "id": "FSN 210"
+        },
+        {
+            "group": 1,
+            "id": "FSN 230"
+        },
+        {
+            "group": 1,
+            "id": "FSN 244"
+        },
+        {
+            "group": 1,
+            "id": "FSN 250"
+        },
+        {
+            "group": 1,
+            "id": "FSN 275"
+        },
+        {
+            "group": 1,
+            "id": "FSN 290"
+        },
+        {
+            "group": 1,
+            "id": "FSN 304"
+        },
+        {
+            "group": 1,
+            "id": "FSN 310"
+        },
+        {
+            "group": 1,
+            "id": "FSN 311"
+        },
+        {
+            "group": 1,
+            "id": "FSN 315"
+        },
+        {
+            "group": 1,
+            "id": "FSN 319"
+        },
+        {
+            "group": 1,
+            "id": "FSN 321"
+        },
+        {
+            "group": 1,
+            "id": "FSN 328"
+        },
+        {
+            "group": 1,
+            "id": "FSN 329"
+        },
+        {
+            "group": 1,
+            "id": "FSN 330"
+        },
+        {
+            "group": 1,
+            "id": "FSN 334"
+        },
+        {
+            "group": 1,
+            "id": "FSN 335"
+        },
+        {
+            "group": 1,
+            "id": "FSN 341"
+        },
+        {
+            "group": 1,
+            "id": "FSN 342"
+        },
+        {
+            "group": 1,
+            "id": "FSN 343"
+        },
+        {
+            "group": 1,
+            "id": "FSN 344"
+        },
+        {
+            "group": 1,
+            "id": "FSN 346"
+        },
+        {
+            "group": 1,
+            "id": "FSN 354"
+        },
+        {
+            "group": 1,
+            "id": "FSN 364"
+        },
+        {
+            "group": 1,
+            "id": "FSN 368"
+        },
+        {
+            "group": 1,
+            "id": "FSN 370"
+        },
+        {
+            "group": 1,
+            "id": "FSN 374"
+        },
+        {
+            "group": 1,
+            "id": "FSN 375"
+        },
+        {
+            "group": 1,
+            "id": "FSN 400"
+        },
+        {
+            "group": 1,
+            "id": "FSN 401"
+        },
+        {
+            "group": 1,
+            "id": "FSN 408"
+        },
+        {
+            "group": 1,
+            "id": "FSN 410"
+        },
+        {
+            "group": 1,
+            "id": "FSN 415"
+        },
+        {
+            "group": 1,
+            "id": "FSN 416"
+        },
+        {
+            "group": 1,
+            "id": "FSN 417"
+        },
+        {
+            "group": 1,
+            "id": "FSN 420"
+        },
+        {
+            "group": 1,
+            "id": "FSN 426"
+        },
+        {
+            "group": 1,
+            "id": "FSN 429"
+        },
+        {
+            "group": 1,
+            "id": "FSN 430"
+        },
+        {
+            "group": 1,
+            "id": "FSN 440"
+        },
+        {
+            "group": 1,
+            "id": "FSN 444"
+        },
+        {
+            "group": 1,
+            "id": "FSN 461"
+        },
+        {
+            "group": 1,
+            "id": "FSN 462"
+        },
+        {
+            "group": 1,
+            "id": "FSN 463"
+        },
+        {
+            "group": 1,
+            "id": "FSN 470"
+        },
+        {
+            "group": 1,
+            "id": "FSN 471"
+        },
+        {
+            "group": 1,
+            "id": "FSN 474"
+        },
+        {
+            "group": 1,
+            "id": "FSN 485"
+        },
+        {
+            "group": 1,
+            "id": "FSN 495"
+        },
+        {
+            "group": 1,
+            "id": "FSN 500"
+        },
+        {
+            "group": 1,
+            "id": "FSN 501"
+        },
+        {
+            "group": 1,
+            "id": "FSN 505"
+        },
+        {
+            "group": 1,
+            "id": "FSN 508"
+        },
+        {
+            "group": 1,
+            "id": "FSN 516"
+        },
+        {
+            "group": 1,
+            "id": "FSN 528"
+        },
+        {
+            "group": 1,
+            "id": "FSN 529"
+        },
+        {
+            "group": 1,
+            "id": "FSN 530"
+        },
+        {
+            "group": 1,
+            "id": "FSN 541"
+        },
+        {
+            "group": 1,
+            "id": "FSN 564"
+        },
+        {
+            "group": 1,
+            "id": "FSN 570"
+        },
+        {
+            "group": 1,
+            "id": "FSN 571"
+        },
+        {
+            "group": 1,
+            "id": "FSN 574"
+        },
+        {
+            "group": 1,
+            "id": "FSN 575"
+        },
+        {
+            "group": 1,
+            "id": "FSN 581"
+        },
+        {
+            "group": 1,
+            "id": "FSN 599"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 3,
+            "id": "STAT 218"
+        },
+        {
+            "group": 4,
+            "id": "BIO 161"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 371"
+        },
+        {
+            "group": 5,
+            "id": "MATH 118"
+        },
+        {
+            "group": 6,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 7,
+            "id": "MCRO 221"
+        },
+        {
+            "group": 8,
+            "id": "WVIT 102"
+        },
+        {
+            "group": 9,
+            "id": "PSY 201"
+        },
+        {
+            "group": 4,
+            "id": "BIO 231"
+        },
+        {
+            "group": 10,
+            "id": "ZOO 331"
+        },
+        {
+            "group": 4,
+            "id": "BIO 232"
+        },
+        {
+            "group": 10,
+            "id": "ZOO 332"
+        },
+        {
+            "group": 7,
+            "id": "MCRO 421"
+        }
+    ]
+}

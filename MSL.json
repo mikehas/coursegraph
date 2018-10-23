@@ -1,0 +1,239 @@
+{
+    "links": [
+        {
+            "source": "MSL 101",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 102",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 103",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 201",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 202",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 203",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 212",
+            "target": "MSL 301",
+            "value": 1
+        },
+        {
+            "source": "MSL 301",
+            "target": "MSL 302",
+            "value": 1
+        },
+        {
+            "source": "MSL 301",
+            "target": "MSL 303",
+            "value": 1
+        },
+        {
+            "source": "MSL 302",
+            "target": "MSL 303",
+            "value": 1
+        },
+        {
+            "source": "MSL 110",
+            "target": "MSL 310",
+            "value": 1
+        },
+        {
+            "source": "MSL 112",
+            "target": "MSL 312",
+            "value": 1
+        },
+        {
+            "source": "MSL 301",
+            "target": "MSL 314",
+            "value": 1
+        },
+        {
+            "source": "MSL 302",
+            "target": "MSL 314",
+            "value": 1
+        },
+        {
+            "source": "MSL 303",
+            "target": "MSL 314",
+            "value": 1
+        },
+        {
+            "source": "MSL 301",
+            "target": "MSL 401",
+            "value": 1
+        },
+        {
+            "source": "MSL 302",
+            "target": "MSL 401",
+            "value": 1
+        },
+        {
+            "source": "MSL 303",
+            "target": "MSL 401",
+            "value": 1
+        },
+        {
+            "source": "MSL 401",
+            "target": "MSL 402",
+            "value": 1
+        },
+        {
+            "source": "MSL 401",
+            "target": "MSL 403",
+            "value": 1
+        },
+        {
+            "source": "MSL 402",
+            "target": "MSL 403",
+            "value": 1
+        },
+        {
+            "source": "MSL 303",
+            "target": "MSL 410",
+            "value": 1
+        },
+        {
+            "source": "MSL 310",
+            "target": "MSL 410",
+            "value": 1
+        },
+        {
+            "source": "MSL 303",
+            "target": "MSL 412",
+            "value": 1
+        },
+        {
+            "source": "MSL 312",
+            "target": "MSL 412",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "MSL 101"
+        },
+        {
+            "group": 1,
+            "id": "MSL 102"
+        },
+        {
+            "group": 1,
+            "id": "MSL 103"
+        },
+        {
+            "group": 1,
+            "id": "MSL 110"
+        },
+        {
+            "group": 1,
+            "id": "MSL 111"
+        },
+        {
+            "group": 1,
+            "id": "MSL 112"
+        },
+        {
+            "group": 1,
+            "id": "MSL 201"
+        },
+        {
+            "group": 1,
+            "id": "MSL 202"
+        },
+        {
+            "group": 1,
+            "id": "MSL 203"
+        },
+        {
+            "group": 1,
+            "id": "MSL 212"
+        },
+        {
+            "group": 1,
+            "id": "MSL 229"
+        },
+        {
+            "group": 1,
+            "id": "MSL 240"
+        },
+        {
+            "group": 1,
+            "id": "MSL 270"
+        },
+        {
+            "group": 1,
+            "id": "MSL 275"
+        },
+        {
+            "group": 1,
+            "id": "MSL 301"
+        },
+        {
+            "group": 1,
+            "id": "MSL 302"
+        },
+        {
+            "group": 1,
+            "id": "MSL 303"
+        },
+        {
+            "group": 1,
+            "id": "MSL 310"
+        },
+        {
+            "group": 1,
+            "id": "MSL 312"
+        },
+        {
+            "group": 1,
+            "id": "MSL 314"
+        },
+        {
+            "group": 1,
+            "id": "MSL 400"
+        },
+        {
+            "group": 1,
+            "id": "MSL 401"
+        },
+        {
+            "group": 1,
+            "id": "MSL 402"
+        },
+        {
+            "group": 1,
+            "id": "MSL 403"
+        },
+        {
+            "group": 1,
+            "id": "MSL 410"
+        },
+        {
+            "group": 1,
+            "id": "MSL 412"
+        },
+        {
+            "group": 1,
+            "id": "MSL 470"
+        }
+    ]
+}

@@ -1,0 +1,506 @@
+{
+    "links": [
+        {
+            "source": "ARCE 106",
+            "target": "CM 115",
+            "value": 1
+        },
+        {
+            "source": "CM 113",
+            "target": "CM 115",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "CM 115",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "CM 115",
+            "value": 1
+        },
+        {
+            "source": "CM 115",
+            "target": "CM 214",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "CM 214",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "CM 214",
+            "value": 1
+        },
+        {
+            "source": "ARCH 106",
+            "target": "CM 221",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "CM 232",
+            "value": 1
+        },
+        {
+            "source": "MATH 182",
+            "target": "CM 232",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "CM 239",
+            "value": 1
+        },
+        {
+            "source": "CE 113",
+            "target": "CM 280",
+            "value": 1
+        },
+        {
+            "source": "CM 115",
+            "target": "CM 280",
+            "value": 1
+        },
+        {
+            "source": "CM 113",
+            "target": "CM 310",
+            "value": 1
+        },
+        {
+            "source": "CM 214",
+            "target": "CM 313",
+            "value": 1
+        },
+        {
+            "source": "ARCE 212",
+            "target": "CM 313",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 314",
+            "value": 1
+        },
+        {
+            "source": "CM 115",
+            "target": "CM 334",
+            "value": 1
+        },
+        {
+            "source": "BUS 207",
+            "target": "CM 334",
+            "value": 1
+        },
+        {
+            "source": "BUS 215",
+            "target": "CM 335",
+            "value": 1
+        },
+        {
+            "source": "CM 232",
+            "target": "CM 335",
+            "value": 1
+        },
+        {
+            "source": "ARCE 106",
+            "target": "CM 371",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CM 371",
+            "value": 1
+        },
+        {
+            "source": "CM 113",
+            "target": "CM 371",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 411",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 413",
+            "value": 1
+        },
+        {
+            "source": "CM 413",
+            "target": "CM 415",
+            "value": 1
+        },
+        {
+            "source": "CM 480",
+            "target": "CM 415",
+            "value": 1
+        },
+        {
+            "source": "CM 214",
+            "target": "CM 433",
+            "value": 1
+        },
+        {
+            "source": "CM 334",
+            "target": "CM 443",
+            "value": 1
+        },
+        {
+            "source": "CM 335",
+            "target": "CM 443",
+            "value": 1
+        },
+        {
+            "source": "CM 413",
+            "target": "CM 443",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 450",
+            "value": 1
+        },
+        {
+            "source": "CM 334",
+            "target": "CM 450",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 460",
+            "value": 1
+        },
+        {
+            "source": "CM 460",
+            "target": "CM 461",
+            "value": 1
+        },
+        {
+            "source": "CM 460",
+            "target": "CM 462",
+            "value": 1
+        },
+        {
+            "source": "CM 413",
+            "target": "CM 463",
+            "value": 1
+        },
+        {
+            "source": "CM 313",
+            "target": "CM 480",
+            "value": 1
+        },
+        {
+            "source": "CM 510",
+            "target": "CM 511",
+            "value": 1
+        },
+        {
+            "source": "CM 510",
+            "target": "CM 512",
+            "value": 1
+        },
+        {
+            "source": "CM 510",
+            "target": "CM 513",
+            "value": 1
+        },
+        {
+            "source": "CM 510",
+            "target": "CM 514",
+            "value": 1
+        },
+        {
+            "source": "CM 510",
+            "target": "CM 515",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CM 102"
+        },
+        {
+            "group": 1,
+            "id": "CM 113"
+        },
+        {
+            "group": 1,
+            "id": "CM 114"
+        },
+        {
+            "group": 1,
+            "id": "CM 115"
+        },
+        {
+            "group": 1,
+            "id": "CM 212"
+        },
+        {
+            "group": 1,
+            "id": "CM 214"
+        },
+        {
+            "group": 1,
+            "id": "CM 221"
+        },
+        {
+            "group": 1,
+            "id": "CM 232"
+        },
+        {
+            "group": 1,
+            "id": "CM 239"
+        },
+        {
+            "group": 1,
+            "id": "CM 270"
+        },
+        {
+            "group": 1,
+            "id": "CM 280"
+        },
+        {
+            "group": 1,
+            "id": "CM 310"
+        },
+        {
+            "group": 1,
+            "id": "CM 313"
+        },
+        {
+            "group": 1,
+            "id": "CM 314"
+        },
+        {
+            "group": 1,
+            "id": "CM 317"
+        },
+        {
+            "group": 1,
+            "id": "CM 334"
+        },
+        {
+            "group": 1,
+            "id": "CM 335"
+        },
+        {
+            "group": 1,
+            "id": "CM 371"
+        },
+        {
+            "group": 1,
+            "id": "CM 400"
+        },
+        {
+            "group": 1,
+            "id": "CM 411"
+        },
+        {
+            "group": 1,
+            "id": "CM 413"
+        },
+        {
+            "group": 1,
+            "id": "CM 415"
+        },
+        {
+            "group": 1,
+            "id": "CM 420"
+        },
+        {
+            "group": 1,
+            "id": "CM 421"
+        },
+        {
+            "group": 1,
+            "id": "CM 422"
+        },
+        {
+            "group": 1,
+            "id": "CM 423"
+        },
+        {
+            "group": 1,
+            "id": "CM 424"
+        },
+        {
+            "group": 1,
+            "id": "CM 425"
+        },
+        {
+            "group": 1,
+            "id": "CM 426"
+        },
+        {
+            "group": 1,
+            "id": "CM 432"
+        },
+        {
+            "group": 1,
+            "id": "CM 433"
+        },
+        {
+            "group": 1,
+            "id": "CM 443"
+        },
+        {
+            "group": 1,
+            "id": "CM 450"
+        },
+        {
+            "group": 1,
+            "id": "CM 460"
+        },
+        {
+            "group": 1,
+            "id": "CM 461"
+        },
+        {
+            "group": 1,
+            "id": "CM 462"
+        },
+        {
+            "group": 1,
+            "id": "CM 463"
+        },
+        {
+            "group": 1,
+            "id": "CM 470"
+        },
+        {
+            "group": 1,
+            "id": "CM 471"
+        },
+        {
+            "group": 1,
+            "id": "CM 475"
+        },
+        {
+            "group": 1,
+            "id": "CM 480"
+        },
+        {
+            "group": 1,
+            "id": "CM 485"
+        },
+        {
+            "group": 1,
+            "id": "CM 495"
+        },
+        {
+            "group": 1,
+            "id": "CM 510"
+        },
+        {
+            "group": 1,
+            "id": "CM 511"
+        },
+        {
+            "group": 1,
+            "id": "CM 512"
+        },
+        {
+            "group": 1,
+            "id": "CM 513"
+        },
+        {
+            "group": 1,
+            "id": "CM 514"
+        },
+        {
+            "group": 1,
+            "id": "CM 515"
+        },
+        {
+            "group": 1,
+            "id": "CM 521"
+        },
+        {
+            "group": 1,
+            "id": "CM 522"
+        },
+        {
+            "group": 1,
+            "id": "CM 523"
+        },
+        {
+            "group": 1,
+            "id": "CM 524"
+        },
+        {
+            "group": 1,
+            "id": "CM 525"
+        },
+        {
+            "group": 1,
+            "id": "CM 570"
+        },
+        {
+            "group": 1,
+            "id": "CM 571"
+        },
+        {
+            "group": 2,
+            "id": "ARCE 106"
+        },
+        {
+            "group": 3,
+            "id": "MATH 141"
+        },
+        {
+            "group": 4,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 4,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 6,
+            "id": "ARCH 106"
+        },
+        {
+            "group": 3,
+            "id": "MATH 142"
+        },
+        {
+            "group": 3,
+            "id": "MATH 182"
+        },
+        {
+            "group": 3,
+            "id": "MATH 119"
+        },
+        {
+            "group": 7,
+            "id": "CE 113"
+        },
+        {
+            "group": 2,
+            "id": "ARCE 212"
+        },
+        {
+            "group": 8,
+            "id": "BUS 207"
+        },
+        {
+            "group": 8,
+            "id": "BUS 215"
+        },
+        {
+            "group": 7,
+            "id": "CE 259"
+        }
+    ]
+}

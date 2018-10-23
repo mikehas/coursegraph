@@ -1,0 +1,95 @@
+{
+    "links": [
+        {
+            "source": "GSA 541",
+            "target": "GSA 543",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GSA 501"
+        },
+        {
+            "group": 1,
+            "id": "GSA 536"
+        },
+        {
+            "group": 1,
+            "id": "GSA 537"
+        },
+        {
+            "group": 1,
+            "id": "GSA 538"
+        },
+        {
+            "group": 1,
+            "id": "GSA 539"
+        },
+        {
+            "group": 1,
+            "id": "GSA 540"
+        },
+        {
+            "group": 1,
+            "id": "GSA 541"
+        },
+        {
+            "group": 1,
+            "id": "GSA 543"
+        },
+        {
+            "group": 1,
+            "id": "GSA 544"
+        },
+        {
+            "group": 1,
+            "id": "GSA 545"
+        },
+        {
+            "group": 1,
+            "id": "GSA 546"
+        },
+        {
+            "group": 1,
+            "id": "GSA 548"
+        },
+        {
+            "group": 1,
+            "id": "GSA 549"
+        },
+        {
+            "group": 1,
+            "id": "GSA 550"
+        },
+        {
+            "group": 1,
+            "id": "GSA 551"
+        },
+        {
+            "group": 1,
+            "id": "GSA 552"
+        },
+        {
+            "group": 1,
+            "id": "GSA 553"
+        },
+        {
+            "group": 1,
+            "id": "GSA 554"
+        },
+        {
+            "group": 1,
+            "id": "GSA 555"
+        },
+        {
+            "group": 1,
+            "id": "GSA 556"
+        },
+        {
+            "group": 1,
+            "id": "GSA 570"
+        }
+    ]
+}

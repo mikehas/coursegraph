@@ -1,0 +1,115 @@
+{
+    "links": [
+        {
+            "source": "PHYS 121",
+            "target": "PSC 102",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PSC 102",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PSC 102",
+            "value": 1
+        },
+        {
+            "source": "PSC 101",
+            "target": "PSC 102",
+            "value": 1
+        },
+        {
+            "source": "PSC 101",
+            "target": "PSC 103",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "PSC 103",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "PSC 103",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "PSC 103",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "PSC 391",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "PSC 101"
+        },
+        {
+            "group": 1,
+            "id": "PSC 102"
+        },
+        {
+            "group": 1,
+            "id": "PSC 103"
+        },
+        {
+            "group": 1,
+            "id": "PSC 201"
+        },
+        {
+            "group": 1,
+            "id": "PSC 307"
+        },
+        {
+            "group": 1,
+            "id": "PSC 320"
+        },
+        {
+            "group": 1,
+            "id": "PSC 391"
+        },
+        {
+            "group": 1,
+            "id": "PSC 392"
+        },
+        {
+            "group": 1,
+            "id": "PSC 424"
+        },
+        {
+            "group": 1,
+            "id": "PSC 425"
+        },
+        {
+            "group": 1,
+            "id": "PSC 491"
+        },
+        {
+            "group": 1,
+            "id": "PSC 492"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 131"
+        },
+        {
+            "group": 2,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 3,
+            "id": "GE D1"
+        }
+    ]
+}

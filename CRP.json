@@ -1,0 +1,533 @@
+{
+    "links": [
+        {
+            "source": "CRP 201",
+            "target": "CRP 202",
+            "value": 1
+        },
+        {
+            "source": "CRP 211",
+            "target": "CRP 202",
+            "value": 1
+        },
+        {
+            "source": "CRP 202",
+            "target": "CRP 203",
+            "value": 1
+        },
+        {
+            "source": "CRP 201",
+            "target": "CRP 204",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 213",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 214",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 314",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 336",
+            "value": 1
+        },
+        {
+            "source": "CRP 203",
+            "target": "CRP 341",
+            "value": 1
+        },
+        {
+            "source": "CRP 213",
+            "target": "CRP 341",
+            "value": 1
+        },
+        {
+            "source": "CRP 214",
+            "target": "CRP 341",
+            "value": 1
+        },
+        {
+            "source": "CRP 336",
+            "target": "CRP 342",
+            "value": 1
+        },
+        {
+            "source": "NR 351",
+            "target": "CRP 401",
+            "value": 1
+        },
+        {
+            "source": "CRP 341",
+            "target": "CRP 402",
+            "value": 1
+        },
+        {
+            "source": "CRP 336",
+            "target": "CRP 410",
+            "value": 1
+        },
+        {
+            "source": "CRP 341",
+            "target": "CRP 410",
+            "value": 1
+        },
+        {
+            "source": "CRP 342",
+            "target": "CRP 411",
+            "value": 1
+        },
+        {
+            "source": "CRP 410",
+            "target": "CRP 411",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 412",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 420",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 430",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 435",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 436",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 440",
+            "value": 1
+        },
+        {
+            "source": "CRP 341",
+            "target": "CRP 448",
+            "value": 1
+        },
+        {
+            "source": "CRP 201",
+            "target": "CRP 452",
+            "value": 1
+        },
+        {
+            "source": "CRP 202",
+            "target": "CRP 452",
+            "value": 1
+        },
+        {
+            "source": "CRP 212",
+            "target": "CRP 456",
+            "value": 1
+        },
+        {
+            "source": "CRP 216",
+            "target": "CRP 457",
+            "value": 1
+        },
+        {
+            "source": "CRP 341",
+            "target": "CRP 461",
+            "value": 1
+        },
+        {
+            "source": "CRP 342",
+            "target": "CRP 461",
+            "value": 1
+        },
+        {
+            "source": "CRP 410",
+            "target": "CRP 462",
+            "value": 1
+        },
+        {
+            "source": "CRP 410",
+            "target": "CRP 463",
+            "value": 1
+        },
+        {
+            "source": "CRP 501",
+            "target": "CRP 518",
+            "value": 1
+        },
+        {
+            "source": "CRP 501",
+            "target": "CRP 520",
+            "value": 1
+        },
+        {
+            "source": "CRP 501",
+            "target": "CRP 530",
+            "value": 1
+        },
+        {
+            "source": "CRP 501",
+            "target": "CRP 552",
+            "value": 1
+        },
+        {
+            "source": "CRP 525",
+            "target": "CRP 552",
+            "value": 1
+        },
+        {
+            "source": "CRP 512",
+            "target": "CRP 553",
+            "value": 1
+        },
+        {
+            "source": "CRP 552",
+            "target": "CRP 554",
+            "value": 1
+        },
+        {
+            "source": "CRP 554",
+            "target": "CRP 556",
+            "value": 1
+        },
+        {
+            "source": "CRP 513",
+            "target": "CRP 596",
+            "value": 1
+        },
+        {
+            "source": "CRP 513",
+            "target": "CRP 599",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CRP 101"
+        },
+        {
+            "group": 1,
+            "id": "CRP 201"
+        },
+        {
+            "group": 1,
+            "id": "CRP 202"
+        },
+        {
+            "group": 1,
+            "id": "CRP 203"
+        },
+        {
+            "group": 1,
+            "id": "CRP 204"
+        },
+        {
+            "group": 1,
+            "id": "CRP 211"
+        },
+        {
+            "group": 1,
+            "id": "CRP 212"
+        },
+        {
+            "group": 1,
+            "id": "CRP 213"
+        },
+        {
+            "group": 1,
+            "id": "CRP 214"
+        },
+        {
+            "group": 1,
+            "id": "CRP 215"
+        },
+        {
+            "group": 1,
+            "id": "CRP 216"
+        },
+        {
+            "group": 1,
+            "id": "CRP 270"
+        },
+        {
+            "group": 1,
+            "id": "CRP 304"
+        },
+        {
+            "group": 1,
+            "id": "CRP 314"
+        },
+        {
+            "group": 1,
+            "id": "CRP 315"
+        },
+        {
+            "group": 1,
+            "id": "CRP 325"
+        },
+        {
+            "group": 1,
+            "id": "CRP 334"
+        },
+        {
+            "group": 1,
+            "id": "CRP 336"
+        },
+        {
+            "group": 1,
+            "id": "CRP 338"
+        },
+        {
+            "group": 1,
+            "id": "CRP 339"
+        },
+        {
+            "group": 1,
+            "id": "CRP 341"
+        },
+        {
+            "group": 1,
+            "id": "CRP 342"
+        },
+        {
+            "group": 1,
+            "id": "CRP 351"
+        },
+        {
+            "group": 1,
+            "id": "CRP 400"
+        },
+        {
+            "group": 1,
+            "id": "CRP 401"
+        },
+        {
+            "group": 1,
+            "id": "CRP 402"
+        },
+        {
+            "group": 1,
+            "id": "CRP 404"
+        },
+        {
+            "group": 1,
+            "id": "CRP 408"
+        },
+        {
+            "group": 1,
+            "id": "CRP 409"
+        },
+        {
+            "group": 1,
+            "id": "CRP 410"
+        },
+        {
+            "group": 1,
+            "id": "CRP 411"
+        },
+        {
+            "group": 1,
+            "id": "CRP 412"
+        },
+        {
+            "group": 1,
+            "id": "CRP 420"
+        },
+        {
+            "group": 1,
+            "id": "CRP 426"
+        },
+        {
+            "group": 1,
+            "id": "CRP 428"
+        },
+        {
+            "group": 1,
+            "id": "CRP 430"
+        },
+        {
+            "group": 1,
+            "id": "CRP 435"
+        },
+        {
+            "group": 1,
+            "id": "CRP 436"
+        },
+        {
+            "group": 1,
+            "id": "CRP 438"
+        },
+        {
+            "group": 1,
+            "id": "CRP 440"
+        },
+        {
+            "group": 1,
+            "id": "CRP 442"
+        },
+        {
+            "group": 1,
+            "id": "CRP 445"
+        },
+        {
+            "group": 1,
+            "id": "CRP 446"
+        },
+        {
+            "group": 1,
+            "id": "CRP 448"
+        },
+        {
+            "group": 1,
+            "id": "CRP 452"
+        },
+        {
+            "group": 1,
+            "id": "CRP 456"
+        },
+        {
+            "group": 1,
+            "id": "CRP 457"
+        },
+        {
+            "group": 1,
+            "id": "CRP 458"
+        },
+        {
+            "group": 1,
+            "id": "CRP 461"
+        },
+        {
+            "group": 1,
+            "id": "CRP 462"
+        },
+        {
+            "group": 1,
+            "id": "CRP 463"
+        },
+        {
+            "group": 1,
+            "id": "CRP 470"
+        },
+        {
+            "group": 1,
+            "id": "CRP 471"
+        },
+        {
+            "group": 1,
+            "id": "CRP 472"
+        },
+        {
+            "group": 1,
+            "id": "CRP 483"
+        },
+        {
+            "group": 1,
+            "id": "CRP 500"
+        },
+        {
+            "group": 1,
+            "id": "CRP 501"
+        },
+        {
+            "group": 1,
+            "id": "CRP 504"
+        },
+        {
+            "group": 1,
+            "id": "CRP 509"
+        },
+        {
+            "group": 1,
+            "id": "CRP 510"
+        },
+        {
+            "group": 1,
+            "id": "CRP 512"
+        },
+        {
+            "group": 1,
+            "id": "CRP 513"
+        },
+        {
+            "group": 1,
+            "id": "CRP 516"
+        },
+        {
+            "group": 1,
+            "id": "CRP 518"
+        },
+        {
+            "group": 1,
+            "id": "CRP 520"
+        },
+        {
+            "group": 1,
+            "id": "CRP 525"
+        },
+        {
+            "group": 1,
+            "id": "CRP 530"
+        },
+        {
+            "group": 1,
+            "id": "CRP 535"
+        },
+        {
+            "group": 1,
+            "id": "CRP 545"
+        },
+        {
+            "group": 1,
+            "id": "CRP 552"
+        },
+        {
+            "group": 1,
+            "id": "CRP 553"
+        },
+        {
+            "group": 1,
+            "id": "CRP 554"
+        },
+        {
+            "group": 1,
+            "id": "CRP 556"
+        },
+        {
+            "group": 1,
+            "id": "CRP 570"
+        },
+        {
+            "group": 1,
+            "id": "CRP 571"
+        },
+        {
+            "group": 1,
+            "id": "CRP 596"
+        },
+        {
+            "group": 1,
+            "id": "CRP 599"
+        },
+        {
+            "group": 2,
+            "id": "NR 351"
+        }
+    ]
+}

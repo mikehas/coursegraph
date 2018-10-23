@@ -1,0 +1,1642 @@
+{
+    "links": [
+        {
+            "source": "MATH 142",
+            "target": "EE 112",
+            "value": 1
+        },
+        {
+            "source": "EE 111",
+            "target": "EE 133",
+            "value": 1
+        },
+        {
+            "source": "EE 151",
+            "target": "EE 133",
+            "value": 1
+        },
+        {
+            "source": "CPE 100",
+            "target": "EE 133",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "EE 133",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "EE 201",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "EE 201",
+            "value": 1
+        },
+        {
+            "source": "EE 112",
+            "target": "EE 211",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "EE 212",
+            "value": 1
+        },
+        {
+            "source": "EE 211",
+            "target": "EE 212",
+            "value": 1
+        },
+        {
+            "source": "BMED 355",
+            "target": "EE 228",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 228",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 228",
+            "value": 1
+        },
+        {
+            "source": "EE 133",
+            "target": "EE 233",
+            "value": 1
+        },
+        {
+            "source": "EE 112",
+            "target": "EE 241",
+            "value": 1
+        },
+        {
+            "source": "EE 151",
+            "target": "EE 241",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "EE 242",
+            "value": 1
+        },
+        {
+            "source": "EE 241",
+            "target": "EE 242",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 255",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 255",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "EE 255",
+            "value": 1
+        },
+        {
+            "source": "EE 251",
+            "target": "EE 255",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 295",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 295",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "EE 295",
+            "value": 1
+        },
+        {
+            "source": "EE 251",
+            "target": "EE 295",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "EE 302",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "IME 156",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "IME 157",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "IME 458",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "EE 306",
+            "value": 1
+        },
+        {
+            "source": "EE 133",
+            "target": "EE 307",
+            "value": 1
+        },
+        {
+            "source": "EE 306",
+            "target": "EE 307",
+            "value": 1
+        },
+        {
+            "source": "EE 346",
+            "target": "EE 307",
+            "value": 1
+        },
+        {
+            "source": "EE 302",
+            "target": "EE 308",
+            "value": 1
+        },
+        {
+            "source": "EE 342",
+            "target": "EE 308",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "EE 308",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "EE 308",
+            "value": 1
+        },
+        {
+            "source": "STAT 350",
+            "target": "EE 314",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "EE 321",
+            "value": 1
+        },
+        {
+            "source": "BRAE 216",
+            "target": "EE 321",
+            "value": 1
+        },
+        {
+            "source": "BMED 355",
+            "target": "EE 328",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "EE 328",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "EE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 229",
+            "target": "EE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "EE 329",
+            "value": 1
+        },
+        {
+            "source": "EE 201",
+            "target": "EE 335",
+            "value": 1
+        },
+        {
+            "source": "EE 251",
+            "target": "EE 335",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 335",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 335",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "EE 335",
+            "value": 1
+        },
+        {
+            "source": "EE 233",
+            "target": "EE 336",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "EE 342",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "EE 212",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "EE 242",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "IME 156",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "IME 157",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "IME 458",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "PHYS 211",
+            "target": "EE 346",
+            "value": 1
+        },
+        {
+            "source": "EE 133",
+            "target": "EE 347",
+            "value": 1
+        },
+        {
+            "source": "EE 306",
+            "target": "EE 347",
+            "value": 1
+        },
+        {
+            "source": "EE 346",
+            "target": "EE 347",
+            "value": 1
+        },
+        {
+            "source": "EE 302",
+            "target": "EE 348",
+            "value": 1
+        },
+        {
+            "source": "EE 342",
+            "target": "EE 348",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "EE 348",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "EE 348",
+            "value": 1
+        },
+        {
+            "source": "EE 251",
+            "target": "EE 361",
+            "value": 1
+        },
+        {
+            "source": "BRAE 216",
+            "target": "EE 361",
+            "value": 1
+        },
+        {
+            "source": "BMED 355",
+            "target": "EE 368",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "EE 368",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 402",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 403",
+            "value": 1
+        },
+        {
+            "source": "PHYS 323",
+            "target": "EE 403",
+            "value": 1
+        },
+        {
+            "source": "EE 308",
+            "target": "EE 405",
+            "value": 1
+        },
+        {
+            "source": "EE 348",
+            "target": "EE 405",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 405",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 406",
+            "value": 1
+        },
+        {
+            "source": "EE 255",
+            "target": "EE 406",
+            "value": 1
+        },
+        {
+            "source": "EE 295",
+            "target": "EE 406",
+            "value": 1
+        },
+        {
+            "source": "EE 406",
+            "target": "EE 407",
+            "value": 1
+        },
+        {
+            "source": "EE 308",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 348",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 368",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "EE 409",
+            "value": 1
+        },
+        {
+            "source": "EE 308",
+            "target": "EE 410",
+            "value": 1
+        },
+        {
+            "source": "EE 348",
+            "target": "EE 410",
+            "value": 1
+        },
+        {
+            "source": "EE 321",
+            "target": "EE 410",
+            "value": 1
+        },
+        {
+            "source": "EE 410",
+            "target": "EE 411",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 412",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 412",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 412",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "EE 413",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 413",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 413",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 415",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 415",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 415",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 416",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 416",
+            "value": 1
+        },
+        {
+            "source": "EE 255",
+            "target": "EE 417",
+            "value": 1
+        },
+        {
+            "source": "EE 295",
+            "target": "EE 417",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 418",
+            "value": 1
+        },
+        {
+            "source": "PHYS 323",
+            "target": "EE 418",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "EE 419",
+            "value": 1
+        },
+        {
+            "source": "CSC 231",
+            "target": "EE 419",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 419",
+            "value": 1
+        },
+        {
+            "source": "EE 368",
+            "target": "EE 419",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "EE 420",
+            "value": 1
+        },
+        {
+            "source": "EE 255",
+            "target": "EE 420",
+            "value": 1
+        },
+        {
+            "source": "EE 295",
+            "target": "EE 420",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "EE 422",
+            "value": 1
+        },
+        {
+            "source": "MATE 340",
+            "target": "EE 422",
+            "value": 1
+        },
+        {
+            "source": "CHEM 319",
+            "target": "EE 422",
+            "value": 1
+        },
+        {
+            "source": "PHYS 340",
+            "target": "EE 422",
+            "value": 1
+        },
+        {
+            "source": "BMED 212",
+            "target": "EE 423",
+            "value": 1
+        },
+        {
+            "source": "MATE 210",
+            "target": "EE 423",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "EE 424",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 425",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 425",
+            "value": 1
+        },
+        {
+            "source": "CSC 357",
+            "target": "EE 428",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 428",
+            "value": 1
+        },
+        {
+            "source": "ME 305",
+            "target": "EE 428",
+            "value": 1
+        },
+        {
+            "source": "EE 307",
+            "target": "EE 431",
+            "value": 1
+        },
+        {
+            "source": "EE 347",
+            "target": "EE 431",
+            "value": 1
+        },
+        {
+            "source": "EE 302",
+            "target": "EE 432",
+            "value": 1
+        },
+        {
+            "source": "EE 342",
+            "target": "EE 432",
+            "value": 1
+        },
+        {
+            "source": "EE 255",
+            "target": "EE 433",
+            "value": 1
+        },
+        {
+            "source": "EE 295",
+            "target": "EE 433",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "EE 439",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "EE 439",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 440",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 440",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 443",
+            "value": 1
+        },
+        {
+            "source": "PHYS 323",
+            "target": "EE 443",
+            "value": 1
+        },
+        {
+            "source": "EE 406",
+            "target": "EE 444",
+            "value": 1
+        },
+        {
+            "source": "EE 308",
+            "target": "EE 445",
+            "value": 1
+        },
+        {
+            "source": "EE 348",
+            "target": "EE 445",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 445",
+            "value": 1
+        },
+        {
+            "source": "EE 308",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "EE 348",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "EE 368",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "EE 449",
+            "value": 1
+        },
+        {
+            "source": "PHYS 104",
+            "target": "EE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 118",
+            "target": "EE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "EE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "EE 450",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 452",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 452",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 452",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 455",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 455",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 456",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 456",
+            "value": 1
+        },
+        {
+            "source": "EE 368",
+            "target": "EE 456",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "EE 459",
+            "value": 1
+        },
+        {
+            "source": "CSC 231",
+            "target": "EE 459",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 459",
+            "value": 1
+        },
+        {
+            "source": "EE 368",
+            "target": "EE 459",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 460",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 460",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 461",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 461",
+            "value": 1
+        },
+        {
+            "source": "EE 460",
+            "target": "EE 461",
+            "value": 1
+        },
+        {
+            "source": "EE 461",
+            "target": "EE 462",
+            "value": 1
+        },
+        {
+            "source": "EE 409",
+            "target": "EE 463",
+            "value": 1
+        },
+        {
+            "source": "EE 449",
+            "target": "EE 463",
+            "value": 1
+        },
+        {
+            "source": "EE 460",
+            "target": "EE 463",
+            "value": 1
+        },
+        {
+            "source": "EE 463",
+            "target": "EE 464",
+            "value": 1
+        },
+        {
+            "source": "EE 335",
+            "target": "EE 480",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 480",
+            "value": 1
+        },
+        {
+            "source": "EE 494",
+            "target": "EE 495",
+            "value": 1
+        },
+        {
+            "source": "EE 495",
+            "target": "EE 495",
+            "value": 1
+        },
+        {
+            "source": "EE 402",
+            "target": "EE 502",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 504",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 504",
+            "value": 1
+        },
+        {
+            "source": "EE 255",
+            "target": "EE 511",
+            "value": 1
+        },
+        {
+            "source": "EE 302",
+            "target": "EE 513",
+            "value": 1
+        },
+        {
+            "source": "EE 513",
+            "target": "EE 514",
+            "value": 1
+        },
+        {
+            "source": "EE 328",
+            "target": "EE 514",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 515",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "EE 516",
+            "value": 1
+        },
+        {
+            "source": "STAT 350",
+            "target": "EE 516",
+            "value": 1
+        },
+        {
+            "source": "EE 406",
+            "target": "EE 518",
+            "value": 1
+        },
+        {
+            "source": "EE 406",
+            "target": "EE 519",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "EE 521",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "EE 521",
+            "value": 1
+        },
+        {
+            "source": "EE 439",
+            "target": "EE 522",
+            "value": 1
+        },
+        {
+            "source": "EE 329",
+            "target": "EE 523",
+            "value": 1
+        },
+        {
+            "source": "EE 336",
+            "target": "EE 523",
+            "value": 1
+        },
+        {
+            "source": "PHYS 412",
+            "target": "EE 524",
+            "value": 1
+        },
+        {
+            "source": "STAT 350",
+            "target": "EE 525",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 526",
+            "value": 1
+        },
+        {
+            "source": "EE 416",
+            "target": "EE 526",
+            "value": 1
+        },
+        {
+            "source": "EE 410",
+            "target": "EE 527",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 528",
+            "value": 1
+        },
+        {
+            "source": "EE 525",
+            "target": "EE 528",
+            "value": 1
+        },
+        {
+            "source": "EE 306",
+            "target": "EE 529",
+            "value": 1
+        },
+        {
+            "source": "EE 402",
+            "target": "EE 530",
+            "value": 1
+        },
+        {
+            "source": "EE 314",
+            "target": "EE 530",
+            "value": 1
+        },
+        {
+            "source": "EE 402",
+            "target": "EE 533",
+            "value": 1
+        },
+        {
+            "source": "EE 402",
+            "target": "EE 541",
+            "value": 1
+        },
+        {
+            "source": "EE 431",
+            "target": "EE 544",
+            "value": 1
+        },
+        {
+            "source": "EE 524",
+            "target": "EE 544",
+            "value": 1
+        },
+        {
+            "source": "EE 524",
+            "target": "EE 544",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "EE 111"
+        },
+        {
+            "group": 1,
+            "id": "EE 112"
+        },
+        {
+            "group": 1,
+            "id": "EE 133"
+        },
+        {
+            "group": 1,
+            "id": "EE 151"
+        },
+        {
+            "group": 1,
+            "id": "EE 200"
+        },
+        {
+            "group": 1,
+            "id": "EE 201"
+        },
+        {
+            "group": 1,
+            "id": "EE 211"
+        },
+        {
+            "group": 1,
+            "id": "EE 212"
+        },
+        {
+            "group": 1,
+            "id": "EE 228"
+        },
+        {
+            "group": 1,
+            "id": "EE 233"
+        },
+        {
+            "group": 1,
+            "id": "EE 241"
+        },
+        {
+            "group": 1,
+            "id": "EE 242"
+        },
+        {
+            "group": 1,
+            "id": "EE 251"
+        },
+        {
+            "group": 1,
+            "id": "EE 255"
+        },
+        {
+            "group": 1,
+            "id": "EE 270"
+        },
+        {
+            "group": 1,
+            "id": "EE 295"
+        },
+        {
+            "group": 1,
+            "id": "EE 302"
+        },
+        {
+            "group": 1,
+            "id": "EE 306"
+        },
+        {
+            "group": 1,
+            "id": "EE 307"
+        },
+        {
+            "group": 1,
+            "id": "EE 308"
+        },
+        {
+            "group": 1,
+            "id": "EE 314"
+        },
+        {
+            "group": 1,
+            "id": "EE 321"
+        },
+        {
+            "group": 1,
+            "id": "EE 322"
+        },
+        {
+            "group": 1,
+            "id": "EE 328"
+        },
+        {
+            "group": 1,
+            "id": "EE 329"
+        },
+        {
+            "group": 1,
+            "id": "EE 335"
+        },
+        {
+            "group": 1,
+            "id": "EE 336"
+        },
+        {
+            "group": 1,
+            "id": "EE 342"
+        },
+        {
+            "group": 1,
+            "id": "EE 346"
+        },
+        {
+            "group": 1,
+            "id": "EE 347"
+        },
+        {
+            "group": 1,
+            "id": "EE 348"
+        },
+        {
+            "group": 1,
+            "id": "EE 361"
+        },
+        {
+            "group": 1,
+            "id": "EE 368"
+        },
+        {
+            "group": 1,
+            "id": "EE 375"
+        },
+        {
+            "group": 1,
+            "id": "EE 400"
+        },
+        {
+            "group": 1,
+            "id": "EE 402"
+        },
+        {
+            "group": 1,
+            "id": "EE 403"
+        },
+        {
+            "group": 1,
+            "id": "EE 405"
+        },
+        {
+            "group": 1,
+            "id": "EE 406"
+        },
+        {
+            "group": 1,
+            "id": "EE 407"
+        },
+        {
+            "group": 1,
+            "id": "EE 409"
+        },
+        {
+            "group": 1,
+            "id": "EE 410"
+        },
+        {
+            "group": 1,
+            "id": "EE 411"
+        },
+        {
+            "group": 1,
+            "id": "EE 412"
+        },
+        {
+            "group": 1,
+            "id": "EE 413"
+        },
+        {
+            "group": 1,
+            "id": "EE 415"
+        },
+        {
+            "group": 1,
+            "id": "EE 416"
+        },
+        {
+            "group": 1,
+            "id": "EE 417"
+        },
+        {
+            "group": 1,
+            "id": "EE 418"
+        },
+        {
+            "group": 1,
+            "id": "EE 419"
+        },
+        {
+            "group": 1,
+            "id": "EE 420"
+        },
+        {
+            "group": 1,
+            "id": "EE 422"
+        },
+        {
+            "group": 1,
+            "id": "EE 423"
+        },
+        {
+            "group": 1,
+            "id": "EE 424"
+        },
+        {
+            "group": 1,
+            "id": "EE 425"
+        },
+        {
+            "group": 1,
+            "id": "EE 428"
+        },
+        {
+            "group": 1,
+            "id": "EE 431"
+        },
+        {
+            "group": 1,
+            "id": "EE 432"
+        },
+        {
+            "group": 1,
+            "id": "EE 433"
+        },
+        {
+            "group": 1,
+            "id": "EE 434"
+        },
+        {
+            "group": 1,
+            "id": "EE 439"
+        },
+        {
+            "group": 1,
+            "id": "EE 440"
+        },
+        {
+            "group": 1,
+            "id": "EE 443"
+        },
+        {
+            "group": 1,
+            "id": "EE 444"
+        },
+        {
+            "group": 1,
+            "id": "EE 445"
+        },
+        {
+            "group": 1,
+            "id": "EE 449"
+        },
+        {
+            "group": 1,
+            "id": "EE 450"
+        },
+        {
+            "group": 1,
+            "id": "EE 452"
+        },
+        {
+            "group": 1,
+            "id": "EE 455"
+        },
+        {
+            "group": 1,
+            "id": "EE 456"
+        },
+        {
+            "group": 1,
+            "id": "EE 458"
+        },
+        {
+            "group": 1,
+            "id": "EE 459"
+        },
+        {
+            "group": 1,
+            "id": "EE 460"
+        },
+        {
+            "group": 1,
+            "id": "EE 461"
+        },
+        {
+            "group": 1,
+            "id": "EE 462"
+        },
+        {
+            "group": 1,
+            "id": "EE 463"
+        },
+        {
+            "group": 1,
+            "id": "EE 464"
+        },
+        {
+            "group": 1,
+            "id": "EE 470"
+        },
+        {
+            "group": 1,
+            "id": "EE 471"
+        },
+        {
+            "group": 1,
+            "id": "EE 472"
+        },
+        {
+            "group": 1,
+            "id": "EE 480"
+        },
+        {
+            "group": 1,
+            "id": "EE 494"
+        },
+        {
+            "group": 1,
+            "id": "EE 495"
+        },
+        {
+            "group": 1,
+            "id": "EE 500"
+        },
+        {
+            "group": 1,
+            "id": "EE 502"
+        },
+        {
+            "group": 1,
+            "id": "EE 504"
+        },
+        {
+            "group": 1,
+            "id": "EE 509"
+        },
+        {
+            "group": 1,
+            "id": "EE 511"
+        },
+        {
+            "group": 1,
+            "id": "EE 513"
+        },
+        {
+            "group": 1,
+            "id": "EE 514"
+        },
+        {
+            "group": 1,
+            "id": "EE 515"
+        },
+        {
+            "group": 1,
+            "id": "EE 516"
+        },
+        {
+            "group": 1,
+            "id": "EE 518"
+        },
+        {
+            "group": 1,
+            "id": "EE 519"
+        },
+        {
+            "group": 1,
+            "id": "EE 520"
+        },
+        {
+            "group": 1,
+            "id": "EE 521"
+        },
+        {
+            "group": 1,
+            "id": "EE 522"
+        },
+        {
+            "group": 1,
+            "id": "EE 523"
+        },
+        {
+            "group": 1,
+            "id": "EE 524"
+        },
+        {
+            "group": 1,
+            "id": "EE 525"
+        },
+        {
+            "group": 1,
+            "id": "EE 526"
+        },
+        {
+            "group": 1,
+            "id": "EE 527"
+        },
+        {
+            "group": 1,
+            "id": "EE 528"
+        },
+        {
+            "group": 1,
+            "id": "EE 529"
+        },
+        {
+            "group": 1,
+            "id": "EE 530"
+        },
+        {
+            "group": 1,
+            "id": "EE 533"
+        },
+        {
+            "group": 1,
+            "id": "EE 541"
+        },
+        {
+            "group": 1,
+            "id": "EE 544"
+        },
+        {
+            "group": 1,
+            "id": "EE 563"
+        },
+        {
+            "group": 1,
+            "id": "EE 570"
+        },
+        {
+            "group": 1,
+            "id": "EE 571"
+        },
+        {
+            "group": 1,
+            "id": "EE 594"
+        },
+        {
+            "group": 1,
+            "id": "EE 595"
+        },
+        {
+            "group": 1,
+            "id": "EE 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 3,
+            "id": "CPE 100"
+        },
+        {
+            "group": 4,
+            "id": "CSC 101"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 6,
+            "id": "BMED 355"
+        },
+        {
+            "group": 7,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 8,
+            "id": "IME 156"
+        },
+        {
+            "group": 8,
+            "id": "IME 157"
+        },
+        {
+            "group": 8,
+            "id": "IME 458"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 211"
+        },
+        {
+            "group": 9,
+            "id": "STAT 350"
+        },
+        {
+            "group": 10,
+            "id": "BRAE 216"
+        },
+        {
+            "group": 1,
+            "id": "EE 229"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 323"
+        },
+        {
+            "group": 4,
+            "id": "CSC 231"
+        },
+        {
+            "group": 11,
+            "id": "MATE 340"
+        },
+        {
+            "group": 7,
+            "id": "CHEM 319"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 340"
+        },
+        {
+            "group": 6,
+            "id": "BMED 212"
+        },
+        {
+            "group": 11,
+            "id": "MATE 210"
+        },
+        {
+            "group": 4,
+            "id": "CSC 357"
+        },
+        {
+            "group": 12,
+            "id": "ME 305"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 104"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 118"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 9,
+            "id": "STAT 312"
+        },
+        {
+            "group": 5,
+            "id": "PHYS 412"
+        }
+    ]
+}

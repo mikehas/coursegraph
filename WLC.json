@@ -1,0 +1,107 @@
+{
+    "links": [
+        {
+            "source": "WLC 101",
+            "target": "WLC 102",
+            "value": 1
+        },
+        {
+            "source": "WLC 102",
+            "target": "WLC 103",
+            "value": 1
+        },
+        {
+            "source": "WLC 103",
+            "target": "WLC 201",
+            "value": 1
+        },
+        {
+            "source": "WLC 201",
+            "target": "WLC 202",
+            "value": 1
+        },
+        {
+            "source": "WLC 360",
+            "target": "WLC 460",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "WLC 101"
+        },
+        {
+            "group": 1,
+            "id": "WLC 102"
+        },
+        {
+            "group": 1,
+            "id": "WLC 103"
+        },
+        {
+            "group": 1,
+            "id": "WLC 200"
+        },
+        {
+            "group": 1,
+            "id": "WLC 201"
+        },
+        {
+            "group": 1,
+            "id": "WLC 202"
+        },
+        {
+            "group": 1,
+            "id": "WLC 270"
+        },
+        {
+            "group": 1,
+            "id": "WLC 290"
+        },
+        {
+            "group": 1,
+            "id": "WLC 310"
+        },
+        {
+            "group": 1,
+            "id": "WLC 312"
+        },
+        {
+            "group": 1,
+            "id": "WLC 318"
+        },
+        {
+            "group": 1,
+            "id": "WLC 360"
+        },
+        {
+            "group": 1,
+            "id": "WLC 370"
+        },
+        {
+            "group": 1,
+            "id": "WLC 400"
+        },
+        {
+            "group": 1,
+            "id": "WLC 424"
+        },
+        {
+            "group": 1,
+            "id": "WLC 425"
+        },
+        {
+            "group": 1,
+            "id": "WLC 451"
+        },
+        {
+            "group": 1,
+            "id": "WLC 460"
+        },
+        {
+            "group": 1,
+            "id": "WLC 470"
+        }
+    ]
+}

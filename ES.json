@@ -1,0 +1,218 @@
+{
+    "links": [
+        {
+            "source": "STAT 217",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 112",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 241",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 242",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 243",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 244",
+            "target": "ES 390",
+            "value": 1
+        },
+        {
+            "source": "ES 241",
+            "target": "ES 406",
+            "value": 1
+        },
+        {
+            "source": "NR 141",
+            "target": "ES 406",
+            "value": 1
+        },
+        {
+            "source": "NR 142",
+            "target": "ES 406",
+            "value": 1
+        },
+        {
+            "source": "ES 390",
+            "target": "ES 410",
+            "value": 1
+        },
+        {
+            "source": "ES 390",
+            "target": "ES 450",
+            "value": 1
+        },
+        {
+            "source": "ES 390",
+            "target": "ES 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ES 112"
+        },
+        {
+            "group": 1,
+            "id": "ES 114"
+        },
+        {
+            "group": 1,
+            "id": "ES 200"
+        },
+        {
+            "group": 1,
+            "id": "ES 212"
+        },
+        {
+            "group": 1,
+            "id": "ES 215"
+        },
+        {
+            "group": 1,
+            "id": "ES 241"
+        },
+        {
+            "group": 1,
+            "id": "ES 242"
+        },
+        {
+            "group": 1,
+            "id": "ES 243"
+        },
+        {
+            "group": 1,
+            "id": "ES 244"
+        },
+        {
+            "group": 1,
+            "id": "ES 270"
+        },
+        {
+            "group": 1,
+            "id": "ES 300"
+        },
+        {
+            "group": 1,
+            "id": "ES 308"
+        },
+        {
+            "group": 1,
+            "id": "ES 310"
+        },
+        {
+            "group": 1,
+            "id": "ES 320"
+        },
+        {
+            "group": 1,
+            "id": "ES 321"
+        },
+        {
+            "group": 1,
+            "id": "ES 322"
+        },
+        {
+            "group": 1,
+            "id": "ES 323"
+        },
+        {
+            "group": 1,
+            "id": "ES 325"
+        },
+        {
+            "group": 1,
+            "id": "ES 326"
+        },
+        {
+            "group": 1,
+            "id": "ES 330"
+        },
+        {
+            "group": 1,
+            "id": "ES 335"
+        },
+        {
+            "group": 1,
+            "id": "ES 340"
+        },
+        {
+            "group": 1,
+            "id": "ES 345"
+        },
+        {
+            "group": 1,
+            "id": "ES 350"
+        },
+        {
+            "group": 1,
+            "id": "ES 351"
+        },
+        {
+            "group": 1,
+            "id": "ES 360"
+        },
+        {
+            "group": 1,
+            "id": "ES 380"
+        },
+        {
+            "group": 1,
+            "id": "ES 381"
+        },
+        {
+            "group": 1,
+            "id": "ES 390"
+        },
+        {
+            "group": 1,
+            "id": "ES 400"
+        },
+        {
+            "group": 1,
+            "id": "ES 406"
+        },
+        {
+            "group": 1,
+            "id": "ES 410"
+        },
+        {
+            "group": 1,
+            "id": "ES 450"
+        },
+        {
+            "group": 1,
+            "id": "ES 461"
+        },
+        {
+            "group": 1,
+            "id": "ES 470"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 3,
+            "id": "NR 141"
+        },
+        {
+            "group": 3,
+            "id": "NR 142"
+        }
+    ]
+}

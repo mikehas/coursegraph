@@ -1,0 +1,103 @@
+{
+    "links": [
+        {
+            "source": "FR 101",
+            "target": "FR 102",
+            "value": 1
+        },
+        {
+            "source": "FR 102",
+            "target": "FR 103",
+            "value": 1
+        },
+        {
+            "source": "FR 103",
+            "target": "FR 201",
+            "value": 1
+        },
+        {
+            "source": "FR 201",
+            "target": "FR 202",
+            "value": 1
+        },
+        {
+            "source": "FR 202",
+            "target": "FR 203",
+            "value": 1
+        },
+        {
+            "source": "FR 203",
+            "target": "FR 233",
+            "value": 1
+        },
+        {
+            "source": "FR 203",
+            "target": "FR 301",
+            "value": 1
+        },
+        {
+            "source": "FR 203",
+            "target": "FR 302",
+            "value": 1
+        },
+        {
+            "source": "FR 233",
+            "target": "FR 305",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "FR 101"
+        },
+        {
+            "group": 1,
+            "id": "FR 102"
+        },
+        {
+            "group": 1,
+            "id": "FR 103"
+        },
+        {
+            "group": 1,
+            "id": "FR 201"
+        },
+        {
+            "group": 1,
+            "id": "FR 202"
+        },
+        {
+            "group": 1,
+            "id": "FR 203"
+        },
+        {
+            "group": 1,
+            "id": "FR 233"
+        },
+        {
+            "group": 1,
+            "id": "FR 270"
+        },
+        {
+            "group": 1,
+            "id": "FR 301"
+        },
+        {
+            "group": 1,
+            "id": "FR 302"
+        },
+        {
+            "group": 1,
+            "id": "FR 305"
+        },
+        {
+            "group": 1,
+            "id": "FR 350"
+        },
+        {
+            "group": 1,
+            "id": "FR 470"
+        }
+    ]
+}

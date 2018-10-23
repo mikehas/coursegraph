@@ -1,0 +1,100 @@
+{
+    "links": [
+        {
+            "source": "CSC 202",
+            "target": "DATA 301",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "DATA 301",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "DATA 301",
+            "value": 1
+        },
+        {
+            "source": "CSC 365",
+            "target": "DATA 401",
+            "value": 1
+        },
+        {
+            "source": "CSC 466",
+            "target": "DATA 401",
+            "value": 1
+        },
+        {
+            "source": "DATA 301",
+            "target": "DATA 401",
+            "value": 1
+        },
+        {
+            "source": "STAT 331",
+            "target": "DATA 401",
+            "value": 1
+        },
+        {
+            "source": "STAT 419",
+            "target": "DATA 401",
+            "value": 1
+        },
+        {
+            "source": "DATA 401",
+            "target": "DATA 451",
+            "value": 1
+        },
+        {
+            "source": "DATA 451",
+            "target": "DATA 452",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "DATA 301"
+        },
+        {
+            "group": 1,
+            "id": "DATA 401"
+        },
+        {
+            "group": 1,
+            "id": "DATA 451"
+        },
+        {
+            "group": 1,
+            "id": "DATA 452"
+        },
+        {
+            "group": 2,
+            "id": "CSC 202"
+        },
+        {
+            "group": 3,
+            "id": "STAT 302"
+        },
+        {
+            "group": 3,
+            "id": "STAT 312"
+        },
+        {
+            "group": 2,
+            "id": "CSC 365"
+        },
+        {
+            "group": 2,
+            "id": "CSC 466"
+        },
+        {
+            "group": 3,
+            "id": "STAT 331"
+        },
+        {
+            "group": 3,
+            "id": "STAT 419"
+        }
+    ]
+}

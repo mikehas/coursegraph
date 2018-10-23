@@ -1,0 +1,1230 @@
+{
+    "links": [
+        {
+            "source": "BIO 161",
+            "target": "BIO 162",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BIO 211",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "BIO 213",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "PSC 102",
+            "target": "BIO 231",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "PSC 102",
+            "target": "BIO 232",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 263",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 263",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "BIO 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "BIO 301",
+            "value": 1
+        },
+        {
+            "source": "ASCI 112",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BIO 123",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BIO 213",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BIO 302",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "BIO 303",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 303",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BIO 303",
+            "value": 1
+        },
+        {
+            "source": "CHEM 110",
+            "target": "BIO 308",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 427",
+            "target": "BIO 321",
+            "value": 1
+        },
+        {
+            "source": "ASCI 329",
+            "target": "BIO 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 322",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 323",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 323",
+            "value": 1
+        },
+        {
+            "source": "BIO 427",
+            "target": "BIO 323",
+            "value": 1
+        },
+        {
+            "source": "ASCI 329",
+            "target": "BIO 323",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 324",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 324",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 327",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "BIO 327",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 329",
+            "value": 1
+        },
+        {
+            "source": "BIO 427",
+            "target": "BIO 329",
+            "value": 1
+        },
+        {
+            "source": "ASCI 329",
+            "target": "BIO 329",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "BIO 335",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 335",
+            "value": 1
+        },
+        {
+            "source": "BIO 211",
+            "target": "BIO 335",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 336",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 336",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 351",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "BIO 351",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "BIO 351",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "BIO 351",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 361",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "BIO 361",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "BIO 361",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "BIO 361",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 401",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "BIO 401",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "BIO 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 405",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "BIO 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "BIO 406",
+            "value": 1
+        },
+        {
+            "source": "CHEM 331",
+            "target": "BIO 406",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 406",
+            "value": 1
+        },
+        {
+            "source": "PHYS 123",
+            "target": "BIO 406",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "BIO 406",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "BIO 407",
+            "value": 1
+        },
+        {
+            "source": "CHEM 331",
+            "target": "BIO 407",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 407",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "BIO 408",
+            "value": 1
+        },
+        {
+            "source": "CHEM 331",
+            "target": "BIO 408",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 408",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "BIO 409",
+            "value": 1
+        },
+        {
+            "source": "CHEM 331",
+            "target": "BIO 409",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 409",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BIO 409",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "BIO 409",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "BIO 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "BIO 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "BIO 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "BIO 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 414",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "BIO 414",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 414",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 419",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "SS 131",
+            "target": "BIO 421",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 426",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "BIO 426",
+            "value": 1
+        },
+        {
+            "source": "BIO 327",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "BIO 401",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "BIO 444",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "BOT 326",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "MSCI 328",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "BIO 427",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 302",
+            "target": "BIO 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "BIO 428",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "BIO 428",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 429",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 429",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "BIO 429",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "BIO 429",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 434",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "BIO 435",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 435",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 441",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "BIO 441",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 442",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 444",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "BIO 444",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "BIO 445",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "BIO 445",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 445",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 445",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "BIO 446",
+            "value": 1
+        },
+        {
+            "source": "BOT 326",
+            "target": "BIO 446",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "BIO 446",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 446",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 452",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "BIO 452",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "BIO 452",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "BIO 452",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "BIO 452",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 461",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "BIO 462",
+            "value": 1
+        },
+        {
+            "source": "BIO 462",
+            "target": "BIO 463",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "BIO 475",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "BIO 475",
+            "value": 1
+        },
+        {
+            "source": "CHEM 373",
+            "target": "BIO 475",
+            "value": 1
+        },
+        {
+            "source": "CHEM 475",
+            "target": "BIO 476",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "BIO 476",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "BIO 476",
+            "value": 1
+        },
+        {
+            "source": "BIO 501",
+            "target": "BIO 502",
+            "value": 1
+        },
+        {
+            "source": "BIO 442",
+            "target": "BIO 537",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "BIO 111"
+        },
+        {
+            "group": 1,
+            "id": "BIO 112"
+        },
+        {
+            "group": 1,
+            "id": "BIO 114"
+        },
+        {
+            "group": 1,
+            "id": "BIO 123"
+        },
+        {
+            "group": 1,
+            "id": "BIO 160"
+        },
+        {
+            "group": 1,
+            "id": "BIO 161"
+        },
+        {
+            "group": 1,
+            "id": "BIO 162"
+        },
+        {
+            "group": 1,
+            "id": "BIO 200"
+        },
+        {
+            "group": 1,
+            "id": "BIO 202"
+        },
+        {
+            "group": 1,
+            "id": "BIO 211"
+        },
+        {
+            "group": 1,
+            "id": "BIO 213"
+        },
+        {
+            "group": 1,
+            "id": "BIO 227"
+        },
+        {
+            "group": 1,
+            "id": "BIO 231"
+        },
+        {
+            "group": 1,
+            "id": "BIO 232"
+        },
+        {
+            "group": 1,
+            "id": "BIO 253"
+        },
+        {
+            "group": 1,
+            "id": "BIO 263"
+        },
+        {
+            "group": 1,
+            "id": "BIO 270"
+        },
+        {
+            "group": 1,
+            "id": "BIO 301"
+        },
+        {
+            "group": 1,
+            "id": "BIO 302"
+        },
+        {
+            "group": 1,
+            "id": "BIO 303"
+        },
+        {
+            "group": 1,
+            "id": "BIO 305"
+        },
+        {
+            "group": 1,
+            "id": "BIO 308"
+        },
+        {
+            "group": 1,
+            "id": "BIO 321"
+        },
+        {
+            "group": 1,
+            "id": "BIO 322"
+        },
+        {
+            "group": 1,
+            "id": "BIO 323"
+        },
+        {
+            "group": 1,
+            "id": "BIO 324"
+        },
+        {
+            "group": 1,
+            "id": "BIO 327"
+        },
+        {
+            "group": 1,
+            "id": "BIO 329"
+        },
+        {
+            "group": 1,
+            "id": "BIO 330"
+        },
+        {
+            "group": 1,
+            "id": "BIO 335"
+        },
+        {
+            "group": 1,
+            "id": "BIO 336"
+        },
+        {
+            "group": 1,
+            "id": "BIO 351"
+        },
+        {
+            "group": 1,
+            "id": "BIO 361"
+        },
+        {
+            "group": 1,
+            "id": "BIO 400"
+        },
+        {
+            "group": 1,
+            "id": "BIO 401"
+        },
+        {
+            "group": 1,
+            "id": "BIO 405"
+        },
+        {
+            "group": 1,
+            "id": "BIO 406"
+        },
+        {
+            "group": 1,
+            "id": "BIO 407"
+        },
+        {
+            "group": 1,
+            "id": "BIO 408"
+        },
+        {
+            "group": 1,
+            "id": "BIO 409"
+        },
+        {
+            "group": 1,
+            "id": "BIO 410"
+        },
+        {
+            "group": 1,
+            "id": "BIO 414"
+        },
+        {
+            "group": 1,
+            "id": "BIO 415"
+        },
+        {
+            "group": 1,
+            "id": "BIO 419"
+        },
+        {
+            "group": 1,
+            "id": "BIO 421"
+        },
+        {
+            "group": 1,
+            "id": "BIO 424"
+        },
+        {
+            "group": 1,
+            "id": "BIO 425"
+        },
+        {
+            "group": 1,
+            "id": "BIO 426"
+        },
+        {
+            "group": 1,
+            "id": "BIO 427"
+        },
+        {
+            "group": 1,
+            "id": "BIO 428"
+        },
+        {
+            "group": 1,
+            "id": "BIO 429"
+        },
+        {
+            "group": 1,
+            "id": "BIO 434"
+        },
+        {
+            "group": 1,
+            "id": "BIO 435"
+        },
+        {
+            "group": 1,
+            "id": "BIO 441"
+        },
+        {
+            "group": 1,
+            "id": "BIO 442"
+        },
+        {
+            "group": 1,
+            "id": "BIO 444"
+        },
+        {
+            "group": 1,
+            "id": "BIO 445"
+        },
+        {
+            "group": 1,
+            "id": "BIO 446"
+        },
+        {
+            "group": 1,
+            "id": "BIO 450"
+        },
+        {
+            "group": 1,
+            "id": "BIO 452"
+        },
+        {
+            "group": 1,
+            "id": "BIO 461"
+        },
+        {
+            "group": 1,
+            "id": "BIO 462"
+        },
+        {
+            "group": 1,
+            "id": "BIO 463"
+        },
+        {
+            "group": 1,
+            "id": "BIO 470"
+        },
+        {
+            "group": 1,
+            "id": "BIO 471"
+        },
+        {
+            "group": 1,
+            "id": "BIO 472"
+        },
+        {
+            "group": 1,
+            "id": "BIO 475"
+        },
+        {
+            "group": 1,
+            "id": "BIO 476"
+        },
+        {
+            "group": 1,
+            "id": "BIO 485"
+        },
+        {
+            "group": 1,
+            "id": "BIO 495"
+        },
+        {
+            "group": 1,
+            "id": "BIO 500"
+        },
+        {
+            "group": 1,
+            "id": "BIO 501"
+        },
+        {
+            "group": 1,
+            "id": "BIO 502"
+        },
+        {
+            "group": 1,
+            "id": "BIO 503"
+        },
+        {
+            "group": 1,
+            "id": "BIO 509"
+        },
+        {
+            "group": 1,
+            "id": "BIO 524"
+        },
+        {
+            "group": 1,
+            "id": "BIO 534"
+        },
+        {
+            "group": 1,
+            "id": "BIO 537"
+        },
+        {
+            "group": 1,
+            "id": "BIO 561"
+        },
+        {
+            "group": 1,
+            "id": "BIO 570"
+        },
+        {
+            "group": 1,
+            "id": "BIO 571"
+        },
+        {
+            "group": 1,
+            "id": "BIO 574"
+        },
+        {
+            "group": 1,
+            "id": "BIO 575"
+        },
+        {
+            "group": 1,
+            "id": "BIO 585"
+        },
+        {
+            "group": 1,
+            "id": "BIO 590"
+        },
+        {
+            "group": 1,
+            "id": "BIO 591"
+        },
+        {
+            "group": 1,
+            "id": "BIO 593"
+        },
+        {
+            "group": 1,
+            "id": "BIO 594"
+        },
+        {
+            "group": 1,
+            "id": "BIO 595"
+        },
+        {
+            "group": 1,
+            "id": "BIO 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 110"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 4,
+            "id": "PSC 102"
+        },
+        {
+            "group": 5,
+            "id": "MCRO 221"
+        },
+        {
+            "group": 5,
+            "id": "MCRO 224"
+        },
+        {
+            "group": 6,
+            "id": "ASCI 112"
+        },
+        {
+            "group": 7,
+            "id": "BOT 121"
+        },
+        {
+            "group": 6,
+            "id": "ASCI 329"
+        },
+        {
+            "group": 8,
+            "id": "NR 306"
+        },
+        {
+            "group": 9,
+            "id": "AEPS 313"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 316"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 373"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 331"
+        },
+        {
+            "group": 10,
+            "id": "STAT 218"
+        },
+        {
+            "group": 11,
+            "id": "PHYS 123"
+        },
+        {
+            "group": 11,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 11,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 11,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 6,
+            "id": "ASCI 229"
+        },
+        {
+            "group": 12,
+            "id": "SS 121"
+        },
+        {
+            "group": 12,
+            "id": "SS 131"
+        },
+        {
+            "group": 7,
+            "id": "BOT 326"
+        },
+        {
+            "group": 13,
+            "id": "MSCI 328"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 475"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 371"
+        }
+    ]
+}

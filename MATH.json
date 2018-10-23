@@ -1,0 +1,1036 @@
+{
+    "links": [
+        {
+            "source": "MATH 96",
+            "target": "MATH 112",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "MATH 112",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "MATH 112",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "MATH 116",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "MATH 116",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "MATH 117",
+            "value": 1
+        },
+        {
+            "source": "MATH 116",
+            "target": "MATH 117",
+            "value": 1
+        },
+        {
+            "source": "MATH 117",
+            "target": "MATH 119",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "MATH 119",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "MATH 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "MATH 141",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "MATH 142",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "MATH 143",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "MATH 161",
+            "value": 1
+        },
+        {
+            "source": "MATH 161",
+            "target": "MATH 162",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "MATH 182",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATH 202",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATH 206",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "MATH 221",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "MATH 227",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "MATH 227",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "MATH 227",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATH 241",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 242",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 242",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATH 244",
+            "value": 1
+        },
+        {
+            "source": "MATH 143",
+            "target": "MATH 248",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 300",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 304",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 304",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 304",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 306",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 306",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 306",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 306",
+            "value": 1
+        },
+        {
+            "source": "MATH 227",
+            "target": "MATH 328",
+            "value": 1
+        },
+        {
+            "source": "MATH 328",
+            "target": "MATH 329",
+            "value": 1
+        },
+        {
+            "source": "MATH 329",
+            "target": "MATH 330",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 335",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 336",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 341",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 344",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "MATH 344",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 344",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 344",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 350",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 350",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 350",
+            "value": 1
+        },
+        {
+            "source": "MATH 304",
+            "target": "MATH 404",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 406",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "MATH 408",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 408",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 408",
+            "value": 1
+        },
+        {
+            "source": "MATH 408",
+            "target": "MATH 409",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 412",
+            "value": 1
+        },
+        {
+            "source": "MATH 412",
+            "target": "MATH 413",
+            "value": 1
+        },
+        {
+            "source": "MATH 413",
+            "target": "MATH 414",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 416",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "MATH 416",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 416",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 416",
+            "value": 1
+        },
+        {
+            "source": "MATH 344",
+            "target": "MATH 418",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 419",
+            "value": 1
+        },
+        {
+            "source": "MATH 442",
+            "target": "MATH 423",
+            "value": 1
+        },
+        {
+            "source": "MATH 481",
+            "target": "MATH 423",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 435",
+            "value": 1
+        },
+        {
+            "source": "MATH 336",
+            "target": "MATH 435",
+            "value": 1
+        },
+        {
+            "source": "MATH 435",
+            "target": "MATH 436",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 437",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 437",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 437",
+            "value": 1
+        },
+        {
+            "source": "MATH 412",
+            "target": "MATH 440",
+            "value": 1
+        },
+        {
+            "source": "MATH 440",
+            "target": "MATH 441",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 442",
+            "value": 1
+        },
+        {
+            "source": "MATH 442",
+            "target": "MATH 443",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "MATH 451",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "MATH 451",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "MATH 451",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "MATH 451",
+            "value": 1
+        },
+        {
+            "source": "MATH 451",
+            "target": "MATH 452",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 453",
+            "value": 1
+        },
+        {
+            "source": "MATH 451",
+            "target": "MATH 453",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 459",
+            "value": 1
+        },
+        {
+            "source": "CPE 101",
+            "target": "MATH 460",
+            "value": 1
+        },
+        {
+            "source": "MATH 350",
+            "target": "MATH 460",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 460",
+            "value": 1
+        },
+        {
+            "source": "MATH 344",
+            "target": "MATH 460",
+            "value": 1
+        },
+        {
+            "source": "MATH 461",
+            "target": "MATH 462",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 474",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 475",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 476",
+            "value": 1
+        },
+        {
+            "source": "MATH 306",
+            "target": "MATH 481",
+            "value": 1
+        },
+        {
+            "source": "MATH 341",
+            "target": "MATH 481",
+            "value": 1
+        },
+        {
+            "source": "MATH 481",
+            "target": "MATH 482",
+            "value": 1
+        },
+        {
+            "source": "MATH 482",
+            "target": "MATH 483",
+            "value": 1
+        },
+        {
+            "source": "MATH 344",
+            "target": "MATH 501",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "MATH 501",
+            "value": 1
+        },
+        {
+            "source": "MATH 344",
+            "target": "MATH 502",
+            "value": 1
+        },
+        {
+            "source": "AERO 300",
+            "target": "MATH 502",
+            "value": 1
+        },
+        {
+            "source": "MATH 408",
+            "target": "MATH 520",
+            "value": 1
+        },
+        {
+            "source": "MATH 412",
+            "target": "MATH 520",
+            "value": 1
+        },
+        {
+            "source": "MATH 520",
+            "target": "MATH 521",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "MATH 530",
+            "value": 1
+        },
+        {
+            "source": "MATH 336",
+            "target": "MATH 530",
+            "value": 1
+        },
+        {
+            "source": "MATH 435",
+            "target": "MATH 531",
+            "value": 1
+        },
+        {
+            "source": "MATH 530",
+            "target": "MATH 531",
+            "value": 1
+        },
+        {
+            "source": "MATH 412",
+            "target": "MATH 540",
+            "value": 1
+        },
+        {
+            "source": "MATH 440",
+            "target": "MATH 541",
+            "value": 1
+        },
+        {
+            "source": "MATH 540",
+            "target": "MATH 541",
+            "value": 1
+        },
+        {
+            "source": "MATH 482",
+            "target": "MATH 560",
+            "value": 1
+        },
+        {
+            "source": "MATH 483",
+            "target": "MATH 561",
+            "value": 1
+        },
+        {
+            "source": "MATH 560",
+            "target": "MATH 561",
+            "value": 1
+        },
+        {
+            "source": "MATH 92",
+            "target": "MATH 96",
+            "value": 1
+        },
+        {
+            "source": "MATH 100",
+            "target": "MATH 96",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "MATH 112"
+        },
+        {
+            "group": 1,
+            "id": "MATH 115"
+        },
+        {
+            "group": 1,
+            "id": "MATH 116"
+        },
+        {
+            "group": 1,
+            "id": "MATH 117"
+        },
+        {
+            "group": 1,
+            "id": "MATH 118"
+        },
+        {
+            "group": 1,
+            "id": "MATH 119"
+        },
+        {
+            "group": 1,
+            "id": "MATH 126"
+        },
+        {
+            "group": 1,
+            "id": "MATH 127"
+        },
+        {
+            "group": 1,
+            "id": "MATH 128"
+        },
+        {
+            "group": 1,
+            "id": "MATH 129"
+        },
+        {
+            "group": 1,
+            "id": "MATH 141"
+        },
+        {
+            "group": 1,
+            "id": "MATH 142"
+        },
+        {
+            "group": 1,
+            "id": "MATH 143"
+        },
+        {
+            "group": 1,
+            "id": "MATH 151"
+        },
+        {
+            "group": 1,
+            "id": "MATH 152"
+        },
+        {
+            "group": 1,
+            "id": "MATH 153"
+        },
+        {
+            "group": 1,
+            "id": "MATH 161"
+        },
+        {
+            "group": 1,
+            "id": "MATH 162"
+        },
+        {
+            "group": 1,
+            "id": "MATH 171"
+        },
+        {
+            "group": 1,
+            "id": "MATH 172"
+        },
+        {
+            "group": 1,
+            "id": "MATH 182"
+        },
+        {
+            "group": 1,
+            "id": "MATH 192"
+        },
+        {
+            "group": 1,
+            "id": "MATH 202"
+        },
+        {
+            "group": 1,
+            "id": "MATH 206"
+        },
+        {
+            "group": 1,
+            "id": "MATH 221"
+        },
+        {
+            "group": 1,
+            "id": "MATH 227"
+        },
+        {
+            "group": 1,
+            "id": "MATH 231"
+        },
+        {
+            "group": 1,
+            "id": "MATH 241"
+        },
+        {
+            "group": 1,
+            "id": "MATH 242"
+        },
+        {
+            "group": 1,
+            "id": "MATH 244"
+        },
+        {
+            "group": 1,
+            "id": "MATH 248"
+        },
+        {
+            "group": 1,
+            "id": "MATH 251"
+        },
+        {
+            "group": 1,
+            "id": "MATH 254"
+        },
+        {
+            "group": 1,
+            "id": "MATH 258"
+        },
+        {
+            "group": 1,
+            "id": "MATH 270"
+        },
+        {
+            "group": 1,
+            "id": "MATH 300"
+        },
+        {
+            "group": 1,
+            "id": "MATH 304"
+        },
+        {
+            "group": 1,
+            "id": "MATH 306"
+        },
+        {
+            "group": 1,
+            "id": "MATH 316"
+        },
+        {
+            "group": 1,
+            "id": "MATH 328"
+        },
+        {
+            "group": 1,
+            "id": "MATH 329"
+        },
+        {
+            "group": 1,
+            "id": "MATH 330"
+        },
+        {
+            "group": 1,
+            "id": "MATH 335"
+        },
+        {
+            "group": 1,
+            "id": "MATH 336"
+        },
+        {
+            "group": 1,
+            "id": "MATH 341"
+        },
+        {
+            "group": 1,
+            "id": "MATH 344"
+        },
+        {
+            "group": 1,
+            "id": "MATH 350"
+        },
+        {
+            "group": 1,
+            "id": "MATH 351"
+        },
+        {
+            "group": 1,
+            "id": "MATH 370"
+        },
+        {
+            "group": 1,
+            "id": "MATH 371"
+        },
+        {
+            "group": 1,
+            "id": "MATH 400"
+        },
+        {
+            "group": 1,
+            "id": "MATH 404"
+        },
+        {
+            "group": 1,
+            "id": "MATH 406"
+        },
+        {
+            "group": 1,
+            "id": "MATH 408"
+        },
+        {
+            "group": 1,
+            "id": "MATH 409"
+        },
+        {
+            "group": 1,
+            "id": "MATH 412"
+        },
+        {
+            "group": 1,
+            "id": "MATH 413"
+        },
+        {
+            "group": 1,
+            "id": "MATH 414"
+        },
+        {
+            "group": 1,
+            "id": "MATH 416"
+        },
+        {
+            "group": 1,
+            "id": "MATH 418"
+        },
+        {
+            "group": 1,
+            "id": "MATH 419"
+        },
+        {
+            "group": 1,
+            "id": "MATH 422"
+        },
+        {
+            "group": 1,
+            "id": "MATH 423"
+        },
+        {
+            "group": 1,
+            "id": "MATH 424"
+        },
+        {
+            "group": 1,
+            "id": "MATH 425"
+        },
+        {
+            "group": 1,
+            "id": "MATH 435"
+        },
+        {
+            "group": 1,
+            "id": "MATH 436"
+        },
+        {
+            "group": 1,
+            "id": "MATH 437"
+        },
+        {
+            "group": 1,
+            "id": "MATH 440"
+        },
+        {
+            "group": 1,
+            "id": "MATH 441"
+        },
+        {
+            "group": 1,
+            "id": "MATH 442"
+        },
+        {
+            "group": 1,
+            "id": "MATH 443"
+        },
+        {
+            "group": 1,
+            "id": "MATH 451"
+        },
+        {
+            "group": 1,
+            "id": "MATH 452"
+        },
+        {
+            "group": 1,
+            "id": "MATH 453"
+        },
+        {
+            "group": 1,
+            "id": "MATH 459"
+        },
+        {
+            "group": 1,
+            "id": "MATH 460"
+        },
+        {
+            "group": 1,
+            "id": "MATH 461"
+        },
+        {
+            "group": 1,
+            "id": "MATH 462"
+        },
+        {
+            "group": 1,
+            "id": "MATH 470"
+        },
+        {
+            "group": 1,
+            "id": "MATH 474"
+        },
+        {
+            "group": 1,
+            "id": "MATH 475"
+        },
+        {
+            "group": 1,
+            "id": "MATH 476"
+        },
+        {
+            "group": 1,
+            "id": "MATH 481"
+        },
+        {
+            "group": 1,
+            "id": "MATH 482"
+        },
+        {
+            "group": 1,
+            "id": "MATH 483"
+        },
+        {
+            "group": 1,
+            "id": "MATH 485"
+        },
+        {
+            "group": 1,
+            "id": "MATH 491"
+        },
+        {
+            "group": 1,
+            "id": "MATH 495"
+        },
+        {
+            "group": 1,
+            "id": "MATH 500"
+        },
+        {
+            "group": 1,
+            "id": "MATH 501"
+        },
+        {
+            "group": 1,
+            "id": "MATH 502"
+        },
+        {
+            "group": 1,
+            "id": "MATH 504"
+        },
+        {
+            "group": 1,
+            "id": "MATH 505"
+        },
+        {
+            "group": 1,
+            "id": "MATH 520"
+        },
+        {
+            "group": 1,
+            "id": "MATH 521"
+        },
+        {
+            "group": 1,
+            "id": "MATH 530"
+        },
+        {
+            "group": 1,
+            "id": "MATH 531"
+        },
+        {
+            "group": 1,
+            "id": "MATH 540"
+        },
+        {
+            "group": 1,
+            "id": "MATH 541"
+        },
+        {
+            "group": 1,
+            "id": "MATH 550"
+        },
+        {
+            "group": 1,
+            "id": "MATH 560"
+        },
+        {
+            "group": 1,
+            "id": "MATH 561"
+        },
+        {
+            "group": 1,
+            "id": "MATH 570"
+        },
+        {
+            "group": 1,
+            "id": "MATH 580"
+        },
+        {
+            "group": 1,
+            "id": "MATH 599"
+        },
+        {
+            "group": 1,
+            "id": "MATH 92"
+        },
+        {
+            "group": 1,
+            "id": "MATH 94"
+        },
+        {
+            "group": 1,
+            "id": "MATH 95"
+        },
+        {
+            "group": 1,
+            "id": "MATH 96"
+        },
+        {
+            "group": 1,
+            "id": "MATH 98"
+        },
+        {
+            "group": 1,
+            "id": "MATH 104"
+        },
+        {
+            "group": 2,
+            "id": "CPE 101"
+        },
+        {
+            "group": 3,
+            "id": "AERO 300"
+        },
+        {
+            "group": 1,
+            "id": "MATH 100"
+        }
+    ]
+}

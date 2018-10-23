@@ -1,0 +1,196 @@
+{
+    "links": [
+        {
+            "source": "MATH 142",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 122",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PHYS 123",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PSC 102",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "PSC 103",
+            "target": "SCM 220",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "CHEM 124",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "SCM 230",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "SCM 230",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "SCM 101"
+        },
+        {
+            "group": 1,
+            "id": "SCM 150"
+        },
+        {
+            "group": 1,
+            "id": "SCM 220"
+        },
+        {
+            "group": 1,
+            "id": "SCM 230"
+        },
+        {
+            "group": 1,
+            "id": "SCM 270"
+        },
+        {
+            "group": 1,
+            "id": "SCM 300"
+        },
+        {
+            "group": 1,
+            "id": "SCM 301"
+        },
+        {
+            "group": 1,
+            "id": "SCM 302"
+        },
+        {
+            "group": 1,
+            "id": "SCM 320"
+        },
+        {
+            "group": 1,
+            "id": "SCM 335"
+        },
+        {
+            "group": 1,
+            "id": "SCM 350"
+        },
+        {
+            "group": 1,
+            "id": "SCM 360"
+        },
+        {
+            "group": 1,
+            "id": "SCM 363"
+        },
+        {
+            "group": 1,
+            "id": "SCM 451"
+        },
+        {
+            "group": 1,
+            "id": "SCM 470"
+        },
+        {
+            "group": 1,
+            "id": "SCM 471"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 133"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 122"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 123"
+        },
+        {
+            "group": 4,
+            "id": "PSC 102"
+        },
+        {
+            "group": 4,
+            "id": "PSC 103"
+        },
+        {
+            "group": 5,
+            "id": "BIO 160"
+        },
+        {
+            "group": 5,
+            "id": "BIO 161"
+        },
+        {
+            "group": 6,
+            "id": "CHEM 124"
+        },
+        {
+            "group": 6,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 131"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 141"
+        }
+    ]
+}

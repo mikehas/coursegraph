@@ -1,0 +1,55 @@
+{
+    "links": [
+        {
+            "source": "CHIN 101",
+            "target": "CHIN 102",
+            "value": 1
+        },
+        {
+            "source": "CHIN 102",
+            "target": "CHIN 103",
+            "value": 1
+        },
+        {
+            "source": "CHIN 103",
+            "target": "CHIN 201",
+            "value": 1
+        },
+        {
+            "source": "CHIN 201",
+            "target": "CHIN 202",
+            "value": 1
+        },
+        {
+            "source": "CHIN 202",
+            "target": "CHIN 203",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CHIN 101"
+        },
+        {
+            "group": 1,
+            "id": "CHIN 102"
+        },
+        {
+            "group": 1,
+            "id": "CHIN 103"
+        },
+        {
+            "group": 1,
+            "id": "CHIN 201"
+        },
+        {
+            "group": 1,
+            "id": "CHIN 202"
+        },
+        {
+            "group": 1,
+            "id": "CHIN 203"
+        }
+    ]
+}

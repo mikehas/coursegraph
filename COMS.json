@@ -1,0 +1,254 @@
+{
+    "links": [
+        {
+            "source": "COMS 311",
+            "target": "COMS 312",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "COMS 312",
+            "value": 1
+        },
+        {
+            "source": "COMS 330",
+            "target": "COMS 332",
+            "value": 1
+        },
+        {
+            "source": "COMS 250",
+            "target": "COMS 350",
+            "value": 1
+        },
+        {
+            "source": "COMS 213",
+            "target": "COMS 413",
+            "value": 1
+        },
+        {
+            "source": "COMS 301",
+            "target": "COMS 413",
+            "value": 1
+        },
+        {
+            "source": "PSY 212",
+            "target": "COMS 428",
+            "value": 1
+        },
+        {
+            "source": "COMS 311",
+            "target": "COMS 460",
+            "value": 1
+        },
+        {
+            "source": "COMS 312",
+            "target": "COMS 460",
+            "value": 1
+        },
+        {
+            "source": "COMS 330",
+            "target": "COMS 460",
+            "value": 1
+        },
+        {
+            "source": "COMS 332",
+            "target": "COMS 460",
+            "value": 1
+        },
+        {
+            "source": "COMS 460",
+            "target": "COMS 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "COMS 101"
+        },
+        {
+            "group": 1,
+            "id": "COMS 102"
+        },
+        {
+            "group": 1,
+            "id": "COMS 126"
+        },
+        {
+            "group": 1,
+            "id": "COMS 145"
+        },
+        {
+            "group": 1,
+            "id": "COMS 201"
+        },
+        {
+            "group": 1,
+            "id": "COMS 208"
+        },
+        {
+            "group": 1,
+            "id": "COMS 212"
+        },
+        {
+            "group": 1,
+            "id": "COMS 213"
+        },
+        {
+            "group": 1,
+            "id": "COMS 217"
+        },
+        {
+            "group": 1,
+            "id": "COMS 218"
+        },
+        {
+            "group": 1,
+            "id": "COMS 226"
+        },
+        {
+            "group": 1,
+            "id": "COMS 250"
+        },
+        {
+            "group": 1,
+            "id": "COMS 270"
+        },
+        {
+            "group": 1,
+            "id": "COMS 301"
+        },
+        {
+            "group": 1,
+            "id": "COMS 308"
+        },
+        {
+            "group": 1,
+            "id": "COMS 311"
+        },
+        {
+            "group": 1,
+            "id": "COMS 312"
+        },
+        {
+            "group": 1,
+            "id": "COMS 315"
+        },
+        {
+            "group": 1,
+            "id": "COMS 316"
+        },
+        {
+            "group": 1,
+            "id": "COMS 317"
+        },
+        {
+            "group": 1,
+            "id": "COMS 319"
+        },
+        {
+            "group": 1,
+            "id": "COMS 322"
+        },
+        {
+            "group": 1,
+            "id": "COMS 330"
+        },
+        {
+            "group": 1,
+            "id": "COMS 331"
+        },
+        {
+            "group": 1,
+            "id": "COMS 332"
+        },
+        {
+            "group": 1,
+            "id": "COMS 350"
+        },
+        {
+            "group": 1,
+            "id": "COMS 385"
+        },
+        {
+            "group": 1,
+            "id": "COMS 386"
+        },
+        {
+            "group": 1,
+            "id": "COMS 390"
+        },
+        {
+            "group": 1,
+            "id": "COMS 395"
+        },
+        {
+            "group": 1,
+            "id": "COMS 400"
+        },
+        {
+            "group": 1,
+            "id": "COMS 413"
+        },
+        {
+            "group": 1,
+            "id": "COMS 418"
+        },
+        {
+            "group": 1,
+            "id": "COMS 419"
+        },
+        {
+            "group": 1,
+            "id": "COMS 420"
+        },
+        {
+            "group": 1,
+            "id": "COMS 421"
+        },
+        {
+            "group": 1,
+            "id": "COMS 422"
+        },
+        {
+            "group": 1,
+            "id": "COMS 428"
+        },
+        {
+            "group": 1,
+            "id": "COMS 435"
+        },
+        {
+            "group": 1,
+            "id": "COMS 450"
+        },
+        {
+            "group": 1,
+            "id": "COMS 458"
+        },
+        {
+            "group": 1,
+            "id": "COMS 460"
+        },
+        {
+            "group": 1,
+            "id": "COMS 461"
+        },
+        {
+            "group": 1,
+            "id": "COMS 470"
+        },
+        {
+            "group": 1,
+            "id": "COMS 485"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 3,
+            "id": "PSY 212"
+        }
+    ]
+}

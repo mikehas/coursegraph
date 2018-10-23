@@ -1,0 +1,134 @@
+{
+    "links": [
+        {
+            "source": "AG 210",
+            "target": "AG 410",
+            "value": 1
+        },
+        {
+            "source": "AG 212",
+            "target": "AG 412",
+            "value": 1
+        },
+        {
+            "source": "AG 412",
+            "target": "AG 413",
+            "value": 1
+        },
+        {
+            "source": "AGED 404",
+            "target": "AG 454",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "AG 200"
+        },
+        {
+            "group": 1,
+            "id": "AG 210"
+        },
+        {
+            "group": 1,
+            "id": "AG 212"
+        },
+        {
+            "group": 1,
+            "id": "AG 243"
+        },
+        {
+            "group": 1,
+            "id": "AG 254"
+        },
+        {
+            "group": 1,
+            "id": "AG 315"
+        },
+        {
+            "group": 1,
+            "id": "AG 330"
+        },
+        {
+            "group": 1,
+            "id": "AG 339"
+        },
+        {
+            "group": 1,
+            "id": "AG 350"
+        },
+        {
+            "group": 1,
+            "id": "AG 360"
+        },
+        {
+            "group": 1,
+            "id": "AG 400"
+        },
+        {
+            "group": 1,
+            "id": "AG 410"
+        },
+        {
+            "group": 1,
+            "id": "AG 412"
+        },
+        {
+            "group": 1,
+            "id": "AG 413"
+        },
+        {
+            "group": 1,
+            "id": "AG 450"
+        },
+        {
+            "group": 1,
+            "id": "AG 452"
+        },
+        {
+            "group": 1,
+            "id": "AG 454"
+        },
+        {
+            "group": 1,
+            "id": "AG 485"
+        },
+        {
+            "group": 1,
+            "id": "AG 495"
+        },
+        {
+            "group": 1,
+            "id": "AG 500"
+        },
+        {
+            "group": 1,
+            "id": "AG 539"
+        },
+        {
+            "group": 1,
+            "id": "AG 581"
+        },
+        {
+            "group": 1,
+            "id": "AG 585"
+        },
+        {
+            "group": 1,
+            "id": "AG 595"
+        },
+        {
+            "group": 1,
+            "id": "AG 598"
+        },
+        {
+            "group": 1,
+            "id": "AG 599"
+        },
+        {
+            "group": 2,
+            "id": "AGED 404"
+        }
+    ]
+}

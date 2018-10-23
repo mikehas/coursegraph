@@ -1,0 +1,511 @@
+{
+    "links": [
+        {
+            "source": "GRC 101",
+            "target": "GRC 172",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 203",
+            "value": 1
+        },
+        {
+            "source": "GRC 201",
+            "target": "GRC 203",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 204",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 211",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 212",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 220",
+            "value": 1
+        },
+        {
+            "source": "GRC 203",
+            "target": "GRC 301",
+            "value": 1
+        },
+        {
+            "source": "GRC 211",
+            "target": "GRC 316",
+            "value": 1
+        },
+        {
+            "source": "GRC 203",
+            "target": "GRC 318",
+            "value": 1
+        },
+        {
+            "source": "GRC 301",
+            "target": "GRC 318",
+            "value": 1
+        },
+        {
+            "source": "GRC 328",
+            "target": "GRC 320",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "GRC 320",
+            "value": 1
+        },
+        {
+            "source": "GRC 218",
+            "target": "GRC 322",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 324",
+            "value": 1
+        },
+        {
+            "source": "GRC 211",
+            "target": "GRC 328",
+            "value": 1
+        },
+        {
+            "source": "GRC 212",
+            "target": "GRC 328",
+            "value": 1
+        },
+        {
+            "source": "GRC 328",
+            "target": "GRC 329",
+            "value": 1
+        },
+        {
+            "source": "ART 182",
+            "target": "GRC 331",
+            "value": 1
+        },
+        {
+            "source": "GRC 202",
+            "target": "GRC 331",
+            "value": 1
+        },
+        {
+            "source": "GRC 301",
+            "target": "GRC 337",
+            "value": 1
+        },
+        {
+            "source": "GRC 318",
+            "target": "GRC 338",
+            "value": 1
+        },
+        {
+            "source": "GRC 218",
+            "target": "GRC 338",
+            "value": 1
+        },
+        {
+            "source": "GRC 338",
+            "target": "GRC 339",
+            "value": 1
+        },
+        {
+            "source": "GRC 301",
+            "target": "GRC 357",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 361",
+            "value": 1
+        },
+        {
+            "source": "GRC 204",
+            "target": "GRC 361",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 372",
+            "value": 1
+        },
+        {
+            "source": "GRC 172",
+            "target": "GRC 372",
+            "value": 1
+        },
+        {
+            "source": "GRC 318",
+            "target": "GRC 402",
+            "value": 1
+        },
+        {
+            "source": "GRC 328",
+            "target": "GRC 403",
+            "value": 1
+        },
+        {
+            "source": "GRC 403",
+            "target": "GRC 411",
+            "value": 1
+        },
+        {
+            "source": "BUS 453",
+            "target": "GRC 420",
+            "value": 1
+        },
+        {
+            "source": "GRC 320",
+            "target": "GRC 421",
+            "value": 1
+        },
+        {
+            "source": "GRC 403",
+            "target": "GRC 422",
+            "value": 1
+        },
+        {
+            "source": "GRC 338",
+            "target": "GRC 429",
+            "value": 1
+        },
+        {
+            "source": "GRC 402",
+            "target": "GRC 439",
+            "value": 1
+        },
+        {
+            "source": "GRC 402",
+            "target": "GRC 440",
+            "value": 1
+        },
+        {
+            "source": "GRC 203",
+            "target": "GRC 451",
+            "value": 1
+        },
+        {
+            "source": "GRC 203",
+            "target": "GRC 452",
+            "value": 1
+        },
+        {
+            "source": "GRC 203",
+            "target": "GRC 453",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "GRC 461",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "GRC 462",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "GRC 463",
+            "value": 1
+        },
+        {
+            "source": "GRC 101",
+            "target": "GRC 470",
+            "value": 1
+        },
+        {
+            "source": "GRC 201",
+            "target": "GRC 470",
+            "value": 1
+        },
+        {
+            "source": "GRC 501",
+            "target": "GRC 520",
+            "value": 1
+        },
+        {
+            "source": "GRC 502",
+            "target": "GRC 530",
+            "value": 1
+        },
+        {
+            "source": "GRC 560",
+            "target": "GRC 596",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GRC 101"
+        },
+        {
+            "group": 1,
+            "id": "GRC 172"
+        },
+        {
+            "group": 1,
+            "id": "GRC 200"
+        },
+        {
+            "group": 1,
+            "id": "GRC 201"
+        },
+        {
+            "group": 1,
+            "id": "GRC 203"
+        },
+        {
+            "group": 1,
+            "id": "GRC 204"
+        },
+        {
+            "group": 1,
+            "id": "GRC 211"
+        },
+        {
+            "group": 1,
+            "id": "GRC 212"
+        },
+        {
+            "group": 1,
+            "id": "GRC 220"
+        },
+        {
+            "group": 1,
+            "id": "GRC 270"
+        },
+        {
+            "group": 1,
+            "id": "GRC 301"
+        },
+        {
+            "group": 1,
+            "id": "GRC 316"
+        },
+        {
+            "group": 1,
+            "id": "GRC 318"
+        },
+        {
+            "group": 1,
+            "id": "GRC 320"
+        },
+        {
+            "group": 1,
+            "id": "GRC 322"
+        },
+        {
+            "group": 1,
+            "id": "GRC 324"
+        },
+        {
+            "group": 1,
+            "id": "GRC 328"
+        },
+        {
+            "group": 1,
+            "id": "GRC 329"
+        },
+        {
+            "group": 1,
+            "id": "GRC 331"
+        },
+        {
+            "group": 1,
+            "id": "GRC 337"
+        },
+        {
+            "group": 1,
+            "id": "GRC 338"
+        },
+        {
+            "group": 1,
+            "id": "GRC 339"
+        },
+        {
+            "group": 1,
+            "id": "GRC 357"
+        },
+        {
+            "group": 1,
+            "id": "GRC 361"
+        },
+        {
+            "group": 1,
+            "id": "GRC 372"
+        },
+        {
+            "group": 1,
+            "id": "GRC 377"
+        },
+        {
+            "group": 1,
+            "id": "GRC 400"
+        },
+        {
+            "group": 1,
+            "id": "GRC 402"
+        },
+        {
+            "group": 1,
+            "id": "GRC 403"
+        },
+        {
+            "group": 1,
+            "id": "GRC 411"
+        },
+        {
+            "group": 1,
+            "id": "GRC 420"
+        },
+        {
+            "group": 1,
+            "id": "GRC 421"
+        },
+        {
+            "group": 1,
+            "id": "GRC 422"
+        },
+        {
+            "group": 1,
+            "id": "GRC 429"
+        },
+        {
+            "group": 1,
+            "id": "GRC 439"
+        },
+        {
+            "group": 1,
+            "id": "GRC 440"
+        },
+        {
+            "group": 1,
+            "id": "GRC 451"
+        },
+        {
+            "group": 1,
+            "id": "GRC 452"
+        },
+        {
+            "group": 1,
+            "id": "GRC 453"
+        },
+        {
+            "group": 1,
+            "id": "GRC 461"
+        },
+        {
+            "group": 1,
+            "id": "GRC 462"
+        },
+        {
+            "group": 1,
+            "id": "GRC 463"
+        },
+        {
+            "group": 1,
+            "id": "GRC 470"
+        },
+        {
+            "group": 1,
+            "id": "GRC 471"
+        },
+        {
+            "group": 1,
+            "id": "GRC 485"
+        },
+        {
+            "group": 1,
+            "id": "GRC 495"
+        },
+        {
+            "group": 1,
+            "id": "GRC 500"
+        },
+        {
+            "group": 1,
+            "id": "GRC 501"
+        },
+        {
+            "group": 1,
+            "id": "GRC 502"
+        },
+        {
+            "group": 1,
+            "id": "GRC 510"
+        },
+        {
+            "group": 1,
+            "id": "GRC 512"
+        },
+        {
+            "group": 1,
+            "id": "GRC 514"
+        },
+        {
+            "group": 1,
+            "id": "GRC 520"
+        },
+        {
+            "group": 1,
+            "id": "GRC 530"
+        },
+        {
+            "group": 1,
+            "id": "GRC 551"
+        },
+        {
+            "group": 1,
+            "id": "GRC 552"
+        },
+        {
+            "group": 1,
+            "id": "GRC 553"
+        },
+        {
+            "group": 1,
+            "id": "GRC 560"
+        },
+        {
+            "group": 1,
+            "id": "GRC 595"
+        },
+        {
+            "group": 1,
+            "id": "GRC 596"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 1,
+            "id": "GRC 218"
+        },
+        {
+            "group": 3,
+            "id": "ART 182"
+        },
+        {
+            "group": 1,
+            "id": "GRC 202"
+        },
+        {
+            "group": 4,
+            "id": "BUS 453"
+        }
+    ]
+}

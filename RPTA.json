@@ -1,0 +1,405 @@
+{
+    "links": [
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 302",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 313",
+            "value": 1
+        },
+        {
+            "source": "RPTA 114",
+            "target": "RPTA 314",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 314",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 321",
+            "value": 1
+        },
+        {
+            "source": "RPTA 205",
+            "target": "RPTA 325",
+            "value": 1
+        },
+        {
+            "source": "RPTA 257",
+            "target": "RPTA 325",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 330",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 342",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 360",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "RPTA 360",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "RPTA 360",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "RPTA 360",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "RPTA 360",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 400",
+            "value": 1
+        },
+        {
+            "source": "RPTA 260",
+            "target": "RPTA 400",
+            "value": 1
+        },
+        {
+            "source": "RPTA 205",
+            "target": "RPTA 405",
+            "value": 1
+        },
+        {
+            "source": "RPTA 257",
+            "target": "RPTA 405",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 405",
+            "value": 1
+        },
+        {
+            "source": "RPTA 221",
+            "target": "RPTA 405",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 412",
+            "value": 1
+        },
+        {
+            "source": "RPTA 210",
+            "target": "RPTA 413",
+            "value": 1
+        },
+        {
+            "source": "RPTA 320",
+            "target": "RPTA 420",
+            "value": 1
+        },
+        {
+            "source": "AGB 214",
+            "target": "RPTA 424",
+            "value": 1
+        },
+        {
+            "source": "BUS 212",
+            "target": "RPTA 424",
+            "value": 1
+        },
+        {
+            "source": "AGB 323",
+            "target": "RPTA 424",
+            "value": 1
+        },
+        {
+            "source": "BUS 215",
+            "target": "RPTA 424",
+            "value": 1
+        },
+        {
+            "source": "RPTA 360",
+            "target": "RPTA 424",
+            "value": 1
+        },
+        {
+            "source": "ENGL 310",
+            "target": "RPTA 460",
+            "value": 1
+        },
+        {
+            "source": "RPTA 360",
+            "target": "RPTA 460",
+            "value": 1
+        },
+        {
+            "source": "RPTA 460",
+            "target": "RPTA 461",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "RPTA 101"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 110"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 112"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 114"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 160"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 201"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 203"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 205"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 210"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 216"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 221"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 252"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 257"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 260"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 270"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 275"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 302"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 313"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 314"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 317"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 318"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 320"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 321"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 323"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 325"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 330"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 342"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 350"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 360"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 370"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 400"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 405"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 412"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 413"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 420"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 424"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 450"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 460"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 461"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 463"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 465"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 470"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 471"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 472"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 500"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 502"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 527"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 539"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 570"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 571"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 581"
+        },
+        {
+            "group": 1,
+            "id": "RPTA 599"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 2,
+            "id": "STAT 218"
+        },
+        {
+            "group": 2,
+            "id": "STAT 251"
+        },
+        {
+            "group": 2,
+            "id": "STAT 252"
+        },
+        {
+            "group": 3,
+            "id": "AGB 214"
+        },
+        {
+            "group": 4,
+            "id": "BUS 212"
+        },
+        {
+            "group": 3,
+            "id": "AGB 323"
+        },
+        {
+            "group": 4,
+            "id": "BUS 215"
+        },
+        {
+            "group": 5,
+            "id": "ENGL 310"
+        }
+    ]
+}

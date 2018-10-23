@@ -1,0 +1,219 @@
+{
+    "links": [
+        {
+            "source": "SOC 110",
+            "target": "SOC 301",
+            "value": 1
+        },
+        {
+            "source": "SOC 110",
+            "target": "SOC 306",
+            "value": 1
+        },
+        {
+            "source": "SOC 110",
+            "target": "SOC 309",
+            "value": 1
+        },
+        {
+            "source": "SOC 110",
+            "target": "SOC 313",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "SOC 354",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "SOC 355",
+            "value": 1
+        },
+        {
+            "source": "SOC 301",
+            "target": "SOC 413",
+            "value": 1
+        },
+        {
+            "source": "SOC 111",
+            "target": "SOC 421",
+            "value": 1
+        },
+        {
+            "source": "SOC 110",
+            "target": "SOC 431",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "SOC 431",
+            "value": 1
+        },
+        {
+            "source": "SOC 402",
+            "target": "SOC 444",
+            "value": 1
+        },
+        {
+            "source": "SOC 412",
+            "target": "SOC 444",
+            "value": 1
+        },
+        {
+            "source": "SOC 110",
+            "target": "SOC 464",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "SOC 110"
+        },
+        {
+            "group": 1,
+            "id": "SOC 111"
+        },
+        {
+            "group": 1,
+            "id": "SOC 200"
+        },
+        {
+            "group": 1,
+            "id": "SOC 218"
+        },
+        {
+            "group": 1,
+            "id": "SOC 270"
+        },
+        {
+            "group": 1,
+            "id": "SOC 301"
+        },
+        {
+            "group": 1,
+            "id": "SOC 305"
+        },
+        {
+            "group": 1,
+            "id": "SOC 306"
+        },
+        {
+            "group": 1,
+            "id": "SOC 309"
+        },
+        {
+            "group": 1,
+            "id": "SOC 310"
+        },
+        {
+            "group": 1,
+            "id": "SOC 311"
+        },
+        {
+            "group": 1,
+            "id": "SOC 313"
+        },
+        {
+            "group": 1,
+            "id": "SOC 315"
+        },
+        {
+            "group": 1,
+            "id": "SOC 316"
+        },
+        {
+            "group": 1,
+            "id": "SOC 323"
+        },
+        {
+            "group": 1,
+            "id": "SOC 326"
+        },
+        {
+            "group": 1,
+            "id": "SOC 327"
+        },
+        {
+            "group": 1,
+            "id": "SOC 350"
+        },
+        {
+            "group": 1,
+            "id": "SOC 354"
+        },
+        {
+            "group": 1,
+            "id": "SOC 355"
+        },
+        {
+            "group": 1,
+            "id": "SOC 377"
+        },
+        {
+            "group": 1,
+            "id": "SOC 395"
+        },
+        {
+            "group": 1,
+            "id": "SOC 400"
+        },
+        {
+            "group": 1,
+            "id": "SOC 402"
+        },
+        {
+            "group": 1,
+            "id": "SOC 406"
+        },
+        {
+            "group": 1,
+            "id": "SOC 412"
+        },
+        {
+            "group": 1,
+            "id": "SOC 413"
+        },
+        {
+            "group": 1,
+            "id": "SOC 421"
+        },
+        {
+            "group": 1,
+            "id": "SOC 431"
+        },
+        {
+            "group": 1,
+            "id": "SOC 440"
+        },
+        {
+            "group": 1,
+            "id": "SOC 444"
+        },
+        {
+            "group": 1,
+            "id": "SOC 461"
+        },
+        {
+            "group": 1,
+            "id": "SOC 462"
+        },
+        {
+            "group": 1,
+            "id": "SOC 464"
+        },
+        {
+            "group": 1,
+            "id": "SOC 470"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 3,
+            "id": "ANT 201"
+        }
+    ]
+}

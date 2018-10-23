@@ -1,0 +1,37 @@
+{
+    "links": [
+        {
+            "source": "SIE 509",
+            "target": "SIE 510",
+            "value": 1
+        },
+        {
+            "source": "SIE 510",
+            "target": "SIE 511",
+            "value": 1
+        },
+        {
+            "source": "SIE 511",
+            "target": "SIE 512",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "SIE 509"
+        },
+        {
+            "group": 1,
+            "id": "SIE 510"
+        },
+        {
+            "group": 1,
+            "id": "SIE 511"
+        },
+        {
+            "group": 1,
+            "id": "SIE 512"
+        }
+    ]
+}

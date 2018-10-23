@@ -1,0 +1,105 @@
+{
+    "links": [
+        {
+            "source": "MATH 241",
+            "target": "LAES 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "LAES 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 133",
+            "target": "LAES 301",
+            "value": 1
+        },
+        {
+            "source": "LAES 301",
+            "target": "LAES 302",
+            "value": 1
+        },
+        {
+            "source": "LAES 302",
+            "target": "LAES 411",
+            "value": 1
+        },
+        {
+            "source": "LAES 302",
+            "target": "LAES 461",
+            "value": 1
+        },
+        {
+            "source": "LAES 461",
+            "target": "LAES 462",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "LAES 200"
+        },
+        {
+            "group": 1,
+            "id": "LAES 270"
+        },
+        {
+            "group": 1,
+            "id": "LAES 301"
+        },
+        {
+            "group": 1,
+            "id": "LAES 302"
+        },
+        {
+            "group": 1,
+            "id": "LAES 400"
+        },
+        {
+            "group": 1,
+            "id": "LAES 411"
+        },
+        {
+            "group": 1,
+            "id": "LAES 430"
+        },
+        {
+            "group": 1,
+            "id": "LAES 461"
+        },
+        {
+            "group": 1,
+            "id": "LAES 462"
+        },
+        {
+            "group": 1,
+            "id": "LAES 470"
+        },
+        {
+            "group": 1,
+            "id": "LAES 471"
+        },
+        {
+            "group": 1,
+            "id": "LAES 485"
+        },
+        {
+            "group": 1,
+            "id": "LAES 495"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 133"
+        }
+    ]
+}

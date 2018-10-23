@@ -1,0 +1,135 @@
+{
+    "links": [
+        {
+            "source": "DANC 134",
+            "target": "DANC 234",
+            "value": 1
+        },
+        {
+            "source": "DANC 231",
+            "target": "DANC 331",
+            "value": 1
+        },
+        {
+            "source": "DANC 332",
+            "target": "DANC 346",
+            "value": 1
+        },
+        {
+            "source": "DANC 331",
+            "target": "DANC 346",
+            "value": 1
+        },
+        {
+            "source": "DANC 345",
+            "target": "DANC 346",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "DANC 130"
+        },
+        {
+            "group": 1,
+            "id": "DANC 131"
+        },
+        {
+            "group": 1,
+            "id": "DANC 132"
+        },
+        {
+            "group": 1,
+            "id": "DANC 133"
+        },
+        {
+            "group": 1,
+            "id": "DANC 134"
+        },
+        {
+            "group": 1,
+            "id": "DANC 135"
+        },
+        {
+            "group": 1,
+            "id": "DANC 210"
+        },
+        {
+            "group": 1,
+            "id": "DANC 221"
+        },
+        {
+            "group": 1,
+            "id": "DANC 231"
+        },
+        {
+            "group": 1,
+            "id": "DANC 232"
+        },
+        {
+            "group": 1,
+            "id": "DANC 233"
+        },
+        {
+            "group": 1,
+            "id": "DANC 234"
+        },
+        {
+            "group": 1,
+            "id": "DANC 270"
+        },
+        {
+            "group": 1,
+            "id": "DANC 280"
+        },
+        {
+            "group": 1,
+            "id": "DANC 321"
+        },
+        {
+            "group": 1,
+            "id": "DANC 331"
+        },
+        {
+            "group": 1,
+            "id": "DANC 332"
+        },
+        {
+            "group": 1,
+            "id": "DANC 340"
+        },
+        {
+            "group": 1,
+            "id": "DANC 341"
+        },
+        {
+            "group": 1,
+            "id": "DANC 345"
+        },
+        {
+            "group": 1,
+            "id": "DANC 346"
+        },
+        {
+            "group": 1,
+            "id": "DANC 381"
+        },
+        {
+            "group": 1,
+            "id": "DANC 400"
+        },
+        {
+            "group": 1,
+            "id": "DANC 430"
+        },
+        {
+            "group": 1,
+            "id": "DANC 470"
+        },
+        {
+            "group": 1,
+            "id": "DANC 471"
+        }
+    ]
+}

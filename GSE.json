@@ -1,0 +1,133 @@
+{
+    "links": [
+        {
+            "source": "GSE 510",
+            "target": "GSE 511",
+            "value": 1
+        },
+        {
+            "source": "GSE 511",
+            "target": "GSE 512",
+            "value": 1
+        },
+        {
+            "source": "GSE 518",
+            "target": "GSE 520",
+            "value": 1
+        },
+        {
+            "source": "GSE 520",
+            "target": "GSE 522",
+            "value": 1
+        },
+        {
+            "source": "GSE 520",
+            "target": "GSE 526",
+            "value": 1
+        },
+        {
+            "source": "GSE 511",
+            "target": "GSE 532",
+            "value": 1
+        },
+        {
+            "source": "GSE 511",
+            "target": "GSE 534",
+            "value": 1
+        },
+        {
+            "source": "GSE 511",
+            "target": "GSE 536",
+            "value": 1
+        },
+        {
+            "source": "GSE 511",
+            "target": "GSE 538",
+            "value": 1
+        },
+        {
+            "source": "GSE 522",
+            "target": "GSE 542",
+            "value": 1
+        },
+        {
+            "source": "GSE 520",
+            "target": "GSE 544",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GSE 500"
+        },
+        {
+            "group": 1,
+            "id": "GSE 510"
+        },
+        {
+            "group": 1,
+            "id": "GSE 511"
+        },
+        {
+            "group": 1,
+            "id": "GSE 512"
+        },
+        {
+            "group": 1,
+            "id": "GSE 518"
+        },
+        {
+            "group": 1,
+            "id": "GSE 520"
+        },
+        {
+            "group": 1,
+            "id": "GSE 522"
+        },
+        {
+            "group": 1,
+            "id": "GSE 524"
+        },
+        {
+            "group": 1,
+            "id": "GSE 526"
+        },
+        {
+            "group": 1,
+            "id": "GSE 532"
+        },
+        {
+            "group": 1,
+            "id": "GSE 534"
+        },
+        {
+            "group": 1,
+            "id": "GSE 536"
+        },
+        {
+            "group": 1,
+            "id": "GSE 538"
+        },
+        {
+            "group": 1,
+            "id": "GSE 542"
+        },
+        {
+            "group": 1,
+            "id": "GSE 544"
+        },
+        {
+            "group": 1,
+            "id": "GSE 570"
+        },
+        {
+            "group": 1,
+            "id": "GSE 580"
+        },
+        {
+            "group": 1,
+            "id": "GSE 599"
+        }
+    ]
+}

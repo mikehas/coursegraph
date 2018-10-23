@@ -1,0 +1,675 @@
+{
+    "links": [
+        {
+            "source": "POLS 225",
+            "target": "POLS 308",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 308",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 321",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 324",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 324",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 328",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 328",
+            "value": 1
+        },
+        {
+            "source": "POLS 230",
+            "target": "POLS 329",
+            "value": 1
+        },
+        {
+            "source": "POLS 230",
+            "target": "POLS 330",
+            "value": 1
+        },
+        {
+            "source": "POLS 230",
+            "target": "POLS 331",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 334",
+            "value": 1
+        },
+        {
+            "source": "POLS 230",
+            "target": "POLS 334",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 338",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 340",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 341",
+            "value": 1
+        },
+        {
+            "source": "POLS 245",
+            "target": "POLS 342",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 343",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 344",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 347",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 348",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 349",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "POLS 359",
+            "value": 1
+        },
+        {
+            "source": "POLS 359",
+            "target": "POLS 361",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 375",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 381",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 381",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 382",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 382",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 383",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 383",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 384",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 384",
+            "value": 1
+        },
+        {
+            "source": "POLS 285",
+            "target": "POLS 385",
+            "value": 1
+        },
+        {
+            "source": "POLS 359",
+            "target": "POLS 387",
+            "value": 1
+        },
+        {
+            "source": "POLS 361",
+            "target": "POLS 387",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 417",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 419",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 420",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 420",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 425",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 425",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 426",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 426",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 427",
+            "value": 1
+        },
+        {
+            "source": "GE D2",
+            "target": "POLS 427",
+            "value": 1
+        },
+        {
+            "source": "POLS 229",
+            "target": "POLS 428",
+            "value": 1
+        },
+        {
+            "source": "POLS 225",
+            "target": "POLS 429",
+            "value": 1
+        },
+        {
+            "source": "POLS 230",
+            "target": "POLS 430",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 431",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 435",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 440",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 445",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 451",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 457",
+            "value": 1
+        },
+        {
+            "source": "GE D1",
+            "target": "POLS 459",
+            "value": 1
+        },
+        {
+            "source": "POLS 359",
+            "target": "POLS 461",
+            "value": 1
+        },
+        {
+            "source": "POLS 361",
+            "target": "POLS 461",
+            "value": 1
+        },
+        {
+            "source": "POLS 359",
+            "target": "POLS 462",
+            "value": 1
+        },
+        {
+            "source": "POLS 361",
+            "target": "POLS 462",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 470",
+            "value": 1
+        },
+        {
+            "source": "POLS 112",
+            "target": "POLS 471",
+            "value": 1
+        },
+        {
+            "source": "POLS 515",
+            "target": "POLS 540",
+            "value": 1
+        },
+        {
+            "source": "POLS 515",
+            "target": "POLS 568",
+            "value": 1
+        },
+        {
+            "source": "POLS 560",
+            "target": "POLS 590",
+            "value": 1
+        },
+        {
+            "source": "POLS 590",
+            "target": "POLS 595",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "POLS 111"
+        },
+        {
+            "group": 1,
+            "id": "POLS 112"
+        },
+        {
+            "group": 1,
+            "id": "POLS 180"
+        },
+        {
+            "group": 1,
+            "id": "POLS 225"
+        },
+        {
+            "group": 1,
+            "id": "POLS 229"
+        },
+        {
+            "group": 1,
+            "id": "POLS 230"
+        },
+        {
+            "group": 1,
+            "id": "POLS 245"
+        },
+        {
+            "group": 1,
+            "id": "POLS 270"
+        },
+        {
+            "group": 1,
+            "id": "POLS 285"
+        },
+        {
+            "group": 1,
+            "id": "POLS 295"
+        },
+        {
+            "group": 1,
+            "id": "POLS 308"
+        },
+        {
+            "group": 1,
+            "id": "POLS 310"
+        },
+        {
+            "group": 1,
+            "id": "POLS 315"
+        },
+        {
+            "group": 1,
+            "id": "POLS 316"
+        },
+        {
+            "group": 1,
+            "id": "POLS 317"
+        },
+        {
+            "group": 1,
+            "id": "POLS 319"
+        },
+        {
+            "group": 1,
+            "id": "POLS 321"
+        },
+        {
+            "group": 1,
+            "id": "POLS 324"
+        },
+        {
+            "group": 1,
+            "id": "POLS 325"
+        },
+        {
+            "group": 1,
+            "id": "POLS 328"
+        },
+        {
+            "group": 1,
+            "id": "POLS 329"
+        },
+        {
+            "group": 1,
+            "id": "POLS 330"
+        },
+        {
+            "group": 1,
+            "id": "POLS 331"
+        },
+        {
+            "group": 1,
+            "id": "POLS 333"
+        },
+        {
+            "group": 1,
+            "id": "POLS 334"
+        },
+        {
+            "group": 1,
+            "id": "POLS 337"
+        },
+        {
+            "group": 1,
+            "id": "POLS 338"
+        },
+        {
+            "group": 1,
+            "id": "POLS 339"
+        },
+        {
+            "group": 1,
+            "id": "POLS 340"
+        },
+        {
+            "group": 1,
+            "id": "POLS 341"
+        },
+        {
+            "group": 1,
+            "id": "POLS 342"
+        },
+        {
+            "group": 1,
+            "id": "POLS 343"
+        },
+        {
+            "group": 1,
+            "id": "POLS 344"
+        },
+        {
+            "group": 1,
+            "id": "POLS 347"
+        },
+        {
+            "group": 1,
+            "id": "POLS 348"
+        },
+        {
+            "group": 1,
+            "id": "POLS 349"
+        },
+        {
+            "group": 1,
+            "id": "POLS 351"
+        },
+        {
+            "group": 1,
+            "id": "POLS 359"
+        },
+        {
+            "group": 1,
+            "id": "POLS 361"
+        },
+        {
+            "group": 1,
+            "id": "POLS 375"
+        },
+        {
+            "group": 1,
+            "id": "POLS 380"
+        },
+        {
+            "group": 1,
+            "id": "POLS 381"
+        },
+        {
+            "group": 1,
+            "id": "POLS 382"
+        },
+        {
+            "group": 1,
+            "id": "POLS 383"
+        },
+        {
+            "group": 1,
+            "id": "POLS 384"
+        },
+        {
+            "group": 1,
+            "id": "POLS 385"
+        },
+        {
+            "group": 1,
+            "id": "POLS 386"
+        },
+        {
+            "group": 1,
+            "id": "POLS 387"
+        },
+        {
+            "group": 1,
+            "id": "POLS 395"
+        },
+        {
+            "group": 1,
+            "id": "POLS 400"
+        },
+        {
+            "group": 1,
+            "id": "POLS 417"
+        },
+        {
+            "group": 1,
+            "id": "POLS 419"
+        },
+        {
+            "group": 1,
+            "id": "POLS 420"
+        },
+        {
+            "group": 1,
+            "id": "POLS 425"
+        },
+        {
+            "group": 1,
+            "id": "POLS 426"
+        },
+        {
+            "group": 1,
+            "id": "POLS 427"
+        },
+        {
+            "group": 1,
+            "id": "POLS 428"
+        },
+        {
+            "group": 1,
+            "id": "POLS 429"
+        },
+        {
+            "group": 1,
+            "id": "POLS 430"
+        },
+        {
+            "group": 1,
+            "id": "POLS 431"
+        },
+        {
+            "group": 1,
+            "id": "POLS 435"
+        },
+        {
+            "group": 1,
+            "id": "POLS 440"
+        },
+        {
+            "group": 1,
+            "id": "POLS 445"
+        },
+        {
+            "group": 1,
+            "id": "POLS 451"
+        },
+        {
+            "group": 1,
+            "id": "POLS 452"
+        },
+        {
+            "group": 1,
+            "id": "POLS 457"
+        },
+        {
+            "group": 1,
+            "id": "POLS 459"
+        },
+        {
+            "group": 1,
+            "id": "POLS 461"
+        },
+        {
+            "group": 1,
+            "id": "POLS 462"
+        },
+        {
+            "group": 1,
+            "id": "POLS 470"
+        },
+        {
+            "group": 1,
+            "id": "POLS 471"
+        },
+        {
+            "group": 1,
+            "id": "POLS 500"
+        },
+        {
+            "group": 1,
+            "id": "POLS 510"
+        },
+        {
+            "group": 1,
+            "id": "POLS 515"
+        },
+        {
+            "group": 1,
+            "id": "POLS 518"
+        },
+        {
+            "group": 1,
+            "id": "POLS 540"
+        },
+        {
+            "group": 1,
+            "id": "POLS 550"
+        },
+        {
+            "group": 1,
+            "id": "POLS 560"
+        },
+        {
+            "group": 1,
+            "id": "POLS 568"
+        },
+        {
+            "group": 1,
+            "id": "POLS 570"
+        },
+        {
+            "group": 1,
+            "id": "POLS 586"
+        },
+        {
+            "group": 1,
+            "id": "POLS 590"
+        },
+        {
+            "group": 1,
+            "id": "POLS 595"
+        },
+        {
+            "group": 2,
+            "id": "STAT 217"
+        },
+        {
+            "group": 3,
+            "id": "GE D1"
+        },
+        {
+            "group": 3,
+            "id": "GE D2"
+        }
+    ]
+}

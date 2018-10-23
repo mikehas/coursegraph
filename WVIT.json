@@ -1,0 +1,527 @@
+{
+    "links": [
+        {
+            "source": "CHEM 111",
+            "target": "WVIT 202",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "WVIT 202",
+            "value": 1
+        },
+        {
+            "source": "AEPS 120",
+            "target": "WVIT 233",
+            "value": 1
+        },
+        {
+            "source": "BOT 121",
+            "target": "WVIT 233",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "WVIT 233",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "WVIT 233",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "WVIT 233",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "WVIT 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "WVIT 301",
+            "value": 1
+        },
+        {
+            "source": "MCRO 224",
+            "target": "WVIT 301",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 301",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 302",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "WVIT 331",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "WVIT 331",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 331",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "WVIT 332",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "WVIT 332",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 332",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "WVIT 333",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "WVIT 333",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 333",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 339",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "WVIT 339",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "WVIT 339",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 339",
+            "value": 1
+        },
+        {
+            "source": "AGB 212",
+            "target": "WVIT 343",
+            "value": 1
+        },
+        {
+            "source": "ECON 201",
+            "target": "WVIT 343",
+            "value": 1
+        },
+        {
+            "source": "ECON 221",
+            "target": "WVIT 343",
+            "value": 1
+        },
+        {
+            "source": "ECON 222",
+            "target": "WVIT 343",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 365",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "WVIT 365",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "WVIT 365",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 404",
+            "value": 1
+        },
+        {
+            "source": "WVIT 365",
+            "target": "WVIT 404",
+            "value": 1
+        },
+        {
+            "source": "WVIT 404",
+            "target": "WVIT 405",
+            "value": 1
+        },
+        {
+            "source": "WVIT 405",
+            "target": "WVIT 406",
+            "value": 1
+        },
+        {
+            "source": "WVIT 231",
+            "target": "WVIT 414",
+            "value": 1
+        },
+        {
+            "source": "WVIT 232",
+            "target": "WVIT 414",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 414",
+            "value": 1
+        },
+        {
+            "source": "AEPS 313",
+            "target": "WVIT 414",
+            "value": 1
+        },
+        {
+            "source": "BOT 323",
+            "target": "WVIT 414",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 423",
+            "value": 1
+        },
+        {
+            "source": "AGB 214",
+            "target": "WVIT 428",
+            "value": 1
+        },
+        {
+            "source": "SS 221",
+            "target": "WVIT 428",
+            "value": 1
+        },
+        {
+            "source": "WVIT 233",
+            "target": "WVIT 428",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 433",
+            "value": 1
+        },
+        {
+            "source": "WVIT 202",
+            "target": "WVIT 442",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "WVIT 442",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "WVIT 444",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "WVIT 444",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 444",
+            "value": 1
+        },
+        {
+            "source": "WVIT 102",
+            "target": "WVIT 447",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 447",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "WVIT 447",
+            "value": 1
+        },
+        {
+            "source": "AGB 214",
+            "target": "WVIT 450",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 450",
+            "value": 1
+        },
+        {
+            "source": "WVIT 343",
+            "target": "WVIT 460",
+            "value": 1
+        },
+        {
+            "source": "WVIT 444",
+            "target": "WVIT 460",
+            "value": 1
+        },
+        {
+            "source": "WVIT 450",
+            "target": "WVIT 460",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "WVIT 464",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "WVIT 465",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "WVIT 101"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 102"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 202"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 210"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 233"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 270"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 301"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 302"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 331"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 332"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 333"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 339"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 343"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 344"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 365"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 400"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 404"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 405"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 406"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 414"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 423"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 428"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 433"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 442"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 444"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 447"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 450"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 460"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 463"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 464"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 465"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 470"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 471"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 3,
+            "id": "AEPS 120"
+        },
+        {
+            "group": 4,
+            "id": "BOT 121"
+        },
+        {
+            "group": 5,
+            "id": "SS 121"
+        },
+        {
+            "group": 6,
+            "id": "MCRO 224"
+        },
+        {
+            "group": 6,
+            "id": "MCRO 221"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 231"
+        },
+        {
+            "group": 1,
+            "id": "WVIT 232"
+        },
+        {
+            "group": 7,
+            "id": "AGB 212"
+        },
+        {
+            "group": 8,
+            "id": "ECON 201"
+        },
+        {
+            "group": 8,
+            "id": "ECON 221"
+        },
+        {
+            "group": 8,
+            "id": "ECON 222"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 2,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 3,
+            "id": "AEPS 313"
+        },
+        {
+            "group": 4,
+            "id": "BOT 323"
+        },
+        {
+            "group": 7,
+            "id": "AGB 214"
+        },
+        {
+            "group": 5,
+            "id": "SS 221"
+        },
+        {
+            "group": 9,
+            "id": "STAT 218"
+        },
+        {
+            "group": 9,
+            "id": "STAT 217"
+        }
+    ]
+}

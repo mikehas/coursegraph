@@ -1,0 +1,324 @@
+{
+    "links": [
+        {
+            "source": "SS 121",
+            "target": "ERSC 223",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "ERSC 223",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "ERSC 223",
+            "value": 1
+        },
+        {
+            "source": "SS 110",
+            "target": "ERSC 301",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "ERSC 301",
+            "value": 1
+        },
+        {
+            "source": "NR 218",
+            "target": "ERSC 303",
+            "value": 1
+        },
+        {
+            "source": "GEOG 318",
+            "target": "ERSC 303",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "ERSC 303",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "ERSC 323",
+            "value": 1
+        },
+        {
+            "source": "GEOL 201",
+            "target": "ERSC 323",
+            "value": 1
+        },
+        {
+            "source": "GEOL 102",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "GEOL 201",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "GEOL 241",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "GEOL 415",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "ERSC 223",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "ERSC 323",
+            "target": "ERSC 401",
+            "value": 1
+        },
+        {
+            "source": "GEOL 401",
+            "target": "ERSC 402",
+            "value": 1
+        },
+        {
+            "source": "GEOG 250",
+            "target": "ERSC 415",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "ERSC 476",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "ERSC 476",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "ERSC 476",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "ERSC 477",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "ERSC 477",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "ERSC 477",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "ERSC 478",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "ERSC 478",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "ERSC 478",
+            "value": 1
+        },
+        {
+            "source": "ERSC 363",
+            "target": "ERSC 479",
+            "value": 1
+        },
+        {
+            "source": "NR 306",
+            "target": "ERSC 479",
+            "value": 1
+        },
+        {
+            "source": "NR 326",
+            "target": "ERSC 479",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ERSC 140"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 144"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 200"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 223"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 250"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 270"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 301"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 303"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 323"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 325"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 333"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 335"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 339"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 363"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 400"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 401"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 402"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 414"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 415"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 470"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 471"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 476"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 477"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 478"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 479"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 544"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 570"
+        },
+        {
+            "group": 1,
+            "id": "ERSC 571"
+        },
+        {
+            "group": 2,
+            "id": "SS 121"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 2,
+            "id": "SS 110"
+        },
+        {
+            "group": 4,
+            "id": "NR 218"
+        },
+        {
+            "group": 5,
+            "id": "GEOG 318"
+        },
+        {
+            "group": 6,
+            "id": "GEOL 201"
+        },
+        {
+            "group": 6,
+            "id": "GEOL 102"
+        },
+        {
+            "group": 6,
+            "id": "GEOL 241"
+        },
+        {
+            "group": 6,
+            "id": "GEOL 415"
+        },
+        {
+            "group": 6,
+            "id": "GEOL 401"
+        },
+        {
+            "group": 5,
+            "id": "GEOG 250"
+        },
+        {
+            "group": 4,
+            "id": "NR 306"
+        },
+        {
+            "group": 4,
+            "id": "NR 326"
+        }
+    ]
+}

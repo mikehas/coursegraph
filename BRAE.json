@@ -1,0 +1,860 @@
+{
+    "links": [
+        {
+            "source": "MATH 116",
+            "target": "BRAE 142",
+            "value": 1
+        },
+        {
+            "source": "BRAE 133",
+            "target": "BRAE 152",
+            "value": 1
+        },
+        {
+            "source": "BRAE 151",
+            "target": "BRAE 152",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "BRAE 203",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "BRAE 213",
+            "value": 1
+        },
+        {
+            "source": "BRAE 129",
+            "target": "BRAE 216",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "BRAE 216",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "BRAE 216",
+            "value": 1
+        },
+        {
+            "source": "BRAE 151",
+            "target": "BRAE 232",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "BRAE 232",
+            "value": 1
+        },
+        {
+            "source": "PHYS 131",
+            "target": "BRAE 234",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "BRAE 236",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "BRAE 236",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "BRAE 237",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "BRAE 239",
+            "value": 1
+        },
+        {
+            "source": "AEPS 133",
+            "target": "BRAE 244",
+            "value": 1
+        },
+        {
+            "source": "AEPS 190",
+            "target": "BRAE 244",
+            "value": 1
+        },
+        {
+            "source": "AEPS 260",
+            "target": "BRAE 244",
+            "value": 1
+        },
+        {
+            "source": "BRAE 237",
+            "target": "BRAE 244",
+            "value": 1
+        },
+        {
+            "source": "BRAE 239",
+            "target": "BRAE 244",
+            "value": 1
+        },
+        {
+            "source": "NR 215",
+            "target": "BRAE 247",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BRAE 301",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "BRAE 301",
+            "value": 1
+        },
+        {
+            "source": "BRAE 216",
+            "target": "BRAE 302",
+            "value": 1
+        },
+        {
+            "source": "BRAE 324",
+            "target": "BRAE 302",
+            "value": 1
+        },
+        {
+            "source": "BRAE 234",
+            "target": "BRAE 302",
+            "value": 1
+        },
+        {
+            "source": "BRAE 301",
+            "target": "BRAE 302",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "BRAE 312",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "BRAE 312",
+            "value": 1
+        },
+        {
+            "source": "BRAE 232",
+            "target": "BRAE 320",
+            "value": 1
+        },
+        {
+            "source": "BRAE 236",
+            "target": "BRAE 320",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "BRAE 320",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "BRAE 324",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BRAE 324",
+            "value": 1
+        },
+        {
+            "source": "EE 321",
+            "target": "BRAE 328",
+            "value": 1
+        },
+        {
+            "source": "EE 361",
+            "target": "BRAE 328",
+            "value": 1
+        },
+        {
+            "source": "CSC 231",
+            "target": "BRAE 328",
+            "value": 1
+        },
+        {
+            "source": "CSC 232",
+            "target": "BRAE 328",
+            "value": 1
+        },
+        {
+            "source": "CSC 234",
+            "target": "BRAE 328",
+            "value": 1
+        },
+        {
+            "source": "BRAE 236",
+            "target": "BRAE 331",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 331",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "BRAE 337",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "BRAE 340",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BRAE 342",
+            "value": 1
+        },
+        {
+            "source": "SS 121",
+            "target": "BRAE 342",
+            "value": 1
+        },
+        {
+            "source": "MATH 119",
+            "target": "BRAE 342",
+            "value": 1
+        },
+        {
+            "source": "BRAE 342",
+            "target": "BRAE 343",
+            "value": 1
+        },
+        {
+            "source": "BRAE 343",
+            "target": "BRAE 344",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "BRAE 345",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "BRAE 403",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "BRAE 403",
+            "value": 1
+        },
+        {
+            "source": "BRAE 236",
+            "target": "BRAE 405",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 405",
+            "value": 1
+        },
+        {
+            "source": "BRAE 331",
+            "target": "BRAE 414",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 414",
+            "value": 1
+        },
+        {
+            "source": "BRAE 312",
+            "target": "BRAE 414",
+            "value": 1
+        },
+        {
+            "source": "BRAE 203",
+            "target": "BRAE 418",
+            "value": 1
+        },
+        {
+            "source": "AGB 301",
+            "target": "BRAE 418",
+            "value": 1
+        },
+        {
+            "source": "AGB 310",
+            "target": "BRAE 418",
+            "value": 1
+        },
+        {
+            "source": "BRAE 418",
+            "target": "BRAE 419",
+            "value": 1
+        },
+        {
+            "source": "BRAE 152",
+            "target": "BRAE 421",
+            "value": 1
+        },
+        {
+            "source": "CE 204",
+            "target": "BRAE 421",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "BRAE 421",
+            "value": 1
+        },
+        {
+            "source": "BRAE 421",
+            "target": "BRAE 422",
+            "value": 1
+        },
+        {
+            "source": "BRAE 324",
+            "target": "BRAE 425",
+            "value": 1
+        },
+        {
+            "source": "BRAE 328",
+            "target": "BRAE 428",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BRAE 432",
+            "value": 1
+        },
+        {
+            "source": "BRAE 342",
+            "target": "BRAE 432",
+            "value": 1
+        },
+        {
+            "source": "BRAE 343",
+            "target": "BRAE 432",
+            "value": 1
+        },
+        {
+            "source": "BRAE 232",
+            "target": "BRAE 433",
+            "value": 1
+        },
+        {
+            "source": "CE 204",
+            "target": "BRAE 433",
+            "value": 1
+        },
+        {
+            "source": "BRAE 312",
+            "target": "BRAE 435",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 435",
+            "value": 1
+        },
+        {
+            "source": "BRAE 236",
+            "target": "BRAE 438",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 438",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 440",
+            "value": 1
+        },
+        {
+            "source": "BRAE 239",
+            "target": "BRAE 447",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "BRAE 448",
+            "value": 1
+        },
+        {
+            "source": "PHYS 104",
+            "target": "BRAE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 118",
+            "target": "BRAE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 121",
+            "target": "BRAE 450",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "BRAE 450",
+            "value": 1
+        },
+        {
+            "source": "BRAE 460",
+            "target": "BRAE 461",
+            "value": 1
+        },
+        {
+            "source": "BRAE 461",
+            "target": "BRAE 462",
+            "value": 1
+        },
+        {
+            "source": "BRAE 312",
+            "target": "BRAE 532",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 532",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "BRAE 532",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "BRAE 532",
+            "value": 1
+        },
+        {
+            "source": "BRAE 340",
+            "target": "BRAE 533",
+            "value": 1
+        },
+        {
+            "source": "BRAE 312",
+            "target": "BRAE 533",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "BRAE 121"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 128"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 129"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 133"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 141"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 142"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 151"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 152"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 200"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 203"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 213"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 216"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 232"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 234"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 236"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 237"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 239"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 240"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 244"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 247"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 270"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 301"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 302"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 312"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 320"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 321"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 324"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 328"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 331"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 335"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 337"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 339"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 340"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 342"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 343"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 344"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 345"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 348"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 400"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 403"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 405"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 414"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 418"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 419"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 421"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 422"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 425"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 428"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 432"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 433"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 434"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 435"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 438"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 440"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 447"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 448"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 450"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 460"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 461"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 462"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 470"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 471"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 481"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 485"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 495"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 500"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 532"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 533"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 570"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 571"
+        },
+        {
+            "group": 1,
+            "id": "BRAE 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 116"
+        },
+        {
+            "group": 2,
+            "id": "MATH 118"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 131"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 4,
+            "id": "SS 121"
+        },
+        {
+            "group": 2,
+            "id": "MATH 119"
+        },
+        {
+            "group": 5,
+            "id": "AEPS 133"
+        },
+        {
+            "group": 5,
+            "id": "AEPS 190"
+        },
+        {
+            "group": 5,
+            "id": "AEPS 260"
+        },
+        {
+            "group": 6,
+            "id": "NR 215"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 121"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 7,
+            "id": "ME 211"
+        },
+        {
+            "group": 8,
+            "id": "EE 321"
+        },
+        {
+            "group": 8,
+            "id": "EE 361"
+        },
+        {
+            "group": 9,
+            "id": "CSC 231"
+        },
+        {
+            "group": 9,
+            "id": "CSC 232"
+        },
+        {
+            "group": 9,
+            "id": "CSC 234"
+        },
+        {
+            "group": 2,
+            "id": "MATH 242"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 10,
+            "id": "AGB 301"
+        },
+        {
+            "group": 10,
+            "id": "AGB 310"
+        },
+        {
+            "group": 11,
+            "id": "CE 204"
+        },
+        {
+            "group": 7,
+            "id": "ME 212"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 104"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 118"
+        },
+        {
+            "group": 11,
+            "id": "CE 336"
+        },
+        {
+            "group": 7,
+            "id": "ME 341"
+        }
+    ]
+}

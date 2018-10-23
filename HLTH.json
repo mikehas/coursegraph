@@ -1,0 +1,507 @@
+{
+    "links": [
+        {
+            "source": "HLTH 101",
+            "target": "HLTH 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 180",
+            "target": "HLTH 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 265",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 280",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 281",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "HLTH 298",
+            "value": 1
+        },
+        {
+            "source": "KINE 298",
+            "target": "HLTH 299",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "HLTH 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 305",
+            "value": 1
+        },
+        {
+            "source": "KINE 443",
+            "target": "HLTH 305",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "HLTH 310",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "HLTH 310",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "HLTH 310",
+            "value": 1
+        },
+        {
+            "source": "KINE 180",
+            "target": "HLTH 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "HLTH 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 320",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 320",
+            "value": 1
+        },
+        {
+            "source": "HLTH 299",
+            "target": "HLTH 334",
+            "value": 1
+        },
+        {
+            "source": "PSY 201",
+            "target": "HLTH 334",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "HLTH 402",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "HLTH 402",
+            "value": 1
+        },
+        {
+            "source": "BIO 231",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 232",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "HLTH 299",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "KINE 304",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "HLTH 405",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "HLTH 410",
+            "value": 1
+        },
+        {
+            "source": "KINE 265",
+            "target": "HLTH 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 298",
+            "target": "HLTH 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "HLTH 434",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "HLTH 434",
+            "value": 1
+        },
+        {
+            "source": "KINE 320",
+            "target": "HLTH 435",
+            "value": 1
+        },
+        {
+            "source": "KINE 434",
+            "target": "HLTH 435",
+            "value": 1
+        },
+        {
+            "source": "KINE 250",
+            "target": "HLTH 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 255",
+            "target": "HLTH 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 260",
+            "target": "HLTH 450",
+            "value": 1
+        },
+        {
+            "source": "KINE 266",
+            "target": "HLTH 450",
+            "value": 1
+        },
+        {
+            "source": "HLTH 334",
+            "target": "HLTH 450",
+            "value": 1
+        },
+        {
+            "source": "FSN 210",
+            "target": "HLTH 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 451",
+            "target": "HLTH 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 298",
+            "target": "HLTH 453",
+            "value": 1
+        },
+        {
+            "source": "KINE 304",
+            "target": "HLTH 453",
+            "value": 1
+        },
+        {
+            "source": "FSN 310",
+            "target": "HLTH 453",
+            "value": 1
+        },
+        {
+            "source": "HLTH 402",
+            "target": "HLTH 460",
+            "value": 1
+        },
+        {
+            "source": "KINE 320",
+            "target": "HLTH 460",
+            "value": 1
+        },
+        {
+            "source": "KINE 434",
+            "target": "HLTH 460",
+            "value": 1
+        },
+        {
+            "source": "HLTH 402",
+            "target": "HLTH 461",
+            "value": 1
+        },
+        {
+            "source": "KINE 320",
+            "target": "HLTH 461",
+            "value": 1
+        },
+        {
+            "source": "KINE 434",
+            "target": "HLTH 461",
+            "value": 1
+        },
+        {
+            "source": "HLTH 402",
+            "target": "HLTH 462",
+            "value": 1
+        },
+        {
+            "source": "KINE 320",
+            "target": "HLTH 462",
+            "value": 1
+        },
+        {
+            "source": "KINE 434",
+            "target": "HLTH 462",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "HLTH 101"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 250"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 255"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 260"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 265"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 280"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 281"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 297"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 298"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 299"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 305"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 310"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 320"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 334"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 402"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 405"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 410"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 434"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 435"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 443"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 450"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 453"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 460"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 461"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 462"
+        },
+        {
+            "group": 1,
+            "id": "HLTH 463"
+        },
+        {
+            "group": 2,
+            "id": "KINE 180"
+        },
+        {
+            "group": 2,
+            "id": "KINE 250"
+        },
+        {
+            "group": 2,
+            "id": "KINE 255"
+        },
+        {
+            "group": 2,
+            "id": "KINE 260"
+        },
+        {
+            "group": 2,
+            "id": "KINE 265"
+        },
+        {
+            "group": 2,
+            "id": "KINE 298"
+        },
+        {
+            "group": 3,
+            "id": "BIO 231"
+        },
+        {
+            "group": 2,
+            "id": "KINE 443"
+        },
+        {
+            "group": 3,
+            "id": "BIO 232"
+        },
+        {
+            "group": 4,
+            "id": "PSY 201"
+        },
+        {
+            "group": 5,
+            "id": "STAT 313"
+        },
+        {
+            "group": 2,
+            "id": "KINE 304"
+        },
+        {
+            "group": 2,
+            "id": "KINE 266"
+        },
+        {
+            "group": 2,
+            "id": "KINE 320"
+        },
+        {
+            "group": 2,
+            "id": "KINE 434"
+        },
+        {
+            "group": 6,
+            "id": "FSN 210"
+        },
+        {
+            "group": 2,
+            "id": "KINE 451"
+        },
+        {
+            "group": 6,
+            "id": "FSN 310"
+        }
+    ]
+}

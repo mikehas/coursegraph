@@ -1,0 +1,907 @@
+{
+    "links": [
+        {
+            "source": "BIO 111",
+            "target": "ASCI 203",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 203",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "ASCI 220",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 220",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "ASCI 220",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "ASCI 229",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 229",
+            "value": 1
+        },
+        {
+            "source": "BIO 302",
+            "target": "ASCI 304",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "ASCI 304",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "ASCI 304",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 310",
+            "value": 1
+        },
+        {
+            "source": "ASCI 221",
+            "target": "ASCI 311",
+            "value": 1
+        },
+        {
+            "source": "ASCI 221",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 223",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 225",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 222",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 224",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 227",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 312",
+            "value": 1
+        },
+        {
+            "source": "ASCI 224",
+            "target": "ASCI 315",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 320",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "ASCI 320",
+            "value": 1
+        },
+        {
+            "source": "CHEM 216",
+            "target": "ASCI 320",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "ASCI 320",
+            "value": 1
+        },
+        {
+            "source": "CHEM 316",
+            "target": "ASCI 320",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "ASCI 321",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 321",
+            "value": 1
+        },
+        {
+            "source": "ASCI 228",
+            "target": "ASCI 324",
+            "value": 1
+        },
+        {
+            "source": "ASCI 225",
+            "target": "ASCI 325",
+            "value": 1
+        },
+        {
+            "source": "ASCI 112",
+            "target": "ASCI 326",
+            "value": 1
+        },
+        {
+            "source": "ASCI 226",
+            "target": "ASCI 326",
+            "value": 1
+        },
+        {
+            "source": "ASCI 225",
+            "target": "ASCI 330",
+            "value": 1
+        },
+        {
+            "source": "ASCI 224",
+            "target": "ASCI 333",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "ASCI 340",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 340",
+            "value": 1
+        },
+        {
+            "source": "ASCI 225",
+            "target": "ASCI 342",
+            "value": 1
+        },
+        {
+            "source": "ASCI 214",
+            "target": "ASCI 344",
+            "value": 1
+        },
+        {
+            "source": "ASCI 344",
+            "target": "ASCI 345",
+            "value": 1
+        },
+        {
+            "source": "ASCI 220",
+            "target": "ASCI 346",
+            "value": 1
+        },
+        {
+            "source": "ASCI 224",
+            "target": "ASCI 346",
+            "value": 1
+        },
+        {
+            "source": "ASCI 224",
+            "target": "ASCI 347",
+            "value": 1
+        },
+        {
+            "source": "ASCI 220",
+            "target": "ASCI 350",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 351",
+            "value": 1
+        },
+        {
+            "source": "ASCI 220",
+            "target": "ASCI 355",
+            "value": 1
+        },
+        {
+            "source": "ASCI 320",
+            "target": "ASCI 355",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "ASCI 355",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "ASCI 355",
+            "value": 1
+        },
+        {
+            "source": "CHEM 111",
+            "target": "ASCI 366",
+            "value": 1
+        },
+        {
+            "source": "CHEM 127",
+            "target": "ASCI 366",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 366",
+            "value": 1
+        },
+        {
+            "source": "ASCI 329",
+            "target": "ASCI 370",
+            "value": 1
+        },
+        {
+            "source": "ASCI 211",
+            "target": "ASCI 384",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "BIO 302",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "BIO 303",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "BIO 351",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "ASCI 304",
+            "target": "ASCI 403",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 405",
+            "value": 1
+        },
+        {
+            "source": "BIO 361",
+            "target": "ASCI 405",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 406",
+            "value": 1
+        },
+        {
+            "source": "ASCI 351",
+            "target": "ASCI 406",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 407",
+            "value": 1
+        },
+        {
+            "source": "ASCI 351",
+            "target": "ASCI 407",
+            "value": 1
+        },
+        {
+            "source": "ASCI 406",
+            "target": "ASCI 407",
+            "value": 1
+        },
+        {
+            "source": "BIO 111",
+            "target": "ASCI 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 161",
+            "target": "ASCI 410",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 410",
+            "value": 1
+        },
+        {
+            "source": "BIO 162",
+            "target": "ASCI 410",
+            "value": 1
+        },
+        {
+            "source": "ASCI 212",
+            "target": "ASCI 412",
+            "value": 1
+        },
+        {
+            "source": "AGB 314",
+            "target": "ASCI 412",
+            "value": 1
+        },
+        {
+            "source": "ASCI 412",
+            "target": "ASCI 413",
+            "value": 1
+        },
+        {
+            "source": "ASCI 211",
+            "target": "ASCI 415",
+            "value": 1
+        },
+        {
+            "source": "ASCI 220",
+            "target": "ASCI 420",
+            "value": 1
+        },
+        {
+            "source": "ASCI 320",
+            "target": "ASCI 420",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "ASCI 420",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "ASCI 420",
+            "value": 1
+        },
+        {
+            "source": "ASCI 211",
+            "target": "ASCI 425",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 438",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "ASCI 438",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "ASCI 438",
+            "value": 1
+        },
+        {
+            "source": "ASCI 320",
+            "target": "ASCI 438",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 440",
+            "value": 1
+        },
+        {
+            "source": "ASCI 333",
+            "target": "ASCI 455",
+            "value": 1
+        },
+        {
+            "source": "ASCI 351",
+            "target": "ASCI 455",
+            "value": 1
+        },
+        {
+            "source": "ASCI 329",
+            "target": "ASCI 460",
+            "value": 1
+        },
+        {
+            "source": "ASCI 363",
+            "target": "ASCI 477",
+            "value": 1
+        },
+        {
+            "source": "ASCI 363",
+            "target": "ASCI 478",
+            "value": 1
+        },
+        {
+            "source": "ASCI 363",
+            "target": "ASCI 479",
+            "value": 1
+        },
+        {
+            "source": "ASCI 403",
+            "target": "ASCI 503",
+            "value": 1
+        },
+        {
+            "source": "ASCI 320",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "CHEM 313",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "ASCI 346",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "ASCI 350",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "ASCI 355",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "DSCI 301",
+            "target": "ASCI 520",
+            "value": 1
+        },
+        {
+            "source": "ASCI 229",
+            "target": "ASCI 540",
+            "value": 1
+        },
+        {
+            "source": "ASCI 320",
+            "target": "ASCI 540",
+            "value": 1
+        },
+        {
+            "source": "CHEM 371",
+            "target": "ASCI 540",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "ASCI 540",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ASCI 101"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 112"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 200"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 203"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 211"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 212"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 214"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 220"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 221"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 222"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 223"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 224"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 225"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 226"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 227"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 228"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 229"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 232"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 260"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 265"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 270"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 290"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 304"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 310"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 311"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 312"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 315"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 320"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 321"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 324"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 325"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 326"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 329"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 330"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 333"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 339"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 340"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 342"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 344"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 345"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 346"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 347"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 350"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 351"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 355"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 360"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 363"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 366"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 370"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 384"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 400"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 403"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 405"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 406"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 407"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 410"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 412"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 413"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 415"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 420"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 425"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 438"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 440"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 450"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 455"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 460"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 470"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 471"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 477"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 478"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 479"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 490"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 500"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 503"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 520"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 540"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 570"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 571"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 581"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 593"
+        },
+        {
+            "group": 1,
+            "id": "ASCI 594"
+        },
+        {
+            "group": 2,
+            "id": "BIO 111"
+        },
+        {
+            "group": 2,
+            "id": "BIO 161"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 127"
+        },
+        {
+            "group": 2,
+            "id": "BIO 302"
+        },
+        {
+            "group": 2,
+            "id": "BIO 303"
+        },
+        {
+            "group": 2,
+            "id": "BIO 351"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 212"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 216"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 316"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 313"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 371"
+        },
+        {
+            "group": 3,
+            "id": "CHEM 111"
+        },
+        {
+            "group": 2,
+            "id": "BIO 162"
+        },
+        {
+            "group": 2,
+            "id": "BIO 361"
+        },
+        {
+            "group": 4,
+            "id": "AGB 314"
+        },
+        {
+            "group": 5,
+            "id": "DSCI 301"
+        },
+        {
+            "group": 6,
+            "id": "STAT 218"
+        }
+    ]
+}

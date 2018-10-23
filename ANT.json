@@ -1,0 +1,267 @@
+{
+    "links": [
+        {
+            "source": "ANT 202",
+            "target": "ANT 309",
+            "value": 1
+        },
+        {
+            "source": "ANT 202",
+            "target": "ANT 310",
+            "value": 1
+        },
+        {
+            "source": "ANT 309",
+            "target": "ANT 310",
+            "value": 1
+        },
+        {
+            "source": "ANT 309",
+            "target": "ANT 311",
+            "value": 1
+        },
+        {
+            "source": "ANT 310",
+            "target": "ANT 311",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 312",
+            "value": 1
+        },
+        {
+            "source": "ANT 202",
+            "target": "ANT 312",
+            "value": 1
+        },
+        {
+            "source": "ANT 309",
+            "target": "ANT 312",
+            "value": 1
+        },
+        {
+            "source": "ANT 202",
+            "target": "ANT 320",
+            "value": 1
+        },
+        {
+            "source": "AREA B2",
+            "target": "ANT 344",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 393",
+            "value": 1
+        },
+        {
+            "source": "ANT 202",
+            "target": "ANT 393",
+            "value": 1
+        },
+        {
+            "source": "ANT 250",
+            "target": "ANT 393",
+            "value": 1
+        },
+        {
+            "source": "ISLA 123",
+            "target": "ANT 393",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 401",
+            "value": 1
+        },
+        {
+            "source": "ANT 250",
+            "target": "ANT 401",
+            "value": 1
+        },
+        {
+            "source": "BIO 160",
+            "target": "ANT 401",
+            "value": 1
+        },
+        {
+            "source": "BIO 263",
+            "target": "ANT 401",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 402",
+            "value": 1
+        },
+        {
+            "source": "GE B2",
+            "target": "ANT 455",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 460",
+            "value": 1
+        },
+        {
+            "source": "ISLA 123",
+            "target": "ANT 460",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "ANT 464",
+            "value": 1
+        },
+        {
+            "source": "GEOG 150",
+            "target": "ANT 464",
+            "value": 1
+        },
+        {
+            "source": "ANT 464",
+            "target": "ANT 465",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ANT 200"
+        },
+        {
+            "group": 1,
+            "id": "ANT 201"
+        },
+        {
+            "group": 1,
+            "id": "ANT 202"
+        },
+        {
+            "group": 1,
+            "id": "ANT 250"
+        },
+        {
+            "group": 1,
+            "id": "ANT 270"
+        },
+        {
+            "group": 1,
+            "id": "ANT 309"
+        },
+        {
+            "group": 1,
+            "id": "ANT 310"
+        },
+        {
+            "group": 1,
+            "id": "ANT 311"
+        },
+        {
+            "group": 1,
+            "id": "ANT 312"
+        },
+        {
+            "group": 1,
+            "id": "ANT 320"
+        },
+        {
+            "group": 1,
+            "id": "ANT 325"
+        },
+        {
+            "group": 1,
+            "id": "ANT 330"
+        },
+        {
+            "group": 1,
+            "id": "ANT 344"
+        },
+        {
+            "group": 1,
+            "id": "ANT 345"
+        },
+        {
+            "group": 1,
+            "id": "ANT 360"
+        },
+        {
+            "group": 1,
+            "id": "ANT 393"
+        },
+        {
+            "group": 1,
+            "id": "ANT 400"
+        },
+        {
+            "group": 1,
+            "id": "ANT 401"
+        },
+        {
+            "group": 1,
+            "id": "ANT 402"
+        },
+        {
+            "group": 1,
+            "id": "ANT 415"
+        },
+        {
+            "group": 1,
+            "id": "ANT 425"
+        },
+        {
+            "group": 1,
+            "id": "ANT 455"
+        },
+        {
+            "group": 1,
+            "id": "ANT 460"
+        },
+        {
+            "group": 1,
+            "id": "ANT 461"
+        },
+        {
+            "group": 1,
+            "id": "ANT 462"
+        },
+        {
+            "group": 1,
+            "id": "ANT 464"
+        },
+        {
+            "group": 1,
+            "id": "ANT 465"
+        },
+        {
+            "group": 1,
+            "id": "ANT 470"
+        },
+        {
+            "group": 2,
+            "id": "AREA B2"
+        },
+        {
+            "group": 3,
+            "id": "ISLA 123"
+        },
+        {
+            "group": 4,
+            "id": "BIO 160"
+        },
+        {
+            "group": 4,
+            "id": "BIO 263"
+        },
+        {
+            "group": 5,
+            "id": "GE B2"
+        },
+        {
+            "group": 6,
+            "id": "GEOG 150"
+        }
+    ]
+}

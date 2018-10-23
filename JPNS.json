@@ -1,0 +1,37 @@
+{
+    "links": [
+        {
+            "source": "JPNS 101",
+            "target": "JPNS 102",
+            "value": 1
+        },
+        {
+            "source": "JPNS 102",
+            "target": "JPNS 103",
+            "value": 1
+        },
+        {
+            "source": "JPNS 103",
+            "target": "JPNS 201",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "JPNS 101"
+        },
+        {
+            "group": 1,
+            "id": "JPNS 102"
+        },
+        {
+            "group": 1,
+            "id": "JPNS 103"
+        },
+        {
+            "group": 1,
+            "id": "JPNS 201"
+        }
+    ]
+}

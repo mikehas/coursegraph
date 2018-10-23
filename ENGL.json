@@ -1,0 +1,882 @@
+{
+    "links": [
+        {
+            "source": "ENGL 129",
+            "target": "ENGL 130",
+            "value": 1
+        },
+        {
+            "source": "ENGL 131",
+            "target": "ENGL 132",
+            "value": 1
+        },
+        {
+            "source": "GE A1",
+            "target": "ENGL 133",
+            "value": 1
+        },
+        {
+            "source": "GE A1",
+            "target": "ENGL 134",
+            "value": 1
+        },
+        {
+            "source": "GE A1",
+            "target": "ENGL 202",
+            "value": 1
+        },
+        {
+            "source": "ENGL 251",
+            "target": "ENGL 203",
+            "value": 1
+        },
+        {
+            "source": "ENGL 230",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 231",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 240",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 241",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 242",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 251",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 252",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "ENGL 253",
+            "target": "ENGL 360",
+            "value": 1
+        },
+        {
+            "source": "GE C1",
+            "target": "ENGL 368",
+            "value": 1
+        },
+        {
+            "source": "ENGL 411",
+            "target": "ENGL 412",
+            "value": 1
+        },
+        {
+            "source": "ENGL 221",
+            "target": "ENGL 421",
+            "value": 1
+        },
+        {
+            "source": "ENGL 317",
+            "target": "ENGL 421",
+            "value": 1
+        },
+        {
+            "source": "ENGL 319",
+            "target": "ENGL 421",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 430",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 431",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 432",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 439",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 449",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 459",
+            "value": 1
+        },
+        {
+            "source": "ENGL 203",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 204",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 205",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 303",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 304",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 305",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 430",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 431",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 432",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 439",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 449",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 459",
+            "target": "ENGL 461",
+            "value": 1
+        },
+        {
+            "source": "ENGL 387",
+            "target": "ENGL 487",
+            "value": 1
+        },
+        {
+            "source": "ENGL 388",
+            "target": "ENGL 488",
+            "value": 1
+        },
+        {
+            "source": "ENGL 290",
+            "target": "ENGL 495",
+            "value": 1
+        },
+        {
+            "source": "ENGL 390",
+            "target": "ENGL 495",
+            "value": 1
+        },
+        {
+            "source": "ENGL 290",
+            "target": "ENGL 497",
+            "value": 1
+        },
+        {
+            "source": "ENGL 390",
+            "target": "ENGL 497",
+            "value": 1
+        },
+        {
+            "source": "ENGL 391",
+            "target": "ENGL 497",
+            "value": 1
+        },
+        {
+            "source": "ENGL 395",
+            "target": "ENGL 497",
+            "value": 1
+        },
+        {
+            "source": "ENGL 495",
+            "target": "ENGL 497",
+            "value": 1
+        },
+        {
+            "source": "ENGL 497",
+            "target": "ENGL 498",
+            "value": 1
+        },
+        {
+            "source": "ENGL 498",
+            "target": "ENGL 499",
+            "value": 1
+        },
+        {
+            "source": "ENGL 505",
+            "target": "ENGL 506",
+            "value": 1
+        },
+        {
+            "source": "ENGL 505",
+            "target": "ENGL 519",
+            "value": 1
+        },
+        {
+            "source": "ENGL 501",
+            "target": "ENGL 598",
+            "value": 1
+        },
+        {
+            "source": "ENGL 502",
+            "target": "ENGL 598",
+            "value": 1
+        },
+        {
+            "source": "ENGL 503",
+            "target": "ENGL 598",
+            "value": 1
+        },
+        {
+            "source": "ENGL 505",
+            "target": "ENGL 598",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ENGL 129"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 130"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 131"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 132"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 133"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 134"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 135"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 145"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 148"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 149"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 150"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 202"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 203"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 204"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 205"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 221"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 230"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 231"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 241"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 242"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 251"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 252"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 253"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 260"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 270"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 290"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 302"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 303"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 304"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 305"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 310"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 317"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 319"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 330"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 331"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 332"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 333"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 334"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 335"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 339"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 340"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 341"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 342"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 343"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 345"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 346"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 347"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 349"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 350"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 351"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 352"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 354"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 360"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 361"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 365"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 368"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 370"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 371"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 372"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 380"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 381"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 382"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 386"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 387"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 388"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 390"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 391"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 395"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 400"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 408"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 411"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 412"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 421"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 424"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 425"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 430"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 431"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 432"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 439"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 449"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 459"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 461"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 467"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 470"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 485"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 486"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 487"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 488"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 495"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 497"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 498"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 499"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 501"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 502"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 503"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 505"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 506"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 510"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 511"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 512"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 513"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 515"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 518"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 519"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 570"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 590"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 598"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 92"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 93"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 96"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 98"
+        },
+        {
+            "group": 2,
+            "id": "GE A1"
+        },
+        {
+            "group": 1,
+            "id": "ENGL 240"
+        },
+        {
+            "group": 2,
+            "id": "GE C1"
+        }
+    ]
+}

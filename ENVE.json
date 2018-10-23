@@ -1,0 +1,505 @@
+{
+    "links": [
+        {
+            "source": "MATH 241",
+            "target": "ENVE 264",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "ENVE 264",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "ENVE 264",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "ENVE 309",
+            "value": 1
+        },
+        {
+            "source": "PHYS 132",
+            "target": "ENVE 309",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "ENVE 325",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "ENVE 325",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "ENVE 331",
+            "value": 1
+        },
+        {
+            "source": "CHEM 128",
+            "target": "ENVE 331",
+            "value": 1
+        },
+        {
+            "source": "MATH 242",
+            "target": "ENVE 331",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "ENVE 331",
+            "value": 1
+        },
+        {
+            "source": "CE 251",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "CSC 231",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ENVE 304",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ENVE 325",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 411",
+            "value": 1
+        },
+        {
+            "source": "ENVE 325",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ENVE 304",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "ENVE 421",
+            "value": 1
+        },
+        {
+            "source": "ENVE 325",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "CHEM 212",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "ENGL 149",
+            "target": "ENVE 426",
+            "value": 1
+        },
+        {
+            "source": "CHEM 125",
+            "target": "ENVE 434",
+            "value": 1
+        },
+        {
+            "source": "CHEM 129",
+            "target": "ENVE 434",
+            "value": 1
+        },
+        {
+            "source": "ENVE 330",
+            "target": "ENVE 434",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 434",
+            "value": 1
+        },
+        {
+            "source": "ENVE 325",
+            "target": "ENVE 436",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 436",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 438",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "ENVE 438",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "ENVE 438",
+            "value": 1
+        },
+        {
+            "source": "ENVE 325",
+            "target": "ENVE 439",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 439",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 443",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 450",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 455",
+            "value": 1
+        },
+        {
+            "source": "ENVE 438",
+            "target": "ENVE 466",
+            "value": 1
+        },
+        {
+            "source": "ENVE 466",
+            "target": "ENVE 467",
+            "value": 1
+        },
+        {
+            "source": "ENVE 304",
+            "target": "ENVE 480",
+            "value": 1
+        },
+        {
+            "source": "ME 302",
+            "target": "ENVE 480",
+            "value": 1
+        },
+        {
+            "source": "ENVE 331",
+            "target": "ENVE 480",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "ENVE 525",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "ENVE 525",
+            "value": 1
+        },
+        {
+            "source": "ENVE 438",
+            "target": "ENVE 537",
+            "value": 1
+        },
+        {
+            "source": "CHEM 312",
+            "target": "ENVE 581",
+            "value": 1
+        },
+        {
+            "source": "MCRO 221",
+            "target": "ENVE 581",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "ENVE 111"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 264"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 270"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 304"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 309"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 323"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 324"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 325"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 331"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 400"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 405"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 407"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 411"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 421"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 426"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 434"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 436"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 438"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 439"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 443"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 450"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 455"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 466"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 467"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 470"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 471"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 480"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 495"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 500"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 525"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 535"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 536"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 537"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 542"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 570"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 571"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 581"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 3,
+            "id": "PHYS 132"
+        },
+        {
+            "group": 4,
+            "id": "ME 211"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 125"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 128"
+        },
+        {
+            "group": 2,
+            "id": "MATH 242"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 6,
+            "id": "CE 251"
+        },
+        {
+            "group": 7,
+            "id": "CSC 231"
+        },
+        {
+            "group": 4,
+            "id": "ME 302"
+        },
+        {
+            "group": 4,
+            "id": "ME 341"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 212"
+        },
+        {
+            "group": 8,
+            "id": "STAT 312"
+        },
+        {
+            "group": 9,
+            "id": "ENGL 149"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 129"
+        },
+        {
+            "group": 1,
+            "id": "ENVE 330"
+        },
+        {
+            "group": 5,
+            "id": "CHEM 312"
+        },
+        {
+            "group": 10,
+            "id": "MCRO 221"
+        }
+    ]
+}

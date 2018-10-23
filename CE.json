@@ -1,0 +1,1132 @@
+{
+    "links": [
+        {
+            "source": "MATH 141",
+            "target": "CE 112",
+            "value": 1
+        },
+        {
+            "source": "ME 211",
+            "target": "CE 204",
+            "value": 1
+        },
+        {
+            "source": "CE 204",
+            "target": "CE 207",
+            "value": 1
+        },
+        {
+            "source": "CE 113",
+            "target": "CE 251",
+            "value": 1
+        },
+        {
+            "source": "CE 204",
+            "target": "CE 251",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "CE 251",
+            "value": 1
+        },
+        {
+            "source": "CE 204",
+            "target": "CE 259",
+            "value": 1
+        },
+        {
+            "source": "PHYS 141",
+            "target": "CE 321",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 321",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "CE 336",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "CE 336",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "CE 337",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "CE 337",
+            "value": 1
+        },
+        {
+            "source": "CE 207",
+            "target": "CE 352",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 355",
+            "value": 1
+        },
+        {
+            "source": "CE 352",
+            "target": "CE 355",
+            "value": 1
+        },
+        {
+            "source": "CE 352",
+            "target": "CE 356",
+            "value": 1
+        },
+        {
+            "source": "ARCE 106",
+            "target": "CE 371",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 371",
+            "value": 1
+        },
+        {
+            "source": "CM 113",
+            "target": "CE 371",
+            "value": 1
+        },
+        {
+            "source": "CE 207",
+            "target": "CE 381",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "CE 381",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "CE 381",
+            "value": 1
+        },
+        {
+            "source": "CE 406",
+            "target": "CE 401",
+            "value": 1
+        },
+        {
+            "source": "ME 328",
+            "target": "CE 401",
+            "value": 1
+        },
+        {
+            "source": "BMED 410",
+            "target": "CE 404",
+            "value": 1
+        },
+        {
+            "source": "CE 207",
+            "target": "CE 404",
+            "value": 1
+        },
+        {
+            "source": "CE 406",
+            "target": "CE 404",
+            "value": 1
+        },
+        {
+            "source": "ME 328",
+            "target": "CE 404",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 405",
+            "value": 1
+        },
+        {
+            "source": "CE 352",
+            "target": "CE 406",
+            "value": 1
+        },
+        {
+            "source": "CE 406",
+            "target": "CE 407",
+            "value": 1
+        },
+        {
+            "source": "ME 212",
+            "target": "CE 407",
+            "value": 1
+        },
+        {
+            "source": "BRAE 239",
+            "target": "CE 413",
+            "value": 1
+        },
+        {
+            "source": "CE 113",
+            "target": "CE 413",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 421",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 422",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 423",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 424",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 425",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 425",
+            "value": 1
+        },
+        {
+            "source": "ME 341",
+            "target": "CE 431",
+            "value": 1
+        },
+        {
+            "source": "ENVE 264",
+            "target": "CE 431",
+            "value": 1
+        },
+        {
+            "source": "CE 431",
+            "target": "CE 432",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 433",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 434",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 435",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 440",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 454",
+            "value": 1
+        },
+        {
+            "source": "CE 356",
+            "target": "CE 454",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 455",
+            "value": 1
+        },
+        {
+            "source": "CE 356",
+            "target": "CE 455",
+            "value": 1
+        },
+        {
+            "source": "CE 207",
+            "target": "CE 456",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 457",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 458",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 459",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 322",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 337",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 465",
+            "target": "CE 466",
+            "value": 1
+        },
+        {
+            "source": "CE 466",
+            "target": "CE 467",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 322",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 337",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 465",
+            "target": "CE 468",
+            "value": 1
+        },
+        {
+            "source": "CE 468",
+            "target": "CE 469",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 481",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 481",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 486",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 486",
+            "value": 1
+        },
+        {
+            "source": "GEOL 201",
+            "target": "CE 486",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 487",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 487",
+            "value": 1
+        },
+        {
+            "source": "GEOL 201",
+            "target": "CE 487",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 488",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "CE 488",
+            "value": 1
+        },
+        {
+            "source": "CE 406",
+            "target": "CE 501",
+            "value": 1
+        },
+        {
+            "source": "ME 404",
+            "target": "CE 504",
+            "value": 1
+        },
+        {
+            "source": "CE 511",
+            "target": "CE 504",
+            "value": 1
+        },
+        {
+            "source": "ME 501",
+            "target": "CE 504",
+            "value": 1
+        },
+        {
+            "source": "ME 501",
+            "target": "CE 513",
+            "value": 1
+        },
+        {
+            "source": "CE 511",
+            "target": "CE 513",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 521",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 521",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 521",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 523",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 524",
+            "value": 1
+        },
+        {
+            "source": "CE 322",
+            "target": "CE 524",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 524",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 525",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 526",
+            "value": 1
+        },
+        {
+            "source": "CE 322",
+            "target": "CE 526",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "CE 526",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 527",
+            "value": 1
+        },
+        {
+            "source": "CRP 435",
+            "target": "CE 527",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 528",
+            "value": 1
+        },
+        {
+            "source": "CE 321",
+            "target": "CE 529",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 533",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 535",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 536",
+            "value": 1
+        },
+        {
+            "source": "CE 434",
+            "target": "CE 537",
+            "value": 1
+        },
+        {
+            "source": "CE 440",
+            "target": "CE 538",
+            "value": 1
+        },
+        {
+            "source": "CE 336",
+            "target": "CE 539",
+            "value": 1
+        },
+        {
+            "source": "CE 454",
+            "target": "CE 552",
+            "value": 1
+        },
+        {
+            "source": "CE 356",
+            "target": "CE 553",
+            "value": 1
+        },
+        {
+            "source": "CE 259",
+            "target": "CE 555",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 556",
+            "value": 1
+        },
+        {
+            "source": "CE 407",
+            "target": "CE 557",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 558",
+            "value": 1
+        },
+        {
+            "source": "CE 355",
+            "target": "CE 559",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 581",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 583",
+            "value": 1
+        },
+        {
+            "source": "CE 407",
+            "target": "CE 583",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 584",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 585",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 586",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 587",
+            "value": 1
+        },
+        {
+            "source": "CE 381",
+            "target": "CE 588",
+            "value": 1
+        },
+        {
+            "source": "CE 382",
+            "target": "CE 588",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 588",
+            "value": 1
+        },
+        {
+            "source": "CE 481",
+            "target": "CE 589",
+            "value": 1
+        },
+        {
+            "source": "CE 591",
+            "target": "CE 592",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "CE 111"
+        },
+        {
+            "group": 1,
+            "id": "CE 112"
+        },
+        {
+            "group": 1,
+            "id": "CE 113"
+        },
+        {
+            "group": 1,
+            "id": "CE 200"
+        },
+        {
+            "group": 1,
+            "id": "CE 204"
+        },
+        {
+            "group": 1,
+            "id": "CE 207"
+        },
+        {
+            "group": 1,
+            "id": "CE 251"
+        },
+        {
+            "group": 1,
+            "id": "CE 259"
+        },
+        {
+            "group": 1,
+            "id": "CE 270"
+        },
+        {
+            "group": 1,
+            "id": "CE 321"
+        },
+        {
+            "group": 1,
+            "id": "CE 322"
+        },
+        {
+            "group": 1,
+            "id": "CE 336"
+        },
+        {
+            "group": 1,
+            "id": "CE 337"
+        },
+        {
+            "group": 1,
+            "id": "CE 352"
+        },
+        {
+            "group": 1,
+            "id": "CE 355"
+        },
+        {
+            "group": 1,
+            "id": "CE 356"
+        },
+        {
+            "group": 1,
+            "id": "CE 371"
+        },
+        {
+            "group": 1,
+            "id": "CE 381"
+        },
+        {
+            "group": 1,
+            "id": "CE 382"
+        },
+        {
+            "group": 1,
+            "id": "CE 400"
+        },
+        {
+            "group": 1,
+            "id": "CE 401"
+        },
+        {
+            "group": 1,
+            "id": "CE 404"
+        },
+        {
+            "group": 1,
+            "id": "CE 405"
+        },
+        {
+            "group": 1,
+            "id": "CE 406"
+        },
+        {
+            "group": 1,
+            "id": "CE 407"
+        },
+        {
+            "group": 1,
+            "id": "CE 413"
+        },
+        {
+            "group": 1,
+            "id": "CE 421"
+        },
+        {
+            "group": 1,
+            "id": "CE 422"
+        },
+        {
+            "group": 1,
+            "id": "CE 423"
+        },
+        {
+            "group": 1,
+            "id": "CE 424"
+        },
+        {
+            "group": 1,
+            "id": "CE 425"
+        },
+        {
+            "group": 1,
+            "id": "CE 431"
+        },
+        {
+            "group": 1,
+            "id": "CE 432"
+        },
+        {
+            "group": 1,
+            "id": "CE 433"
+        },
+        {
+            "group": 1,
+            "id": "CE 434"
+        },
+        {
+            "group": 1,
+            "id": "CE 435"
+        },
+        {
+            "group": 1,
+            "id": "CE 440"
+        },
+        {
+            "group": 1,
+            "id": "CE 454"
+        },
+        {
+            "group": 1,
+            "id": "CE 455"
+        },
+        {
+            "group": 1,
+            "id": "CE 456"
+        },
+        {
+            "group": 1,
+            "id": "CE 457"
+        },
+        {
+            "group": 1,
+            "id": "CE 458"
+        },
+        {
+            "group": 1,
+            "id": "CE 459"
+        },
+        {
+            "group": 1,
+            "id": "CE 465"
+        },
+        {
+            "group": 1,
+            "id": "CE 466"
+        },
+        {
+            "group": 1,
+            "id": "CE 467"
+        },
+        {
+            "group": 1,
+            "id": "CE 468"
+        },
+        {
+            "group": 1,
+            "id": "CE 469"
+        },
+        {
+            "group": 1,
+            "id": "CE 470"
+        },
+        {
+            "group": 1,
+            "id": "CE 471"
+        },
+        {
+            "group": 1,
+            "id": "CE 474"
+        },
+        {
+            "group": 1,
+            "id": "CE 475"
+        },
+        {
+            "group": 1,
+            "id": "CE 481"
+        },
+        {
+            "group": 1,
+            "id": "CE 486"
+        },
+        {
+            "group": 1,
+            "id": "CE 487"
+        },
+        {
+            "group": 1,
+            "id": "CE 488"
+        },
+        {
+            "group": 1,
+            "id": "CE 493"
+        },
+        {
+            "group": 1,
+            "id": "CE 494"
+        },
+        {
+            "group": 1,
+            "id": "CE 495"
+        },
+        {
+            "group": 1,
+            "id": "CE 500"
+        },
+        {
+            "group": 1,
+            "id": "CE 501"
+        },
+        {
+            "group": 1,
+            "id": "CE 504"
+        },
+        {
+            "group": 1,
+            "id": "CE 511"
+        },
+        {
+            "group": 1,
+            "id": "CE 513"
+        },
+        {
+            "group": 1,
+            "id": "CE 521"
+        },
+        {
+            "group": 1,
+            "id": "CE 523"
+        },
+        {
+            "group": 1,
+            "id": "CE 524"
+        },
+        {
+            "group": 1,
+            "id": "CE 525"
+        },
+        {
+            "group": 1,
+            "id": "CE 526"
+        },
+        {
+            "group": 1,
+            "id": "CE 527"
+        },
+        {
+            "group": 1,
+            "id": "CE 528"
+        },
+        {
+            "group": 1,
+            "id": "CE 529"
+        },
+        {
+            "group": 1,
+            "id": "CE 533"
+        },
+        {
+            "group": 1,
+            "id": "CE 535"
+        },
+        {
+            "group": 1,
+            "id": "CE 536"
+        },
+        {
+            "group": 1,
+            "id": "CE 537"
+        },
+        {
+            "group": 1,
+            "id": "CE 538"
+        },
+        {
+            "group": 1,
+            "id": "CE 539"
+        },
+        {
+            "group": 1,
+            "id": "CE 552"
+        },
+        {
+            "group": 1,
+            "id": "CE 553"
+        },
+        {
+            "group": 1,
+            "id": "CE 555"
+        },
+        {
+            "group": 1,
+            "id": "CE 556"
+        },
+        {
+            "group": 1,
+            "id": "CE 557"
+        },
+        {
+            "group": 1,
+            "id": "CE 558"
+        },
+        {
+            "group": 1,
+            "id": "CE 559"
+        },
+        {
+            "group": 1,
+            "id": "CE 570"
+        },
+        {
+            "group": 1,
+            "id": "CE 571"
+        },
+        {
+            "group": 1,
+            "id": "CE 581"
+        },
+        {
+            "group": 1,
+            "id": "CE 583"
+        },
+        {
+            "group": 1,
+            "id": "CE 584"
+        },
+        {
+            "group": 1,
+            "id": "CE 585"
+        },
+        {
+            "group": 1,
+            "id": "CE 586"
+        },
+        {
+            "group": 1,
+            "id": "CE 587"
+        },
+        {
+            "group": 1,
+            "id": "CE 588"
+        },
+        {
+            "group": 1,
+            "id": "CE 589"
+        },
+        {
+            "group": 1,
+            "id": "CE 591"
+        },
+        {
+            "group": 1,
+            "id": "CE 592"
+        },
+        {
+            "group": 1,
+            "id": "CE 593"
+        },
+        {
+            "group": 1,
+            "id": "CE 594"
+        },
+        {
+            "group": 1,
+            "id": "CE 595"
+        },
+        {
+            "group": 1,
+            "id": "CE 596"
+        },
+        {
+            "group": 1,
+            "id": "CE 599"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 3,
+            "id": "ME 211"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 4,
+            "id": "PHYS 141"
+        },
+        {
+            "group": 3,
+            "id": "ME 341"
+        },
+        {
+            "group": 5,
+            "id": "ENVE 264"
+        },
+        {
+            "group": 6,
+            "id": "ARCE 106"
+        },
+        {
+            "group": 7,
+            "id": "CM 113"
+        },
+        {
+            "group": 3,
+            "id": "ME 328"
+        },
+        {
+            "group": 8,
+            "id": "BMED 410"
+        },
+        {
+            "group": 3,
+            "id": "ME 212"
+        },
+        {
+            "group": 9,
+            "id": "BRAE 239"
+        },
+        {
+            "group": 10,
+            "id": "GEOL 201"
+        },
+        {
+            "group": 11,
+            "id": "STAT 312"
+        },
+        {
+            "group": 3,
+            "id": "ME 404"
+        },
+        {
+            "group": 3,
+            "id": "ME 501"
+        },
+        {
+            "group": 12,
+            "id": "CRP 435"
+        }
+    ]
+}

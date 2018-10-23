@@ -1,0 +1,1050 @@
+{
+    "links": [
+        {
+            "source": "MATH 96",
+            "target": "STAT 130",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "STAT 130",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "STAT 130",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "STAT 217",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "STAT 217",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "STAT 217",
+            "value": 1
+        },
+        {
+            "source": "MATH 96",
+            "target": "STAT 218",
+            "value": 1
+        },
+        {
+            "source": "MATH 104",
+            "target": "STAT 218",
+            "value": 1
+        },
+        {
+            "source": "MATH 115",
+            "target": "STAT 218",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "STAT 251",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "STAT 252",
+            "value": 1
+        },
+        {
+            "source": "MATH 141",
+            "target": "STAT 301",
+            "value": 1
+        },
+        {
+            "source": "STAT 301",
+            "target": "STAT 302",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "STAT 305",
+            "value": 1
+        },
+        {
+            "source": "CSC 232",
+            "target": "STAT 305",
+            "value": 1
+        },
+        {
+            "source": "CSC 235",
+            "target": "STAT 305",
+            "value": 1
+        },
+        {
+            "source": "STAT 331",
+            "target": "STAT 305",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "STAT 305",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "STAT 312",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "STAT 313",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "STAT 313",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 313",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 313",
+            "value": 1
+        },
+        {
+            "source": "MATH 118",
+            "target": "STAT 313",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "STAT 321",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 323",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 323",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 323",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 323",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 323",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 324",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 324",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 324",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 324",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 324",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 330",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 330",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 330",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 330",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 330",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "BUS 290",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "CSC 235",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "ECON 395",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 330",
+            "target": "STAT 331",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "STAT 334",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "STAT 350",
+            "value": 1
+        },
+        {
+            "source": "EE 228",
+            "target": "STAT 350",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 365",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 365",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 365",
+            "value": 1
+        },
+        {
+            "source": "CSC 101",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "CSC 232",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "CSC 235",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "STAT 305",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "STAT 350",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "STAT 426",
+            "target": "STAT 405",
+            "value": 1
+        },
+        {
+            "source": "STAT 130",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 251",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 301",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 321",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 511",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 512",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 410",
+            "value": 1
+        },
+        {
+            "source": "STAT 324",
+            "target": "STAT 414",
+            "value": 1
+        },
+        {
+            "source": "STAT 334",
+            "target": "STAT 414",
+            "value": 1
+        },
+        {
+            "source": "STAT 524",
+            "target": "STAT 414",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 305",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 350",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 425",
+            "target": "STAT 415",
+            "value": 1
+        },
+        {
+            "source": "STAT 324",
+            "target": "STAT 416",
+            "value": 1
+        },
+        {
+            "source": "STAT 334",
+            "target": "STAT 416",
+            "value": 1
+        },
+        {
+            "source": "STAT 524",
+            "target": "STAT 416",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "STAT 417",
+            "value": 1
+        },
+        {
+            "source": "STAT 324",
+            "target": "STAT 418",
+            "value": 1
+        },
+        {
+            "source": "STAT 334",
+            "target": "STAT 418",
+            "value": 1
+        },
+        {
+            "source": "STAT 524",
+            "target": "STAT 418",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "MATH 206",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "MATH 244",
+            "target": "STAT 419",
+            "value": 1
+        },
+        {
+            "source": "IME 326",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 302",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 313",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 511",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 512",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 421",
+            "value": 1
+        },
+        {
+            "source": "STAT 323",
+            "target": "STAT 423",
+            "value": 1
+        },
+        {
+            "source": "STAT 523",
+            "target": "STAT 423",
+            "value": 1
+        },
+        {
+            "source": "MATH 241",
+            "target": "STAT 425",
+            "value": 1
+        },
+        {
+            "source": "MATH 248",
+            "target": "STAT 425",
+            "value": 1
+        },
+        {
+            "source": "CSC 348",
+            "target": "STAT 425",
+            "value": 1
+        },
+        {
+            "source": "STAT 425",
+            "target": "STAT 426",
+            "value": 1
+        },
+        {
+            "source": "STAT 426",
+            "target": "STAT 427",
+            "value": 1
+        },
+        {
+            "source": "STAT 324",
+            "target": "STAT 434",
+            "value": 1
+        },
+        {
+            "source": "STAT 334",
+            "target": "STAT 434",
+            "value": 1
+        },
+        {
+            "source": "STAT 524",
+            "target": "STAT 434",
+            "value": 1
+        },
+        {
+            "source": "STAT 330",
+            "target": "STAT 440",
+            "value": 1
+        },
+        {
+            "source": "STAT 440",
+            "target": "STAT 441",
+            "value": 1
+        },
+        {
+            "source": "STAT 365",
+            "target": "STAT 465",
+            "value": 1
+        },
+        {
+            "source": "STAT 217",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 218",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 252",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 312",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 511",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 512",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 513",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 523",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 523",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 524",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 524",
+            "value": 1
+        },
+        {
+            "source": "STAT 511",
+            "target": "STAT 530",
+            "value": 1
+        },
+        {
+            "source": "STAT 512",
+            "target": "STAT 530",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 530",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 530",
+            "value": 1
+        },
+        {
+            "source": "STAT 513",
+            "target": "STAT 531",
+            "value": 1
+        },
+        {
+            "source": "STAT 542",
+            "target": "STAT 531",
+            "value": 1
+        },
+        {
+            "source": "MATH 142",
+            "target": "STAT 542",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "STAT 130"
+        },
+        {
+            "group": 1,
+            "id": "STAT 150"
+        },
+        {
+            "group": 1,
+            "id": "STAT 200"
+        },
+        {
+            "group": 1,
+            "id": "STAT 217"
+        },
+        {
+            "group": 1,
+            "id": "STAT 218"
+        },
+        {
+            "group": 1,
+            "id": "STAT 251"
+        },
+        {
+            "group": 1,
+            "id": "STAT 252"
+        },
+        {
+            "group": 1,
+            "id": "STAT 270"
+        },
+        {
+            "group": 1,
+            "id": "STAT 301"
+        },
+        {
+            "group": 1,
+            "id": "STAT 302"
+        },
+        {
+            "group": 1,
+            "id": "STAT 305"
+        },
+        {
+            "group": 1,
+            "id": "STAT 312"
+        },
+        {
+            "group": 1,
+            "id": "STAT 313"
+        },
+        {
+            "group": 1,
+            "id": "STAT 321"
+        },
+        {
+            "group": 1,
+            "id": "STAT 323"
+        },
+        {
+            "group": 1,
+            "id": "STAT 324"
+        },
+        {
+            "group": 1,
+            "id": "STAT 330"
+        },
+        {
+            "group": 1,
+            "id": "STAT 331"
+        },
+        {
+            "group": 1,
+            "id": "STAT 334"
+        },
+        {
+            "group": 1,
+            "id": "STAT 350"
+        },
+        {
+            "group": 1,
+            "id": "STAT 365"
+        },
+        {
+            "group": 1,
+            "id": "STAT 400"
+        },
+        {
+            "group": 1,
+            "id": "STAT 405"
+        },
+        {
+            "group": 1,
+            "id": "STAT 410"
+        },
+        {
+            "group": 1,
+            "id": "STAT 414"
+        },
+        {
+            "group": 1,
+            "id": "STAT 415"
+        },
+        {
+            "group": 1,
+            "id": "STAT 416"
+        },
+        {
+            "group": 1,
+            "id": "STAT 417"
+        },
+        {
+            "group": 1,
+            "id": "STAT 418"
+        },
+        {
+            "group": 1,
+            "id": "STAT 419"
+        },
+        {
+            "group": 1,
+            "id": "STAT 421"
+        },
+        {
+            "group": 1,
+            "id": "STAT 423"
+        },
+        {
+            "group": 1,
+            "id": "STAT 425"
+        },
+        {
+            "group": 1,
+            "id": "STAT 426"
+        },
+        {
+            "group": 1,
+            "id": "STAT 427"
+        },
+        {
+            "group": 1,
+            "id": "STAT 434"
+        },
+        {
+            "group": 1,
+            "id": "STAT 440"
+        },
+        {
+            "group": 1,
+            "id": "STAT 441"
+        },
+        {
+            "group": 1,
+            "id": "STAT 461"
+        },
+        {
+            "group": 1,
+            "id": "STAT 462"
+        },
+        {
+            "group": 1,
+            "id": "STAT 465"
+        },
+        {
+            "group": 1,
+            "id": "STAT 470"
+        },
+        {
+            "group": 1,
+            "id": "STAT 485"
+        },
+        {
+            "group": 1,
+            "id": "STAT 495"
+        },
+        {
+            "group": 1,
+            "id": "STAT 511"
+        },
+        {
+            "group": 1,
+            "id": "STAT 513"
+        },
+        {
+            "group": 1,
+            "id": "STAT 523"
+        },
+        {
+            "group": 1,
+            "id": "STAT 524"
+        },
+        {
+            "group": 1,
+            "id": "STAT 530"
+        },
+        {
+            "group": 1,
+            "id": "STAT 531"
+        },
+        {
+            "group": 1,
+            "id": "STAT 542"
+        },
+        {
+            "group": 1,
+            "id": "STAT 570"
+        },
+        {
+            "group": 2,
+            "id": "MATH 96"
+        },
+        {
+            "group": 2,
+            "id": "MATH 104"
+        },
+        {
+            "group": 2,
+            "id": "MATH 115"
+        },
+        {
+            "group": 2,
+            "id": "MATH 118"
+        },
+        {
+            "group": 2,
+            "id": "MATH 141"
+        },
+        {
+            "group": 3,
+            "id": "CSC 101"
+        },
+        {
+            "group": 3,
+            "id": "CSC 232"
+        },
+        {
+            "group": 3,
+            "id": "CSC 235"
+        },
+        {
+            "group": 2,
+            "id": "MATH 142"
+        },
+        {
+            "group": 4,
+            "id": "IME 326"
+        },
+        {
+            "group": 5,
+            "id": "BUS 290"
+        },
+        {
+            "group": 6,
+            "id": "ECON 395"
+        },
+        {
+            "group": 2,
+            "id": "MATH 206"
+        },
+        {
+            "group": 2,
+            "id": "MATH 244"
+        },
+        {
+            "group": 2,
+            "id": "MATH 241"
+        },
+        {
+            "group": 7,
+            "id": "EE 228"
+        },
+        {
+            "group": 1,
+            "id": "STAT 512"
+        },
+        {
+            "group": 2,
+            "id": "MATH 248"
+        },
+        {
+            "group": 3,
+            "id": "CSC 348"
+        }
+    ]
+}

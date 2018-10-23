@@ -1,0 +1,493 @@
+{
+    "links": [
+        {
+            "source": "PSY 201",
+            "target": "EDUC 207",
+            "value": 1
+        },
+        {
+            "source": "PSY 202",
+            "target": "EDUC 207",
+            "value": 1
+        },
+        {
+            "source": "SPAN 202",
+            "target": "EDUC 405",
+            "value": 1
+        },
+        {
+            "source": "EDUC 429",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 431",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 435",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 436",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 438",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 439",
+            "target": "EDUC 440",
+            "value": 1
+        },
+        {
+            "source": "EDUC 454",
+            "target": "EDUC 456",
+            "value": 1
+        },
+        {
+            "source": "EDUC 455",
+            "target": "EDUC 456",
+            "value": 1
+        },
+        {
+            "source": "EDUC 454",
+            "target": "EDUC 457",
+            "value": 1
+        },
+        {
+            "source": "EDUC 455",
+            "target": "EDUC 457",
+            "value": 1
+        },
+        {
+            "source": "EDUC 440",
+            "target": "EDUC 550",
+            "value": 1
+        },
+        {
+            "source": "EDUC 446",
+            "target": "EDUC 550",
+            "value": 1
+        },
+        {
+            "source": "EDUC 440",
+            "target": "EDUC 552",
+            "value": 1
+        },
+        {
+            "source": "EDUC 446",
+            "target": "EDUC 552",
+            "value": 1
+        },
+        {
+            "source": "EDUC 440",
+            "target": "EDUC 554",
+            "value": 1
+        },
+        {
+            "source": "EDUC 446",
+            "target": "EDUC 554",
+            "value": 1
+        },
+        {
+            "source": "EDUC 555",
+            "target": "EDUC 560",
+            "value": 1
+        },
+        {
+            "source": "EDUC 555",
+            "target": "EDUC 561",
+            "value": 1
+        },
+        {
+            "source": "EDUC 560",
+            "target": "EDUC 561",
+            "value": 1
+        },
+        {
+            "source": "EDUC 555",
+            "target": "EDUC 573",
+            "value": 1
+        },
+        {
+            "source": "EDUC 560",
+            "target": "EDUC 573",
+            "value": 1
+        },
+        {
+            "source": "EDUC 586",
+            "target": "EDUC 589",
+            "value": 1
+        },
+        {
+            "source": "EDUC 589",
+            "target": "EDUC 590",
+            "value": 1
+        },
+        {
+            "source": "EDUC 589",
+            "target": "EDUC 598",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "EDUC 125"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 207"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 270"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 300"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 400"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 401"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 405"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 410"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 412"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 414"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 416"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 417"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 418"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 419"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 423"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 427"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 428"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 429"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 431"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 433"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 435"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 436"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 438"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 439"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 440"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 442"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 447"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 449"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 450"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 451"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 454"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 455"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 456"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 457"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 460"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 469"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 470"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 471"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 479"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 480"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 500"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 502"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 510"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 511"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 512"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 513"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 515"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 516"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 518"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 519"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 521"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 522"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 523"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 528"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 532"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 535"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 536"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 542"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 544"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 545"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 546"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 550"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 552"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 553"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 554"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 555"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 556"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 557"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 560"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 561"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 562"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 564"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 565"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 566"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 568"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 570"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 573"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 586"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 587"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 588"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 589"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 590"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 598"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 599"
+        },
+        {
+            "group": 2,
+            "id": "PSY 201"
+        },
+        {
+            "group": 2,
+            "id": "PSY 202"
+        },
+        {
+            "group": 3,
+            "id": "SPAN 202"
+        },
+        {
+            "group": 1,
+            "id": "EDUC 446"
+        }
+    ]
+}

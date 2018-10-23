@@ -1,0 +1,236 @@
+{
+    "links": [
+        {
+            "source": "SPAN 101",
+            "target": "SPAN 102",
+            "value": 1
+        },
+        {
+            "source": "SPAN 111",
+            "target": "SPAN 102",
+            "value": 1
+        },
+        {
+            "source": "SPAN 102",
+            "target": "SPAN 103",
+            "value": 1
+        },
+        {
+            "source": "SPAN 103",
+            "target": "SPAN 201",
+            "value": 1
+        },
+        {
+            "source": "SPAN 201",
+            "target": "SPAN 202",
+            "value": 1
+        },
+        {
+            "source": "SPAN 202",
+            "target": "SPAN 203",
+            "value": 1
+        },
+        {
+            "source": "SPAN 202",
+            "target": "SPAN 206",
+            "value": 1
+        },
+        {
+            "source": "SPAN 203",
+            "target": "SPAN 207",
+            "value": 1
+        },
+        {
+            "source": "SPAN 206",
+            "target": "SPAN 207",
+            "value": 1
+        },
+        {
+            "source": "SPAN 203",
+            "target": "SPAN 233",
+            "value": 1
+        },
+        {
+            "source": "SPAN 206",
+            "target": "SPAN 233",
+            "value": 1
+        },
+        {
+            "source": "SPAN 203",
+            "target": "SPAN 301",
+            "value": 1
+        },
+        {
+            "source": "SPAN 206",
+            "target": "SPAN 301",
+            "value": 1
+        },
+        {
+            "source": "SPAN 203",
+            "target": "SPAN 302",
+            "value": 1
+        },
+        {
+            "source": "SPAN 206",
+            "target": "SPAN 302",
+            "value": 1
+        },
+        {
+            "source": "SPAN 207",
+            "target": "SPAN 303",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 303",
+            "value": 1
+        },
+        {
+            "source": "SPAN 301",
+            "target": "SPAN 303",
+            "value": 1
+        },
+        {
+            "source": "SPAN 302",
+            "target": "SPAN 303",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 305",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 307",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 340",
+            "value": 1
+        },
+        {
+            "source": "SPAN 301",
+            "target": "SPAN 390",
+            "value": 1
+        },
+        {
+            "source": "SPAN 207",
+            "target": "SPAN 402",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 410",
+            "value": 1
+        },
+        {
+            "source": "SPAN 233",
+            "target": "SPAN 416",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "SPAN 101"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 102"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 103"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 104"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 111"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 201"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 202"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 203"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 206"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 207"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 233"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 270"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 301"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 302"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 303"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 305"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 307"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 340"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 350"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 351"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 390"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 402"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 410"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 416"
+        },
+        {
+            "group": 1,
+            "id": "SPAN 470"
+        }
+    ]
+}

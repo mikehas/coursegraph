@@ -1,0 +1,158 @@
+{
+    "links": [
+        {
+            "source": "GEOG 250",
+            "target": "GEOG 328",
+            "value": 1
+        },
+        {
+            "source": "GEOG 308",
+            "target": "GEOG 408",
+            "value": 1
+        },
+        {
+            "source": "GEOG 250",
+            "target": "GEOG 415",
+            "value": 1
+        },
+        {
+            "source": "GEOG 318",
+            "target": "GEOG 440",
+            "value": 1
+        },
+        {
+            "source": "GE B2",
+            "target": "GEOG 455",
+            "value": 1
+        },
+        {
+            "source": "ANT 201",
+            "target": "GEOG 464",
+            "value": 1
+        },
+        {
+            "source": "GEOG 150",
+            "target": "GEOG 464",
+            "value": 1
+        },
+        {
+            "source": "GEOG 464",
+            "target": "GEOG 465",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "GEOG 150"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 200"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 250"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 270"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 300"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 301"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 308"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 318"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 325"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 328"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 333"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 340"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 350"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 370"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 380"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 400"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 408"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 414"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 415"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 440"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 455"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 461"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 462"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 464"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 465"
+        },
+        {
+            "group": 1,
+            "id": "GEOG 470"
+        },
+        {
+            "group": 2,
+            "id": "GE B2"
+        },
+        {
+            "group": 3,
+            "id": "ANT 201"
+        }
+    ]
+}
