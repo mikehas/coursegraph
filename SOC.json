@@ -1,4 +1,146 @@
 {
+    "descriptions": {
+        "SOC 110": {
+            "description": "Introduction to sociological theory and methods, emphasizing a comparative analysis of social institutions of contemporary societies in major world regions, including the family, religion, politics, and the economy. Direct comparisons made between American social institutions and those of other societies, their histories, social problems and social change. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE D3.",
+            "title": "Comparative Societies"
+        },
+        "SOC 111": {
+            "description": "An introduction to sociology with an emphasis on problems inherent in selected social institutions. Instruction in social analysis, including theories of social problems, how those problems are studied, and a survey of possible solutions. 4 lectures.",
+            "title": "Social Problems"
+        },
+        "SOC 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "SOC 218": {
+            "description": "Principles of international political economy in their social and cultural context. Sociological perspectives on the historical development of the world system and the current patterns of global inequality. Comparison of the political economy of major nations and their relation to the overall world system. 4 lectures. Fulfills GE D2.",
+            "title": "International Political Economy"
+        },
+        "SOC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "SOC 301": {
+            "description": "Introduction to the field of social welfare.  Development of social work and social welfare services; major issues in social service policy.  Scope and diversity of specific programs in the social services.  Analysis of current programs and the recipients of welfare services.  4 lectures.",
+            "title": "Social Work and Social Welfare Institutions"
+        },
+        "SOC 305": {
+            "description": "Description and analysis of social movements in contemporary societies as they relate to major revolutionary changes historically and in the present.  Analysis of variables producing social movements and political violence, including terrorism.  Impact on society.  4 lectures.",
+            "title": "Social Movements"
+        },
+        "SOC 306": {
+            "description": "Description and analysis of family relationships; role of family in society, effects of society on family economy, structure and change.  Other topics include courtship, marriage, parenting, divorce and alternative family forms.  4 lectures.",
+            "title": "Sociology of the Family"
+        },
+        "SOC 309": {
+            "description": "Analysis of the historical background, structure, and dynamics of the world system; examines such issues as the origins of Third World poverty, colonialism, the changes in the world's dominant economic powers, the fall of communism, the growing economic competition between Europe, North America, and Asia; and possible strategies for the economic development of the Third World.  4 lectures.",
+            "title": "The World System and Its Problems"
+        },
+        "SOC 310": {
+            "description": "Analysis of the interactions relating to the development of self.  Examination of the reciprocal interactions between biology, personal environment, and society.  4 lectures.",
+            "title": "Self, Organizations and Society"
+        },
+        "SOC 311": {
+            "description": "Analysis of social constructions of sex and gender.  Explores how gender stereotypes are created and reproduced.  Focus on media representations; intersections of gender, race, class, sexuality; and effects on individuals and structures of work, education, family, and abusive relationships.  4 lectures.  Crosslisted as SOC/WGS 311.",
+            "title": "Sociology of Gender"
+        },
+        "SOC 313": {
+            "description": "Description of the context of urban development; analysis of various forces generating urbanization.  Investigation of urban models and spational relationships; urban processes; and problems.  4 lectures.",
+            "title": "Urban Sociology"
+        },
+        "SOC 315": {
+            "description": "Diverse structures of unequal relationships among racial and ethnic groups in several countries including the United States.  Theories about sources of economic and social discrimination and colonialism.  Focus on the concept of ethnicity.  Evaluation methods to restructure race and ethnic relations.  International case histories.  4 lectures.  Fulfills GE D5 except for Social Sciences or Sociology majors.",
+            "title": "Global Race and Ethnic Relations"
+        },
+        "SOC 316": {
+            "description": "Exploration of the issues and problems facing the four major ethnic minorities in American society:  Native Americans, Afro-Americans, Hispanics and Asian Americans.  Dynamics of intergroup relations focusing on the concepts of ethnocentricism, stereotyping, pluralism and assimilation.  Sources and manifestations of economic and social discrimination patterns and how they affect the individual's life course.  4 lectures.  Fulfills USCP.",
+            "title": "American Ethnic Minorities"
+        },
+        "SOC 323": {
+            "description": "Social class and the distribution of income, wealth, status and power in society, with emphasis on contemporary United States; social mobility; race, gender, and ethnic inequalities; political power and the nature of welfare; the nature, causes and solutions to poverty.  A comparative perspective also taken with a focus on Japan and Europe.  4 lectures.",
+            "title": "Social Stratification"
+        },
+        "SOC 326": {
+            "description": "Change and continuity of the self through the life course.  Impact of aging on the physical, emotional, intellectual and social aspects of well being, and how this knowledge can be applied to enhance the quality of life.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE D5 except for Social Sciences or Sociology majors.",
+            "title": "Sociology of the Life Cycle"
+        },
+        "SOC 327": {
+            "description": "Compares and contrasts social change strategies over time and across diverse social problems, focusing mainly on the U.S., but not exclusively.  Theoretical and critical examination of contemporary efforts to address restricted opportunities by groups who have been historically marginalized due to race/ethnicity, lower socioeconomic status, sexuality, or other social identities.  4 lectures.  Fulfills GE D5 except for Sociology majors.  Fulfills USCP.",
+            "title": "Social Change"
+        },
+        "SOC 350": {
+            "description": "Social and cultural features of modern Japan.  Japanese group processes.  Investigation of contemporary Japanese institutions:  family, education, mass media, industry, politics, including an overview of popular culture.  4 lectures.",
+            "title": "Social Organization of Modern Japan"
+        },
+        "SOC 354": {
+            "description": "Qualitative data collection for social research.  The relationship among theory research and hypothesis testing.  Data collection techniques, including content analysis, face to face interviews, and ethnographic methods.  3 lectures, 1 activity.",
+            "title": "Qualitative Research Methods"
+        },
+        "SOC 355": {
+            "description": "The basics of how to do quantitative social research.  Includes topics on data collection techniques such as surveys, experiments, and the use of existing data.  Also includes topics on univariate, bivariate, and multivariate analysis and the use of SPSS for data analysis.  3 lectures, 1 activity.",
+            "title": "Quantitative Research Methods"
+        },
+        "SOC 377": {
+            "description": "Religion from a sociological perspective.  Topics may include the nature of religious experience, the role of religion in politics, economics, and social change, and the role that social forces have in influencing religious beliefs and practices.  4 lectures.  Fulfills GE D5 except for Social Sciences or Sociology majors.",
+            "title": "Sociology of Religion"
+        },
+        "SOC 395": {
+            "description": "Bureaucracies and informal organizations from a sociological perspective.  Organizational networks within and between organizations, relationship between organizations and their environment, and organizational socialization and career patterns, and gender and race or ethnic differences in organizational patterns.  4 lectures.",
+            "title": "Sociology of Complex Organizations"
+        },
+        "SOC 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "SOC 402": {
+            "description": "Criminal behavior of individuals and groups; special categories include drug use, sex offenders, property crime, syndicated crime, interpersonal violence, and white-collar criminality.  Legal definitions of crime and their implications, theories of causation, the sources of criminological data, and possible responses to the problems posed by criminal behavior.  4 lectures.",
+            "title": "Crime and Violence"
+        },
+        "SOC 406": {
+            "description": "Sociological examination of juvenile delinquency as a social and legal concept, covering the nature, volume and social distribution of juvenile crime; the formal structure of juvenile justice; and how justice for juveniles is applied in practice.  4 lectures.",
+            "title": "Juvenile Justice and Delinquency"
+        },
+        "SOC 412": {
+            "description": "A sociological perspective of contemporary crime and criminal justice issues, such as racial profiling, drug enforcement, and mass incarceration.  Incorporates criminological theory to examine the nature, function, and causes of crime in society.  Focuses on the control and treatment strategies of adult offenders.  4 lectures.",
+            "title": "Criminology & Criminal Justice"
+        },
+        "SOC 413": {
+            "description": "Skills, values and knowledge emphasized in social work.  The generic perspective.  Methods in social case work, group work, community organization, and social action.  Alternative models.  Settings of social work practice.  Discussion of case material and professional literature.  Case work management.  Traditional and innovative therapy techniques.  4 seminars.",
+            "title": "Methods of Social Work"
+        },
+        "SOC 421": {
+            "description": "Concepts and theories in sociology.  Development and history of social theory in the classical period.  Development of the predominant perspectives in sociology:  positivist/functionalist, conflict, symbolic interactionist.  Importance of theories for understanding of present social arrangements and problems.  4 lectures.",
+            "title": "Social Theory"
+        },
+        "SOC 431": {
+            "description": "Introduction to demography, emphasizing historical patterns and impacts of population change.  Is population a problem? Topics include fertility, mortality, the demographic transition, food security, environmental degradation, population control, population aging, intergenerational transfers, and migration.  4 lectures.",
+            "title": "World Population Processes and Problems"
+        },
+        "SOC 440": {
+            "description": "Supervised training, research, and work in public and private organizations.  Credit/No Credit grading only.  Total credit limited to 12 units.",
+            "title": "Internship"
+        },
+        "SOC 444": {
+            "description": "Compares and contrasts perspectives on the criminal justice system in dialogue with inmates.  Examination of the social construction of deviance and inequality in the life course that may lead to incarceration.  3 lectures, 1 activity.",
+            "title": "Incarceration and Society: Perspectives on the Criminal Justice System"
+        },
+        "SOC 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project I"
+        },
+        "SOC 462": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project II"
+        },
+        "SOC 464": {
+            "description": "Preparation for professional advancement in the field of Sociology.  Supervised career planning emphasizing resume development, selection of an internship or international experience, exploration of career options and graduate programs.  Lectures from outside, practicing professionals.  1 lecture.  Credit/No Credit grading only.",
+            "title": "Professional Development for Sociologists"
+        },
+        "SOC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "SOC 110",

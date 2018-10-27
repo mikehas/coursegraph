@@ -1,4 +1,246 @@
 {
+    "descriptions": {
+        "GRC 101": {
+            "description": "Graphic communication history, theory, processes, applications, and practices. New technologies that affect day-to-day communication including traditional and digital printing and publishing, and non-print imaging including Internet applications. Overview of design technology, web and digital media, printing and imaging management, graphics for packaging, industry segments. 3 lectures.",
+            "title": "Introduction to Graphic Communication"
+        },
+        "GRC 172": {
+            "description": "Introduction to the application of theories and practice in University Graphic Systems as they apply to commercial printing, publication printing, digital media and graphic communication industries.  2 seminars.",
+            "title": "Introductory Applied Graphic Communication Processes"
+        },
+        "GRC 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "GRC 201": {
+            "description": "Introduction to web, e-publishing, and print publishing systems including hardware, software, design considerations, and file formats.  Overview of print output technologies, networking, web design, and digital publishing standards.  2 lectures, 1 laboratory.",
+            "title": "Digital Publishing Systems"
+        },
+        "GRC 203": {
+            "description": "Terminology and techniques used in the creation of digital files and workflow systems for print and web.  Workflow options including automation, proofing, and output systems will be discussed in addition to digital file delivery and transfer.  3 lectures, 1 laboratory.",
+            "title": "Digital File Preparation and Workflow"
+        },
+        "GRC 204": {
+            "description": "Survey of management fundamentals and components relevant to graphic communication manufacturing, production, operations, and quality.  Introduction to management theory and contemporary management trends and practices in the graphic communication industry.  Course may be offered in classroom-based or online format.  4 lectures.",
+            "title": "Introduction to Contemporary Print Management and Manufacturing"
+        },
+        "GRC 211": {
+            "description": "Technical aspects of paper, other substrates, inks, toners, and other printable materials used in the printing and packaging industries.  Manufacture, application and interaction of these materials in relation to particular processes and end use requirements.  Hands-on testing of materials in relation to quality, properties, and performance.  3 lectures, 1 laboratory.",
+            "title": "Substrates, Inks and Toners"
+        },
+        "GRC 212": {
+            "description": "Technical aspects of paper, other substrates, inks, toners and other printable materials used in the printing and packaging industries.  Manufacture, application, and interaction of these materials in relation to particular processes and end use requirements.  Credit not allowed for GRC majors.  3 lectures.",
+            "title": "Substrates, Inks and Toners: Theory"
+        },
+        "GRC 220": {
+            "description": "Practical application of social media tools used in the Graphic Communication industry.  Students prepare social media marketing campaigns that require research, design, writing, and elementary analytics.  Total credit limited to 6 units.  2 lectures.",
+            "title": "Introduction to Applied Social Media in Graphic Communication"
+        },
+        "GRC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "GRC 301": {
+            "description": "Digital photography for print and web, including lighting, exposure, composition, and photo retouching.  Color measurement and the application of color management and quality assessment in the graphic communication industry.  3 lectures, 1 laboratory.",
+            "title": "Digital Photography and Color Management"
+        },
+        "GRC 316": {
+            "description": "Flexographic printing technology for flexible packaging, label printing, folding and corrugated cartons.  Optimization of file preparation, plate imaging, and equipment settings.  Specification and management of automated workflows.  2 lectures, 1 laboratory.",
+            "title": "Flexographic Printing Technology"
+        },
+        "GRC 318": {
+            "description": "Application of typography using current software tools for print, web and digital publishing.  In-depth study of communication principles and visual organization.  Font technology and management for the creative, print and web publishing industries.  3 lectures, 1 laboratory.",
+            "title": "Digital Typography for Print and Web"
+        },
+        "GRC 320": {
+            "description": "Theory and practices of quality management in the graphic communication industry.  Quantifying customer expectations, specifications, standard operating procedures, SPC tools, and employee empowerment.  Principles of Lean Management, Six Sigma, ISO, and Malcolm Baldrige.  3 lectures, 1 laboratory.",
+            "title": "Managing Quality in Graphic Communication"
+        },
+        "GRC 322": {
+            "description": "Advanced typographic principles relating to print and electronic media.  Page layout and font management with consideration for electronic media.  Applied problems focusing on typographic design, typographic application and file preparation, including web typography and eBook creation.  2 lectures, 1 laboratory.",
+            "title": "Advanced Digital Typography"
+        },
+        "GRC 324": {
+            "description": "Imposition techniques, cutting, and folding.  Stitch, case and perfect binding techniques and applications.  Operational and aesthetic uses of die cutting, scoring, creasing, foil stamping and embossing techniques.  1 laboratory.",
+            "title": "Binding and Finishing Processes"
+        },
+        "GRC 328": {
+            "description": "Offset printing and plate technology for commercial, publication, packaging and reprographic segments of the printing industry.  Press configurations, materials, computerized press controls, workflow, pressroom management, coating and quality control.  Folding structures, plate types, quality, and new technologies for offset printing.  3 lectures, 1 laboratory.",
+            "title": "Offset Printing Technology"
+        },
+        "GRC 329": {
+            "description": "Introduction to printed electronics products, markets and technologies.  Emphasis on printed and hybrid flexible electronics for functional and novel applications including marketing, packaging, displays, wearable and stretchable products.  Various production methods with emphasis on gravure printing.  2 lectures, 1 laboratory.",
+            "title": "Printed Electronics"
+        },
+        "GRC 331": {
+            "description": "The physics, psychology, measurement, analysis and management of color for print and electronic documents, including web sites.  Practical application of color correction, color proofing, and production workflows that ensure the best possible color reproduction.  3 lectures, 1 activity.",
+            "title": "Color Management and Quality Analysis"
+        },
+        "GRC 337": {
+            "description": "Problem-solving strategies for package printing that integrate concepts from marketing, design and technology.  Package manufacturing, function, quality, visual appeal, sustainability, and economics are addressed.  2 lectures, 1 laboratory.",
+            "title": "Consumer Packaging"
+        },
+        "GRC 338": {
+            "description": "Web development production techniques including creating, repurposing, and managing assets for web publishing.  Digital content management for tablet and mobile device publishing.  3 lectures, 1 laboratory.",
+            "title": "Web Development and Content Management"
+        },
+        "GRC 339": {
+            "description": "Advanced design and production techniques for web development.  Current software applications and technologies for user interface design, site structure and information architecture.  3 lectures, 1 laboratory.",
+            "title": "Web Design and Production"
+        },
+        "GRC 357": {
+            "description": "Specialty printing and imaging technologies used in fabric decorating, decals for marketing, industrial, and functional printing, security printing and various forms of packaging.  Printing on various materials using special processes including screen printing, pad printing, sublimation printing, digital imaging, and post print finishing.  2 lectures, 1 laboratory.",
+            "title": "Specialty Printing Technologies"
+        },
+        "GRC 361": {
+            "description": "Identification and development of target markets for products and services in the graphic communication industry.  Deployment of strategies in pricing, promotion and distribution management.  Application of customer relationship management techniques for personal selling, forecasting and planning.  3 lectures, 1 laboratory.",
+            "title": "Marketing and Sales Management for Print and Digital Media"
+        },
+        "GRC 372": {
+            "description": "Application of theories and practices to University Graphic Systems as they apply to commercial printing, publication printing, digital media and graphic communication industries.  Major credit limited to 2 units; total credit limited to 12 units.  2 seminars.",
+            "title": "Applied Graphic Communication Practices"
+        },
+        "GRC 377": {
+            "description": "Web and print publishing technology and its impact on society.  The technologies of digital photography, typography, graphics, layout, and design for print and web publishing including decision-making considerations.  The application of scientific and mathematical principles to web and print publishing technologies.  3 lectures, 1 laboratory.  Fulfills GE Area F except for Graphic Communication majors.",
+            "title": "Web and Print Publishing"
+        },
+        "GRC 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "GRC 402": {
+            "description": "Study of the theory, technology, economics and application of digital printing processes and variable data publishing.  Explores digital printing technology, databases, and database publishing techniques.  2 lectures, 1 laboratory.",
+            "title": "Digital Printing and Emerging Technologies in Graphic Communication"
+        },
+        "GRC 403": {
+            "description": "Estimating the cost of various print and digital products and services.  Development of cost rates and production standards.  Cost estimating methods for Print on Demand, VDP, sheetfed lithography, web development, and wide-format output.  Analysis of material, labor and other cost factors.  3 lectures, 1 laboratory.",
+            "title": "Estimating for Print and Digital Media"
+        },
+        "GRC 411": {
+            "description": "Graphic communication industry market trends and strategic positioning.  Strategies for successfully positioning a business.  Paradigms and business practices for graphic communication companies.  Company analysis using case studies.  Innovative management practices in the graphic communication industry.  3 lectures, 1 activity.",
+            "title": "Strategic Trends and Profitability Issues in Print and Digital Media"
+        },
+        "GRC 420": {
+            "description": "Working with clients, participants will organize and demonstrate proficiency in the use of applicable Graphic Communication design, workflow and data-driven communication software and digital printing technologies using print and media software.  GRC capstone for the Integrated Marketing Communications minor.  3 lectures, 1 laboratory.",
+            "title": "Graphic Communication in Integrated Marketing Communications"
+        },
+        "GRC 421": {
+            "description": "Application of management principles and production control methodologies for print and digitally-imaged products.  Organization and financial analysis, decision-making, equipment and inventory planning, resource optimization, and the application of practiced and newly innovative contemporary world-class techniques for improving profitability in the graphic communication industry.  3 lectures, 1 activity.",
+            "title": "Production Management for Print and Digital Media"
+        },
+        "GRC 422": {
+            "description": "Human resource management integrated into the success of graphic communication companies.  A comprehensive management approach is utilized emphasizing employee development, training, promotion, and motivation.  Conflict management, facilitation skills, team building empowerment, leadership, ethical and legal issues in the graphic communication industry.  3 lectures, 1 laboratory.",
+            "title": "Human Resource Management Issues for Print and Digital Media"
+        },
+        "GRC 429": {
+            "description": "Current technologies and production tools used for digital media including mobile user interface design, prototyping, video, animation, and project management.  Industry standards, digital rights management, file formats, and publishing options for digital media applications.  Legal, ethical, and business issues surrounding digital media.  2 lectures, 1 laboratory.",
+            "title": "Digital Media"
+        },
+        "GRC 439": {
+            "description": "Advanced creative problem-solving strategies associated with the technologies used in book design and production.  Advanced techniques in page layout, design, typography, type specification and image manipulation as they relate to output technology.  Content, format and distribution of print and electronic books.  3 lectures, 1 laboratory.",
+            "title": "Book Design Technology"
+        },
+        "GRC 440": {
+            "description": "Concept development and design for magazines and publications.  Technical considerations as they relate to output technology and digital publishing.  Application of organizational structures such as grids, formatting and sequential design.  Advanced techniques in typography and image manipulation.  Distribution of content for print and digital formats.  3 lectures, 1 laboratory.",
+            "title": "Magazine Design Technology"
+        },
+        "GRC 451": {
+            "description": "Current trends and practices in select graphic communication management topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Management Topics in Graphic Communication"
+        },
+        "GRC 452": {
+            "description": "Current trends and practices in select graphic communication emerging digital topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Emerging Technologies in Graphic Communication"
+        },
+        "GRC 453": {
+            "description": "Current trends and practices in select graphic communication design reproduction topics.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Design Reproduction Topics in Graphic Communication"
+        },
+        "GRC 461": {
+            "description": "Students will engage in collaborative projects in other disciplines without the constraint of a single quarter schedule.  Formal presentation and report required.  Minimum 90 hours of time.  Total credit limited to 3 units.",
+            "title": "Senior Project - Independent Study"
+        },
+        "GRC 462": {
+            "description": "Selection and completion of a culminating project.  Projects typical of problems that graduates must solve in their fields of employment.  Project results presented in formal report and presentation.  1 lecture, 2 activities.",
+            "title": "Senior Project"
+        },
+        "GRC 463": {
+            "description": "Opportunities in individual or group-based projects in Graphic Communication competitions and/or sponsored projects.  Formal presentation and report required.  30 hours per unit.  Total credit limited to 3 units.  1-3 activities.",
+            "title": "Senior Project - Applied Practices"
+        },
+        "GRC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "GRC 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "GRC 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "GRC 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "GRC 500": {
+            "description": "Investigation, research, studies of problems in the graphic communication industry.  Repeated course over four quarters working with University Graphic Systems, the Graphic Communication Institute at Cal Poly, and with individual faculty.  Total credit limited to 8 units.",
+            "title": "Special Problems in Graphic Communication for Graduate Students"
+        },
+        "GRC 501": {
+            "description": "Foundations for emerging functional printing fields including printed electronics, active packaging, and security printing.  Emphasis on processes, materials, electrical characterization, sensing, barrier properties, and anti-counterfeiting.  Focus on applications including lighting, displays, novel electronics, energy harvesting, energy storage, sensors, scavengers, and brand security.  Course offered online only.  2 lectures.",
+            "title": "Survey of Functional Printing"
+        },
+        "GRC 502": {
+            "description": "Orientation and laboratory exploration for printed electronics, active packaging, and security printing.  Introduction to curricula, lab activities, research opportunities, and the use of equipment.  Active participation in laboratory experiments related to processes and materials.  1 lecture, 1 laboratory.",
+            "title": "Orientation to Functional Printing"
+        },
+        "GRC 510": {
+            "description": "Study of functional materials including substrates, coatings, and inks.  Focus on barrier and heat-stable substrates as well as conductive, semi-conductive, dielectric, transparent conductors, forensic, sensor, and other functional inks and coatings.  Emphasis on rheology, morphology, sintering and annealing.  Course offered online only.  4 lectures.",
+            "title": "Materials for Functional Printing"
+        },
+        "GRC 512": {
+            "description": "Study of functional printing and coating technologies, including screen printing, flexography, gravure, ink jet, offset, slot die, blade coating and conventional deposition techniques.  Course offered online only.  4 lectures.",
+            "title": "Printing and Coating Technologies"
+        },
+        "GRC 514": {
+            "description": "Imaging technologies and processes for security, electronic, and active packaging printing.  Focus on creating and evaluating images for applications in product security and electrical fabrication.  Course offered online only.  4 lectures.",
+            "title": "Optical and Electrical Patterning"
+        },
+        "GRC 520": {
+            "description": "Principles of business and product development for electronic and functional applications.  Focus on intellectual property rights, capital funding, entrepreneurship, and management of a technology business.  Course offered online only.  4 lectures.",
+            "title": "Functional Printing Product and Business Development"
+        },
+        "GRC 530": {
+            "description": "Evaluation of advanced imaging technologies for functional printing applications.  Imaging characteristics for ink/substrate combinations, focusing on print process attributes.  Compensation for print characteristics.  Enabling automated workflow technologies to improve throughput and minimize errors.  2 lectures, 2 laboratories.",
+            "title": "Functional Printing Workflows"
+        },
+        "GRC 551": {
+            "description": "Current trends and practices in select printed electronics topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory.",
+            "title": "Current Trends in Printed Electronics"
+        },
+        "GRC 552": {
+            "description": "Current trends and practices in select active packaging topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory.",
+            "title": "Current Trends in Active Packaging"
+        },
+        "GRC 553": {
+            "description": "Current trends and practices in select security and anti-counterfeiting topics.  Open to graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory.",
+            "title": "Current Trends in Security and Anti-Counterfeiting"
+        },
+        "GRC 560": {
+            "description": "Methods for conducting qualitative and quantitative evaluations, testing, and experimentation as well as writing investigative, scholarly research papers and theses in functional printing.  Topics include qualitative research, descriptive research, experimental design, statistical analysis, writing styles, and publishing options.  1 lecture, 1 activity.",
+            "title": "Research Methods in Printed Electronics and Functional Imaging"
+        },
+        "GRC 595": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "GRC 596": {
+            "description": "Comprehensive research project in printed electronics and functional imaging.  Communication of the results and findings of scholarly work in written report and by oral presentation.",
+            "title": "Research Project in Printed Electronics and Functional Imaging"
+        }
+    },
     "links": [
         {
             "source": "GRC 101",

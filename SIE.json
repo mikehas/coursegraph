@@ -1,4 +1,22 @@
 {
+    "descriptions": {
+        "SIE 509": {
+            "description": "Orientation and overview of the Systems Integration Engineering graduate certificate program, including introduction to systems integration, learning technologies, teamwork, personality types, leadership, desired attributes of an engineer, and presentations by visiting system experts.  1 lecture.",
+            "title": "Systems Integration Overview"
+        },
+        "SIE 510": {
+            "description": "Introduction to man-made and socio-technical systems, including life cycle concepts, needs analysis, requirements discovery, models, complexity, project management, life cycle costing, risk management, and decision making.  Verification, validation, and virtual collaboration of teams.  Course offered online only.  4 lectures.",
+            "title": "Introduction to Systems"
+        },
+        "SIE 511": {
+            "description": "Analysis topics and techniques within the systems context, including functional analysis, systems simulation, design analysis, financial analysis, schedule analysis, manufacturability, reliability, maintainability, and usability.  Course offered online only.  4 lectures.",
+            "title": "Systems Analysis"
+        },
+        "SIE 512": {
+            "description": "Systems synthesis and integration through systems thinking, interface management, configuration management, lean systems, A3 Thinking, commercial versus government systems, system verification and validation, and internal versus external subsystem development.  Course offered online only.  4 lectures.",
+            "title": "Systems Synthesis"
+        }
+    },
     "links": [
         {
             "source": "SIE 509",

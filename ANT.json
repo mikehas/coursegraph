@@ -1,4 +1,118 @@
 {
+    "descriptions": {
+        "ANT 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "ANT 201": {
+            "description": "Contemporary human cultures throughout the world. General patterns sought within the diversity of individual cultures. Includes such topics as: family organization; gender roles; adaptation to the environment; systems of economic exchange; political organization and leadership; religious beliefs and values; ethnicity and cultural pluralism; impact of Western culture on the developing world. 4 lectures. Fulfills GE D3.",
+            "title": "Cultural Anthropology"
+        },
+        "ANT 202": {
+            "description": "Development of the diverse human cultures of both the Old and New Worlds from the emergence of the first human ancestors (hominins) to the dawn of history; biological evolution, global cultural development, and adaptation before the advent of writing. 4 lectures. Fulfills GE D3.",
+            "title": "World Prehistory"
+        },
+        "ANT 250": {
+            "description": "Biological aspects of human unity and diversity. Primate and human evolution, including anatomical, physiological and behavioral adaptations. Origin and diversity of modern races. 4 lectures. Fulfills GE B2.",
+            "title": "Biological Anthropology"
+        },
+        "ANT 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ANT 309": {
+            "description": "Archaeological method and theory covering the history and development of archaeological thought, approaches to data recovery, dating and analysis of artifacts and ecofacts, the construction of models of prehistoric human behavior through application of archaeological and anthropological theories.  4 lectures.",
+            "title": "Elements of Archaeology"
+        },
+        "ANT 310": {
+            "description": "Hands-on introduction to the methods and techniques of archaeology with an emphasis on excavation.  Training in artifact and ecofact identification with a focus on lithic technology.  Practical field experience with hand tools, and stratigraphic interpretation.  Methodological approaches to both academic research questions and compliance with environmental planning mandates.  3 lectures, 1 laboratory.",
+            "title": "Archaeological Field Methods"
+        },
+        "ANT 311": {
+            "description": "Hands-on introduction to the methods employed in post-field processing, classification, analysis, and preservation of archaeological materials.  Compilation of quantitative and qualitative information in data base format to assist in the classification and interpretation of faunal remains and artifacts.  3 lectures, 1 laboratory.",
+            "title": "Archaeological Laboratory Methods"
+        },
+        "ANT 312": {
+            "description": "Introduction to federal, state, and local legislation pertinent to the identification, evaluation, and treatment of cultural resources.  A history of preservation legislation, culminating with detailed discussion of Section 106 of the National Historic Preservation Act and the California Environmental Quality Act.  Practical experience in orienteering, map-reading, and simple cartography.  4 lectures.",
+            "title": "Introduction to Cultural Resources Management"
+        },
+        "ANT 320": {
+            "description": "Overview of the paleoenvironment, prehistory, archaeology, and ethnography of Native California.  The last 12,000 years of California's past from the arrival of the first human beings to the establishment of Spanish settlements in 1769, and the demise of native societies.  4 lectures.",
+            "title": "California's Native Past"
+        },
+        "ANT 325": {
+            "description": "Cultures of Mesoamerica (Mexico and Central America) from earliest times to the Spanish Conquest.  Olmec, Teotihuacano, Zapotec, Maya and Aztec civilizations.  Major topics include religion, politics, warfare, art, writing, calendrics, ecology and trade.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors.",
+            "title": "Pre-Columbian Mesoamerica"
+        },
+        "ANT 330": {
+            "description": "Indigenous peoples of South America from the past to the present.  Cross-cultural study of small band societies, tribes and large civilization states located from the Amazon basin to the Altiplano.  Comparison of current state of indigenous rights and place in modern society.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors.",
+            "title": "Indigenous South Americans"
+        },
+        "ANT 344": {
+            "description": "How Darwinian processes of differential reproduction and mortality influence human interests, passions and behaviors.  Theories of inclusive fitness, parental investment and senescence.  Sex differences, sexual attraction, life histories, violence and aggression, including rape, homicide and infanticide.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors.",
+            "title": "Sex, Death, and Human Nature"
+        },
+        "ANT 345": {
+            "description": "Biological and cultural influences of natural and sexual selection on individual behavior.  Ecological effects on human behavior to reproduce and acquire resources.  Scientific method for understanding foraging behavior, group living, social skills, kinship, parenting, religion, and mating.  Cross-cultural, cross-sex, and cross-species comparisons.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors.",
+            "title": "Human Behavioral Ecology"
+        },
+        "ANT 360": {
+            "description": "Social and cultural evolution from Paleolithic times to the present.  Interactions of demographic, economic and ecological factors are emphasized.  Main topics include human nature/culture, sex and gender, cooperation and conflict, the 'agricultural revolution', state formation, social inequality and globalization.  4 lectures.  Fulfills GE D5 except for Anthropology/Geography and Social Sciences majors.",
+            "title": "Human Cultural Adaptations"
+        },
+        "ANT 393": {
+            "description": "Development of knowledge and skills needed to conduct original action-oriented ethnographic research.  Grounded in the reflexive 'turn' in anthropology and critical race, science, technology and society, queer and feminist studies, students will engage questions of authority, representation, critical consciousness and justice.  4 lectures.   Crosslisted as ANT/ISLA 393.",
+            "title": "Action-oriented Ethnography"
+        },
+        "ANT 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ANT 401": {
+            "description": "Global perspective on the relationship between culture and health.  Ecological factors influencing health and illness.  Origins of disease and impact of diseases on society.  Diet and nutrition.  Classifications of illness causation.  Kinds of curers.  Relationship of gender and reproduction to illness.  Pharmacology.  Mental illness.  Global health problems.  Alternative health care modalities.  Health-care needs of U.S.  ethnic groups.  4 lectures.",
+            "title": "Culture and Health"
+        },
+        "ANT 402": {
+            "description": "Interrelationships of sociocultural and ecological factors and their influence on nutrition and human health in developing and developed country contexts.  Topics include human adaptation, nutritional assessment, food production and allocation, the effect of development on diet and health.  4 lectures.",
+            "title": "Nutritional Anthropology"
+        },
+        "ANT 415": {
+            "description": "Survey of Native American cultures from earliest times to present, emphasizing regional diversity in traditional lifeways.  Origins of New World peoples, domestication, war, social organization, trade and gender roles.  4 lectures.  Fulfills USCP.",
+            "title": "Native American Cultures"
+        },
+        "ANT 425": {
+            "description": "Exploration of the intersection of anthropological theory with meaning, gender/sexuality, and identity formations within and between cultural contexts.  Situate and analyze anthropological discourses regarding social meanings and cultural identities as defined by oppositions of us and other, male and female, normal and abnormal, natural and unnatural.  Provide a potential source of comparative cultural reflection and critique.  4 lectures.",
+            "title": "Meaning, Gender, and Identity in Anthropological Theory"
+        },
+        "ANT 455": {
+            "description": "Development of knowledge and skills needed to conduct original scientific anthropology-geography research and prepares students for senior projects.  Various empirical methodologies highlighted, with a focus on quantitative design and measurement of human culture, biology, behavior, environment and ecology.  3 lectures, 1 laboratory.  Crosslisted as ANT/GEOG 455.",
+            "title": "Anthropology-Geography Research Design and Methods"
+        },
+        "ANT 460": {
+            "description": "Exploration of intersections of queer identities and politics of race, gender, kinship, the body, class, and desire.  Evaluation of how anthropology has been transformed by queer critique and knowledge production.  Investigation of the multi-scaled fields of power that articulate a cultural understanding of the body.  4 lectures.",
+            "title": "Queer Anthropology"
+        },
+        "ANT 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project I"
+        },
+        "ANT 462": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project II"
+        },
+        "ANT 464": {
+            "description": "Preparation for professional advancement in the fields of anthropology and geography.  Supervised career planning emphasizing resume development, selection of an internship or international experience, exploration of career options and graduate programs.  Lectures from outside, practicing professionals.  Credit/No Credit grading only.  1 seminar.",
+            "title": "Professional Preparation for Anthropologists/Geographers"
+        },
+        "ANT 465": {
+            "description": "Supervised training, research, and work in public and private organizations.  Credit/No Credit grading only.  Total credit limited to 18 units.",
+            "title": "Internship"
+        },
+        "ANT 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "ANT 202",

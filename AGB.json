@@ -1,4 +1,230 @@
 {
+    "descriptions": {
+        "AGB 101": {
+            "description": "Orientation to the agribusiness sector of agriculture.  An overview of the breadth, size, scope and management aspects of the agricultural business complex.  Agribusiness students are required to complete this within the first year of the major.  4 lectures.",
+            "title": "Introduction to Agribusiness"
+        },
+        "AGB 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  Credit can only be used to satisfy free electives.  Credit/No Credit grading only.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "AGB 202": {
+            "description": "Development of professional business-to-business selling principles within the supply chain, including an introduction to understanding the sales process from different buying and selling perspectives, communication techniques, and basic sales competency. 4 lectures.",
+            "title": "Introduction to Sales"
+        },
+        "AGB 212": {
+            "description": "Theoretical development of factors affecting demand and supply for food and fiber and for agricultural inputs. Methods of selecting optimal levels of agricultural production and consumption variables. Evaluation of market structure and price formulation for agricultural products and resources. 4 lectures.",
+            "title": "Agricultural Economics"
+        },
+        "AGB 214": {
+            "description": "Principles of financial accounting in agribusiness. Preparation for understanding and interpreting financial statements. Exploration of financial reporting standards to provide an understanding of how financial events are reflected in financial statements. The importance of social responsibility in accounting. The accounting cycle, from transactions posting to financial statements through spreadsheet applications. 3 lectures, 1 activity.",
+            "title": "Agribusiness Financial Accounting"
+        },
+        "AGB 260": {
+            "description": "Using data and analysis in making decisions related to agribusiness.  Developing basic and intermediate spreadsheet skills necessary to organize, analyze, and summarize information.  Development of data management and analysis as tools to assist in agribusiness problem-solving.  4 lectures.",
+            "title": "Agribusiness Data Literacy"
+        },
+        "AGB 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "AGB 301": {
+            "description": "Food and fiber marketing, examining commodity, industrial, and consumer product marketing from a managerial viewpoint.  A global perspective in understanding consumer needs and developing the knowledge of economic, political, social and environmental factors that affect food and fiber marketing systems.  4 lectures.",
+            "title": "Food and Fiber Marketing"
+        },
+        "AGB 308": {
+            "description": "Concepts and analytical methods related to agricultural finance.  Focus on applied spreadsheet analysis of financial statements, time value of money, risk and return, portfolio theory, and capital budgeting within the context of financial institutions specific to agriculture.  Not open to students with credit in AGB 310.  4 lectures.",
+            "title": "Introduction to Agribusiness Finance"
+        },
+        "AGB 309": {
+            "description": "Expansion of basic sales principles and skills, focusing on prospecting, sales styles, pipelining, forecasting, and product planning.  4 lectures.",
+            "title": "Advanced Sales Techniques"
+        },
+        "AGB 310": {
+            "description": "Financing California's agricultural industry.  Sources of credit and types of loans used by agribusinesses.  Costs of credit.  Financial analysis of agricultural borrowers.  Future and present value techniques used in evaluating agricultural investments.  Agricultural financial management.  Financial capital markets and leasing.  Not open to Agricultural Business majors.  Not open to students with credit in AGB 308.  4 lectures.",
+            "title": "Agribusiness Credit and Finance"
+        },
+        "AGB 311": {
+            "description": "Financial tools applied to the agribusiness industry, focusing on unique risks in agriculture.  Risk and return in the production and processing sectors, working capital management, cash flows and financial statement forecasting for agribusiness firms, using spreadsheet analysis.  4 lectures.",
+            "title": "Intermediate Agribusiness Finance"
+        },
+        "AGB 312": {
+            "description": "Agricultural policy objectives and formulation, resource allocation and production adjustments.  Survey of State and Federal agricultural policies as they influence the planning and practices of agribusiness.  4 lectures.",
+            "title": "Agricultural Policy"
+        },
+        "AGB 313": {
+            "description": "Advanced agricultural microeconomics with emphasis on mathematical problem solving; production and cost functions, single and multiple input allocation, agricultural output combinations, agricultural market structures, and economies of size.  4 lectures.",
+            "title": "Agriculture Economic Analysis"
+        },
+        "AGB 314": {
+            "description": "Fundamentals of the year round operation of a fair facility to include rental opportunities, master planning, and maintenance.  Principles and procedures in planning, organizing, operating, and evaluating a fair.  One day field trip required.  4 lectures.",
+            "title": "Fair and Fair Facility Management"
+        },
+        "AGB 318": {
+            "description": "Analysis of international marketing opportunities for agricultural products.  Strategies for enhancing the performance of U.S.  agricultural exports/ imports.  Impact of government trade policies and regulations, distribution systems, and the changing consumer.  4 lectures.",
+            "title": "Global Agricultural Marketing and Trade"
+        },
+        "AGB 322": {
+            "description": "Organization and operation of agribusinesses.  Identification of factors affecting profitability.  Evaluation of the business for increased efficiency and profit.  Application of budgeting to representative firms and independent analysis of an agribusiness.  3 lectures, 1 activity.",
+            "title": "Principles of Agribusiness Management"
+        },
+        "AGB 323": {
+            "description": "Agribusiness management with an emphasis on using accounting procedures that will provide useful information in making management decisions, setting objectives, and controlling operations.  3 lectures, 1 activity.",
+            "title": "Agribusiness Managerial Accounting"
+        },
+        "AGB 324": {
+            "description": "Economic, legal and real estate principles in the investment, development, mortgaging and transferring of agricultural real estate.  3 lectures, 1 activity.",
+            "title": "Agricultural Property Management and Sales"
+        },
+        "AGB 326": {
+            "description": "Methods of rural appraisal, including farms, ranches and other rural properties, use of county records, appraisal practice on different types of rural properties, discussions with professional appraisers.  3 lectures, 1 activity.",
+            "title": "Rural Property Appraisal"
+        },
+        "AGB 327": {
+            "description": "Methods in agricultural business data analysis, including multiple regression analysis, analysis of variance, and time series analysis.  Applications include agricultural price forecasting and estimation of the determinants of food and fiber demand.  3 lectures, 1 activity.",
+            "title": "Agribusiness Data Analysis"
+        },
+        "AGB 328": {
+            "description": "Development of agribusiness modeling techniques that are applied to solving a diverse and unique set of resource allocation issues encountered throughout the agricultural and food retail sectors.  Techniques include linear programming, decision analysis, and computer simulations.  3 lectures, 1 activity.",
+            "title": "Decision Tools for Agribusiness"
+        },
+        "AGB 331": {
+            "description": "Application of commercial accounting process to farm and ranch accounting problems.  Emphasis on accounting systems that facilitate financial statement presentation, tax preparation and ADP enterprise analysis.  Income tax laws pertaining to agriculture.  3 lectures, 1 activity.",
+            "title": "Farm Accounting"
+        },
+        "AGB 339": {
+            "description": "Selected students will spend up to 12 weeks with an approved agricultural firm engaged in production or related agribusiness.  Time will be spent applying and developing agribusiness functional and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Internship in Agribusiness"
+        },
+        "AGB 369": {
+            "description": "Standard topics of California agricultural personnel management:  recruitment; appraisal and performance evaluation; compensation; training and development; discipline; safety and health; labor relations; and immigration policy.  Systemic approach to aspects of managing human capital, and how to implement human resource policies.  Not open to students with credit in AGB 401.  4 lectures.",
+            "title": "Agricultural Personnel Management"
+        },
+        "AGB 370": {
+            "description": "International agricultural production, economics, and distribution.  Comparative and competitive advantage in world agriculture.  Food security issues and regional analysis of agriculture policies.  The future of agriculture from a global perspective.  4 lectures.",
+            "title": "World Food Economy"
+        },
+        "AGB 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems"
+        },
+        "AGB 404": {
+            "description": "Uses and techniques in management of perishable and non-perishable food commodities at the retail level.  Issues in traditional versus new models of retain with emphasis on the marketing mix.  Introduction to vendor, category and shelf management.  4 lectures.",
+            "title": "Food Retail Management"
+        },
+        "AGB 405": {
+            "description": "Agricultural marketing research data collection and analysis.  Emphasis on food sector market segmentation, product positioning, new product testing, sales forecasting, and marketing plan development through secondary and primary data sources.  Experimental research design and implementation.  4 lectures.",
+            "title": "Agribusiness Marketing Research Methods"
+        },
+        "AGB 406": {
+            "description": "Development of agribusiness marketing plans in self-managed teams.  Emphasis on developing presentation skills.  Integration of marketing mix, particularly promotional elements in developing agribusiness marketing strategy emphasized.  4 lectures.",
+            "title": "Agribusiness Marketing Planning"
+        },
+        "AGB 410": {
+            "description": "Structure and performance of the agricultural lending industry.  Advanced agricultural loan analysis and risk assessment.  Agricultural loan documentation, securitization of farm loans, and farm bankruptcy.  Exploration of interest rate impacts on agricultural lending.  4 lectures.",
+            "title": "Agricultural Lending"
+        },
+        "AGB 411": {
+            "description": "Risk management strategies and tools applied to the agribusiness industry, focusing on risks in agriculture.  Forward contracting, futures and options, swaps, crop insurance, trading and hedging strategies, and their applications to agribusiness problems.  4 lectures.",
+            "title": "Agribusiness Risk Management"
+        },
+        "AGB 412": {
+            "description": "Agricultural resource allocation issues with emphasis on policies that impact the production of food and fiber and inputs used in their production.  Special topics in agricultural resource allocation stressing issues and policies emphasizing economic externalities.  4 lectures.",
+            "title": "Advanced Agricultural Policy"
+        },
+        "AGB 422": {
+            "description": "Scope and elements of the agribusiness logistics system including supply and distribution channels, transportation, inventory, warehousing, packaging, and order processing.  4 lectures.",
+            "title": "Transportation and Logistics in Global Agribusiness"
+        },
+        "AGB 425": {
+            "description": "Focus on the development and application of decision models in food supply chains with emphasis on demand forecasting, aggregate planning, inventory management (cycle and food safety), supply network design, transportation, coordination and sourcing.  4 lectures.",
+            "title": "Agribusiness Supply Chain Management"
+        },
+        "AGB 427": {
+            "description": "Advanced topics in agricultural business data analysis.  Topics include advanced agricultural price analysis, advanced linear programming in agribusiness, and advanced agricultural business operations analysis.  The Schedule of Classes will list the topic selected.  4 lectures.",
+            "title": "Advanced Agribusiness Data Analysis"
+        },
+        "AGB 440": {
+            "description": "Visitation to selected agribusinesses.  Organization, operation, services and problems considered.  Can only be taken once for credit in the major.",
+            "title": "Field Studies in Agribusiness"
+        },
+        "AGB 445": {
+            "description": "Directed group study of fresh fruit and vegetable marketing.  Includes analysis of terminal markets, retail marketing (supermarkets, farmer's markets, roadside stands), limited preserving and ripening, grading and inspection, economics of transportation, international marketing.  2 seminars.",
+            "title": "Produce Marketing"
+        },
+        "AGB 450": {
+            "description": "Development of strategy for agribusinesses where an uncontrollable environment makes output and results highly unpredictable; emphasis on the total enterprise.  Case analysis.  4 lectures.",
+            "title": "Agribusiness Strategy Formulation"
+        },
+        "AGB 452": {
+            "description": "Development of skills for quantity and price determination in a noncompetitive setting.  Emphasis on examining the agribusiness industry structures that exist and their effects on decision-making.  The use of game theory demonstrated as a strategy formulation tool.  4 lectures.",
+            "title": "Agricultural Market Structure and Strategy"
+        },
+        "AGB 455": {
+            "description": "Advanced studies in fair management with emphasis on budgets, contracts, entertainment, carnivals, exhibit programs, crowd control, master planning maintenance.  2 seminars.",
+            "title": "Advanced Fair Management Seminar"
+        },
+        "AGB 460": {
+            "description": "Empirical application of the scientific method as it relates to the design and development of Senior Project.  Research plan is developed.  First quarter of Senior Project.  2 seminars.",
+            "title": "Research Methodology in Agribusiness"
+        },
+        "AGB 461": {
+            "description": "Completion of a project under faculty supervision.  Research topics or projects typical of problems which graduates must solve in the agricultural, food and fiber industries.  Project results are presented in a formal report.  Minimum 60 hours total time.",
+            "title": "Senior Project"
+        },
+        "AGB 462": {
+            "description": "Selection and analysis of agribusiness problems and opportunities in directed group-based projects.  Exploration of problems which agribusiness graduate students may encounter in marketing, finance, management and production in the food and fiber industry.  Formal report and presentation required.  4 lectures.",
+            "title": "Senior Project - Applied Agribusiness Problems"
+        },
+        "AGB 463": {
+            "description": "Client-centered course where self-managed teams develop solutions to agribusiness problems.  Exploration of problems typical to those which agribusiness graduates may encounter in marketing, finance, management and production in the food and fiber industry.  Formal report and presentation to client required.  4 lectures.",
+            "title": "Senior Project - Agribusiness Consulting"
+        },
+        "AGB 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "AGB 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Agribusiness faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study in Agribusiness"
+        },
+        "AGB 514": {
+            "description": "Current issues in agriculture addressed through the case analysis method.  Emphasis on communication skills and leadership qualities, identifying key success requirements.  4 seminars.",
+            "title": "Agribusiness Managerial Leadership and Communication"
+        },
+        "AGB 539": {
+            "description": "Application of theory to the solution of problems of agricultural production or related business in the field of Agribusiness.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Agribusiness"
+        },
+        "AGB 543": {
+            "description": "Economic, political, and social objectives of domestic agricultural policies and programs.  Consequences of government's policies and programs to control production, allocate resources, support market prices, and provide benefits to food and fiber producers, marketers, and consumers.  Topical analysis of current effort of government to direct agriculture.  4 seminars.",
+            "title": "Agribusiness Policy and Program Analysis"
+        },
+        "AGB 554": {
+            "description": "Major issues facing the food system marketer.  Vertical and horizontal linkages, pricing in agricultural markets, management of price risk through futures markets and hedging, and public policy and consumer impacts on the system.  Student involvement through case studies simulations, and presentations.  4 seminars.",
+            "title": "Food System Marketing"
+        },
+        "AGB 555": {
+            "description": "Ramifications and impacts in agribusiness firms from technological and economic changes.  Emphasis on specific agribusiness firms and their managerial process of dealing with problems and opportunities in the operational environments of economic, technology, political, global, domestic and marketing.  4 seminars.",
+            "title": "Technological and Economic Change in Agribusiness"
+        },
+        "AGB 563": {
+            "description": "Agricultural trade dynamics in a world economy.  Evaluation of multinational firms and unilateral and multinational government policy strategies in interacting with and expanding markets for agricultural trade.  Agribusiness opportunities with social and institutional limitations; emphasis on environmental and sustainable trade issues.  4 seminars.",
+            "title": "International Agribusiness Trade and Development"
+        },
+        "AGB 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Agribusiness"
+        },
+        "AGB 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Agribusiness"
+        },
+        "AGB 599": {
+            "description": "Systematic research of a significant problem in Agribusiness.  Thesis will include problem identification, significance, methods, data analysis, and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units.",
+            "title": "Thesis in Agribusiness"
+        }
+    },
     "links": [
         {
             "source": "AGB 101",

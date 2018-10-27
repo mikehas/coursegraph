@@ -1,4 +1,150 @@
 {
+    "descriptions": {
+        "GSB 500": {
+            "description": "Advanced study planned and completed under the direction of the Director of Graduate Programs.  Open only to graduate students who have demonstrated ability to do independent work.  A formal written proposal must be accepted by the Associate Dean of OCOB Graduate Programs before work begins.",
+            "title": "Independent Study"
+        },
+        "GSB 501": {
+            "description": "Advanced individual research planned and completed under the direction of a member of the college faculty.  Designed to meet the needs of qualified students who wish to pursue investigations which cannot be followed effectively in regularly offered elective courses.  A formal written proposal must be accepted by the Associate Dean of OCOB Graduate Programs before work begins.",
+            "title": "Individual Research"
+        },
+        "GSB 503": {
+            "description": "Collaborative business project with a client organization that allows graduate level students the opportunity to apply knowledge, skills and competencies to address a business problem.  Small teams work in collaboration with a client organization and a faculty advisor.  A formal written proposal must be accepted by the Associate Dean of OCOB Graduate Programs before work begins.  The project may last up to one year.",
+            "title": "Collaborative Industry Project"
+        },
+        "GSB 510": {
+            "description": "Principles of data visualization and storytelling.  Data visualization tools for different types of data in the context of business analytics.  Communication of results for business actionable insights.  Software use includes Excel, Tableau and R.  3 lectures, 1 laboratory.",
+            "title": "Data Visualization and Communication in Business"
+        },
+        "GSB 511": {
+            "description": "Emphasis on development of the ability to read and interpret public and internal financial reports.  Public reporting responsibilities of companies and management's responsibilities for developing and maintaining effective internal control systems.  3 lectures, 1 activity.",
+            "title": "Accounting for Managers"
+        },
+        "GSB 512": {
+            "description": "Focus on a variety of statistical techniques that help to transform data into useful information that can be used to make informed business predictions and decisions.  3 seminars, 1 laboratory.",
+            "title": "Quantitative Analysis"
+        },
+        "GSB 513": {
+            "description": "Application of behavioral, social and organizational science concepts to management.  Individual, team and organizational levels of analysis, including such topics as expectations, perception, motivation, communications, creativity, leadership, cultural and ethical behavior, group dynamics, team effectiveness, work design, organization change and development.  4 seminars.",
+            "title": "Organizational Behavior"
+        },
+        "GSB 514": {
+            "description": "Legal and regulatory environment in which business operates.  Consideration of historical, societal, and global perspectives reflecting political, social and/or economic beliefs and values.  Strong emphasis on fundamental concepts of law and analytical tools to understand interaction between law, ethics and management decisions.  4 seminars.",
+            "title": "The Legal and Regulatory Environment of Business"
+        },
+        "GSB 516": {
+            "description": "Analysis of customer information, using a broad range of tools and techniques including predictive, statistical, and optimization models.  Integration of data into reporting platforms.  Application of findings to marketing decision-making.  4 lectures.",
+            "title": "Strategic Marketing Analytics"
+        },
+        "GSB 520": {
+            "description": "Exploration of data management including relational databases, data warehouses, and NOSQL databases.  Foundation for analyzing, designing, implementing and using information repositories in a business environment.  Topics include the database development life cycle, data modeling, SQL programming, data quality and integration.  Course may be offered in classroom-based or online format.  4 lectures.",
+            "title": "Data Management for Business Analytics"
+        },
+        "GSB 522": {
+            "description": "Analysis of the challenges, successes, and failures managers face when planning for and implementing information system initiatives, particularly enterprise systems such as supply chain management, customer relationship management and enterprise resource planning systems.  Focus on the strategic and operational impact of emerging information technologies in modern day business management.  Design and development of knowledge worker applications including database and decision support systems.  3 lectures, 1 activity.",
+            "title": "Advanced Management Information Systems"
+        },
+        "GSB 523": {
+            "description": "Managerial economics, or microeconomics, focuses on private markets.  Choices made by firms and consumers within topics that include demand, supply, efficiency, marketing structure, and government intervention.  Development of an analytical framework for analyzing how these topics are important for managers.  4 lectures.",
+            "title": "Managerial Economics"
+        },
+        "GSB 524": {
+            "description": "Introduction to marketing management.  Concepts and principles necessary to plan, direct and control the product, promotion, distribution and pricing strategies of the firm.  4 lectures.",
+            "title": "Marketing Management"
+        },
+        "GSB 529": {
+            "description": "Enhancement of business writing and oral presentation skills, organized around two areas:  1) preparing written business documents and reports, and 2) professional oral presentation skills.  Preparation of a variety of business reports and documents.  Multiple business presentations.  4 lectures.",
+            "title": "Effective Communication Skills for Managers"
+        },
+        "GSB 530": {
+            "description": "Exploration of the concepts, tools and techniques of data mining in the business context, using case study and problem-solving approaches.  Topics include multidimensional data modeling, predictive analytics, pattern discovery, forecasting, text mining, and data visualization.  4 lectures.",
+            "title": "Data Analytics and Mining for Business"
+        },
+        "GSB 531": {
+            "description": "Theories, practices and tools of corporate financial decision making.  Topics include valuation of fixed income securities and stocks, capital budgeting, capital structure, dividends, and an overview of financial markets and institutions.  Introduction to valuation of derivative securities, market efficiency, and agency costs.  4 seminars.",
+            "title": "Managerial Finance"
+        },
+        "GSB 533": {
+            "description": "Development of the theoretical and empirical framework of the macroeconomy in which businesses must operate.  Topics include GDP, inflation, unemployment, interest rates and monetary and fiscal policies.  The dynamics of the macroeconomic environment over time.  4 lectures.",
+            "title": "Aggregate Economics Analysis and Policy"
+        },
+        "GSB 534": {
+            "description": "Introduction to the operations function and its interaction with other areas in an organization.  Emphasis on applying lean six sigma thinking to achieve competitive advantage in cost, quality, time, and flexibility in manufacturing and service operations.  4 lectures.  Course may be offered in classroom-based or online format.",
+            "title": "Lean Operations Management"
+        },
+        "GSB 539": {
+            "description": "Correlation of experience and academic knowledge.  Placement in a supervised business or public organization.  A formal written proposal must be accepted by the Associate Dean of OCOB Graduate Programs before work begins.  Credit/No Credit grading only.",
+            "title": "Graduate Internship in Business"
+        },
+        "GSB 550": {
+            "description": "Introduction to Bayesian econometrics with a focus on business decision making.  Making appropriate use of prior information; computation of posterior densities; Bayesian forecasting and policy evaluation; model selection and diagnostic tools; alternative loss functions tailored to specific business applications.  4 lectures.",
+            "title": "Bayesian Econometrics"
+        },
+        "GSB 555": {
+            "description": "Theory and practice of negotiation in a variety of professional and managerial contexts (e.g., business acquisitions, compensation, business disputes, transfer pricing, inter- and intra-organizational) and in one-on-one, group, and team-based arrangements.  Includes impact of culture, ethics, dispute resolution, coalitions and use of creativity to develop integrative solutions.  4 seminars.",
+            "title": "Negotiation"
+        },
+        "GSB 556": {
+            "description": "Exploration of entrepreneurship with emphasis on the formation and management of new business ventures.  Analysis of typical operating problems of these firms and application of appropriate techniques for their solution.  4 seminars.",
+            "title": "Entrepreneurship and New Venture Management"
+        },
+        "GSB 562": {
+            "description": "Application of interdisciplinary skills to business and corporate strategy formulation and implementation.  Analysis of interdependence between external environments and internal systems.  Focus on responsibilities, tasks, and skills of general managers.  Case studies, group problem solving.  Integrating course of MBA core curriculum.  Course satisfies comprehensive examination requirement.  4 seminars.",
+            "title": "Seminar in General Management and Strategy"
+        },
+        "GSB 563": {
+            "description": "Business tour exposure to different management systems and their operating environments.  Pre-trip and on-the-road meetings, readings, case studies and discussions.  Tours of firms, government offices, ministries, etc; interviews of managers and government officials.  Conducted in English.  Passport required.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  2 seminars, 2 activities.",
+            "title": "International Business Tour"
+        },
+        "GSB 564": {
+            "description": "The process of financing new and fast-growing firms.  Preparation of pro forma financial statements for a new venture.  Readings on the venture capital process, from seed capital through the initial public offering (IPO).  Valuation of firms seeking venture capital, and those planning their IPO.  Valuing convertible securities.  Real options valuation.  4 lectures.",
+            "title": "Entrepreneurial Finance"
+        },
+        "GSB 569": {
+            "description": "Practical legal decisions required to conduct business for or with high technology companies.  Methods to protect high technology developments in international markets, including copyrights, patents, trade secrets, trademarks and contracts.  4 seminars.",
+            "title": "Managing Technology in the International Legal Environment"
+        },
+        "GSB 570": {
+            "description": "Directed group study of selected topics for advanced students.  Total credit limited to 8 units.  The Schedule of Classes will list title selected.  1-4 seminars.",
+            "title": "Selected Advanced Topics"
+        },
+        "GSB 573": {
+            "description": "Preparation to become competent users and creators of marketing research information.  Focus on collecting customer information as well as analyzing, interpreting and presenting information to be used in executive decision making.  4 lectures.",
+            "title": "Marketing Research"
+        },
+        "GSB 577": {
+            "description": "The necessary conceptual framework of operations research techniques for solving key problems encountered while managing an enterprise.  Concepts of linear programming, simulations, network models, inventory models, PERT/CPM, and forecasting techniques.  3 seminars, 1 laboratory.",
+            "title": "Advanced Quantitative Business Analysis"
+        },
+        "GSB 583": {
+            "description": "An overview of the major functional and support activities in the personnel/human resource field, including strategic human resource planning, job analysis, recruitment, selection, performance appraisal, compensation, employee rights, and employee safety and health.  4 seminars.",
+            "title": "Management of Human Resources"
+        },
+        "GSB 584": {
+            "description": "An overview of the factors that affect corporate financial decisions, including firms' financing, investment and hedging policies.  Factors included:  taxes, transaction costs, contracting (between managers and shareholders, and between shareholders and other claimholders such as bondholders), and asymmetric information.  3 seminars, 1 activity.",
+            "title": "Corporate Financial Policy"
+        },
+        "GSB 585": {
+            "description": "The application of financial theory to the problems of investment management.  Topics cover the valuation of basic financial instruments, portfolio optimization, risk management, asset allocation, the CAPM, and market efficiency.  Required use of optimization software and writing spreadsheet programs.  4 seminars.",
+            "title": "Investment Portfolio Management"
+        },
+        "GSB 587": {
+            "description": "The international aspects of corporate finance and investing.  Balance of payments, foreign exchange with emphasis on exchange rate determination, exchange risk, hedging, and interest arbitrage, international money and capital markets, international financing, and international banking.  4 seminars.",
+            "title": "International Financial Management"
+        },
+        "GSB 595": {
+            "description": "The knowledge and the elementary skills/competencies needed to intervene in an organization in order to improve its effectiveness.  Design and use of action to improve organizational effectiveness.  4 seminars.",
+            "title": "Managing Change"
+        },
+        "GSB 596": {
+            "description": "Applications to business planning of selected economic forecasting techniques.  Classical time series analysis, Box-Jenkins (ARIMA) models, leading indicators and input-output analysis.  3 seminars, 1 laboratory.",
+            "title": "Economic Forecasting"
+        },
+        "GSB 597": {
+            "description": "Selected economic problems analyzed at an advanced level in a particular field, such as international trade, public finance, urban, industrial organization or transportation.  4 seminars.",
+            "title": "Seminar in Selected Economic Problems"
+        }
+    },
     "links": [
         {
             "source": "GSB 512",

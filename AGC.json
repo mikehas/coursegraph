@@ -1,4 +1,82 @@
 {
+    "descriptions": {
+        "AGC 102": {
+            "description": "Orientation to the communication sector of agriculture. Overview of professional opportunities and skills needed for success in agricultural communications. Preparation of press releases and short articles, and development of a planned program of study. 2 lectures.",
+            "title": "Orientation to Agricultural Communication"
+        },
+        "AGC 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication/Agricultural Education.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems in Agricultural Communication"
+        },
+        "AGC 207": {
+            "description": "Emphasis on software applications in agricultural communications, including basic Adobe Creative Suite techniques of InDesign and Lightroom, MS Word and Excel. Best practices in electronic delivery and print. Adobe Premiere video, blog template usage and cloud collaboration for professional agricultural communications. 1 lecture, 1 activity.",
+            "title": "Software Applications for Agricultural Publications"
+        },
+        "AGC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "AGC 301": {
+            "description": "Exploration and implementation of emerging new media communication strategies and technologies to convey information on important issues in agriculture to a global audience.  Focus on food and farming dialogues currently populating conversations about production agriculture.  Adaptation of different writing styles based on requirements of the various new media channels.  Analysis of metrics to measure level of engagement with desired audience.  3 lectures, 1 laboratory.",
+            "title": "New Media Communication Strategies in Agriculture"
+        },
+        "AGC 339": {
+            "description": "Selected Agricultural Communication students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Internship in Agricultural Communications"
+        },
+        "AGC 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication/Agricultural Education.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Advanced Special Problems in Agricultural Communication"
+        },
+        "AGC 407": {
+            "description": "Integration of writing, editing, and layout skills in producing agricultural publications.  Emphasis on using computer applications in designing publications.  Total credit limited to 8 units.  2 lectures, 2 activities.",
+            "title": "Agricultural Publications"
+        },
+        "AGC 426": {
+            "description": "Development, delivery and evaluation of effective means of communication by use of a variety of presentation methods and the use of technology for effective communication.  2 lectures, 2 activities.",
+            "title": "Presentation Methods in Agricultural Communication"
+        },
+        "AGC 452": {
+            "description": "Presentations by experts from government, industry, and professional organizations.  Focus on trends and issues that impact agriculture, in particular agricultural communication.  Exploration of solutions to problems facing agricultural communication.  Field trip required.  4 seminars.",
+            "title": "Current Trends and Issues in Agricultural Communication"
+        },
+        "AGC 461": {
+            "description": "Empirical application of the scientific method as it relates to the selection of a project.  Projects typical of problems that graduates must solve in their field of employment.  1 seminar.",
+            "title": "Senior Project I"
+        },
+        "AGC 462": {
+            "description": "Completion of a project begun in AGC 461.  Projects typical of problems that graduates must solve in their field of employment.  Project results are presented in a formal report.  1 seminar.",
+            "title": "Senior Project II"
+        },
+        "AGC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "AGC 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "AGC 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Agricultural Education and Communication faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study In Agricultural Communication"
+        },
+        "AGC 539": {
+            "description": "Application of theory to the solution of problems of agricultural production or related business in the field of Agricultural Communication.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Agricultural Communication"
+        },
+        "AGC 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Agricultural Communication"
+        },
+        "AGC 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Agricultural Communication"
+        },
+        "AGC 580": {
+            "description": "Individual study of modern issues and problems conducted through research, planning and development.  Field problems and in-service study in agricultural industry encouraged.  Final written report required.  Total credit limited to 9 units with not more than 3 units in any one quarter.",
+            "title": "Special Problems in Agricultural Communication"
+        }
+    },
     "links": [
         {
             "source": "JOUR 205",

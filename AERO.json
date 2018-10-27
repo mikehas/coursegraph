@@ -1,4 +1,382 @@
 {
+    "descriptions": {
+        "AERO 121": {
+            "description": "Introduction to the engineering profession including the aeronautical and aerospace fields. Engineering approach to problem-solving and analysis of data obtained from experiments. Basic nomenclature and design criteria used in the aerospace industry. Applications to basic problems in the field. 1 lecture, 1 laboratory.",
+            "title": "Aerospace Fundamentals"
+        },
+        "AERO 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "AERO 215": {
+            "description": "Introduction to problem solving techniques and team-centered design projects in aerospace engineering.  Primary emphasis on the solutions of design problems in aerospace engineering using computers.  2 laboratories.",
+            "title": "Introduction to Aerospace Design"
+        },
+        "AERO 220": {
+            "description": "Project-based study of fundamental systems engineering concepts including sub-system interface requirements, verification and validation, modeling/analysis/design, and implementation of complex aerospace systems.  1 laboratory.",
+            "title": "Aerospace Systems Engineering and Integration"
+        },
+        "AERO 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "AERO 299": {
+            "description": "Basics of thermodynamics, energy, systems and control volume analysis.  First law, second law, phase change and energy analysis for aerospace-relevant applications.  Entropy and exergy, cycle analysis (Rankine, Brayton, turbojets and turbofans).  Not open to students with credit in AERO 301.  3 lectures, 1 laboratory.",
+            "title": "Aerospace Thermodynamics"
+        },
+        "AERO 300": {
+            "description": "Analytical methods for aerospace engineering problems.  Topics include vector calculus, linear algebra, differential equations, Laplace transforms and Fourier series.  Computer tools and numerical methods as applied to problems in aerodynamics, structures, stability and control and astronautics.  4 lectures, 1 laboratory.",
+            "title": "Aerospace Engineering Analysis"
+        },
+        "AERO 302": {
+            "description": "Properties of fluids, statics, mass/energy/momentum for aeronautical applications, external aerodynamics (lift and drag), dimensional analysis for scale testing, introduction to differential analysis and Navier-Stokes equations, basics of laminar and turbulent boundary layers.  3 lectures, 1 laboratory.",
+            "title": "Aerospace Fluid Mechanics"
+        },
+        "AERO 303": {
+            "description": "Basics of heat transfer and approaches to problem solving, steady heat conduction, convection (forced and natural), heat exchanger design, shock waves and compressible flow in nozzles and diffusers (normal, oblique, expansion waves), thermal radiation and applications.  3 lectures, 1 laboratory.",
+            "title": "Aerospace Gas Dynamics and Heat Transfer"
+        },
+        "AERO 304": {
+            "description": "Laboratory experiments verify the momentum and energy equations.  Mass flow rate, fan performance, boundary layer measurements, diffuser performance, and induction pump performance experiments are evaluated.  Introduction to electronic sensors, signals and data acquisition.  1 lecture, 1 laboratory.",
+            "title": "Experimental Aerothermodynamics"
+        },
+        "AERO 306": {
+            "description": "Introduction to theoretical aerodynamics.  Primary emphasis in the subsonic region, including compressibility effects.  Basic aerodynamic theory:  Airfoil theory, wing theory, lift and drag.  Team-centered aerodynamic design.  Flight performance.  4 lectures.",
+            "title": "Aerodynamics and Flight Performance"
+        },
+        "AERO 307": {
+            "description": "Wind tunnel testing of basic aerodynamic properties of airfoils, finite wings, aircraft or spacecraft models, and vehicle flight performance.  Emphasis on both static and dynamic responses of aircraft.  Various measurement techniques, data reduction schemes, and analysis methods.  2 laboratories.",
+            "title": "Experimental Aerodynamics"
+        },
+        "AERO 310": {
+            "description": "Technological innovations that have led to modern aircraft and spacecraft as viewed from an historical perspective.  Development of aerodynamics, propulsion systems, light-weight structures, and control systems.  How aviation has affected, and been affected by, history.  Impact of aviation on society, including civil and military aircraft/spacecraft.  Federal regulation of aviation, including air traffic control and airlines.  Future developments in air and space technology.  4 lectures.  Crosslisted as AERO/HNRS 310.  Fulfills GE Area F.",
+            "title": "Air and Space"
+        },
+        "AERO 311": {
+            "description": "Traces the engineering evolution of commercial and military aircraft from the Wright Flyer to modern designs.  Studies include how aircraft design is driven by the combination of requirements, deterrents and advancing technologies resulting in the continuous innovation of configurations.  4 lectures.",
+            "title": "Aircraft Development History"
+        },
+        "AERO 320": {
+            "description": "Introduction to six degree of freedom rigid body dynamic and kinematic equations of motion, including coordinate transformations, Euler angles and quaternions for aerospace vehicles.  Linearization and dynamic system theory and stability.  Introduction to linear control theory, controller design and analysis.  4 lectures.",
+            "title": "Fundamentals of Dynamics and Control"
+        },
+        "AERO 321": {
+            "description": "Experiments in translational and rotational dynamics, structural, thermal, and flow control.  Comparison of modeling/simulation results to experimental data.  Role of actuators, sensors, noise, feedback, and supporting instrumentation hardware and software.  Introduction to technical communication.  1 laboratory.",
+            "title": "Experimental Sensors, Actuators and Control"
+        },
+        "AERO 331": {
+            "description": "Deflection analysis.  Principles of fictitious displacement, virtual work, and unit load method.  Energy methods:  Castigliano's theorem, Maxwell-Betti reciprocal theorem, minimum principles, Rayleigh-Ritz's method and Galerkin's method.  Stress analysis of aircraft and spacecraft components.  4 lectures.",
+            "title": "Aerospace Structural Analysis I"
+        },
+        "AERO 351": {
+            "description": "Motion of a body in a central field.  Keplerian Orbits.  Orbital maneuvers.  Interplanetary trajectories.  4 lectures.",
+            "title": "Introduction to Orbital Mechanics"
+        },
+        "AERO 353": {
+            "description": "Effects of the space environment on a spacecraft and design considerations.  Topics include the launch, vacuum, particulate, plasma, and radiation environments 4 lectures.",
+            "title": "Spacecraft Environment"
+        },
+        "AERO 354": {
+            "description": "Laboratory examples of the effects of the space environment on a spacecraft and design considerations.  Topics include the launch, vacuum, particulate, plasma, and radiation environments.  All topics are applied to how the environment affects spacecraft design considerations.  2 laboratories.",
+            "title": "Space Environment Laboratory"
+        },
+        "AERO 360": {
+            "description": "The creative problem solving process for an engineering design team.  How to explore context and causes as part of defining a design problem; the principles of brainstorming, synthesis, and judgment.  Role of iteration, implementation, and communication.  Importance of a diverse view, including:  customers, products, processes, systems, ethics, and professional responsibility.  Team-based applications to case studies and real-world engineering design problems.  2 laboratories.",
+            "title": "Creative Problem Solving in Engineering Design"
+        },
+        "AERO 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "AERO 401": {
+            "description": "Power plant types, components, characteristics, and requirements.  Principles of thrust and energy utilization.  Thermodynamic processes and performance of turboprop, turboshaft, turbofan, turbojet, ramjet, and rocket engines.  4 lectures, 1 laboratory.",
+            "title": "Propulsion Systems"
+        },
+        "AERO 402": {
+            "description": "Effects of the propulsion subsystem on spacecraft design.  Introduction to air breathing propulsion systems.  Topics include basic rocket performance, monopropellant thrusters, bipropellant thrusters, electric thrusters, thruster placement, plumbing, tank sizing and design, system layout, component design, and systems integration.  4 lectures, 1 laboratory.",
+            "title": "Spacecraft Propulsion Systems"
+        },
+        "AERO 405": {
+            "description": "Review of gas dynamics, shock-wave and boundary-layer interaction, aerodynamic design.  2-dimensional supersonic flows around thin airfoil; finite wing in supersonic flow.  Local surface inclination methods for high-speed flight, boundary-layer and aerodynamic heating, viscous interactions.  4 lectures.",
+            "title": "Supersonic and Hypersonic Aerodynamics"
+        },
+        "AERO 406": {
+            "description": "Application of Computational Fluid Dynamics to study a range of problems relating to applications in aerospace and automotive engineering.  Grid generation, sources of errors in CFD studies, boundary conditions, 2D and 3D external flows, and turbulence modeling.  2 lectures, 2 laboratories.",
+            "title": "Applied Computational Fluid Dynamics"
+        },
+        "AERO 407": {
+            "description": "Near planet environments.  Transition from orbital to aero-dynamic motion.  Aerodynamic heating and effects on design.  4 lectures.",
+            "title": "Reentry Aerodynamics"
+        },
+        "AERO 409": {
+            "description": "Overview of flight tests, test equations, and supporting facilities.  Principles of team-centered flight testing with applications to performance, stability and control, and avionics systems testing.  Test planning, instrumentation, data analysis and reports.  2 lectures, 2 laboratories.",
+            "title": "Flight Test"
+        },
+        "AERO 420": {
+            "description": "Newton's 6-degree-of-freedom equations of motion applied to aerospace vehicles.  Stability and control derivatives, reference frames, steady-state and perturbed dynamic analyses applied to aerospace vehicles.  Stability and control design principles applied to transfer functions, state-space, and modal system dynamics.  4 lectures.",
+            "title": "Aircraft Dynamics and Control"
+        },
+        "AERO 421": {
+            "description": "Introduction to spacecraft attitude dynamics and control.  Momentum exchange devices and bang-bang thruster control.  Orbit determination (GPS), maneuvers and station keeping.  Fundamentals of guidance and navigation systems.  Analysis and design of control systems for aerospace vehicles.  4 lectures.",
+            "title": "Spacecraft Attitude Dynamics and Control"
+        },
+        "AERO 425": {
+            "description": "Fundamentals of propeller and jet aircraft performance.  Steady and accelerated flight.  Equations of motion.  Level flight, gliding, climbing, driftdown.  Takeoff and landing.  Federal Aviation Regulations (FARs).  Range and endurance.  Payload-range diagram.  Maneuvering.  V-n diagram.  Turning and pull-ups.  Stall and spin behavior.  Energy methods.  4 lectures.",
+            "title": "Aircraft Performance"
+        },
+        "AERO 431": {
+            "description": "Basic equations of elasticity with applications to typical aerospace structures.  Concepts studied include analysis of aircraft and aerospace structures; airworthiness and airframe loads; structural constraints; elementary aeroelasticity; structural instability; introduction to modern fatigue; fracture mechanics; and composite structures analysis.  4 lectures.",
+            "title": "Aerospace Structural Analysis II"
+        },
+        "AERO 432": {
+            "description": "Review of isotropic material behavior.  Behavior of unidirectional fiber composites.  Properties of short-fiber composites and orthotropic lamina.  Analysis of laminated composites.  Stresses and strains of composites.  Strength and hygrothermal behavior of composite materials.  3 lectures, 1 laboratory.",
+            "title": "Advanced Composite Structures Analysis"
+        },
+        "AERO 433": {
+            "description": "Employing the knowledge of stress analysis and aerospace structural analysis in an individual and group design project dealing with aerospace structures.  1 laboratory.",
+            "title": "Experimental Stress Analysis"
+        },
+        "AERO 434": {
+            "description": "Analysis and design applications for aircraft and spacecraft structures.  Stress concentrations, fatigue, and fracture mechanics.  Structural dynamics.  Framed structures, plates and shells.  Composite applications.  4 lectures.",
+            "title": "Aerospace Structural Analysis III"
+        },
+        "AERO 435": {
+            "description": "Taylor series.  Finite difference calculus.  Interpolation and extrapolation.  Finite difference method.  Basic equations of elasticity.  Global stiffness matrix.  Rayleigh-Ritz method.  Galerkin method.  Bernoulli-Euler beam element.  Finite element formulation.  Dynamic analysis.  3 lectures, 1 laboratory.",
+            "title": "Aerospace Numerical Analysis"
+        },
+        "AERO 443": {
+            "description": "Preliminary layout of a typical aircraft vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of a flight vehicle, including its structures and systems.  Preparation of necessary drawings and a report.  2 lectures, 2 laboratories.  Open to students enrolled in the multidisciplinary design minor.",
+            "title": "Aircraft Design I"
+        },
+        "AERO 444": {
+            "description": "Preliminary layout of a typical aircraft vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of a flight vehicle, including its structures and systems.  Preparation of necessary drawings and a report.  3 laboratories.",
+            "title": "Aircraft Design II"
+        },
+        "AERO 445": {
+            "description": "Preliminary layout of a typical aircraft vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of a flight vehicle, including its structures and systems.  Preparation of necessary drawings and a report.  3 laboratories.",
+            "title": "Aircraft Design III"
+        },
+        "AERO 446": {
+            "description": "Basic satellite types and their applications.  Major subsystems of a satellite system including ground support and launch systems.  Interactions between subsystems and their effects on the overall system design.  Detailed analysis of key subsystems on a spacecraft with special emphasis on power and communications subsystems.  4 lectures.",
+            "title": "Introduction to Space Systems"
+        },
+        "AERO 447": {
+            "description": "Preliminary layout of typical space vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of selected components and preparation of necessary drawings.  2 lectures, 2 laboratories.  Open to students enrolled in the multidisciplinary design minor.",
+            "title": "Spacecraft Design I"
+        },
+        "AERO 448": {
+            "description": "Preliminary layout of typical space vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of selected components and preparation of necessary drawings.  3 laboratories.  Open to students enrolled in the multidisciplinary design minor.",
+            "title": "Spacecraft Design II"
+        },
+        "AERO 449": {
+            "description": "Preliminary layout of typical space vehicle using design and calculation techniques developed in previous aerospace engineering courses.  Design of selected components and preparation of necessary drawings.  3 laboratories.  Open to students enrolled in the multidisciplinary design minor.",
+            "title": "Spacecraft Design III"
+        },
+        "AERO 450": {
+            "description": "Aerospace systems and subsystems.  Systems integration.  Development of system requirements.  Analysis, modeling and simulation of complex systems.  Project management.  Cost analysis.  Optimization and trade studies.  4 lectures.",
+            "title": "Introduction to Aerospace Systems Engineering"
+        },
+        "AERO 452": {
+            "description": "Relative orbital motion and rendezvous, linearization of the equations of motion.  Clohessy-Wiltshire equations.  Two-impulse rendezvous.  Aspherocity of the earth, aerodynamic drag, solar radiation pressure, and n-body perturbations on an orbit.  Encke, Cowell, and Variation of Parameters solution techniques.  Speciality orbit due to perturbations such as low thrust trajectories, sun-synchronous, and molynia orbits.  4 lectures.",
+            "title": "Spaceflight Dynamics II"
+        },
+        "AERO 460": {
+            "description": "Topics on professional development for student success including resume building and career prospecting, current events in the aerospace industry, graduate studies, engineering ethics, intellectual property, non-disclosure agreements, teamwork, and innovation and entrepreneurship.  1 activity.",
+            "title": "Aerospace Engineering Professional Preparation"
+        },
+        "AERO 463": {
+            "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment.  Project involves, but is not limited to, physical modeling and testing of integrated design and may include students from other disciplines.  Formulation of outline, literature review, and project schedule.  2 laboratories.  Note:  although AERO 463, 464 substitute for AERO 461, 462, students may not use repeat credit for the purpose of increasing GPA.",
+            "title": "Senior Project Laboratory I"
+        },
+        "AERO 464": {
+            "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment.  Project involves, but is not limited to, physical modeling and testing of integrated design and may include students from other disciplines.  Formulation of outline, literature review, and project schedule.  3 laboratories.  Note:  although AERO 463, 464 substitute for AERO 461, 462, students may not use repeat credit for the purpose of increasing GPA.",
+            "title": "Senior Project Laboratory II"
+        },
+        "AERO 465": {
+            "description": "Culminating laboratory based experience.  Experiments require the integration of the many disciplines in Aerospace Engineering.  The successful completion of each experiment requires synthesis and integration of the fundamental concepts of the engineering sciences.  Experimentation in the areas of aeroelasticity, active vibration control, inertial navigation, thermal control, hardware-in-the-loop simulation, and momentum exchange.  1 laboratory.",
+            "title": "Aerospace Systems Senior Laboratory"
+        },
+        "AERO 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "AERO 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "AERO 493": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 12 units.",
+            "title": "Individual Study"
+        },
+        "AERO 510": {
+            "description": "Project management.  Scheduling and budgeting.  Queuing theory.  Process control and life-cycle cost analysis.  Contracts and negotiation.  4 lectures.  Crosslisted as AERO/IME 510.",
+            "title": "Systems Engineering I"
+        },
+        "AERO 511": {
+            "description": "Risk management.  Design strategies to meet system/mission requirements.  Design for supportability, manufacturability, reliability, etc.  Quality function development and quality control concepts.  4 lectures.  Crosslisted as AERO/IME 511.",
+            "title": "Systems Engineering II"
+        },
+        "AERO 512": {
+            "description": "Computer system requirements for aerospace vehicles.  Typical aerospace vehicle computer architectures.  Software testing, verification and validation.  Vehicle automatic systems.  Risks and benefits of vehicle autonomous operations.  Integration of software with vehicle subsystems.  Software development cost/schedule estimation.  4 lectures.",
+            "title": "Aerospace Vehicle Software Application"
+        },
+        "AERO 513": {
+            "description": "Engineering development and analysis of unmanned aircraft systems (UAS) as airborne tools for societal benefit.  Use of UAS for military, public service, and commercial purposes.  Characterization of missions and applications.  Development of system requirements and concepts of operation.  Evaluation of relative merits and limitations of UAS.  4 lectures.",
+            "title": "Applications of Unmanned Aircraft Systems"
+        },
+        "AERO 515": {
+            "description": "Vectors and tensors stress analysis.  Analysis of deformation.  Velocity fields and compatibility conditions.  Constitutive equations.  Isotropy.  Mechanical properties of real fluids and solids.  Field equations and boundary conditions in fluid mechanics problems and applications in elasticity.  Active remodeling of structures.  4 seminars.",
+            "title": "Continuum Mechanics"
+        },
+        "AERO 517": {
+            "description": "Numerical optimization applied to the design of complex systems.  Multi-criteria decision making, unconstrained and constrained optimization methods, system sensitivity analysis, system decomposition techniques, and multidisciplinary design optimization.  4 lectures.",
+            "title": "Multidisciplinary Design and Optimization"
+        },
+        "AERO 519": {
+            "description": "Fundamentals of particle and rigid body dynamics as they apply to aerospace vehicles.  Kinematic variables and coordinate transformations.  Attitude dynamics.  Fundamentals of feedback control and its application to aerospace systems.  Stability analysis.  Numerical simulation.  Not open to students with credit in AERO 451 and AERO 452.  4 lectures.",
+            "title": "Fundamentals of Vehicle Dynamics and Control"
+        },
+        "AERO 522": {
+            "description": "Concept of boundary-layer.  Boundary-layer equations, similarity transformation, integral and differential methods for steady, two-dimensional laminar and turbulent boundary layers.  4 lectures.",
+            "title": "Boundary-Layer Theory"
+        },
+        "AERO 523": {
+            "description": "Flow physics of turbulence.  Turbulence scales and structures.  Reynolds equations.  Vorticity dynamics.  Energy production, convection, and dissipation.  Similarity rules and turbulence modeling for jets, wakes, mixing and boundary layers.  Effect of turbulence on noise, combustion, heat transfer, and flow control.  Not open to students with credit in AERO 529.  4 lectures.",
+            "title": "Turbulence"
+        },
+        "AERO 525": {
+            "description": "Classification of partial differential equations.  Numerical methods applicable to the solution of elliptic, parabolic, and hyperbolic partial differential equations.  Consideration of accuracy and stability of numerical methods.  Application to the fundamental equations of fluid dynamics, grid generation, turbulence modeling.  4 lectures.",
+            "title": "Computational Fluid Dynamics"
+        },
+        "AERO 526": {
+            "description": "Satellite thermal/fluid control hardware.  Governing equations for flow and heat transfer.  Surface tension and liquid/vapor interface.  Heat transfer by free convection, forced convection and radiation in low-gravity environment.  Heat pipes.  Capillary-pumped loops.  Cryogenic systems.  Fluid management in space.  4 lectures.",
+            "title": "Spacecraft Thermal/Fluid Control"
+        },
+        "AERO 528": {
+            "description": "Fundamentals of laminar boundary layers in the design of aircraft.  History and development of laminar flow aircraft.  Modern approaches to designing for laminar flow.  Analysis and testing of laminar flow designs and determination of practical limits for laminar flow application.  4 lectures.",
+            "title": "Laminar Flow Aircraft Development"
+        },
+        "AERO 529": {
+            "description": "Physics and analysis of turbulence.  Vorticity, mixing, jets, wakes, boundary layer transition, scales and structures.  Effects of turbulence on noise and aerodynamics.  Experiments and simulations in boundary layer transition, separation phenomena, passive and active flow control.  Not open to students with credit in AERO 523.  2 lectures, 2 laboratories.",
+            "title": "Turbulence and Flow Control"
+        },
+        "AERO 531": {
+            "description": "Fundamentals of airworthiness and aeroelasticity of flight vehicles.  Flight envelope and aircraft loads.  Loads and normal acceleration for various maneuvers.  Gust loads.  Load distribution and diversions.  Control effectiveness and reversal.  Fatigue and structural vibration.  Introduction to flutter.  3 lectures, 1 laboratory.",
+            "title": "Airworthiness and Aeroelasticity"
+        },
+        "AERO 532": {
+            "description": "Behavior of composite materials.  Bending, buckling, and vibration of laminated plates.  Fatigue and fracture mechanics analysis of composite structures.  Optimum design of composite pressure vessels.  2 seminars, 2 laboratories.",
+            "title": "Advanced Aerospace Composite Design"
+        },
+        "AERO 533": {
+            "description": "Overview of theoretical and applied methods of finite element analysis for aerospace structures including composite and light weight structures.  Topics include basic equations of elasticity, solutions of linear systems of equations transformation, global stiffness matrix, Bernoulli-Euler element, plane stress triangles, finite element formulation, isoparametric elements, alternative formulation, eigenvalue problems and dynamic analysis.  3 lectures, 1 laboratory.",
+            "title": "Finite Elements for Aerospace Structural Analysis"
+        },
+        "AERO 534": {
+            "description": "Structural dynamics and aeroelasticity of flight vehicles.  Vibration and forced response of continuous structures.  Introduction to unsteady aerodynamic analysis methods.  Normal-Mode Method and Modal Analysis.  Framed structures and rigid body structures.  Airworthiness and aeroelasticity.  Random Vibrations.  3 lectures, 1 laboratory.",
+            "title": "Aerospace Structural Dynamics Analysis"
+        },
+        "AERO 535": {
+            "description": "Types of failure.  Theories of failure.  Stability of structures.  Advanced flight vehicle and fracture mechanics analysis and design.  Fundamentals and applications of modern fatigue analysis in the aerospace industry.  3 lectures, 1 laboratory.",
+            "title": "Advanced Aerospace Structural Analysis"
+        },
+        "AERO 540": {
+            "description": "Thrust and impulse equations, propellant composition and mixture ratios, nozzle expansion ratios, solid and liquid propellant combustion, internal ballistics, thermo-chemical computations, chemical kinetics, and combustion instability, nozzle design and exhaust plumes.  4 seminars.",
+            "title": "Elements of Rocket Propulsion"
+        },
+        "AERO 541": {
+            "description": "Aerothermodynamics of propulsion systems, power plant selection and design, on-off design performance, component characterization, component design, component matching, optimization, and introduction to power plant and airframe integration systems for aircraft.  4 seminars.",
+            "title": "Air Breathing Propulsion"
+        },
+        "AERO 546": {
+            "description": "Spacecraft missions, vehicle types, and applications.  Introduction and preliminary sizing of major subsystems of a space system.  Introduction to and design drivers for space environments, propulsion system, power system, structural design, spacecraft dynamics and attitude control, orbit mechanics, thermal control, communications, and ground segments.  4 lectures.",
+            "title": "Spacecraft Systems Design"
+        },
+        "AERO 551": {
+            "description": "Principles of Global Positioning Satellite navigation systems.  Kalman filter design and application to integrated navigation and guidance systems.  Statistical evaluation and test methods in aerospace.  Interactive computer simulations.  3 lectures, 1 laboratory.",
+            "title": "Global Positioning Satellite Navigation Systems"
+        },
+        "AERO 553": {
+            "description": "Advanced control theory techniques.  Analytical and computational methods applied to dynamic systems.  State space system representation, solutions to dynamic systems, non-linear and linear stability analysis, full-state and output feedback, controllability and observability and advanced control topics (LQR/LQG, Kalman Filters, Adaptive Control, etc.).  4 lectures.",
+            "title": "Advanced Control Theory"
+        },
+        "AERO 557": {
+            "description": "Initial orbit determination using angles only methods.  Various Solutions to Lambert's Problem.  Orbit and transfer optimization, libration points, halo orbits, and secondary orbit perturbations.  4 lectures.",
+            "title": "Advanced Orbital Mechanics"
+        },
+        "AERO 560": {
+            "description": "Attitude determination and control of rigid spacecraft via reaction wheels, control moment gyros and thrusters.  Modeling, analysis and control of flexible spacecraft.  Non-linear stability theory as applied to spacecraft.  4 lectures.",
+            "title": "Advanced Spacecraft Dynamics and Control"
+        },
+        "AERO 561": {
+            "description": "Space vehicle integration requirements and procedures.  Clean room requirements and operations.  Quality control and inspection.  Qualification and acceptance testing requirements.  Test equipment.  Vibration and shock testing.  Space environment and thermal-vac testing.  Development of test procedures.  1 lecture, 1 laboratory.",
+            "title": "Vehicle Integration and Testing"
+        },
+        "AERO 562": {
+            "description": "Launch operations and vehicle integration with launch vehicle.  In-orbit operations and maneuvers.  Spacecraft tracking.  Telemetry and command.  Ground systems.  Failure detection and identification.  Emergency operations.  1 lecture, 1 laboratory.",
+            "title": "Space Operations"
+        },
+        "AERO 565": {
+            "description": "Application of advanced analytic engineering methods to aircraft design problems.  Analysis and synthesis of advanced topics related to design of aircraft.  4 lectures.",
+            "title": "Advanced Topics in Aircraft Design"
+        },
+        "AERO 566": {
+            "description": "Application of advanced engineering tools to the design of space vehicles.  System architecture and mission design.  Concept of operations.  Requirements development and flow down.  System and subsystems trade studies and preliminary design.  4 lectures.",
+            "title": "Advanced Topics in Spacecraft Design"
+        },
+        "AERO 567": {
+            "description": "Basic launch vehicle/missile types.  Launch vehicle subsystems and their interactions.  Vehicle requirements development and flow down.  Payload accommodations.  System and subsystems trade studies and preliminary design.  4 lectures.",
+            "title": "Launch Vehicle and Missile Design"
+        },
+        "AERO 568": {
+            "description": "Immersive team-based approach to an aerodynamic research and development cycle.  Theoretical work, preliminary design based upon computational fluid dynamics, and design of experiments.  Advanced techniques in using a multi-variable wind tunnel.  Validation of numerical work using correlation techniques.  2 laboratories.",
+            "title": "Aerodynamic Research and Development I"
+        },
+        "AERO 569": {
+            "description": "Continuation of AERO 568.  Single and multi-variable design optimization cycles based upon computational fluid dynamics.  Numerical and experimental flow visualization, high-fidelity verification wind tunnel testing of optimized designs, and archival-quality technical reporting of aerodynamic data.  2 laboratories.",
+            "title": "Aerodynamic Research and Development II"
+        },
+        "AERO 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "AERO 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Topics Laboratory"
+        },
+        "AERO 593": {
+            "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 594": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 595": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "AERO 596": {
+            "description": "Performance of comprehensive systems analysis of a space system.  Communication of the results and findings of such evaluations in written report and by oral presentation.  Conducted under supervision of faculty.",
+            "title": "Culminating Experience in Space Systems Engineering"
+        },
+        "AERO 599": {
+            "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis.",
+            "title": "Thesis (Design Project)"
+        }
+    },
     "links": [
         {
             "source": "AERO 121",

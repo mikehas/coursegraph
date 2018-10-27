@@ -1,108 +1,545 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-<canvas width="960" height="600"></canvas>
-<script src="https://d3js.org/d3.v4.min.js"></script>
+<html>
+<head>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
+
+  <style>
+      #desc h2 {
+         text-size: 80%;
+      }
+      .tooltip {
+         width: 300px;
+         background-color: white;
+         padding: 5px;
+         border: 1px solid #ccc;
+         pointer-events: none !important;
+      }
+      .tooltip p {
+         font-size: 90%;
+      }
+      .tooltip h2{
+         font-size: 90%;
+      }
+      .tooltip h3{
+         font-size: 85%;
+      }
+  </style>
+</head>
+<body style='overflow-x: hidden;'>
+
+  <div class="row">
+   <div class="col-sm-2" style='background-color: rgba(2, 68, 52, 0.9); color: white; solid rgba(68, 68, 68, 1);'>
+     <div class='content' style='padding: 10px;'>
+       <div id='pagetitle' style='margin-bottom: 15px;border-bottom: 1px solid rgba(200, 200, 200, 1);'>
+         <h1>Course Analysis</h1>
+       </div>
+
+       <div id='controls' style='center'>
+          <div id='info' style="width: 100%;">
+
+            <div class="ui-widget">
+              <label for="deptid">Department: </label>
+              <select id='deptid'></select>
+
+              <label for="courseid">Department course: </label>
+              <input type='text' id='courseid' style='width: 100%'></input>
+              <button type='button' id='findcourse' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Show Prerequisites</button>
+
+              <label for="desc"></label>
+              <div id='desc'></div>
+              <!-- <button type='button' id='updatedept' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Update Department</button> -->
+            </div>
+            </div>
+         </div>
+       </div>
+     </div>
+     <div class="col-sm-10">
+       <div>
+         <svg id='viz'></svg>
+       </div>
+     </div>
+
+   </div>
+</body>
+
+<script src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src='https://d3js.org/d3.v5.min.js'></script>
 <script>
+var width = 1200;
+var height = 900;
+var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-var canvas = document.querySelector("canvas"),
-    context = canvas.getContext("2d"),
-    width = canvas.width,
-    height = canvas.height;
+var descriptionsjson = "descriptions.json"
+var deptsjson = "departments.json"
+var selecteddept = "AEPS"
 
-var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }))
-    .force("charge", d3.forceManyBody())
-    .force("center", d3.forceCenter(width / 2, height / 2));
+let searchParams = new URLSearchParams(window.location.search)
+if (searchParams.has('dept')) {
+  selecteddept = searchParams.get('dept');
+}
 
-d3.json("calpoly.json", function(error, graph) {
-  if (error) throw error;
+var coursesjson = selecteddept + ".json";
 
-  simulation
-      .nodes(graph.nodes)
-      .on("tick", ticked);
+d3.json(descriptionsjson).then(function(descriptions) {
+d3.json(deptsjson).then(function(deptdata) {
+d3.json(coursesjson).then(function(graph) {
 
-  simulation.force("link")
-      .links(graph.links);
+var label = {
+    'nodes': [],
+    'links': []
+};
+console.log(deptdata);
 
-  d3.select(canvas)
-      .call(d3.drag()
-          .container(canvas)
-          .subject(dragsubject)
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended));
+function loadAll() {
+  graph.nodes.forEach(function(d, i) {
+      label.nodes.push({node: d});
+      label.nodes.push({node: d});
+      label.links.push({
+          source: i * 2,
+          target: i * 2 + 1
+      });
+  });
+};
+loadAll();
 
-  function ticked() {
-    context.clearRect(0, 0, width, height);
 
-    context.beginPath();
-    graph.links.forEach(drawLink);
-    context.strokeStyle = "#aaa";
-    context.stroke();
+var labelLayout = d3.forceSimulation(label.nodes)
+    .force("charge", d3.forceManyBody().strength(-50))
+    .force("link", d3.forceLink(label.links).distance(0).strength(2));
 
-    context.beginPath();
-    graph.nodes.forEach(drawNode);
-    context.fill();
-    context.strokeStyle = "#fff";
-    context.stroke();
+var graphLayout = d3.forceSimulation(graph.nodes)
+    .force("charge", d3.forceManyBody().strength(-3000))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("x", d3.forceX(width / 2).strength(1))
+    .force("y", d3.forceY(height / 2).strength(1))
+    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).distance(50).strength(1))
+    .on("tick", ticked);
 
-    // context.beginPath();
-    // graph.nodes.forEach(drawLabel);
-    // context.fill();
-    // context.strokeStyle = "#fff";
-    // context.stroke();
 
-    var text = svg.selectAll("text")
-                                    .data(graph.nodes)
-                                    .enter()
-                                   .append("text");
+// for (var i = 0; i < 300; ++i) graphLayout.tick();
 
-            var textLabels = text
-              .attr("x", function(d) { return d.x; })
-              .attr("y", function(d) { return d.y; })
-              .text( function (d) { return d.name })
-              .attr("font-family", "sans-serif")
-              .attr("font-size", "10px")
-              .attr("fill", "red");
-s
-  }
+var adjlist = [];
+var prereqlist = [];
 
-  function dragsubject() {
-    return simulation.find(d3.event.x, d3.event.y);
-  }
+
+graph.links.forEach(function(d) {
+    // console.log(d.source.id);
+    // console.log(d.target.id);
+    prereqlist[d.source.id + "-" + d.target.id] = true;
+    adjlist[d.source.id + "-" + d.target.id] = true;
+    adjlist[d.target.id + "-" + d.source.id] = true;
 });
 
-function dragstarted() {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-  d3.event.subject.fx = d3.event.subject.x;
-  d3.event.subject.fy = d3.event.subject.y;
+function neigh(a, b) {
+    return a == b || adjlist[a + "-" + b];
 }
 
-function dragged() {
-  d3.event.subject.fx = d3.event.x;
-  d3.event.subject.fy = d3.event.y;
+
+function prereq(a, b) {
+    return a == b || prereqlist[b + "-" + a];
 }
 
-function dragended() {
-  if (!d3.event.active) simulation.alphaTarget(0);
-  d3.event.subject.fx = null;
-  d3.event.subject.fy = null;
+function isPrereq(pre, crs) {
+   if (prereqlist[crs + "-" + pre]) {
+
+   }
 }
 
-function drawLink(d) {
-  context.moveTo(d.source.x, d.source.y);
-  context.lineTo(d.target.x, d.target.y);
+dwidth = $('#viz').parent().parent().width();
+dheight = $(document).height();
+console.log(dwidth);
+console.log(dheight);
+
+var svg = d3.select("#viz").attr('width', dwidth).attr('height', dheight)
+;
+var container = svg.append("g");
+
+svg.call(
+    d3.zoom()
+     .scaleExtent([.1, 4])
+     .on("zoom", function() { container.attr("transform", d3.event.transform); })
+);
+
+var marker = svg.append('defs')
+    .append('marker').attr('id', 'arrow')
+    .attr('viewBox', '0 0 20 20')
+    .attr('refX', 15)
+    .attr('refY', 5)
+    .attr('markerWidth', 25)
+    .attr('markerHeight', 25)
+    .attr('orient', 'auto');
+
+marker.append('path')
+  .attr("d", 'M0,0 L10,5 L0,10 z')
+  .attr('fill', '#aaa');
+
+var link = container.append("g").attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter()
+    .append("line")
+    .attr("stroke", "#aaa")
+    .attr("stroke-width", "1px")
+    .attr("marker-end", "url(#arrow)")
+;
+
+// Define the div for the tooltip
+var tip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0.7);
+
+var node = container.append("g").attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter()
+    .append("circle")
+    .attr("id", function(d) { return d.id; })
+    .attr("r", 10)
+    .attr("fill", function(d) { return color(d.group); })
+    .on("mouseover", function(d) {
+            tip.transition()
+                .duration(200)
+                .style("opacity", .9);
+            tip.html(descriptions.hasOwnProperty(d.id) ? "<h2>" + d.id + ": " + descriptions[d.id]['title'] + "</h2>"
+                  +  "<h3>Prerequisites: " + ( descriptions[d.id]['prereqs'] ? descriptions[d.id]['prereqs'] : "None found.") + "</h3>"
+                  +  "<p>" + descriptions[d.id]['description'] + "</p>" : "Description not available")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+     })
+     .on("mouseout", function(d) {
+        tip.transition(200)
+         .style("opacity", 0);
+     })
+  ;
+node.call(
+    d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended)
+);
+
+var labelNode = container.append("g").attr("class", "labelNodes")
+    .selectAll("text")
+    .data(label.nodes)
+    .enter()
+    .append("text")
+    .text(function(d, i) { return i % 2 == 0 ? "" : d.node.id; })
+    .style("fill", "#555")
+    .style("font-family", "Arial")
+    .style("font-size", 12)
+    .style("pointer-events", "none"); // to prevent mouseover/drag capture
+
+node.on("click", focus);
+
+function ticked() {
+
+    node.call(updateNode);
+    link.call(updateLink);
+
+    labelLayout.alphaTarget(0.3).restart();
+    labelNode.each(function(d, i) {
+        if(i % 2 == 0) {
+            d.x = d.node.x;
+            d.y = d.node.y;
+        } else {
+            var b = this.getBBox();
+
+            var diffX = d.x - d.node.x;
+            var diffY = d.y - d.node.y;
+
+            var dist = Math.sqrt(diffX * diffX + diffY * diffY);
+
+            var shiftX = b.width * (diffX - dist) / (dist * 2);
+            shiftX = Math.max(-b.width, Math.min(0, shiftX));
+            var shiftY = 16;
+            this.setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
+        }
+    });
+    labelNode.call(updateNode);
+
 }
 
-function drawNode(d) {
-  context.moveTo(d.x + 3, d.y);
-  context.arc(d.x, d.y, 3, 0, 2 * Math.PI);
+function fixna(x) {
+    if (isFinite(x)) return x;
+    return 0;
 }
 
-function drawLabel(d) {
-  context.moveTo(d.x + 3, d.y);
-  d.appendChild()
+// Toggle Focus on particular "datum"
+var toggle = 0;
+function focus(d) {
+   if (toggle == 0) {
+      toggle = 1;
+      $('#findcourse').html('Show All');
+      $('#courseid').val(d.id);
+      // $('#desc').html("<h2>" + graph.descriptions[d.id]['title'] + "</h2>");
+      // $('#desc').append("<p>" + graph.descriptions[d.id]['description'] + "<p>");
+
+      // Hide everything
+      node.style("opacity", 0.1).enter();
+      labelNode.style("visibility", "hidden");
+      link.style("opacity", 0.1);
+
+      // Show specific
+      // console.log("event: " + d3.event.target);
+      // console.log(d);
+      node.each(function(o) {
+        if (d.id == o.id) {
+          // console.log('selected');
+          // console.log(o);
+          //d3.select(this).attr('r', '25');
+          d3.select(this).style("stroke-width", 3).style("stroke", "#333").style('stroke-alignment', 'inner');
+          // console.log(this.attr.fill);
+        }
+      });
+      link.each(function(l) {
+         if (l.target.id == d.id) {
+            console.log(l);
+            console.log(d);
+
+            d3.select(this).attr('opacity', 0);
+         }
+      });
+
+      centered(d);
+      // d.attr('fill','#000');
+      var id = d.id;
+      rfocus(id);
+      // Remove hidden nodes
+      // removeUnfocused();
+
+   } else {
+      toggle = 0;
+      $('#findcourse').html('Show Prerequisites');
+      unfocus();
+   }
 }
+
+// Highlight all prerequisites
+function rfocus(id) {
+    node.style("opacity", function(o) {
+        return prereq(id, o.id) ? 1.0 : this.style.opacity;
+    });
+    labelNode.style("visibility", function(o) {
+        return prereq(id, o.node.id) ? "visible": this.style.visibility;
+    });
+    link.style("opacity", function(o) {
+        return o.target.id == id ? 1 : this.style.opacity;
+    });
+
+    // call on prerequisite nodes
+    node.each(function(o) {
+      if (prereq(id, o.id) && id != o.id) {
+         rfocus(o.id);
+      }
+    });
+}
+
+
+// Hide unfocused elements.
+function removeUnfocused() {
+  node.selectAll( function(d, i) {
+    if (this.style.opacity == 0.1) {
+      this.remove();
+    }
+  });
+  labelNode.selectAll( function(d, i) {
+    if (this.style.visibility == "hidden") {
+      this.remove();
+    }
+  });
+
+  link.selectAll( function(d, i) {
+    if (this.style.opacity == 0.1) {
+      this.remove();
+    }
+  });
+
+}
+
+// show all
+function revealAll() {
+  node.selectAll( function(d, i) {
+    if (this.style.opacity == 0.1) {
+      this.remove();
+    }
+  });
+  labelNode.selectAll( function(d, i) {
+    if (this.style.visibility == "hidden") {
+      this.remove();
+    }
+  });
+
+  link.selectAll( function(d, i) {
+    if (this.style.opacity == 0.1) {
+      this.remove();
+    }
+  });
+
+}
+
+function centered(d) {
+   var zoom = d3.zoom();
+
+   zoom.translateTo(container, d.x, d.y);
+   var transform = d3.zoomTransform(container.node());
+   container.transition()
+      .duration(800).attr("transform", transform)
+}
+
+/* Highlight immediate prerequisites
+function focus(d) {
+    var index = d3.select(d3.event.target).datum().index;
+    node.style("opacity", function(o) {
+        return prereq(index, o.index) ? 1 : 0.1;
+    });
+    labelNode.attr("display", function(o) {
+      return prereq(index, o.node.index) ? "block": "none";
+    });
+    link.style("opacity", function(o) {
+        return o.target.index == index ? 1 : 0.1;
+    });
+
+}
+*/
+/*  Highlight all neighbors
+function focus(d) {
+    var index = d3.select(d3.event.target).datum().index;
+    node.style("opacity", function(o) {
+        return neight(index, o.index) ? 1 : 0.1;
+    });
+    labelNode.attr("display", function(o) {
+      return prereq(index, o.node.index) ? "block": "none";
+    });
+    link.style("opacity", function(o) {
+        return o.source.index == index || o.target.index == index ? 1 : 0.1;
+    });
+}
+*/
+
+zoomHist = [];
+
+function unfocus() {
+   labelNode.style("visibility", "visible");
+   node.transition()
+      .duration(800).style("opacity", 1).attr('r', '10').style("stroke", null);
+   link.style("opacity", 1);
+}
+
+function updateLink(link) {
+    link.attr("x1", function(d) { return fixna(d.source.x); })
+        .attr("y1", function(d) { return fixna(d.source.y); })
+        .attr("x2", function(d) { return fixna(d.target.x); })
+        .attr("y2", function(d) { return fixna(d.target.y); });
+}
+
+function updateNode(node) {
+    node.attr("transform", function(d) {
+        return "translate(" + fixna(d.x) + "," + fixna(d.y) + ")";
+    });
+}
+
+function dragstarted(d) {
+    d3.event.sourceEvent.stopPropagation();
+    if (!d3.event.active) graphLayout.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+}
+
+function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+}
+
+function dragended(d) {
+    if (!d3.event.active) graphLayout.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+}
+
+function updateInfo(o) {
+
+}
+
+function selectCourse() {
+  document.getElementById($('#courseid').val());
+  courseid = $('#courseid').val();
+  graph.nodes.forEach(function(d,i) {
+    if (d.id == courseid) {
+      // console.log(courseid);
+      // console.log(d);
+      focus(d);
+    };
+  });
+}
+
+
+$('#info #courseid').on('keyup', function (e) {
+    if (e.key === "Enter") {
+        selectCourse();
+    }
+});
+
+$( '#info #findcourse' ).click(
+function(str) {
+  selectCourse();
+});
+
+var availableTags = ['Hello'];
+
+$( function() {
+  $('#courseid').autocomplete({
+    source: availableTags
+  });
+  $('#courseid').focus( function() {
+    availableTags = graph.nodes.map(o => {
+      return o.id;
+    })
+    $('#courseid').autocomplete({
+      source: availableTags
+    });
+  });
+});
+
+$( ".selector" ).selectmenu( "option", "appendTo", "#deptid" );
+
+
+$( "#deptid" ).append($('<option></option>').val('--').html('--'))
+// console.log(graph.nodes);
+deptdata.map(o => {
+  $( "#deptid" ).append($('<option></option>').val(o).html(o));
+});
+
+// console.log(prereqlist);
+
+
+
+}); // d3.json
+});// d3.json
+}); // descriptions.json
+
+// function updateData(jsonfile) {
+//    console.log(jsonfile);
+// }
+//
+// // updateData('AERO.json');
+// $('#updatedept').click(function() {
+//   updateData('AERO.json')
+// });
+
+
+$('#deptid').bind('change', function(){
+    var params = [
+        "dept=" + $(this).val()
+    ];
+    window.location.href = window.location.protocol + '?' + params.join('&');
+});
+
+// $('#pagetitle').append('<p>Department: ' + selecteddept + '</p>');
+
+
 
 
 </script>
+</html>

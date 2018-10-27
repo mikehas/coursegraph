@@ -1,4 +1,22 @@
 {
+    "descriptions": {
+        "HNRC 199": {
+            "description": "Students in the Honors Program are required to take at least eight courses for honors credit before graduation.  Taking an Honors course may not be possible due to scheduling conflicts or unavailability of courses.  In these cases and with the permission of the Director of the Honors Program, the student may enter into a 'Contract' to engage in honors-level work in a class on an individual basis.  Credit/No Credit grading only.  Students can register for a maximum of 2 Honors Contracts; repeatable in same term.",
+            "title": "Honors Contract"
+        },
+        "HNRC 200": {
+            "description": "The Honors Program encourages its students to develop leadership skills through serving on the Honors Board, chairing Honors Committees, or by participating in other approved leadership activities.  To receive Honors credit for these activities, students must also participate in a number of formal leadership-training seminars/workshops, and contribute their insights to the Honors and greater Cal Poly communities.  Credit/No Credit grading only.  Total credit limited to two courses.",
+            "title": "Honors Leadership Experience"
+        },
+        "HNRC 399": {
+            "description": "Students in the Honors Program are required to take at least eight courses for honors credit before graduation.  Taking an Honors course may not be possible due to scheduling conflicts or unavailability of courses.  In these cases and with the permission of the Director of the Honors Program, the student may enter into a 'Contract' to engage in honors-level work in a class on an individual basis.  Credit/No Credit grading only.  Students can register for a maximum of 2 Honors Contracts; repeatable in same term.",
+            "title": "Honors Contract"
+        },
+        "HNRC 400": {
+            "description": "The Honors Program encourages its students to enhance their academic coursework by broadening their professional, social and global perspectives through professional internships/co-ops, participation in community projects and study abroad experience.  To receive Honors credit, students must also reflect on these experiences and contribute their insights through presentations (oral and/or written) to the Honors and greater Cal Poly communities.  Credit/No Credit grading only.  Total credit limited to two courses, repeatable in the same term.",
+            "title": "Honors Professional, Social and Global Experience"
+        }
+    },
     "links": [],
     "nodes": [
         {

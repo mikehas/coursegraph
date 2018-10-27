@@ -1,4 +1,22 @@
 {
+    "descriptions": {
+        "ITAL 101": {
+            "description": "Beginning Italian. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. 3 lectures, 1 activity.",
+            "title": "Elementary Italian I"
+        },
+        "ITAL 102": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary Italian II"
+        },
+        "ITAL 103": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary Italian III"
+        },
+        "ITAL 201": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Italian within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate Italian I"
+        }
+    },
     "links": [
         {
             "source": "ITAL 101",

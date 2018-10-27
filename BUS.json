@@ -1,4 +1,386 @@
 {
+    "descriptions": {
+        "BUS 100": {
+            "description": "Orientation to majors, minors, and concentrations within the College. Development of a personalized four-year plan to graduation. Career exploration for future career planning and concentration selection. Skills for academic success: goal setting, time management, study skills, registration systems/strategies, adjustment to college life. Credit/No Credit grading only. 2 lectures.",
+            "title": "Student Orientation and College Success"
+        },
+        "BUS 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "BUS 205": {
+            "description": "Introduction to personal financial planning, including budgeting and savings, tax planning, insurance planning, equity and fixed income investments, and estate and retirement planning. Course offered online only. 4 lectures.",
+            "title": "Personal Finance"
+        },
+        "BUS 206": {
+            "description": "Career development and preparation which includes self exploration, interpersonal communication, job functions and opportunities for different business disciplines, and formulation of career development plans. Application of technology for personal marketing plan and career development. Credit/No Credit grading only. 1 activity.",
+            "title": "Business Professionalism and Career Readiness I"
+        },
+        "BUS 207": {
+            "description": "Examination of the American legal system and important legal principles for business operations, such as those involved with contracts, torts, agency, business organizations, and employment. Emphasis on how legal principles help define socially responsible conduct. Case studies. 4 lectures.",
+            "title": "Legal Responsibilities of Business"
+        },
+        "BUS 212": {
+            "description": "Introduction to financial accounting theory and practice with an emphasis on financial statement preparation and analysis. Not open to Business majors. 4 lectures.",
+            "title": "Financial Accounting for Nonbusiness Majors"
+        },
+        "BUS 214": {
+            "description": "Principles of financial accounting for Business majors. The course prepares students to understand and interpret financial statement information. Financial reporting standards are explored to give students an understanding of how financial events are reflected in financial statements. 4 lectures.",
+            "title": "Financial Accounting"
+        },
+        "BUS 215": {
+            "description": "Applications of accounting for making business decisions.  Content includes planning and control issues including cost behavior, budget preparation, performance reporting; addresses social responsibility and employee motivational and behavioral considerations.  Preparation of spreadsheet applications useful for decision-making.  4 lectures.",
+            "title": "Managerial Accounting"
+        },
+        "BUS 220": {
+            "description": "Basic business concepts for non-business major entrepreneurs, including unit economics and simple financial statements, intellectual property, entrepreneurial marketing, information technology, team management, and business ethics.  4 lectures.",
+            "title": "Business Basics for Entrepreneurs"
+        },
+        "BUS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "BUS 301": {
+            "description": "Role of private and public financial institutions in allocating capital globally and promoting international commerce.  Financial institutions covered include the FED, IMF, World Bank, investment banks and others.  Detailed exploration of the history and functions of these institutions.  4 lectures.",
+            "title": "Global Financial Institutions and Markets"
+        },
+        "BUS 302": {
+            "description": "Dimensions of culture and its variations within and across nations.  Impact of culture on managing in a global context.  Development of managerial competencies requisite to working in and supervising multicultural groups in international corporations.  Frameworks for analyzing cultural and contextual influences on organizational behavior, culture shock and readjustment, expatriation and repatriation, cultural change and innovation, intercultural conflict, and ethical dilemmas.  Case studies, behavioral simulations, self-assessments and fieldwork.  4 lectures.",
+            "title": "International and Cross Cultural Management"
+        },
+        "BUS 303": {
+            "description": "Special terms, concepts, and institutions associated with the environment in which international companies operate.  Students will be enabled to understand, analyze and offer solutions to global business problems.  4 lectures.",
+            "title": "Introduction to International Business"
+        },
+        "BUS 304": {
+            "description": "Development of effective supply chains that cross national boundaries with specific examples of import/export between the United States and target country.  Study tour to target country as an essential course activity.  Pre-trip lectures, readings and assignments; on-the-road business tours, and post-trip import-export proposal.  Conducted in English; no prior international business or travel experience required.  Passport and Visa required.  Field trip required.  The Schedule of Classes will list country selected.  3 lectures, 1 activity.",
+            "title": "International Supply Chains"
+        },
+        "BUS 306": {
+            "description": "Continuation of BUS 206, with interpersonal leadership, networking, business communication, salary and benefit negotiations, and professional image management.  Credit/No Credit grading only.  1 activity.",
+            "title": "Business Professionalism and Career Readiness II"
+        },
+        "BUS 310": {
+            "description": "Role and impact of entrepreneurship and technology startups; characteristics and traits of entrepreneurs; opportunity identification and assessment; frameworks for building startups; the founding team; organizational and legal issues; business and value proposition models; acquiring resources; entrepreneurial risk; realizing and harvesting value.  4 lectures.  Crosslisted as BUS/ENGR 310.",
+            "title": "Introduction to Entrepreneurship"
+        },
+        "BUS 311": {
+            "description": "Analysis of U.S.  and international laws regarding technological innovations from economic, social and political perspectives.  Copyrights, patents, trademarks, trade secrets, contracts, products liability and privacy.  The Internet, computer programs and biotechnology.  4 lectures.  Fulfills GE Area D5 except for Business Administration majors.",
+            "title": "Managing Technology in the International Legal Environment"
+        },
+        "BUS 313": {
+            "description": "Experiential approach to understanding the customer development process, including strategies to identify and reach potential customers.  Design and implementation of customer discovery, customer validation, and customer acquisition strategies.  4 lectures.",
+            "title": "Customer Development"
+        },
+        "BUS 319": {
+            "description": "Comprehensive coverage of manual and computerized accounting processes and internal controls.  3 lectures, 1 activity.",
+            "title": "Accounting Information Systems"
+        },
+        "BUS 320": {
+            "description": "Federal income taxation and planning for individuals.  Federal role of taxation in the business decision-making process.  Issues related to individual income tax preparation and introduction to basic property transactions.  4 lectures.",
+            "title": "Federal Income Taxation for Individuals"
+        },
+        "BUS 321": {
+            "description": "Comprehensive coverage of financial reporting issues.  Covers financial statements, assets other than investments and intangibles, and liabilities.  4 lectures.",
+            "title": "Intermediate Accounting I"
+        },
+        "BUS 322": {
+            "description": "Comprehensive coverage of financial reporting issues.  Covers investments, intangibles, equities, revenue recognition and the Cash Flows Statement.  4 lectures.",
+            "title": "Intermediate Accounting II"
+        },
+        "BUS 323": {
+            "description": "Detailed examination of the technical and theoretical aspects of accounting for leases, pensions, income taxes, accounting changes and errors, and consolidated financial reporting.  4 lectures.",
+            "title": "Intermediate Accounting III"
+        },
+        "BUS 342": {
+            "description": "Theory and applications of financing business operations.  Financial management of current and fixed assets from internal and external sources.  Analysis, planning, control, and problem solving.  The use of technology in the form of financial calculators and/or spreadsheets.  4 lectures.",
+            "title": "Fundamentals of Corporate Finance"
+        },
+        "BUS 346": {
+            "description": "Development of an understanding of the marketing process:  identifying target markets; developing and launching products or services; and managing pricing, promotion, and distribution strategies.  2 lectures, 2 discussions.",
+            "title": "Principles of Marketing"
+        },
+        "BUS 382": {
+            "description": "Evaluation of macro dimensions of business organizations including environment, mission, goals, strategies, structure, people, technology, and internal management systems and processes.  Case analysis, experiential class activities.  Application to business solutions in technology-oriented settings.  4 lectures.",
+            "title": "Organizations, People, and Technology"
+        },
+        "BUS 384": {
+            "description": "Introduction to functional areas of the discipline including staffing, compensation, employee development and labor relations.  Additional workplace issues addressed include performance and human capital management, employer legal and social responsibility for employee wellbeing, managing a diverse/global workforce, and using human resource information systems.  4 lectures.",
+            "title": "Human Resources Management"
+        },
+        "BUS 386": {
+            "description": "Needs assessment, including organization, person, and task or competency analysis.  Design, delivery and evaluation of employee training and human resource development in knowledge-based organizational settings.  Performance management and feedback systems; development of learning organizations; human resource information systems (HRIS) applications in career management and training administration.  4 lectures.",
+            "title": "Employee Training and Development"
+        },
+        "BUS 387": {
+            "description": "Application of behavioral, social and organizational science concepts to management.  Exploration of the interactions between individuals and the organizations in which they work and live.  Individual, interpersonal, team, intergroup and organizational levels of analysis included in topics such as expectations, perception, communications, creativity, leadership style, cultural and ethical behavior, group dynamics, team effectiveness and work design.  4 lectures.",
+            "title": "Organizational Behavior"
+        },
+        "BUS 389": {
+            "description": "Negotiation theory and skills required for successful entrepreneurship.  Emphasis on negotiation simulations and role playing, with hands-on experience in applying negotiation skills.  4 lectures.",
+            "title": "Introduction to Business Negotiation for Entrepreneurs"
+        },
+        "BUS 391": {
+            "description": "Computer applications in business and industry.  Information systems and integrated systems concepts, computer hardware and software, strategic uses of information systems, databases, data warehousing, decision support systems and artificial intelligence, network basics, electronic commerce, systems development, ethical use of information, employing technology in a socially responsible manner, and emerging trends and technologies in information systems.  4 lectures.",
+            "title": "Information Systems"
+        },
+        "BUS 392": {
+            "description": "The fundamental concepts and models of application development needed to understand the key processes related to building functioning business applications and appreciate the complexity of application development.  The concepts of computer programming, data structures, problem solving, programming logic, and fundamental design techniques.  Up-to-date application development tools and technologies currently used by business enterprises.  4 lectures.",
+            "title": "Business Application Development"
+        },
+        "BUS 393": {
+            "description": "Design, development, testing, and implementation of databases for business applications.  Data modeling with entity relationship diagrams (ERD) and class diagrams (UML).  Data normalization, data integrity, the effect of business rules on data normalization.  Advanced queries using structured query language (SQL).  Database application development culminating in a database project.  4 lectures.",
+            "title": "Database Systems in Business"
+        },
+        "BUS 394": {
+            "description": "Systems analysis and design.  Project team creation and performance monitoring.  Systems development life cycle and project management, process modeling using data flow diagrams, data modeling with Entity/Relationship (E/R) diagrams, Computer Assisted Software Engineering (CASE) tools, object modeling with Unified Modeling Language (UML), and prototype development.  4 lectures.",
+            "title": "System Analysis and Design"
+        },
+        "BUS 395": {
+            "description": "Systems design and implementation, with focus on project management and incorporating software quality into the software development process, including software testing.  4 lectures.",
+            "title": "Systems Design and Implementation"
+        },
+        "BUS 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "BUS 401": {
+            "description": "Application of interdisciplinary skills to business and corporate strategy analysis formulation and implementation of business, corporate and global level strategies.  Consideration of interdependence between external environments and internal systems.  Focus on responsibilities, tasks, and skills of general managers, including socially responsible behavior and governance.  Case studies, group problem solving, experiential class activities.  Capstone course of Business core curriculum.  4 seminars.",
+            "title": "General Management and Strategy"
+        },
+        "BUS 402": {
+            "description": "Managerial concepts and techniques for analysis and decision making within international businesses.  Environmental and organizational factors influencing multinational operations.  Assessing international market opportunities and entry modes.  Complexities of multinational management strategy, structure and systems, especially during initial stages of internationalization.  Case studies and simulations.  4 lectures.",
+            "title": "International Business Management"
+        },
+        "BUS 403": {
+            "description": "Integration of management concepts within complex multinational organizations.  Interdisciplinary approach to identifying and assessing multinational and global competitive environments and strategies; structuring and managing interdependent multinational operations; addressing conflicts between domestic and international policies and practices in multinational enterprises.  Case studies, simulations, group analysis and problem solving.  4 seminars.",
+            "title": "Advanced Seminar in International Management"
+        },
+        "BUS 404": {
+            "description": "Analysis from legal, economic, political, and ethical perspectives, of the changing domestic and international environments of the business enterprise.  Topics include administrative law, agencies and regulatory policy, antitrust law, public policy analysis, business-government relations, and corporate responsibility.  Case studies.  4 lectures.",
+            "title": "Governmental and Social Influences on Business"
+        },
+        "BUS 406": {
+            "description": "Issues associated with analyzing, negotiating, and managing mergers, acquisitions and divestitures (MADS) using cross-cultural, interdisciplinary perspective.  Rationale for decision to pursue MADS and processes for identifying targets; valuing and negotiating MADS; staffing and human resource management issues; strategic control and integration; and cross-cultural conflict and divided loyalties in domestic and international MADS.  Lectures, case studies and simulation.  4 lectures.",
+            "title": "Managing Mergers, Acquisitions and Divestitures"
+        },
+        "BUS 407": {
+            "description": "Impact of cultural and strategic differences on management of people in multinational organizations.  Critical human resource issues in domestic and international operations.  4 lectures.",
+            "title": "Managing People in Global Markets"
+        },
+        "BUS 409": {
+            "description": "Legal problems of acquisition, ownership and transfer of real property.  Contracts, agency, estates, and co-ownership, mortgages and deeds, covenants, conditions, and restrictions, easements, landlord-tenant, and zoning.  4 lectures.",
+            "title": "Law of Real Property"
+        },
+        "BUS 410": {
+            "description": "U.S., foreign, and international law affecting international business transactions.  U.S.  and foreign cultural, ethical, and political norms and legal institutions, and their effect on law and business.  4 lectures.",
+            "title": "The Legal Environment of International Business"
+        },
+        "BUS 412": {
+            "description": "Product costing systems including hybrid costing systems, management control systems, cost allocation, activity based costing, cost information for decision making, new manufacturing environments, and strategic control systems.  International dimension integrated in the course content.  4 lectures.",
+            "title": "Advanced Managerial Accounting"
+        },
+        "BUS 416": {
+            "description": "Training and practice in the preparation of state and federal individual income tax returns.  Coverage of the deductions and credits applicable to individuals.  Students provide free tax assistance and income tax preparation to community residents under the supervision of qualified professionals.  2 lectures, 2 activities.",
+            "title": "Volunteer Income Tax Assistance - Senior Project"
+        },
+        "BUS 417": {
+            "description": "Comparative study of the taxation of C corporations and flow-through tax entities, including S corporations, partnerships and limited liability companies.  4 lectures.",
+            "title": "Taxation of Corporations and Partnerships"
+        },
+        "BUS 418": {
+            "description": "Discovery and development of customer insights based on a project-oriented introduction to the research process.  Development of research questions, and design and application of multiple research methods (e.g.  secondary, observation, interview, focus group, and survey research).  Exploratory and confirmatory approaches leading to the analysis, interpretation, and presentation of results.  4 lectures.",
+            "title": "Listening to the Customer"
+        },
+        "BUS 419": {
+            "description": "Development of skills to gather, analyze, and report information critical for marketing decision making.  Focus on primary data collection and analytical techniques (e.g.  experimental design, descriptive statistics, cross-tabulation, ANOVA, and regression).  Other methods may include data mining, GIS, and customer relationship management (CRM).  4 lectures.",
+            "title": "Strategic Marketing Measurement"
+        },
+        "BUS 421": {
+            "description": "Analysis of customer information using a broad range of tools and techniques.  Application of analytic findings to marketing decision-making.  Integration of data into reporting platforms that emphasize return on marketing investment.  4 lectures.",
+            "title": "Marketing Analytics and Business Intelligence"
+        },
+        "BUS 422": {
+            "description": "Accounting and reporting by state and local governments and not-for-profit entities.  State and local governmental topics include:  fund structures, budgetary accounting, the modified accrual basis of accounting, reporting concepts and practices, contributions, restricted resources, endowments.  4 lectures.",
+            "title": "Accounting for Government and Not-For-Profit Entities"
+        },
+        "BUS 424": {
+            "description": "Study of professional values underlying the accounting profession.  Methods for incorporation of ethical reasoning into accounting decision-making.  Role of accounting ethics in development of financial statements.  4 lectures.",
+            "title": "Accounting Ethics"
+        },
+        "BUS 425": {
+            "description": "Survey of the auditing environment including institutional, ethical, and legal liability dimensions.  Introduction to audit planning, assessing materiality and audit risk, collecting and evaluating audit evidence, considering the internal control structure, substantive testing, and reporting.  4 lectures.",
+            "title": "Auditing"
+        },
+        "BUS 430": {
+            "description": "Work experience in business, industry, government and other areas of student career interest.  Periodic written progress reports, final report, and evaluation by work supervisor required.  Credit/No Credit grading.  Major credit limited to 4 units; total credit limited to 12 units.",
+            "title": "Internship/Cooperative Education"
+        },
+        "BUS 431": {
+            "description": "In-depth analysis of equity market and its instruments.  Detailed study of leading stock valuation models.  Impact of changes in the firm's fundamentals and in macroeconomic factors on stock prices.  Brief introduction to equity and index derivatives.  4 lectures.",
+            "title": "Security Analysis and Portfolio Management"
+        },
+        "BUS 432": {
+            "description": "Introduction to insurance planning and risk management and its role in financial planning.  Key concepts include determining risk exposure and selecting insurance products.  Legal aspects of property and liability policy, life, health, and social insurance.  4 lectures.",
+            "title": "Insurance Planning and Risk Management"
+        },
+        "BUS 433": {
+            "description": "Financial management of international business.  International capital and money markets, international financial institutions, special problems in evaluating direct foreign investment, and financial techniques used in international business operations.  4 lectures.",
+            "title": "International Finance"
+        },
+        "BUS 434": {
+            "description": "Analyses of real estate financing techniques and funding sources for development projects.  Effects of federal, state, and local taxes on real estate investments.  In-depth investigation and computer analyses of real estate investment projects.  4 lectures.",
+            "title": "Real Estate Finance"
+        },
+        "BUS 435": {
+            "description": "Intensive investigation and computer analysis of real estate investment opportunities.  Problems in real estate and property management.  4 lectures.",
+            "title": "Real Estate Investment"
+        },
+        "BUS 436": {
+            "description": "Process of financing new and fast-growing firms.  Readings on the venture capital process, from seed capital through the initial public offering.  Valuation of firms seeking venture capital, and those planning their initial public offering.  Valuing convertible securities.  Real options valuation.  4 seminars.",
+            "title": "Entrepreneurial Finance"
+        },
+        "BUS 437": {
+            "description": "Retirement planning and employee benefits; Social Security and Medicare; types of retirement plans; qualified plan characteristics; distribution options; and group insurance benefits.  Trusts, power of attorney, and probate.  4 lectures.",
+            "title": "Retirement and Estate Planning"
+        },
+        "BUS 438": {
+            "description": "Corporate finance with an emphasis on managing the corporation to create shareholder value.  Detailed treatment of topics such as capital budgeting, capital structure, economic value-added, corporate distribution policy, financial distress, and mergers and acquisitions.  4 lectures.",
+            "title": "Advanced Corporate Finance"
+        },
+        "BUS 439": {
+            "description": "Development of analytical skills for properly valuing fixed income securities.  Bond pricing, yields, and volatility; interest rate term structure and yield curve; securities, market structure, and analytical techniques; bond portfolio strategies and an introduction to interest rate derivatives.  4 lectures.",
+            "title": "Fixed Income Securities Market"
+        },
+        "BUS 441": {
+            "description": "A combination lecture/computer lab course focusing on computer acquisition of financial data and the subsequent application of financial theory and analysis to this data so as to facilitate financial decision making.  3 lectures, 1 activity.",
+            "title": "Computer Applications in Finance"
+        },
+        "BUS 442": {
+            "description": "An in-depth analysis of derivatives markets and instruments.  Emphasis on the valuation of futures, options, swaps, and other derivative securities.  4 seminars.",
+            "title": "Introduction to Futures and Options"
+        },
+        "BUS 443": {
+            "description": "Analytical and decision-making techniques in applying Financial Real Estate theory to business and property management valuation.  Real estate valuation techniques and their application to real estate investment.  Incorporates case studies, databases, and specialized real estate valuation software, such as ARGUS.  4 lectures.",
+            "title": "Case Studies in Real Estate Finance"
+        },
+        "BUS 444": {
+            "description": "Advanced course synthesizing concepts from corporate finance, derivative securities, statistics, and computer science.  Emphasis on both computer programming in a matrix programming language (Matlab) to solve practical risk management and valuation problems, and analytical training in the area of stochastic calculus, and its application to derivative security pricing.  Practical applications of derivatives for controlling risk in an international corporate environment.  4 lectures.",
+            "title": "Financial Engineering and Risk Management"
+        },
+        "BUS 445": {
+            "description": "Contemporary theoretical and empirical issues including agency theory, reputation building, game theory, and financial ethics.  Discussion of the application of ethics theory to financial decisions.  May include lectures, case analyses, student presentations, and guest speakers.  4 lectures.",
+            "title": "Ethics and Behavior Finance"
+        },
+        "BUS 446": {
+            "description": "Development of an understanding of global marketing strategy.  Acquisition of information about international markets and its use to describe customers, understand markets, and make marketing mix decisions.  4 lectures.",
+            "title": "International Marketing"
+        },
+        "BUS 448": {
+            "description": "Comprehensive coverage of financial aspects concerning mergers and acquisitions.  Valuation of companies, strategic and other motivations underlying mergers, structuring of transactions, deal tactics and strategy, leveraged buyouts, and cross-border mergers.  Most suitable for careers in corporate finance, and investment banking.  4 lectures.",
+            "title": "The Finance of Mergers and Acquisitions"
+        },
+        "BUS 451": {
+            "description": "Project-based skills for developing new products and planning for their launch.  Major phases of product development:  product innovation strategy, idea generation and screening, concept development and testing, technology drivers.  Introduction to product launch, including segmentation, targeting, positioning, pricing, and branding.  4 lectures.",
+            "title": "New Product Development and Launch"
+        },
+        "BUS 452": {
+            "description": "Development of individual and project-based skills in managing products in the growth, maturity, and decline stages of their life cycles.  Emphasis on distribution, pricing, and communication strategies required to maintain distinctive product advantages.  May include developing a comprehensive communication plan and acquiring market-tracking skills.  4 lectures.",
+            "title": "Product Management"
+        },
+        "BUS 453": {
+            "description": "Definitions, scope, phases, and tools of digital and new media marketing communications.  Planning integrated marketing communications in a systematic way across digital tools and new media channels that reflect a client organization's strategy for managing its identity, image, and reputation.  4 lectures.",
+            "title": "Digital and New Media Marketing"
+        },
+        "BUS 454": {
+            "description": "Client-based course providing an opportunity to apply marketing abilities.  Teams draw upon research, analytical, and strategic marketing skills to develop an actionable plan that addresses a critical marketing challenge faced by an organization.  Deliverables include research findings and written and verbal presentation to the organization and instructor.  4 lectures.",
+            "title": "Marketing Projects"
+        },
+        "BUS 455": {
+            "description": "Integration of key marketing concepts using tools such as computer simulations, readings, and/or case studies.  Development and implementation of strategic and tactical decisions for companies and brands.  4 lectures.",
+            "title": "Marketing Strategy"
+        },
+        "BUS 458": {
+            "description": "Apply human-centered design practices to address a social or an environmental challenge, specific to a local community.  Achieve revenue-generating social impact through innovative business models.  Practice team competencies including problem-solving, interviewing, brainstorming, prototyping, and written, visual, and oral communication.  4 lectures.  Crosslisted as BUS/COMS 458.",
+            "title": "Solving Big World Challenges"
+        },
+        "BUS 459": {
+            "description": "Integrative project experience in social media marketing and/or integrative marketing communications campaign:  research target markets, identify appropriate social media and other media channels.  Field trips required.  4 seminars.",
+            "title": "Social Media's Role in Integrated Marketing Communications"
+        },
+        "BUS 461": {
+            "description": "Selection and analysis of a problem under faculty supervision.  Problems typical of those which graduates must solve in their fields of employment.  Formal report is required.  Minimum 120 hours total time.",
+            "title": "Senior Project I"
+        },
+        "BUS 462": {
+            "description": "Selection and analysis of a problem under faculty supervision.  Problems typical of those which graduates must solve in their fields of employment.  Formal report is required.  Minimum 120 hours total time.",
+            "title": "Senior Project II"
+        },
+        "BUS 463": {
+            "description": "Acquire fundamental knowledge of federal tax laws and procedures in a clinical setting.  Practice with multiple authoritative accounting, auditing and tax databases, conduct legal research, and business writing.  Resolve real world accounting, auditing and tax controversies for Low Income Taxpayer Clinic clients.",
+            "title": "Senior Project: Low Income Taxpayer Clinic"
+        },
+        "BUS 464": {
+            "description": "Selection and analysis of business problems and opportunities in directed individual or group-based projects.  Problems typical to those which graduates could encounter in their fields of employment.  Formal report required.  4 seminars.",
+            "title": "Applied Senior Project Seminar"
+        },
+        "BUS 466": {
+            "description": "Develop selling skills, create a sales portfolio, participate in sales role plays and sales competition, observe a salesperson in action, and explore selling as a career.  Formal report required.  4 seminars.",
+            "title": "Senior Project: Sales Development Program"
+        },
+        "BUS 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "BUS 471": {
+            "description": "Design and management of compensation systems.  Job analysis, job evaluation, wage and salary surveys, incentive systems, gainsharing, benefit administration, pay equity and legal regulation.  Simulation and case study development of a wage structure, pay level and individual raise policies, administrative controls, salary and program budgets.  4 lectures.",
+            "title": "Compensation"
+        },
+        "BUS 473": {
+            "description": "Federal and state labor policy as expressed in common law, relevant statutes, and executive orders.  Effects upon employees, management, protected groups, and the public.  Current rules analyzed in a contemporary and historical context.  Understanding important workplace and employment problems.  4 lectures.",
+            "title": "Employment Law"
+        },
+        "BUS 474": {
+            "description": "Individual investigation, research, study or survey of selected topics in accounting, auditing or taxation.  Total credit limited to 8 units, repeatable in the same term.  Class Schedule will list topic selected.",
+            "title": "Independent Study in Accounting"
+        },
+        "BUS 475": {
+            "description": "Processes by which individuals and organizations become matched to form the employment relationship.  Specific issues related to human resources planning, internal and external recruitment and selection.  4 lectures.",
+            "title": "Staffing"
+        },
+        "BUS 477": {
+            "description": "Analysis of development and trends in the field of organization change and development.  Application of behavioral and organizational science knowledge and social technology to growth and change of organizations for the purpose of improving effectiveness and sustainability.  4 seminars.",
+            "title": "Managing Change and Development"
+        },
+        "BUS 488": {
+            "description": "The purpose and process of business planning and the challenges of managing a start-up enterprise.  Preparation of a complete business plan:  management and organization; product or service; marketing; finance; operating and control systems; growth.  4 seminars.",
+            "title": "Planning and Managing New Ventures"
+        },
+        "BUS 489": {
+            "description": "Theory and practice of negotiation in a variety of professional and managerial contexts (e.g., labor relations, business acquisitions, compensation, business disputes) and in one-on-one, group, and team-based arrangements.  Includes impact of culture, ethics, dispute resolution, coalitions and use of creativity to develop integrative solutions.  4 lectures.",
+            "title": "Negotiation"
+        },
+        "BUS 491": {
+            "description": "Modeling organizational systems and processes such as computer networks, transportation systems, manufacturing systems, retail systems, etc.  Developing computer simulation models and animation of systems to provide decision support in selecting system design alternatives.  Applying quantitative methods to model uncertainty and conduct statistical performance analysis.  4 lectures.",
+            "title": "Decision Support Systems"
+        },
+        "BUS 495": {
+            "description": "Theory and practice of software testing, including state-of-the-art practices, design issues, staffing issues, test management issues, and other related areas.  Software testing tools utilized for applications testing, and test management.  4 lectures.",
+            "title": "Software Testing"
+        },
+        "BUS 496": {
+            "description": "Focus on the technology of electronic commerce, including programming, development environments and security, through a series of lectures, guest speakers, demonstrations, exercises and case studies.  Networking, client/server computing, and web/database design concepts.  Working e-commerce application required at end of course.  4 lectures.",
+            "title": "Electronic Commerce"
+        },
+        "BUS 498": {
+            "description": "Specialized Information Systems (IS) topic selected from the IS areas of current interest.  Intended for advanced IS concentration students who want to learn and acquire in-depth IS knowledge and skills.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.",
+            "title": "Directed Topics in Information Systems"
+        },
+        "BUS 499": {
+            "description": "Combines the fundamental concepts of data communications and networking with practical applications in business.  Provides a basic understanding of the technical and managerial aspects of business telecommunication.  Introduction to data communications and applications and technical fundamentals, and to network products, technologies, applications, and services.  4 lectures.",
+            "title": "Data Communications and Networking"
+        }
+    },
     "links": [
         {
             "source": "BUS 212",

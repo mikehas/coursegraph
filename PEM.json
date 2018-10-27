@@ -1,4 +1,46 @@
 {
+    "descriptions": {
+        "PEM 182": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Baseball"
+        },
+        "PEM 183": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Basketball"
+        },
+        "PEM 184": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Cross Country"
+        },
+        "PEM 185": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Football"
+        },
+        "PEM 189": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Soccer"
+        },
+        "PEM 191": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Swimming"
+        },
+        "PEM 192": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Tennis"
+        },
+        "PEM 193": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Track & Field"
+        },
+        "PEM 195": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate  athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Golf"
+        },
+        "PEM 196": {
+            "description": "Enrollment limited to those academically qualified to compete in intercollegiate athletic programs. Consent of coach required. Total credit limited to 8 units. Courses are each 2 units and meet for a minimum of 10 hours per week. All competitive athletics courses are evaluated on a Credit/No Credit basis.",
+            "title": "Wrestling"
+        }
+    },
     "links": [],
     "nodes": [
         {

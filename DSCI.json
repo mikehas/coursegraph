@@ -1,4 +1,198 @@
 {
+    "descriptions": {
+        "DSCI 100": {
+            "description": "Selection and completion of a management/production project under faculty supervision. Project participation is subject to approval by the project supervisor and the Cal Poly Corporation. Degree credit limited to 12 units. Credit/No Credit grading only.",
+            "title": "Enterprise Project"
+        },
+        "DSCI 102": {
+            "description": "Dairy farm biosecurity, animal handling and welfare, equipment operation, employee safety and hazard analysis. Instruction in standard operating procedures (SOP) relevant to milking, transition cow and calf management and cattle identification. 2 activities.",
+            "title": "Dairy Operations and Safety"
+        },
+        "DSCI 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "DSCI 202": {
+            "description": "National and state dairy promotional programs, advertising and merchandising.  Marketing and pricing of milk and dairy products at the state and national level.  4 lectures.",
+            "title": "Dairy Promotion and Marketing"
+        },
+        "DSCI 230": {
+            "description": "Selection, breeding, feeding, and management of dairy cattle. Composition and food value of dairy products. Milk pricing, political influences, dairy industry statistics and opportunities. Producing and handling products. Intended as introductory course for non-dairy science majors. 3 lectures, 1 laboratory.",
+            "title": "General Dairy Husbandry"
+        },
+        "DSCI 231": {
+            "description": "Composition and properties of fluid milk and manufactured milk products. Chemistry and microbiology of dairy products. Processes and equipment involved in the manufacture of butter, cheeses, and other fermented dairy products, frozen, condensed, and dried dairy foods. 3 lectures, 1 activity.",
+            "title": "General Dairy Manufacturing"
+        },
+        "DSCI 233": {
+            "description": "Composition and properties of fluid milk and its constituents.  Equipment used to handle, process, and distribute fluid milk and related products.  California dairy codes used for dairy farms and plants, with practice inspections of dairy farms and factories.  3 lectures, 1 laboratory.",
+            "title": "Milk Processing and Inspection"
+        },
+        "DSCI 241": {
+            "description": "Selection of dairy cattle on type conformation and the correlation between type and production.  Dairy cattle breeds and breed comparisons.  Techniques to properly condition, groom and present dairy cattle for evaluation and merchandising.  2 lectures, 2 activities.",
+            "title": "Dairy Cattle Selection, Breeds, Fitting and Showing"
+        },
+        "DSCI 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "DSCI 301": {
+            "description": "Nutrition principles to maximize milk production.  Ruminal and post ruminal digestion, post absorptive metabolism, nutrient interactions and microbiology.  Modern techniques to manipulate and increase animal efficiency.  Use of computer models to evaluate and precisely formulate diets.  3 lectures, 1 activity.",
+            "title": "Dairy Cattle Nutrition"
+        },
+        "DSCI 321": {
+            "description": "Mechanisms of milk component secretion, including protein, lactose and fat metabolism.  Disorders of the mammary gland (mastitis) and control strategies.  Endocrine aspects of mammary gland development and lactogenesis.  4 lectures.",
+            "title": "Lactation Physiology"
+        },
+        "DSCI 330": {
+            "description": "Techniques in the collection, evaluation and processing of semen, along with embryo culturing and manipulation.  Insemination procedures, fertility problems, record keeping, estrous synchronization, endocrine control of reproduction, treating reproductive disorders and embryo transfer.  3 lectures, 1 laboratory.",
+            "title": "Artificial Insemination and Embryo Biotechnology"
+        },
+        "DSCI 333": {
+            "description": "Application of principles of herd health, biosecurity, lactation physiology, cattle management and reproductive physiology to successful dairy operations.  Assessment of animal comfort and general health and well-being.  Practical techniques in safe animal handling.  3 lectures, 1 activity.",
+            "title": "Dairy Animal Health, Safety and Applied Technology"
+        },
+        "DSCI 339": {
+            "description": "Selected Dairy Science students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Internship in Dairy Science"
+        },
+        "DSCI 340": {
+            "description": "Management of dairy wastes to protect the environment while providing a return on investment.  Selection of waste management systems, considering capital and operating costs and benefits from nutrient, biogas, and heat recovery.  Best practices that meet current regulatory requirements.  3 lectures.",
+            "title": "Dairy Waste Management and Resource Recovery"
+        },
+        "DSCI 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "DSCI 401": {
+            "description": "Composition, structure and properties of milk and milk products.  Physical and chemical changes that occur during processing and storage of dairy products.  Objective measurement of chemical and physical properties.  3 lectures, 1 laboratory.",
+            "title": "Physical and Chemical Properties of Dairy Products"
+        },
+        "DSCI 402": {
+            "description": "Current methods used to evaluate dairy products with respect to plant economics and consumer safety.  Accurate procedures for chemical and biological testing, statistical approach to sampling and design and interpretation of HACCP programs for assuring product quality and safety.  3 lectures, 1 laboratory.",
+            "title": "Quality Assurance and Control of Dairy Products"
+        },
+        "DSCI 410": {
+            "description": "Nutrient metabolism and diet formulation technologies for all classes of dairy cattle; whole-farm feed management; physiological and nutritional aspects of predominant metabolic disorders; on-farm auditing and troubleshooting of nutritional management.  Field trip required.  3 lectures, 1 laboratory.",
+            "title": "Advanced Dairy Nutrition"
+        },
+        "DSCI 412": {
+            "description": "Student consultation teams of three or four students visit dairies and/or attend management training seminars followed by presenting management recommendations to the dairy owners, consultants, and other industry leaders.  1 seminar and supervised work.",
+            "title": "Dairy Farm Consultation"
+        },
+        "DSCI 422": {
+            "description": "Evaluation of inherited characteristics in dairy cattle, including principles of inheritance and genomic evaluations.  Proving and selecting sires and dams, dairy genetic evaluations.  4 lectures.",
+            "title": "Breeding and Genetics of Dairy Cattle"
+        },
+        "DSCI 432": {
+            "description": "Dairy herd management skills needed in dairy operations.  Instruction and lab experience in management, records, labor, waste management, and milking management.  4 lectures.",
+            "title": "Advanced Dairy Herd Management"
+        },
+        "DSCI 433": {
+            "description": "Basic management principles applied to the dairy industry.  Industrial organization and control.  Dairy plant design, facilities, layout.  Inventory control and records.  Milk pooling and stabilization records.  Maintenance and operation of equipment.  3 lectures, 1 laboratory.",
+            "title": "Dairy Plant Management and Equipment"
+        },
+        "DSCI 434": {
+            "description": "Scientific methods, ingredients, and equipment used in the manufacture of various fermented dairy products, including cheeses, buttermilk, sour cream, and yogurt.  3 lectures, 1 laboratory.",
+            "title": "Cheese and Fermented Dairy Foods"
+        },
+        "DSCI 435": {
+            "description": "Technology of evaporation, drying and membrane separation processes applied to dairy fluids.  Design and performance of evaporators, driers, and membrane processing systems.  Equipment, ingredients, and methods needed to manufacture butter and dairy spreads.  3 lectures, 1 laboratory.",
+            "title": "Concentration and Fractionation Technology"
+        },
+        "DSCI 444": {
+            "description": "Microorganisms involved in the fermentation and ripening processes in the dairy industry, as well as those involved in spoilage of milk and dairy products, in the transmission of disease through these products, and indicator systems used to determine sanitary quality of these products.  3 lectures, 1 laboratory.",
+            "title": "Dairy Microbiology"
+        },
+        "DSCI 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects are typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal written report.  2 lectures and supervised work.",
+            "title": "Senior Project"
+        },
+        "DSCI 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "DSCI 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "DSCI 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Dairy Science faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study in Dairy Science"
+        },
+        "DSCI 501": {
+            "description": "Composition, structure/functional relationships and properties of milk, milk components and products.  Physical, chemical and biochemical changes that occur during processing, storage and use of milk and milk components.  Chemical, physical, functional and nutritional properties of milk components.  3 lectures.",
+            "title": "Dairy Chemistry"
+        },
+        "DSCI 502": {
+            "description": "Objective measurements, analysis and isolation of milk components.  Experimental demonstration of chemical and physical reactions of milk components during typical processing conditions.  2 laboratories.",
+            "title": "Dairy Chemistry Laboratory"
+        },
+        "DSCI 510": {
+            "description": "Contemporary issues in the dairy foods and allied industries.  Consumer, political, environmental, regulatory, producer, technological, scientific, and economic considerations critical to future industry leaders.  Required field trips to the dairy foods processing industry in California.  1 lecture, 1 activity.",
+            "title": "Dairy Foods: Issues and Practices"
+        },
+        "DSCI 520": {
+            "description": "Principles of unit operations involving heat and mass transfer including pasteurization and related thermal processes, centrifugal separation, concentration processes, churning and related high shear extrusion, fractionation processes, freezing, and drying technologies.  Pneumatic and mechanical devices and systems.  2 lectures, 1 laboratory.",
+            "title": "Dairy Processing and Manufacturing I"
+        },
+        "DSCI 521": {
+            "description": "Unit operations in process systems for the efficient manufacture of fluid milk products, cream, butter, and concentrated milk.  Process variables and their control, system integration.  Use of processes to manipulate physical and chemical properties to influence product quality.  3 lectures, 1 laboratory.",
+            "title": "Dairy Processing and Manufacturing II"
+        },
+        "DSCI 524": {
+            "description": "Unit operations in process systems for the efficient manufacture of fermented milks, cheese, frozen desserts, and dried milk and whey products.  Process variables and their control, system integration for these products.  3 lectures, 1 laboratory.",
+            "title": "Dairy Processing and Manufacturing III"
+        },
+        "DSCI 535": {
+            "description": "Identification and industrial use of functional milk fractions.  Physical, chemical, and sensory properties of milk fractions.  Objective and sensory measurements of milk ingredients as used in food and beverage products.  3 lectures, 1 laboratory.",
+            "title": "Dairy Foods Ingredient Functionality"
+        },
+        "DSCI 539": {
+            "description": "Application of theory to the solution of problems of agricultural production or related business in the field of Dairy Science.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Dairy Science"
+        },
+        "DSCI 540": {
+            "description": "Raw milk microbiological principles, pasteurization and microorganisms in diary foods safety, microbiological analysis of dairy products, fermented milks and cheese, starters and probiotics, commercial practices and sources of information for regulation on microbial aspects of dairy foods.  2 lectures, 2 laboratories.",
+            "title": "Graduate Dairy Microbiology"
+        },
+        "DSCI 541": {
+            "description": "Concepts and methodologies used in dairy industry and dairy food plants for assurance and control of the quality of finished product.  Basis for understanding physical, chemical and microbiological methods as they apply to quality evaluation of dairy foods.  3 lectures, 1 laboratory.",
+            "title": "Quality Assurance, Quality Control and Food Safety"
+        },
+        "DSCI 560": {
+            "description": "Presentation and critical review of current research publications.  Methodological advances and applications in dairy food systems.  Class Schedule will list topic selected.  Total credit limited to 6 units.  1-3 seminars.",
+            "title": "Recent Developments in Dairy Science and Technology"
+        },
+        "DSCI 565": {
+            "description": "Plant site selection considerations, project management, plant design and layout, management of productivity maintenance, plant improvement project selection criteria, working with regulatory environment, community relations, and personal safety for overall industrial plant sustainability.  3 lectures, 1 activity.",
+            "title": "Industrial Plant Considerations for Sustainable Operation"
+        },
+        "DSCI 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Dairy Science"
+        },
+        "DSCI 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Dairy Science"
+        },
+        "DSCI 581": {
+            "description": "Current findings and research problems in the field and their application to industry.  Group study of current problems of industry.  Current experimental and research findings as applied to production and marketing.  Repeatable for up to 3 units.  Credit/No Credit grading only.  1-3 seminars.  Credit/ no credit grading only.",
+            "title": "Graduate Seminar in Dairy Science"
+        },
+        "DSCI 582": {
+            "description": "Dairy plant operation, processing experience and production team dynamics.  Practical training and experience in dairy plant operations to allow efficient, safe and sanitary processing of dairy products manufacture in a team environment.  Total credit limited to 4 units.  2 laboratories.",
+            "title": "Dairy Processing and Plant Management"
+        },
+        "DSCI 585": {
+            "description": "Advanced study, analysis and part-time work experience in the field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 9 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience in Dairy Science"
+        },
+        "DSCI 599": {
+            "description": "Systematic research of a significant problem in Dairy Science.  Thesis will include problem identification, significance, methods, data analysis, and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units.",
+            "title": "Thesis in Dairy Science"
+        }
+    },
     "links": [
         {
             "source": "DSCI 230",

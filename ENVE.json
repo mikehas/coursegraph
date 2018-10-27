@@ -1,4 +1,158 @@
 {
+    "descriptions": {
+        "ENVE 111": {
+            "description": "Introduction to the Environmental Engineering Program including course planning, opportunities for global and regional problems such as water quality, waste management, and sustainability. Credit/No Credit grading only. 1 lecture.",
+            "title": "Introduction to the Environmental Engineering Profession"
+        },
+        "ENVE 264": {
+            "description": "Theory and application of fluid statics and fluid dynamics to environmental problems in air and water systems.  Fluid properties, pressure within stationary and moving systems, fluid momentum, pipe and channel flow including Bernoulli's Equation and friction effects, flow measurement systems.  4 lectures.",
+            "title": "Environmental Fluid Mechanics"
+        },
+        "ENVE 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ENVE 304": {
+            "description": "First and second laws of thermodynamics, properties of gases, liquids and mixtures, vapor-liquid equilibria, solubility and absorption, equilibrium in chemical reactions, thermodynamic applications in environmental engineering.  3 lectures.",
+            "title": "Process Thermodynamics"
+        },
+        "ENVE 309": {
+            "description": "Impact of noise and methods for noise reduction in industrial environments.  Behavior of sound waves, selection of instrumentation, practical measurements, criteria for noise and vibration control.  Laboratory and field measurements to investigate the basic principles of sound propagation and control.  Assessment of noise produced by transportation and other engineering facilities.  2 lectures, 1 laboratory.",
+            "title": "Noise and Vibration Control"
+        },
+        "ENVE 323": {
+            "description": "Societal importance of air quality, water quality and land resources.  Technologies used to control air and water pollution and the scientific basis for these technologies.  Use of mass balances to understand pollutant transport and treatment.  Local examples of the application of pollution control technologies to meet legal requirements.  Not for engineering majors.  4 lectures.  Fulfills GE Area F.",
+            "title": "Engineering for the Environment"
+        },
+        "ENVE 324": {
+            "description": "Causes and effects of air pollution on the individual, the community and industry.  Application of mathematics and chemistry to solve air pollution problems.  For non-majors.  4 lectures.  Fulfills GE Area F.",
+            "title": "Introduction to Air Pollution"
+        },
+        "ENVE 325": {
+            "description": "Causes and effects of air pollution on individual, regional, and global scales including meteorology, pollutant chemistry, global and regional transport, health impacts, regulations, air pollution control technology, and global climate change.  Engineering principles to understand, model, and predict air quality.  4 lectures.",
+            "title": "Air Quality Engineering"
+        },
+        "ENVE 331": {
+            "description": "Description and quantification of water and air quality characteristics important for water and wastewater treatment and air pollution control.  Fundamentals of kinetics, reactor configurations, toxicity and dose-response relationship.  Regulations governing ambient pollutant levels and discharges.  Introduction to the modeling of pollutant fate and transport.  Overview of solid waste management and global environmental issues.  4 lectures.",
+            "title": "Introduction to Environmental Engineering"
+        },
+        "ENVE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems"
+        },
+        "ENVE 405": {
+            "description": "Participation in environmental engineering research projects with emphasis on professional safety procedures for lab and field work and data quality assurance/quality control.  Research projects focus on developing technologies or techniques that improve the sustainability of environmental engineering infrastructure.  Total credit limited to 8 units; technical elective credit limited to 4 units.  1 laboratory.",
+            "title": "Environmental Engineering Research"
+        },
+        "ENVE 407": {
+            "description": "Design, build, test, and present a solution to an environmental problem posed by a student design competition.  1 laboratory.  Total credit limited to 4 units.",
+            "title": "Environmental Engineering Design Competition"
+        },
+        "ENVE 411": {
+            "description": "Theory, principles, and practices related to the control of particulate and gaseous emissions.  Mechanical and chemical separations.  Cost and design of control systems.  4 lectures.",
+            "title": "Air Pollution Control"
+        },
+        "ENVE 421": {
+            "description": "Theory of mass transfer principles applied to environmental problems.  Diffusion and dispersion modeling of contaminant transport.  Design principles of scrubbers, absorbers, and membrane systems for air and water pollution control.  4 lectures.",
+            "title": "Mass Transfer Operations"
+        },
+        "ENVE 426": {
+            "description": "Planning and conducting air quality measurements in the atmosphere, indoors and at the source.  Topics include quality control, calibration, and instrument operation for particulate matter, gas and meteorological measurements.  2 lectures, 1 laboratory.",
+            "title": "Air Quality Measurements"
+        },
+        "ENVE 434": {
+            "description": "Aquatic environmental chemistry and water quality measurements.  Equilibrium chemistry, carbonate systems, redox reactions, and electrochemistry.  Laboratories include topics such as measurement of suspended solids, turbidity, alkalinity, BOD, and coliform detection.  Quality analysis and control.  3 lectures, 1 laboratory.",
+            "title": "Water Chemistry and Water Quality Measurements"
+        },
+        "ENVE 436": {
+            "description": "Overview of hazardous waste generation, federal and state regulations, storage, transport, treatment, and remediation.  Principles of toxicology, unit operations and processes for the treatment, reduction, and remediation of wastes.  Ultimate disposal including incineration, solidification, and bioremediation 4 lectures.",
+            "title": "Introduction to Hazardous Waste Management"
+        },
+        "ENVE 438": {
+            "description": "Theory and design of facilities for physical and chemical treatment of water and wastewater, biological treatment of wastewater, and treatment and disposal of sludge.  3 lectures.",
+            "title": "Water and Wastewater Treatment Design"
+        },
+        "ENVE 439": {
+            "description": "Design and analysis of recycling, composting, anaerobic digestion, gasification, and combustion systems for the recovery of resources and energy from solid wastes.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Solid Waste Engineering"
+        },
+        "ENVE 443": {
+            "description": "State-of-the-art bioremediation technologies for soil, groundwater and contaminated air stream remediation and pollution prevention.  Introduction to engineering design combining biogenetics, reactor configuration, and basic biological and engineering principles.  Various in-situ and ex-situ technologies.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Bioremediation Engineering"
+        },
+        "ENVE 450": {
+            "description": "Theory and case studies of innovative industrial waste minimization and resource conservation through principles of pollution prevention.  Life-cycle assessment, pollution prevention, economic analysis, and sustainable designs.  3 lectures, 1 laboratory.",
+            "title": "Industrial Pollution Prevention"
+        },
+        "ENVE 455": {
+            "description": "Physical, chemical and biological hazards associated with industrial processes.  Toxicology.  Safety analysis and design.  Causes and prevention of occupational and environmental hazards.  Development and implementation of industrial hygiene programs.  4 lectures.",
+            "title": "Environmental Health and Safety"
+        },
+        "ENVE 466": {
+            "description": "Capstone team project on a complex, integrated design problem typical of the environmental engineering profession.  Formal reports and presentations are prepared.  Non-technical issues addressed:  ethics, teamwork, leadership, communication, and professional practice.  2 laboratories.",
+            "title": "Senior Project Design Laboratory I"
+        },
+        "ENVE 467": {
+            "description": "Continuation of ENVE 466.  Continuation of capstone project by individuals or teams with submission of final reports and presentations 2 laboratories.",
+            "title": "Senior Project Design Laboratory II"
+        },
+        "ENVE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ENVE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ENVE 480": {
+            "description": "Environmental impacts of conventional and renewable energy production and of emerging renewable energy development.  Environmental engineering methods for mitigation of impacts of fossil fuel processing, including hydrofracking.  Greenhouse gas inventory and management.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Environmental Engineering of Energy"
+        },
+        "ENVE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "ENVE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Total credit limited to 4 units.",
+            "title": "Individual Study"
+        },
+        "ENVE 525": {
+            "description": "Pollutants sources and sinks indoors, transport processes, ventilation, and engineering controls.  Human factors and engineering factors that influence the quality of the indoor environment.  4 lectures.",
+            "title": "Indoor Air Quality Engineering"
+        },
+        "ENVE 535": {
+            "description": "Physical and chemical processes used in potable water treatment and advanced wastewater treatment.  Coagulation, flocculation, sedimentation, filtration, membrane separation, disinfection, and absorption.  Wastewater recycling regulations.  Integration of treatment processes.  4 lectures.",
+            "title": "Physico-Chemical Water and Wastewater Treatment"
+        },
+        "ENVE 536": {
+            "description": "Fundamentals of biological wastewater treatment.  Suspended and attached growth bioreactors.  Activated sludge, biotower, and anaerobic process design.  Biological nutrient removal.  4 lectures.",
+            "title": "Biological Wastewater Treatment Processes Engineering"
+        },
+        "ENVE 537": {
+            "description": "Design and management of decentralized wastewater treatment systems.  Septic tanks, aerobic nutrient removal systems, ponds, constructed wetlands, and improved latrines; surface and subsurface effluent recycling or disposal; and septage management.  4 lectures.",
+            "title": "Decentralized Wastewater Management"
+        },
+        "ENVE 542": {
+            "description": "Critical analysis of environmental engineering practices such as solid waste management, recycling, and wastewater treatment from the viewpoint of energy efficiency, lifecycle cost, and sustainability.  Both laboratory experiments and computer models to assess sustainability.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Environmental Engineering"
+        },
+        "ENVE 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 seminars.",
+            "title": "Selected Advanced Topics"
+        },
+        "ENVE 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ENVE 581": {
+            "description": "Types of microorganisms and microbially-mediated biochemical reactions for biotechnology applications.  Stoichiometric and thermodynamic principles for microbial growth and metabolism.  Material and energy balances for aerobic and anaerobic growth and bioreactor design.  Kinetics of enzyme catalyzed reactions.  Field trips required.  3 seminars, 1 laboratory.  Crosslisted as ENGR/ENVE 581.",
+            "title": "Biochemical Engineering"
+        },
+        "ENVE 599": {
+            "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis.",
+            "title": "Design Project (Thesis)"
+        }
+    },
     "links": [
         {
             "source": "MATH 241",

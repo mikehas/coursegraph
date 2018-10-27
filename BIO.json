@@ -1,4 +1,366 @@
 {
+    "descriptions": {
+        "BIO 111": {
+            "description": "Principles of cellular biology, heredity, ecology, biological diversity, and evolution, with emphasis on their relationships to human affairs. Not open for major credit in Biological Sciences, Microbiology or Marine Sciences. Not open to students who have completed BIO 115 or BIO 161. 3 lectures, 1 laboratory. Fulfills GE B2 & B4.",
+            "title": "General Biology"
+        },
+        "BIO 112": {
+            "description": "A biologically centered exploration of our planet focusing on natural resource conservation and contemporary environmental issues. Interactions between components of the biosphere and impacts of human society on interrelationships within ecosystems. Trends in natural resource conservation and biodiversity preservation. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. 4 lectures. Fulfills GE B5.",
+            "title": "Environmental Biology and Conservation"
+        },
+        "BIO 114": {
+            "description": "Plant diversity and ecology in aquatic and terrestrial plant communities including adaptations of plants to their environment. Identification of common, local native plants and plant communities, uses of native plants by Native Americans, and human impacts on native plant communities. 2 lectures, 2 laboratories. Fulfills GE B2 & B4.",
+            "title": "Plant Diversity and Ecology"
+        },
+        "BIO 123": {
+            "description": "Fundamental principles of biology related to sexual reproduction: genetics, physiology, behavior, ecology and evolution of sex in a broad range of organisms. 4 lectures. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. Fulfills GE B2.",
+            "title": "Biology of Sex"
+        },
+        "BIO 160": {
+            "description": "Overview of the history, diversity and genetic relatedness of life on Earth; broad-scale evolutionary framework of the organization and expansion of life on Earth. 3 lectures, 1 laboratory.",
+            "title": "Diversity and History of Life"
+        },
+        "BIO 161": {
+            "description": "Fundamentals of cellular biology with an emphasis on the molecular perspective of life:  metabolism, photosynthesis, cell structure and reproduction, meiosis, immunology, classical and molecular genetics, gene regulation.  3 lectures, 1 laboratory.  Fulfills GE B2 & B4.",
+            "title": "Introduction to Cell and Molecular Biology"
+        },
+        "BIO 162": {
+            "description": "Fundamentals of the structure and physiology of tissues and organs of plants and animals:  energy acquisition and food distribution, gas exchange and fluid transport, and sensing and responding to the environment.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Organismal Form and Function"
+        },
+        "BIO 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Intended for lower division students in the Biological Sciences Department.  Total credit limited to 12 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "BIO 202": {
+            "description": "Introduction to the diversity of fields in biotechnology.  Applications in agriculture, nutrition, medicine and environmental problems.  1 lecture, 1 activity.  Crosslisted as BIO/CHEM 202.",
+            "title": "Orientation to Biotechnology"
+        },
+        "BIO 211": {
+            "description": "Plant and animal anatomy, physiology, diversity and life cycles.  How plants and animals acquire nutrients, reproduce, and adapt to environments.  Emphasis on hands-on activities and model organisms suited for the elementary classroom.  3 lectures, 1 laboratory.  Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.",
+            "title": "Biology of Plants and Animals"
+        },
+        "BIO 213": {
+            "description": "Fundamentals of life sciences:  energetics, cell biology, molecular and classical genetics, microbiology, organismal biology, and ecology.  2 lectures.  Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.  Fulfills GE B2.",
+            "title": "Life Science for Engineers"
+        },
+        "BIO 227": {
+            "description": "Historical development of wildlife biology and philosophies. Basic principles of ecology and evolution. Practices applied to wildlife. Current problems involving people-wildlife interactions with special reference to world biodiversity. Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences. 4 lectures. Fulfills GE B2.",
+            "title": "Wildlife Conservation Biology"
+        },
+        "BIO 231": {
+            "description": "Structure and function of the skeletal, muscular, nervous, endocrine, and integumentary systems.  Molecular, cellular, and organ system levels of organization.  Lab includes study of prosected human cadavers.  Not open for major credit to Biological Sciences majors.  Not open to students with credit in BIO 432 or ZOO 331.  4 lectures, 1 laboratory.",
+            "title": "Human Anatomy and Physiology I"
+        },
+        "BIO 232": {
+            "description": "Structure and function of the circulatory, immune, respiratory, digestive, urinary, and reproductive systems.  Molecular, cellular, and organ system levels of organization.  Lab includes study of prosected human cadavers.  Not open for major credit to Biological Sciences majors.  Not open to students with credit in BIO 433 or ZOO 332.  4 lectures, 1 laboratory.",
+            "title": "Human Anatomy and Physiology II"
+        },
+        "BIO 253": {
+            "description": "Observation in a healthcare setting.  Students will shadow healthcare practitioners on campus or in a community setting.  Specific placement depend on practitioner availability.  Total credit limited to 2 units with a maximum of 1 unit per quarter.  Credit/No Credit grading only.  1 activity.  Priority to BIO and MCRO majors.",
+            "title": "Health Professions Shadowing"
+        },
+        "BIO 263": {
+            "description": "Basic concepts in ecology and evolution.  Relationships among organisms in populations, communities and ecosystems, structures and dynamics of populations, communities and ecosystems, ecosystem inputs and energy flows, nutrient cycling, biogeography, population genetics, evolution, patterns of biodiversity and issues in conservation biology.  3 lectures, 1 laboratory.",
+            "title": "Introductory Ecology and Evolution"
+        },
+        "BIO 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "BIO 301": {
+            "description": "Framework for understanding the implications of service in different health-related settings through discussion and participation in a local service project.  Social determinants of health, cultural competency and unconscious bias, identity/intersectionality, and health needs of different populations.  2 lectures, 1 laboratory.",
+            "title": "Service Learning in the Health Professions"
+        },
+        "BIO 302": {
+            "description": "Basic principles of human inheritance, including the transmission of genetic traits, chromosomal abnormalities and their effects, gene structure and function, mutations and mutagenic agents, cancer genetics, population genetics, and principles of genetic counseling.  Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.  Not open to students with credit in BIO 303 or BIO 351.  4 lectures.  Fulfills GE B5.",
+            "title": "Human Genetics"
+        },
+        "BIO 303": {
+            "description": "Principles of heredity and variation.  Transmission genetics; molecular mechanisms of inheritance and gene expression.  Not open for major credit in Biological Sciences, Microbiology, or Marine Sciences.  Not open to students with credit in BIO 351.  Credit will be granted in only one of the following courses:  BIO 302 or BIO 303.  4 lectures.",
+            "title": "Survey of Genetics"
+        },
+        "BIO 305": {
+            "description": "Introduction to the causes, characteristics and treatment of human cancer.  Topics include effects of carcinogens and radiation; the genetics of cancer; molecular, cellular and physiological changes in common cancers; conventional chemotherapy and new treatments.  Not open for major credit in Biological Sciences, Microbiology, Marine Sciences, or Biochemistry.  4 lectures.  Fulfills GE B5.",
+            "title": "Biology of Cancer"
+        },
+        "BIO 308": {
+            "description": "Introduction to the methodology and techniques used in genetic engineering.  Applications in agriculture, nutrition, medicine and environmental problems.  Potential benefits and problems, including the underlying ethical questions.  Not open to students with credit in CHEM 373, or to Biological Sciences, Marine Sciences, or Microbiology majors.  4 lectures.  Crosslisted as BIO/CHEM 308.  Fulfills GE Area F.",
+            "title": "Genetic Engineering Technology"
+        },
+        "BIO 321": {
+            "description": "Ecology, behavior, physiology, functional morphology, and evolution of mammals.  Classification and identification of mammals, with emphasis on California species.  2 lectures, 2 laboratories.  Formerly ZOO 321.",
+            "title": "Mammalogy"
+        },
+        "BIO 322": {
+            "description": "Phylogeny, anatomy, functional morphology, physiology, and ecology of marine and freshwater fishes.  Special reference to local and economically important species.  Laboratory emphasis on taxonomy of California species, especially marine groups.  2 lectures, 2 laboratories.  Formerly ZOO 322.",
+            "title": "Ichthyology"
+        },
+        "BIO 323": {
+            "description": "Classification and identification of birds, with emphasis on California species.  Functional morphology, physiology, ecology, behavior and census methods.  Field trips may require meeting in the morning before scheduled lab time.  2 lectures, 2 laboratories.  Formerly ZOO 323.",
+            "title": "Ornithology"
+        },
+        "BIO 324": {
+            "description": "Living and extinct reptiles and amphibians; an adaptive approach to their diversity, biology, and classification.  2 lectures, 2 laboratories.  Formerly ZOO 341.",
+            "title": "Herpetology"
+        },
+        "BIO 327": {
+            "description": "Principles of ecology as applied to the study of wild vertebrates and their habitats.  Emphasis on techniques for collecting and analyzing field data and how these data apply to the study and management of wildlife.  Use of the literature, inventory of plants and animal populations, use of maps and databases, quantifying diet and habitat use, determining sex and age and nutritional condition, capture and marking techniques, non-invasive sampling methods.  3 lectures, 1 laboratory.",
+            "title": "Wildlife Ecology"
+        },
+        "BIO 329": {
+            "description": "Identification and natural history of terrestrial vertebrates, with emphasis on field studies and local species.  Field trips may require meeting in the morning before scheduled lab time.  2 lectures, 2 laboratories.  Formerly ZOO 329.",
+            "title": "Vertebrate Field Zoology"
+        },
+        "BIO 330": {
+            "description": "Minimum of two days of field instruction in places with significant biological diversity, and an individual or group project.  Focus on field notebooks, field identification, survey methods, experimental design, and significant habitat types for various groups of organisms.  The Schedule of Classes will list the title of the associated field biology course.  Total credit limited to 6 units, each associated with a different field biology course, with no more than 4 units applied as advisor approved electives.  Field trip required.  1-3 activities.",
+            "title": "Extended Field Biology Activity"
+        },
+        "BIO 335": {
+            "description": "Introduction to the study of insects.  Structure, major orders and families of insects, life histories, medical, and economic importance.  Insect collection required.  2 lectures, 2 laboratories.  Formerly ZOO 335.",
+            "title": "General Entomology"
+        },
+        "BIO 336": {
+            "description": "Invertebrate groups of animals with emphasis on taxonomy, morphology, distribution, and economic importance.  2 lectures, 2 laboratories, and fieldwork.  Formerly ZOO 336.",
+            "title": "Invertebrate Zoology"
+        },
+        "BIO 351": {
+            "description": "Principles of genetics and genetic analysis, including underlying molecular mechanisms.  Subjects include gene structure and function, inheritance patterns, regulation of gene expression, mutation, recombination, recombinant DNA technology, and an introduction to population genetics.  5 lectures.",
+            "title": "Principles of Genetics"
+        },
+        "BIO 361": {
+            "description": "Fundamental principles of animal physiology, including cellular mechanisms and integration to whole animals.  Membrane transport, fluid/salt balance, excitable cells, metabolic rate, temperature, gas exchange and circulation.  3 lectures, 1 laboratory.",
+            "title": "Principles of Animal Physiology"
+        },
+        "BIO 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total major credit limited to 6 units, with a maximum of 2 units per quarter.  Total credit limited to 12 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "BIO 401": {
+            "description": "Foundational concepts in the conservation of wild organisms and their habitats.  Quantification and valuation of biological diversity, current threats to diversity, and approaches to better understand and address these threats, across terrestrial, freshwater, and marine environments.  4 lectures.",
+            "title": "Principles of Conservation Biology"
+        },
+        "BIO 405": {
+            "description": "Events and mechanisms of embryonic development, including fertilization, morphogenesis, cell differentiation, and organogenesis, with emphasis on differential gene expression in model organisms.  3 lectures, 1 laboratory.",
+            "title": "Developmental Biology"
+        },
+        "BIO 406": {
+            "description": "Anatomy and physiology of nervous systems including electrophysiology, molecular and cellular mechanisms of neurotransmission, interactions between the nervous system and other body systems, and comparative anatomy of vertebrate nervous systems, especially humans.  3 lectures, 1 laboratory.",
+            "title": "Advanced Anatomy and Physiology: Neuroscience"
+        },
+        "BIO 407": {
+            "description": "Anatomy and physiology of the endocrine system and hormones, with an emphasis on humans and other vertebrates.  4 lectures.",
+            "title": "Advanced Anatomy and Physiology: Endocrinology"
+        },
+        "BIO 408": {
+            "description": "Anatomy and physiology of the cardiovascular, respiratory, and renal systems, with an emphasis on humans and other vertebrates.  Discussion of health and disease states and responses to exercise and environmental factors.  3 lectures, 1 laboratory.",
+            "title": "Advanced Anatomy and Physiology: Cardiorespiratory and Renal"
+        },
+        "BIO 409": {
+            "description": "Anatomy and physiology of musculoskeletal systems, including energetics and biomechanics of locomotion.  Discussion of invertebrates and vertebrates with emphasis on humans.  3 lectures, 1 laboratory.",
+            "title": "Advanced Anatomy and Physiology: Muscle and Locomotion"
+        },
+        "BIO 410": {
+            "description": "Functional microscopic anatomy of principal tissues and organs of vertebrates, including humans.  Structural studies to determine mechanisms underlying physiological processes and their clinical applications in medicine.  2 lectures, 2 laboratories.",
+            "title": "Functional Histology"
+        },
+        "BIO 414": {
+            "description": "Scientific evaluation of the theories, mechanism, and patterns of biological evolution.  4 lectures.",
+            "title": "Evolution"
+        },
+        "BIO 415": {
+            "description": "Plant and animal distribution patterns in relation to past and present physical and biotic factors; survey of major biomes with major emphasis on North and South America.  4 lectures.",
+            "title": "Biogeography"
+        },
+        "BIO 419": {
+            "description": "Introduction to quantitative methods used in ecology with an emphasis on the design and analysis of field studies.  Population estimates, sampling design and analysis, and the determination of community structure.  3 seminars, 1 activity.",
+            "title": "Analytical Methods in Ecology"
+        },
+        "BIO 421": {
+            "description": "The formation, characteristics, and functions of wetlands.  Genesis of hydric soils.  Plant adaptations to saturated soils.  Wetlands as wildlife habitat.  Policies and social issues associated with wetlands.  The procedures of wetland delineations.  3 lectures, 1 laboratory.  Crosslisted as BIO/NR/SS 421.",
+            "title": "Wetlands"
+        },
+        "BIO 424": {
+            "description": "Techniques, aims and objectives in the teaching of physical and life sciences at the secondary level.  Selection and organization of teaching material, including strategies for English language learners (ELL) and special needs students.  Evaluation of results.  3 lectures, 1 activity.  Crosslisted as BIO/PSC 424.",
+            "title": "Organizing and Teaching Science"
+        },
+        "BIO 425": {
+            "description": "Principles and practices in effective teaching of science at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession.  Credit/No Credit grading only.  Total credit limited to 4 units.  2 seminars.  Crosslisted as BIO/PSC 425.",
+            "title": "Clinical Experience in Teaching Science Seminar"
+        },
+        "BIO 426": {
+            "description": "Principles of molecular and cellular immunology.  Emphasis on molecular regulation of immune cell development, including generation of unique receptors, lymphocyte signal transduction and selection, programmed cell death and regulation of immune responses.  Discussion and demonstration of roles of immunology in disease and as diagnostic tools.  3 lectures, 1 laboratory.",
+            "title": "Immunology"
+        },
+        "BIO 427": {
+            "description": "Important habitats, such as riparian, wetlands, and habitat features important to wildlife, such as vegetation types and snags.  Basic concepts of wildlife management.  Emphasis on planning and designing habitats to meet the needs of wildlife.  3 lectures, 1 laboratory.",
+            "title": "Wildlife Management"
+        },
+        "BIO 428": {
+            "description": "Development and function of blood as a tissue.  Composition, function, and mechanisms of formation and destruction of blood components in health and disease.  Methods for examination of blood.  3 lectures, 1 laboratory.  Formerly ZOO 428.",
+            "title": "Hematology"
+        },
+        "BIO 429": {
+            "description": "External and internal parasites of man and animals.  Life history.  Parasite-host relationships.  Control and recognition of species of clinical importance.  2 lectures, 2 laboratories.  Formerly ZOO 425.",
+            "title": "Parasitology"
+        },
+        "BIO 434": {
+            "description": "Comparative physiological mechanisms involved in the regulation of oxygen uptake, water and ion balance, and temperature regulation in animals.  Emphasis is placed on physiological adaptations which maintain or restore homeostasis in animals which are subjected to environmental changes.  3 lectures, 1 laboratory.",
+            "title": "Environmental Physiology"
+        },
+        "BIO 435": {
+            "description": "Consideration of the principal physiological and biochemical processes of plants with emphasis on water relations, mineral nutrition, photosynthesis, and the physiology of plant development.  3 lectures, 1 laboratory.",
+            "title": "Plant Physiology"
+        },
+        "BIO 441": {
+            "description": "Introduction to new problems in molecular biology and current computer applications for genetic database analyses.  Use of software for:  nucleic acid, genome and protein sequence analysis; genetic databases, database tools; industrial applications in bioinformatics; ethical and societal concerns.  3 lectures, 1 laboratory.  Crosslisted as BIO/CHEM 441.",
+            "title": "Bioinformatics Applications"
+        },
+        "BIO 442": {
+            "description": "Behavioral adaptations of animals to their environment and way of life.  Analysis of behavior patterns, use of patterns in clarifying evolutionary and ecological relationships.  3 lectures, 1 laboratory.",
+            "title": "Behavioral Ecology"
+        },
+        "BIO 444": {
+            "description": "Growth, fluctuations, balance, and natural mechanisms controlling wild populations, and methods for assessing their interconnectedness.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Population Ecology"
+        },
+        "BIO 445": {
+            "description": "Principles of ecology at the community level including the mechanism that structure ecological communities, and the quantitative methods used to study community ecology such as diversity metrics, community composition analyses, interaction strengths and the application of statistics to field and experimental studies.  3 lectures, 1 laboratory.",
+            "title": "Community Ecology"
+        },
+        "BIO 446": {
+            "description": "Advanced ecosystem ecology and biology, and the interactions of biological communities with the abiotic environment.  Emphasis on climate change, ecosystem services, and major fluxes and pools of organic elements.  4 lectures.",
+            "title": "Ecosystem Ecology"
+        },
+        "BIO 450": {
+            "description": "Assisting the instructor in teaching and supervising undergraduate laboratories in the Biological Sciences Department.  Total credit limited to 8 units, with a maximum of 4 units per quarter.  Credit/No Credit grading only.",
+            "title": "Undergraduate Laboratory Assistantship"
+        },
+        "BIO 452": {
+            "description": "Introduction to cell structure and function, energy conversions, protein sorting, signaling, cytoskeleton, cell adhesion, and the cell cycle.  3 lectures, 1 laboratory.",
+            "title": "Cell Biology"
+        },
+        "BIO 461": {
+            "description": "Completion of a research proposal and literature review, including analysis of experimental results from published peer-reviewed articles in biology.  Written and oral presentations.  2 activities.",
+            "title": "Senior Project - Research Proposal"
+        },
+        "BIO 462": {
+            "description": "Completion of a research project or equivalent in the biological sciences, selected and conducted in consultation with an instructor.  Results are presented in written reports.",
+            "title": "Senior Project - Research"
+        },
+        "BIO 463": {
+            "description": "Completion of advanced research in the biological sciences, selected and conducted in consultation with an instructor.  Results presented as a written report and/or oral presentation in a public forum.",
+            "title": "Honors Research"
+        },
+        "BIO 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "BIO 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topics selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "BIO 472": {
+            "description": "Applications of biological research topics.  Discussions of how selected discoveries in biological research formed the basis for, and were developed into, practical applications, currently accepted theories, generally utilized techniques or decisions affecting society and political policies The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-4 seminars.",
+            "title": "Current Topics in Biological Research"
+        },
+        "BIO 475": {
+            "description": "Introduction to techniques used in molecular biology and biotechnology; DNA extraction, characterization, cloning, Southern blotting, reverse transcription, polymerase chain reaction, and sequencing analysis.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM 475.",
+            "title": "Molecular Biology Laboratory"
+        },
+        "BIO 476": {
+            "description": "Heterologous gene expression of a recombinant protein in a microbial system:  gene cloning, construction of expression plasmid, DNA sequence analysis, transformation of microbial host, selection and analysis of transformed host cells, expression and purification of recombinant protein.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM 476.",
+            "title": "Gene Expression Laboratory"
+        },
+        "BIO 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "BIO 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "BIO 500": {
+            "description": "Advanced study planned and completed with the approval of and under the direction of a member of the department faculty.  A written scholarly presentation of the results of each BIO 500 project must be included in the graduate student's departmental file.  Total degree credit limited to 3 units.  Total credit limited to 12 units.",
+            "title": "Individual Study"
+        },
+        "BIO 501": {
+            "description": "Principles of molecular and cellular biology including gene function and regulation, energetics, protein trafficking, cytoskeleton, signaling, adhesion, and the cell cycle.  3 lectures, 1 laboratory.",
+            "title": "Molecular & Cellular Biology"
+        },
+        "BIO 502": {
+            "description": "Principles of and current topics in organismal biology, with an emphasis on physiology (including organ systems), behavior, and responses to the environment.  3 lectures, 1 laboratory.",
+            "title": "Biology of Organisms"
+        },
+        "BIO 503": {
+            "description": "Considerations of theory and practice in population ecology, evolutionary biology, and biosystematics.  3 lectures, 1 laboratory.",
+            "title": "Population Biology"
+        },
+        "BIO 509": {
+            "description": "Key issues for scientists communicating with the general public.  Introduction to principles, examination of case studies, and practical application in outreach projects.  Intended for graduate students in biology and related disciplines.  1 activity.",
+            "title": "Communicating Biology to General Audiences"
+        },
+        "BIO 524": {
+            "description": "Principles and selected topics in developmental biology.  Issues of differentiation, morphogenesis, and pattern formation; specific topics chosen by participants.  2 seminars.",
+            "title": "Developmental Biology Seminar"
+        },
+        "BIO 534": {
+            "description": "Principles of stem cell biology including characteristics, types, roles in development, therapeutic uses, historical perspectives and ethical issues.  2 seminars.",
+            "title": "Principles of Stem Cell Biology"
+        },
+        "BIO 537": {
+            "description": "Function and evolution of behavioral traits as they relate to ecological phenomena.  Habitat selection, migration, spacing mechanisms, reproductive strategies, feeding strategies, agonistic, parasitic, altruistic behavior, communication, and comparative social systems.  1 activity.",
+            "title": "Advanced Behavioral Ecology"
+        },
+        "BIO 561": {
+            "description": "Written and oral presentations of a proposal for research in biology including a literature review.  3 seminars.",
+            "title": "Proposal Writing for Biological Research"
+        },
+        "BIO 570": {
+            "description": "Directed group study of selected topics for graduate students.  Class Schedule will list topics for selection.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Biology"
+        },
+        "BIO 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "BIO 574": {
+            "description": "Concepts of teaching and learning related to instructor performance in college biology laboratory classes.  Introduction to teaching strategies, managing a classroom, writing exam questions, and science education research for the laboratory class setting.  Credit/No Credit grading only.  1 activity.",
+            "title": "Teaching Strategies for College Biology Laboratories"
+        },
+        "BIO 575": {
+            "description": "Part-time teaching assignment in an undergraduate college classroom.  Includes teaching and related activities under the supervision of a professor in Biological Science.  Total credit limited to 2 units.  Credit/No Credit grading only.  1-2 activities.",
+            "title": "College Biology Teaching Practicum"
+        },
+        "BIO 585": {
+            "description": "Advanced study, analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "BIO 590": {
+            "description": "Problems and topics in advanced biology selected according to the interest and needs of the students enrolled.  Total credit limited to 6 units.  1 activity.",
+            "title": "Seminar in Biology"
+        },
+        "BIO 591": {
+            "description": "Recent trends in the field of biology for graduate students in the Biological Sciences master's degree program.  Overview of current research with presentations from visiting scholars and Cal Poly faculty.  Total credit limited to 3 units.  1 activity.",
+            "title": "Trends in Biology"
+        },
+        "BIO 593": {
+            "description": "Supervised graduate research and/or development in stem cell science or regenerative medicine and engineering.  Provides students with an off-campus industrial or university internship.  Total credit limited to 10 units.   Crosslisted as ASCI/BIO/BMED 593.",
+            "title": "Regenerative Medicine Internship"
+        },
+        "BIO 594": {
+            "description": "Transfer of skills and knowledge gained through coursework, in an applied setting at Cal Poly.  Demonstration of technical, problem solving, and presentation skills, and familiarity with current research.  Part of the culminating experience for the Specialization in Regenerative Medicine in the MS in Biological Sciences, or the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture.  1 seminar and supervised work.  Crosslisted as ASCI/BIO/BMED 594.",
+            "title": "Applications in Regenerative Medicine"
+        },
+        "BIO 595": {
+            "description": "Advanced study, analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "BIO 599": {
+            "description": "Individual research under the general supervision of the faculty, leading to a graduate thesis of suitable quality.  Total credit limited to 9 units.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "BIO 161",

@@ -1,4 +1,22 @@
 {
+    "descriptions": {
+        "DATA 301": {
+            "description": "Introduction to the field of data science and the workflow of a data scientist.  Types of data (tabular, textual, sparse, structured, temporal, geospatial), basic data management and manipulation, simple summaries, and visualization.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Data Science"
+        },
+        "DATA 401": {
+            "description": "Principles of data science and big data analytics.  Volume, velocity, and variety of data.  Acquisition, processing, and cleaning of large data-sets.  Analytics for big data.  3 lectures, 1 laboratory.",
+            "title": "Data Science"
+        },
+        "DATA 451": {
+            "description": "Working with clients to develop data-driven solutions for systems to be constructed in DATA 452.  Specification and design requirements, elicitation techniques, research and data gathering methods; project planning, time and budget estimating; project team organization.  Ethics and professionalism.  2 laboratories.",
+            "title": "Data Science Capstone I"
+        },
+        "DATA 452": {
+            "description": "Team-based design, implementation, deployment and delivery of a system or analytical methodology that involves working with and analyzing large quantities of data.  Technical management of research and development teams.  Technical documentation, quality assurance, integration and systems testing.  Design and conduct of empirical studies.  Visualization and presentation of results orally and in writing.  2 laboratories.",
+            "title": "Data Science Capstone II"
+        }
+    },
     "links": [
         {
             "source": "CSC 202",

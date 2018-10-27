@@ -1,4 +1,230 @@
 {
+    "descriptions": {
+        "CM 102": {
+            "description": "Introduction to the fundamental concepts and overview of the essential elements associated with the construction profession, to include: construction trends, ethics, safety and health issues, and professional practice methods. 2 lectures.",
+            "title": "Introduction to Construction Management"
+        },
+        "CM 113": {
+            "description": "Exploration of the various materials, assemblies, and processes used and applied in the building construction process.  Includes presentation, discussion, analysis, study and research of construction materials and assemblies.  2 lectures.",
+            "title": "Construction Materials and Assemblies"
+        },
+        "CM 114": {
+            "description": "Exploration of the various materials, assemblies, and processes used and applied in the building construction process.  Includes presentation, discussion, analysis, study and research of construction materials and assemblies.  2 laboratories.",
+            "title": "Construction Materials and Assemblies Lab"
+        },
+        "CM 115": {
+            "description": "Production of drawings and specifications for residential and light commercial construction.  Integration of scheduling, estimating, codes, and contracts with a project based approach.  Manual drawing techniques and computer aided drafting with building information modeling develop visualization skills for architectural systems.  4 laboratories, 2 activities.",
+            "title": "Fundamentals of Construction Management"
+        },
+        "CM 212": {
+            "description": "Introduction to the fundamental concepts of construction management.  Primary areas of focus are quantity surveying and basic scheduling techniques.  Additional topics of study to include work activity durations and sequencing, and computer applications in scheduling.  Course does not satisfy approved technical elective requirement for CM majors.  3 laboratories.",
+            "title": "Construction Management Principles"
+        },
+        "CM 214": {
+            "description": "Materials, methods, and techniques associated with residential and light commercial construction operations.  Topics include shallow foundations, timber and masonry framing, roofing, and exterior and interior finishes.  Scheduling, estimating, and construction contracts are integrated into a project based approach.  3 laboratories, 2 activities.",
+            "title": "Residential Construction Management"
+        },
+        "CM 221": {
+            "description": "Modern concepts of concrete and formwork construction.  Significant developments in concrete chemistry and strength theory.  Formwork systems, concrete mix design, admixtures, batching, finishing, curing and testing.  Includes physically building basic forms, finishing and curing concrete, and testing of designed mixes.  2 lectures, 1 laboratory.",
+            "title": "Concrete and Formwork Technology"
+        },
+        "CM 232": {
+            "description": "Basic principles of economic evaluations using fundamental concepts of time value of money to compare cost alternatives related to construction, design, and real property development.  3 lectures.",
+            "title": "Evaluation of Cost Alternatives"
+        },
+        "CM 239": {
+            "description": "Theory and practice of plane surveying with an emphasis on construction applications.  Topics include property use and care of survey equipment and instruments, distance measurement, leveling, angular measurement, construction layout, basic roadwork, and as-built surveys.  3 lectures, 1 laboratory.",
+            "title": "Construction Surveying"
+        },
+        "CM 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CM 280": {
+            "description": "Use of building information modeling software to emphasize residential, commercial, and heavy civil assembly methods and techniques.  BIM drafting applications integrated with construction materials, details, and assemblies supporting the understanding of the construction building process.  2 activities.",
+            "title": "Building Information Modeling"
+        },
+        "CM 310": {
+            "description": "Construction means, methods, and techniques related to the built environment including residential, commercial, heavy civil and HVACR construction.  Focus on the major construction material assemblies and systems with an emphasis on constructability, best practices, and application.  Field trips required.  4 lectures.",
+            "title": "Construction Means and Methods"
+        },
+        "CM 313": {
+            "description": "Materials, methods, and techniques associated with large commercial and institutional construction operations.  Topics include building systems analysis of foundations, waterproofing, structural framing, exterior cladding, and finishes.  Scheduling, estimating, and construction contracts are integrated into a project based approach.  3 laboratories, 2 activities.",
+            "title": "Commercial Construction Management"
+        },
+        "CM 314": {
+            "description": "Materials, methods, and techniques associated with civil engineering projects and heavy construction operations.  Topics include tunnel, bridge, dam, and road construction; equipment selection; and temporary structures.  Scheduling, estimating, and construction contracts are integrated into a project based approach.  3 laboratories, 2 activities.",
+            "title": "Heavy Civil Construction Management"
+        },
+        "CM 317": {
+            "description": "Interdisciplinary analysis of sustainable strategies and technologies to enhance the built environment.  A systems approach to green building science that includes sustainable site development, water use efficiency, renewable energy, improving material use, indoor environmental quality, and design innovation.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE Area F.",
+            "title": "Sustainability and the Built Environment"
+        },
+        "CM 334": {
+            "description": "The intersection of law and the construction industry.  Topics of study include a survey of most major legal issues potentially encountered during construction activity.  2 activities.",
+            "title": "Construction Law"
+        },
+        "CM 335": {
+            "description": "Fundamentals of construction accounting principles to include income recognition, job cost control, cash flow analysis and associated cost reports.  2 activities.",
+            "title": "Construction Accounting"
+        },
+        "CM 371": {
+            "description": "Theory and practice of planning, scheduling, estimating, and reporting for construction projects.  Fundamentals of scheduling logic including critical path, deterministic, and probabilistic scheduling; including the impact of constraints.  Identifying resources and estimating time requirements for design activities and project operations.  Not open to Architectural Engineering or Construction Management majors.  3 lectures, 1 activity.  Crosslisted as CE/CM 371.",
+            "title": "Construction Management and Project Planning"
+        },
+        "CM 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "CM 411": {
+            "description": "Materials, methods, and techniques associated with mechanical, electrical, and plumbing systems.  Topics include heating, ventilating, air conditioning, power distribution, grounding, lighting, communication, fire detection/protection, and plumbing.  Integration of scheduling, estimating, and construction subcontracts with a project based approach.  3 laboratories, 2 activities.",
+            "title": "Specialty Contracting Construction Management"
+        },
+        "CM 413": {
+            "description": "Management activities applicable to the construction process involving techniques, applications, and theory needed in a jobsite environment.  Addresses the relationships, roles, and perspectives of all stakeholders.  Integrated utilization of temporary structures associated with field construction.  3 laboratories, 2 activities.",
+            "title": "Jobsite Construction Management"
+        },
+        "CM 415": {
+            "description": "Team based collaborative effort to analyze and evaluate the unique interdisciplinary challenges associated with coordinating and integrating the design and construction processes to deliver a project with respect to the design, budget, schedule, quality, and performance expectations of a client.  Not open to students with credit in CM 450.  4 laboratories.",
+            "title": "Integrated Project Delivery"
+        },
+        "CM 420": {
+            "description": "Service and project-based learning and teaching techniques as applied to a variety of construction management concepts.  Goals and objectives achieved through service-learning, project-based, and/or experiential pedagogical approaches.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "Service / Experiential Learning"
+        },
+        "CM 421": {
+            "description": "Emerging trends related to construction management concepts and practices.  Goals and objectives achieved through analysis, study, and research of a particular construction emerging trend.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "Emerging Trends"
+        },
+        "CM 422": {
+            "description": "Professional practice related to the construction management industry.  Goals and objectives achieved through analysis, study, and preparation for a particular professional practice.  The Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 6 activities.",
+            "title": "Professional Preparation"
+        },
+        "CM 423": {
+            "description": "Various materials and assemblies related to construction process.  Goals and objectives achieved through analysis, study, and research of a particular construction material and/or assembly.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "Construction Materials / Assemblies"
+        },
+        "CM 424": {
+            "description": "Technology related to construction management education and the construction industry.  Goals and objectives achieved through analysis, study, and research of a particular construction technology.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "Construction Technology"
+        },
+        "CM 425": {
+            "description": "Sustainable and environmental issues related to the construction industry.  Goals and objectives achieved through analysis of a particular construction related sustainable and/or environmental issue.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "Sustainability and Environment"
+        },
+        "CM 426": {
+            "description": "Exploration of international construction studies through several potential teaching techniques, including field trips to countries overseas, research and case studies of companies and projects, and management skills and leadership as they relate to international construction.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-6 activities.",
+            "title": "International Construction Studies"
+        },
+        "CM 432": {
+            "description": "Management issues applicable to the design and construction integration method of project delivery.  Project sponsor/project advocate techniques, monitoring the evolving design, detecting and controlling change, early warning systems, cost trending, schedule impacts, cost impacts, systems integration, contract/scope modifications, procurement, contingencies, quality, and overall process control.  3 activities.",
+            "title": "Design-Build Project Management"
+        },
+        "CM 433": {
+            "description": "Investigation and analysis of special advanced topics in Integrated Project Delivery including Design-Build, CM-at-Risk, Alliance Contracting and other alternative delivery models and application across a wide range of project types.  Topics include source selection, acquisitions, contracting, performance criteria, design management, and others.  2 activities.",
+            "title": "Integrated Project Delivery"
+        },
+        "CM 443": {
+            "description": "Applications of strategic management techniques and business strategy for managing and long-range planning of the construction firm.  3 activities.",
+            "title": "Management of the Construction Firm"
+        },
+        "CM 450": {
+            "description": "Evaluation of roles and relationships of owner, designer, and construction professionals over project life cycles.  Modeling, conceptual estimating, lean scheduling, contract selection, integrated delivery, design management, program management, and influential leadership strategies and techniques.  Not open to students with credit in CM 415.  3 laboratories, 2 activities.",
+            "title": "Integrated Project, Design and Program Management"
+        },
+        "CM 460": {
+            "description": "Introduction to senior project processes, timelines, requirements, and best practices including topic selection, literature review, methodology, and paper formatting.  2 lectures.",
+            "title": "Senior Project Methodology"
+        },
+        "CM 461": {
+            "description": "Selection and completion of a comprehensive project under faculty supervision.  Problems to involve the student's technical and creative skills.  Student proposal must be submitted and approved by project advisor prior to registration for course.  Construction and team projects encouraged.",
+            "title": "Senior Project I"
+        },
+        "CM 462": {
+            "description": "Selection and completion of a comprehensive project under faculty supervision.  Problems to involve the student's technical and creative skills.  Student proposal must be submitted and approved by project advisor prior to registration for course.  Construction and team projects encouraged.",
+            "title": "Senior Project II"
+        },
+        "CM 463": {
+            "description": "Practical application of construction management theory and practice solving problems related to the built environment.  3 laboratories.",
+            "title": "Senior Project: Professional Practice for Constructors"
+        },
+        "CM 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CM 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CM 475": {
+            "description": "Development process and its major actors:  investors, developers, government agencies, environmental and local stakeholders; their development roles, objectives, approaches.  Basics of urban markets and economics, financing, regulation, public planning; value added, contractual, environmental and community context factors.  4 lectures.",
+            "title": "Real Property Development Principles"
+        },
+        "CM 480": {
+            "description": "Examination of the role of preconstruction services, team integration, and joint design planning in several Integrated Project Delivery (IPD) approaches.  Various tools and techniques associated with preconstruction services and design planning from the proposal stage through the design stages of a project.  2 activities.",
+            "title": "Preconstruction Integration and Planning"
+        },
+        "CM 485": {
+            "description": "Full-time work experience in an area directly related to the construction industry for 3 months.  Positions are paid and usually require relocation and registration in course for one quarter.  Registration in course is required at start of work experience.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  May be repeated for credit.  Major credit limited to 6 units; total credit limited to 12 units.  See department for additional requirements.",
+            "title": "Cooperative Education Experience"
+        },
+        "CM 495": {
+            "description": "Full-time work experience in an area directly related to the construction industry for 6 months.  Positions are paid and usually require relocation for two consecutive quarters.  Registration in course is required at start of work experience.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  May be repeated for credit.  Major credit limited to 6 units; total credit limited to 24 units.  See department for additional requirements.",
+            "title": "Cooperative Education Experience"
+        },
+        "CM 510": {
+            "description": "Examination of the facility management profession and all functions associated with it, including strategic planning, financial planning, budgeting, project management, operations and maintenance, sustainability, and emergency preparedness, and how those functions interface with the overall goals of the business enterprise.  Course offered online only.  4 lectures.",
+            "title": "Principles of Integrated Facility Management"
+        },
+        "CM 511": {
+            "description": "Examination of the full range of financial risks and management strategies associated with facilities including asset management, real estate options, budget development, analysis and cost control, project management, contracting methods for design and construction, and procurement approaches.  4 lectures.",
+            "title": "Facility Risk Analysis and Project Management"
+        },
+        "CM 512": {
+            "description": "Examination of the various strategies associated with the oversight and management of operations and maintenance of the internal and external systems, equipment, and building functions associated with the physical plant of real estate assets.  4 lectures.",
+            "title": "Facility Maintenance and Operation Strategies"
+        },
+        "CM 513": {
+            "description": "Examination of how facility conditions assessments and the integration of systems through computerized, intelligent networks of electronic devices designed to monitor and control the mechanical electronics, lighting systems, access, and security systems enhance building performance and ease of operation over its life-cycle.  4 lectures.",
+            "title": "Facility Systems Assessment and Integration"
+        },
+        "CM 514": {
+            "description": "Examination of the basics of environmental sustainability as applied to new or existing facilities and the identification of skills, tools, and techniques necessary to make effective and sustainable facility management and operations decisions that align with the organization's sustainability goals and objectives.  4 lectures.",
+            "title": "Sustainable Facility Management"
+        },
+        "CM 515": {
+            "description": "Examination of major safety and environmental regulations, regulatory implications, and how best to minimize associated risk.  Examination of emergency preparedness at both a macro and micro level, from planning for an emergency through recovering from disasters.  4 lectures.",
+            "title": "Environmental Health and Safety Management for Facilities"
+        },
+        "CM 521": {
+            "description": "Examination of the construction discipline of cost estimating and pre-construction activities, emphasizing both the core and higher functions associated with types of estimates, measuring and pricing, bidding procedures and strategies, procurement, pre-construction services, budget, and cost control analysis.  4 lectures.",
+            "title": "Construction Cost Estimating and Work Procurement"
+        },
+        "CM 522": {
+            "description": "Examination of the construction discipline of planning, scheduling, management, and control relating to both core and higher functions associated with network diagram analysis, CPM scheduling, project diagnostics, short interval, resource loaded, pull scheduling, forecasting, and earned value management techniques.  4 lectures.",
+            "title": "Construction Planning, Scheduling, and Impact Analysis"
+        },
+        "CM 523": {
+            "description": "Examination of the discipline of law and contracts as they relate to the construction industry, including both the core and higher functions associated with the construction process, business organization, employment responsibilities, liability, damages, claims, dispute resolution, and risk management.  4 lectures.",
+            "title": "Construction Contracts and Law"
+        },
+        "CM 524": {
+            "description": "Examination of the discipline of construction project management and control relating to both the core and higher functions associated with the construction process, pre-construction services, and management in the areas of safety, quality, resource, risk, schedule, budget, changes, and value.  4 lectures.",
+            "title": "Construction Project Management and Control"
+        },
+        "CM 525": {
+            "description": "Examination of the disciplines of workforce productivity and safety as they relate to the construction industry, including both the core and higher functions associated with field personnel management, construction operations, lean construction techniques, equipment utilization, productivity, and OSHA regulations.  4 lectures.",
+            "title": "Construction Workforce, Productivity, and Safety"
+        },
+        "CM 570": {
+            "description": "Directed study of selected topics in Construction Management.  Class Schedule will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Selected Advanced Topics in Construction Management"
+        },
+        "CM 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "ARCE 106",

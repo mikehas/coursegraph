@@ -1,4 +1,450 @@
 {
+    "descriptions": {
+        "KINE 100": {
+            "description": "Basic instruction in the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities.  Enrollment is open to all students.  Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176:  1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Physical Activity for Students with Disabilities"
+        },
+        "KINE 108": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Basketball"
+        },
+        "KINE 109": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Bowling"
+        },
+        "KINE 112": {
+            "description": "Basic instruction and the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities.  Enrollment is open to all students.  Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176:  1) no more than two different activity courses nor more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Intermediate Bowling"
+        },
+        "KINE 121": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Golf"
+        },
+        "KINE 122": {
+            "description": "Basic instruction and the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities.  Enrollment is open to all students.  Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176:  1) no more than two different activity courses nor more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Golf, Int"
+        },
+        "KINE 125": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Jogging"
+        },
+        "KINE 129": {
+            "description": "Practice of yoga/pilates to improve fitness, flexibility, core strength and endurance. Safe and effective training techniques are emphasized. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Yoga/Pilates"
+        },
+        "KINE 131": {
+            "description": "Group fitness activities designed to improve all components of fitness. Concepts of aerobic endurance, muscular strength and agility are discussed to assist in the formulation of individual goals. Safe and effective training techniques are emphasized. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Group Fitness Cardio/Strength"
+        },
+        "KINE 132": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Beginning Racquetball"
+        },
+        "KINE 133": {
+            "description": "Basic instruction and the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities.  Enrollment is open to all students.  Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176:  1) no more than two different activity courses nor more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Racquetball, Int"
+        },
+        "KINE 137": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Self-Defense"
+        },
+        "KINE 138": {
+            "description": "Basic instruction and the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses nor more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 3 units. Credit/No Credit grading only. 1 laboratory.",
+            "title": "Karate"
+        },
+        "KINE 139": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Soccer"
+        },
+        "KINE 143": {
+            "description": "Introduction to aquatic environments for adults for the pursuit of swimming and other aquatic exercise. Developing positive attitudes, good swimming habits and safe practices in and around the water. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Swimming for Non-Swimmers"
+        },
+        "KINE 144": {
+            "description": "Development of swimming strokes for adults to improve confidence and endurance as novice swimmers. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Beginning Swimming"
+        },
+        "KINE 145": {
+            "description": "Continuation of stroke refinement for adult swimmers who have basic beginning level swimming skills.  Practice of swimming strokes and swimming drills for the enhancement of confidence and improvement of swimming effectiveness and endurance. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Intermediate Swimming"
+        },
+        "KINE 147": {
+            "description": "Lap swimming for advanced swimmers. Organized structured swim workouts with emphasis on increasing fitness. Participants should have ability to swim three of the four competitive strokes: freestyle, backstroke, breaststroke, butterfly. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Advanced Swimming and Conditioning"
+        },
+        "KINE 148": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Tennis, Beg"
+        },
+        "KINE 149": {
+            "description": "Basic instruction and the development of skill, knowledge of rules, background and analysis of techniques, and desirable attitudes toward physical fitness and participation in physical activities.  Enrollment is open to all students.  Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors.  The following restrictions apply to KINE 100-176:  1) no more than two different activity courses nor more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Tennis, Int"
+        },
+        "KINE 151": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Volleyball"
+        },
+        "KINE 154": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes in a weight room setting. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Weight Training"
+        },
+        "KINE 176": {
+            "description": "Basic instruction in skill development, knowledge, and desirable attitudes toward physical activity. Enrollment is open to all students. Total limited to 12 units of credit earned in basic instructional KINE courses (KINE 100-176) for non-majors. The following restrictions apply to KINE 100-176: 1) no more than two different activity courses or more than one section of an individual activity course may be taken for credit in any one quarter, 2) a student may not enroll simultaneously in the same quarter for a beginning, intermediate and/or advanced activity course, and 3) any level of an activity course can be repeated only once for credit. Total credit limited to 2 units. Credit/No Credit grading only. 1 activity.",
+            "title": "Fitness Walking"
+        },
+        "KINE 180": {
+            "description": "Disciplinary and professional perspectives in Kinesiology and the Kinesiology program at Cal Poly.  Credit/No Credit grading only.  2 lectures.",
+            "title": "Orientation to Kinesiology"
+        },
+        "KINE 181": {
+            "description": "An American Red Cross certification course in Standard First Aid, CPR, and AED (Automated External Defibrillation). Skills and knowledge necessary in the treatment of life-threatening emergencies, other injuries, and sudden illnesses. Red Cross First Aid/CPR/AED certifications issued upon successful completion of certification requirements. Credit/No Credit grading only. 1 activity.",
+            "title": "First Aid/CPR/AED"
+        },
+        "KINE 208": {
+            "description": "Beginning to intermediate golf skills, rules, and etiquette including a combination of skill instruction and course play. Leadership activity assigned. 1 activity.",
+            "title": "Golf"
+        },
+        "KINE 210": {
+            "description": "Beginning to intermediate tennis skills, etiquette, rules, and equipment. Singles and doubles play. Leadership activity assigned. 1 activity.",
+            "title": "Tennis"
+        },
+        "KINE 212": {
+            "description": "Beginning to intermediate racquetball skills. Rules, regulations, basic strokes and shots, strategies and tournament play. Leadership activity assigned. 1 activity.",
+            "title": "Racquetball"
+        },
+        "KINE 213": {
+            "description": "Beginning to intermediate basketball skills. Skill development, knowledge of rules, advanced strategies for playing basketball. Leadership activity assigned. 1 activity.",
+            "title": "Basketball"
+        },
+        "KINE 214": {
+            "description": "Beginning to intermediate volleyball skills. Basic fundamentals, rules, regulations, strategies, skill development and games. Leadership activity assigned. 1 activity.",
+            "title": "Volleyball"
+        },
+        "KINE 223": {
+            "description": "Beginning to intermediate skills in performance and analysis. Knowledge of rules and strategies. Development of skills and knowledge relating to performance, training, and scoring for cross-country and track running events. Leadership activity assigned. 1 activity.",
+            "title": "Cross Country and Track Events"
+        },
+        "KINE 224": {
+            "description": "Intermediate skills in performance and analysis. Knowledge of rules and strategies. Development of skills relating to performance, training, and scoring track field events. Leadership activity assigned. 1 activity.",
+            "title": "Field Events"
+        },
+        "KINE 226": {
+            "description": "Development of beginning and intermediate skills. Rules, regulations and game play. Leadership activity assigned. 1 activity.",
+            "title": "Soccer"
+        },
+        "KINE 229": {
+            "description": "Beginning and intermediate skills. Rules, regulations and strategies for competition. Leadership activity assigned. 1 activity.",
+            "title": "Badminton"
+        },
+        "KINE 230": {
+            "description": "Aquatic based resistance and cardiovascular activities for individual and group settings. Stroke development also included for front crawl, backstroke, breaststroke, butterfly, elementary backstroke and sidestroke. Must be able to swim 25 yards non-stop in order to participate. Leadership activity assigned. 1 laboratory.",
+            "title": "Aquatic Fitness Activities"
+        },
+        "KINE 231": {
+            "description": "Aerobic fitness activities appropriate for large and small group exercise sessions.  Development of instructional competency in the basic components of aerobic exercise, and leadership skills associated with the delivery of these activities.  Emphasis on warm-up, cardiovascular fitness, heart-rate monitoring, dance choreography, elements of higher risk stretching and relaxation protocols, and equipment, and muscle conditioning.  2 activities.",
+            "title": "Leading Group Fitness Activities"
+        },
+        "KINE 250": {
+            "description": "Personal health with emphasis on healthful behavioral practices including physical fitness, nutrition, psychosocial well-being, alcohol and other drugs, intentional and unintentional injury, reproductive health, infectious and non-infectious diseases. Not open to students with credit in HLTH/KINE 255 or Liberal Studies majors. Course may be offered in classroom-based or online format. 4 lectures. Crosslisted as HLTH/KINE 250. Fulfills GE D4.",
+            "title": "Healthy Living"
+        },
+        "KINE 255": {
+            "description": "Personal health with special emphasis on multicultural practices. Not open to students with credit in HLTH/KINE 250. Course may be offered in classroom-based or online format. 4 lectures. Crosslisted as HLTH/KINE 255. Fulfills GE D4 and USCP.",
+            "title": "Personal Health: A Multicultural Approach"
+        },
+        "KINE 260": {
+            "description": "Introduction to major health issues that affect women disproportionately or differently from men. Topics include female sexual health and reproduction, exercise and eating behaviors, substance abuse, mental health and stress, and violence against women. 4 lectures. Crosslisted as HLTH/KINE 260. Fulfills GE D4 and USCP.",
+            "title": "Women's Health Issues"
+        },
+        "KINE 265": {
+            "description": "Introduction to community health and the core functions of public health.  Social-ecological, behavioral, and policy influences on community and population health.  Health promotion in community/public health settings.  3 lectures.  Crosslisted as HLTH/KINE 265.",
+            "title": "Introduction to Community and Public Health"
+        },
+        "KINE 266": {
+            "description": "An introduction to the field of sport and exercise psychology.  Psychological theories and research related to topics such as motivation to participate in sport and exercise, exercise and psychological well-being, teamwork and leadership, aggression, anxiety, psychological response to athletic injuries and exercise addiction.  4 lectures.",
+            "title": "Sport and Exercise Psychology"
+        },
+        "KINE 278": {
+            "description": "Current and historical trends in human movement from philosophical perspectives including Western and Eastern intellectual traditions; exploration of the effects of culture on the view of the human body and the understanding of the role of physical activity and sport in people's lives.  4 lectures.",
+            "title": "Introduction to Perspectives in Physical Activity"
+        },
+        "KINE 280": {
+            "description": "Introduction to multiple health and fitness assessment protocols through participation in community-based activities and/or as assistants on faculty-led research projects.  Experiential and service learning.  Total credit limited to 3 units.  Credit/ No Credit grading only.  1 activity.  Crosslisted as HLTH/KINE 280.",
+            "title": "Assessment Team for Health Promotion Activities"
+        },
+        "KINE 281": {
+            "description": "Introduction to health education and promotion strategies through participation in community-based activities and/or as assistants on faculty-led projects.  Experiential and service learning.  Field trip required.  Total credit limited to 3 units.  Credit/No Credit grading only.  1 activity.  Crosslisted as HLTH/KINE 281.",
+            "title": "Health Ambassadors"
+        },
+        "KINE 290": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "KINE 297": {
+            "description": "Development of medical vocabulary used in health care occupations, through the study of root words, prefixes, suffixes, and case studies.  Pronunciation, spelling, and use of medical terms and abbreviations related to diagnosis, clinical procedures, surgery, and anatomical and physiological systems.  Course offered online only.  Credit/No Credit grading only.  3 lectures.  Crosslisted as HLTH/KINE 297.",
+            "title": "Medical Terminology"
+        },
+        "KINE 298": {
+            "description": "Introduction to epidemiological principles and methods for studying chronic and communicable diseases in the United States.  Upstream determinants of health and disease.  Chronic disease continuum and epidemiologic triangle.  Evidence-based recommendations for public health interventions.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 298.",
+            "title": "Disease Epidemiology"
+        },
+        "KINE 301": {
+            "description": "Functional organization of the human musculoskeletal system and articulations.  Emphasis on the roles of muscles during activities of daily living, human performance settings, and the structure of freely movable joints.  3 lectures.",
+            "title": "Functional Anatomy"
+        },
+        "KINE 303": {
+            "description": "Application of human physiology to exercise situations.  3 lectures, 1 laboratory.",
+            "title": "Physiology of Exercise"
+        },
+        "KINE 304": {
+            "description": "Selected human diseases, their etiology, pathophysiology, symptoms, diagnosis, effects on health and physical performance, and as affected by preventive or therapeutic exercise.  3 lectures.",
+            "title": "Pathophysiology and Exercise"
+        },
+        "KINE 305": {
+            "description": "Social, biological, and psychological factors of the major drugs associated with therapeutic and recreational use and abuse in society.  Topics include drug use as a social problem, theories and treatment of addiction, how drugs work, and the detrimental health effects of drug use.  Includes both illegal and legal drugs.  4 lectures.  Crosslisted as HLTH/KINE 305.",
+            "title": "Drugs in Society"
+        },
+        "KINE 308": {
+            "description": "Motor development of individuals from birth to maturity.  Emphasis on interrelationship between motor and cognitive characteristics and affective needs and interests.  Course may be offered in classroom-based or online format.  3 lectures.",
+            "title": "Motor Development"
+        },
+        "KINE 310": {
+            "description": "Movement as it relates to physical motor skill development, fitness, wellness, social development, cross-cultural understanding, and self-image.  2 lectures, 1 activity.",
+            "title": "Concepts and Applications in Elementary Physical Education"
+        },
+        "KINE 311": {
+            "description": "Proper use of weight room resistance modalities including free weights and machine based exercises.  Emphasis on effective and safe methods for leading individuals through an exercise session.  1 activity.",
+            "title": "Strength Training Instruction"
+        },
+        "KINE 319": {
+            "description": "Principles of reading and conducting research including contemporary research perspectives in kinesiology.  Basic and applied research.  Quantitative, qualitative, and mixed methods.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Research Methods in Kinesiology"
+        },
+        "KINE 320": {
+            "description": "Applications of computers, electronic media and information technology as related to promoting health.  Projects include digital videos, professional websites, ePortfolios, and blogs.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 320.",
+            "title": "Media and Technology in Health Promotion"
+        },
+        "KINE 323": {
+            "description": "Intersections between sport and gender in American society.  Identification and discussion of the historical, sociological and psychological issues that affect the sport experiences of males and females, especially as they relate to class, race/ethnicity, sexuality, and political movements.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE D5 except for Kinesiology majors.  Fulfills USCP.",
+            "title": "Sport and Gender"
+        },
+        "KINE 324": {
+            "description": "Issues of class, race/ethnicity, gender, various forms of deviance, and other aspects of social life.  Exploration of sociological manifestations and implications of how the aforementioned social issues are embedded in mediated forms of sports.  Kinesiology majors will not receive GE Area D5 credit.  3 lectures, 1 activity.  Fulfills GE D5 and USCP.",
+            "title": "Sports, Media and American Popular Culture"
+        },
+        "KINE 330": {
+            "description": "Overview of basic components of group fitness classes in school, corporate and commercial fitness settings.  Development of instructional competencies in the primary components of a group fitness class.  Instructional techniques, professionalism, leadership styles conducive to promoting exercise adherence.  Application of basic theory related to human anatomy, biomechanics, exercise physiology, training principles and use of relevant ACSM guidelines.  2 activities.",
+            "title": "Group Fitness Instruction"
+        },
+        "KINE 366": {
+            "description": "Psychological considerations of the coach-athlete relationship and mental preparation of teams and individuals for competition and practice.  Application of sport psychology principles to develop a psychological skills training program appropriate to enhance performance and well-being in sport or exercise contexts.  3 lectures.",
+            "title": "Applied Sport Psychology"
+        },
+        "KINE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 3 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "KINE 401": {
+            "description": "Planning, organizing and controlling programs in public, commercial, private and clinical exercise and health program settings.  Emphasis on legal, ethical and budgetary considerations.  3 lectures.",
+            "title": "Managing Exercise and Health Programs"
+        },
+        "KINE 402": {
+            "description": "Variables which control sensory-motor integration.  Analysis of factors which affect the acquisition of motor skills as related to the learning process and the learning environment.  3 lectures, 1 activity.",
+            "title": "Motor Learning and Control"
+        },
+        "KINE 403": {
+            "description": "Fundamental biomechanical concepts and their application to human systems including examination of activities of daily living and performance settings.  Examination of the effects of chronic and acute loading on the body.  3 lectures, 1 laboratory.",
+            "title": "Biomechanics"
+        },
+        "KINE 406": {
+            "description": "Structure and function of the human nervous system.  Afferent and efferent pathways involved in perception and action.  Behavioral aspects of motor control and related neurological dysfunction and pathologies.  Designed for allied health professions students.  4 lectures.",
+            "title": "Neuroanatomy"
+        },
+        "KINE 407": {
+            "description": "Major categories of disabling conditions with implications for the development of physical activity programs for specific disabilities.  3 lectures, 1 laboratory.",
+            "title": "Adapted Physical Activity"
+        },
+        "KINE 408": {
+            "description": "Special fitness, exercise, and health needs of elder adults.  Theories of aging and age-related changes.  Health and physical activity programs for elder adults.  2 lectures, 1 activity.",
+            "title": "Exercise and Health Gerontology"
+        },
+        "KINE 409": {
+            "description": "Examination of human motion biomechanics.  Experimental and analytical methods in motion analysis based on rigid body dynamics.  Protocols for protection of human subjects in research.  Hypothesis-driven research in interdisciplinary teams, including written proposal development and written/oral communication of results to a scientific audience.  1 lecture, 3 activities.  Crosslisted as BMED/KINE/ME 409.",
+            "title": "Interdisciplinary Study in Biomechanics"
+        },
+        "KINE 434": {
+            "description": "Application of methods to facilitate behavior change to promote health and prevent morbidity and mortality.  Concepts affecting health behavior, motivation, and decision making.  Development of program planning skills in health education and promotion.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 434.",
+            "title": "Health Promotion Program Planning"
+        },
+        "KINE 435": {
+            "description": "Implementation and evaluation of health promotion programs in school, community, medical, public health, worksite, and college/university settings.  Planning the intervention design, implementation and evaluation protocols including process, impact and outcome assessments.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 435.",
+            "title": "Health Promotion Program Implementation and Evaluation"
+        },
+        "KINE 437": {
+            "description": "Practical work experience in related activities of kinesiology under qualified supervision.  Total credit limited to 9 units.  Credit/No Credit grading only.  Minimum of 2 laboratory hours per week per unit.",
+            "title": "Directed Fieldwork"
+        },
+        "KINE 438": {
+            "description": "Practical experience in adapted physical activity programming.  Students plan and conduct physical activity programs for people who are disabled.  Total credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Adapted Physical Activity Fieldwork"
+        },
+        "KINE 440": {
+            "description": "Supervised experience involving organizational and instructional responsibilities in activity, lecture and/or laboratory classes as determined by curricular concentration or certificate program.  Total credit limited to 3 units.",
+            "title": "Physical Education Practicum"
+        },
+        "KINE 443": {
+            "description": "The health status, special concerns and national health objectives for school aged children.  Coordinated school health programs and California Health Framework.  Health, nutrition, safety, alcohol, tobacco and other drugs, reproductive health, and chronic disease prevention.  Satisfies CTC requirement for credential.  4 lectures.  Crosslisted as HLTH/KINE 443.",
+            "title": "Health Education for Teachers"
+        },
+        "KINE 445": {
+            "description": "Basic principles of electrocardiography, including practical skills of the ECG technician.  Recognition of normal ECG patterns and abnormal changes related to rhythm disturbances, conduction defects, myocardial ischemia/infarction, and exercise.  3 lectures, 1 laboratory.",
+            "title": "Electrocardiography"
+        },
+        "KINE 446": {
+            "description": "Basic principles of echocardiography, including practical skills of the echocardiographer.  Recognition of normal echocardiographic patterns and abnormalities, including those caused by pathology and exercise conditioning.  2 lectures, 2 laboratories.",
+            "title": "Echocardiography"
+        },
+        "KINE 449": {
+            "description": "Use of medical history, physical examination, laboratory and exercise testing data for establishment of appropriate exercise programs for healthy adults and those with chronic and acute disease.  Exercise leadership for normal and clinical populations.  2 lectures, 1 laboratory.",
+            "title": "Exercise Prescription and Leadership"
+        },
+        "KINE 450": {
+            "description": "Planning, implementing, and evaluating comprehensive worksite/university health promotion (WHP) and campus wellbeing programs.  Benefits of WHP for employers and employees.  Educational, organizational, economic, and environmental supports for behaviors conducive to health.  4 lectures.  Crosslisted as HLTH/KINE 450.",
+            "title": "Worksite and University Health Promotion Programs"
+        },
+        "KINE 451": {
+            "description": "Application of nutritional and metabolic facts to selected aspects of physical training, degenerative disease, obesity and weight control, diet manipulation and modification in sport, nutritional supplementation and special dietary considerations for the young and old, male and female athletes.  3 lectures.",
+            "title": "Nutrition for Fitness and Sport"
+        },
+        "KINE 452": {
+            "description": "Selected areas of health/fitness screening and evaluation.  Application of components relevant to the development and administration of exercise programs for persons regardless of sex, age, functional capacity and presence or absence of CHD or CHD risk factors.  3 lectures, 1 laboratory.",
+            "title": "Exercise Testing and Prescription for Fitness Specialists"
+        },
+        "KINE 453": {
+            "description": "Overview of research on the causes and consequences of obesity.  Evidence-based prevention and treatment interventions.  Emphasis on skills for promoting weight control in multidisciplinary health promotion and public health settings.  3 lectures, 1 activity.  Crosslisted as HLTH/KINE 453.",
+            "title": "Obesity Prevention and Treatment"
+        },
+        "KINE 454": {
+            "description": "Advanced understanding of endocrine, metabolic, and physiological responses to physical activity, exercise and nutrition.  How physical activity impacts human storage, delivery, and use of fuel required for energy conversion.  3 lectures.",
+            "title": "Exercise Metabolism"
+        },
+        "KINE 459": {
+            "description": "Instructional competencies in the primary components of a group fitness class and individually tailored personal fitness programs.  Instructional techniques, professionalism, leadership styles conducive to promoting exercise adherence.  Application of basic theory related to human anatomy, motor learning, exercise physiology, training principles and relevant ACSM guidelines.  1 lecture, 2 activities.",
+            "title": "Personal and Group Fitness Instruction"
+        },
+        "KINE 460": {
+            "description": "A comprehensive applied capstone experience that integrates content from Kinesiology courses under faculty supervision.  Projects must be approved by the supervising faculty member.  Minimum 30 hours.  Credit/No Credit grading only.",
+            "title": "Experiential Senior Project"
+        },
+        "KINE 461": {
+            "description": "A comprehensive synthesis of professional literature that integrates content from kinesiology courses resulting in a report.  Topic must be approved by the instructor.  Minimum 30 hours.",
+            "title": "Senior Project Report"
+        },
+        "KINE 462": {
+            "description": "Completion of an advanced research, or creative project.  Intended for students taking a significant or leadership role in a professional area.  Results may be submitted for poster presentation or other public/ professional forum.  Total credit limited to 4 units.",
+            "title": "Research Honors Senior Project"
+        },
+        "KINE 463": {
+            "description": "Practical experience at an approved agency that provides exercise/fitness/health promotion programs.  Students participate in program administration under the direct supervision of an approved on-site coordinator.  Credit/No Credit grading only.  Total credit limited to 3 units.",
+            "title": "Exercise Science and Health Promotion Fieldwork"
+        },
+        "KINE 470": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "KINE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "KINE 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "KINE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 24 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "KINE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Only 6 units may be applied to degree requirements.",
+            "title": "Individual Study"
+        },
+        "KINE 501": {
+            "description": "Analysis and evaluation of published studies and current trends in kinesiology.  3 seminars.",
+            "title": "Evaluation of Literature and Current Trends in Kinesiology"
+        },
+        "KINE 503": {
+            "description": "Current issues and trends in health, disease prevention, and the healthcare system.  Socioeconomic, biologic, environmental, institutional and policy factors that influence health status, disparities in health, and positive health outcomes.  4 seminars.",
+            "title": "Current Health Issues"
+        },
+        "KINE 504": {
+            "description": "Selected human diseases, their etiology, pathophysiology, symptoms, diagnosis, effects on health and physical performance, and as affected by preventive or therapeutic exercise.  3 lectures.",
+            "title": "Advanced Pathophysiology and Exercise"
+        },
+        "KINE 505": {
+            "description": "Knowledge, skills, preparation and support for teaching Kinesiology activity and laboratory classes in the department.  Prepares students to be supervisors and teachers in their current or future employment.  Credit/No Credit grading only.  1 seminar, 1 activity.",
+            "title": "Introduction to Issues, Ethics and Policies in Teaching Kinesiology"
+        },
+        "KINE 510": {
+            "description": "Examination of contemporary research, theory and practice related to facilitating healthy behavior change.  Analysis of health problems from biological, ecological, and psycho-social perspectives with emphasis on understanding the acquisition and maintenance of healthy behavior.  3 seminars.",
+            "title": "Advanced Health Behavior Change Programs"
+        },
+        "KINE 511": {
+            "description": "Principles and techniques of administration in health, physical activity, and academic settings including budget, personnel supervision, risk management, leadership techniques, and facility management.  4 seminars.",
+            "title": "Administration in Exercise and Health Settings"
+        },
+        "KINE 517": {
+            "description": "Quantitative, qualitative and mixed methods approaches to research in kinesiology.  Selection of adequate problems for investigation; various sampling techniques and analyses; use of library facilities; manuscript requirements for the thesis.  4 seminars.",
+            "title": "Research Methods in Kinesiology"
+        },
+        "KINE 518": {
+            "description": "Strategies for identifying academically valid research topics.  Planning considerations for qualitative and quantitative research including grant writing, human subjects review, personnel, equipment, and timelines.  Design and composition of effective research proposals.  Credit/No Credit grading only.  2 seminars.",
+            "title": "Research Prospectus and Proposal Writing"
+        },
+        "KINE 522": {
+            "description": "Advanced biomechanical concepts applied to human movement, examination of research, and biomechanical analyses of movement activities.  Performance, occupational, and clinical settings.  Laboratory techniques including motion analysis, force platform, and electromyography.  3 seminars, 1 laboratory.",
+            "title": "Advanced Biomechanics"
+        },
+        "KINE 525": {
+            "description": "Analysis of control theories, research principles and motor learning variables involved in the acquisition of skilled movement with an emphasis on the behavioral level of learning.  3 seminars.",
+            "title": "Advanced Motor Learning and Control"
+        },
+        "KINE 526": {
+            "description": "Theoretical and professional issues in the psychological foundations of sport and exercise.  3 seminars.",
+            "title": "Advanced Sport and Exercise Psychology"
+        },
+        "KINE 530": {
+            "description": "Physiological determinants of physical work capacity and sports performance.  3 seminars, 1 laboratory.",
+            "title": "Advanced Physiology of Exercise"
+        },
+        "KINE 536": {
+            "description": "Theory and application of electrocardiography and other techniques for cardiovascular assessment and treatment of cardiac disease and other abnormalities.  3 seminars, 1 laboratory.",
+            "title": "Advanced Electrocardiography"
+        },
+        "KINE 537": {
+            "description": "Supervised work experience in an approved wellness/fitness clinical facility, school, or other faculty approved setting.  Total credit limited to 12 units.  Maximum of 6 units may be applied toward Master of Science in Kinesiology.  Credit/No Credit grading only.",
+            "title": "Internship"
+        },
+        "KINE 539": {
+            "description": "Observation and analysis of teaching physical education and coaching sports with special emphasis in pedagogical systems.  2 seminars, 1 laboratory.",
+            "title": "Effective Practice in Teaching and Coaching"
+        },
+        "KINE 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "KINE 581": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1-3 seminars.",
+            "title": "Graduate Seminar in Kinesiology"
+        },
+        "KINE 585": {
+            "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Total credit limited to 9 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "KINE 599": {
+            "description": "Completion of a thesis or project pertinent to the field of kinesiology.  Independent research under the guidance of the faculty.",
+            "title": "Thesis or Project"
+        }
+    },
     "links": [
         {
             "source": "KINE 109",

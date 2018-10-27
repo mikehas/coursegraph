@@ -1,4 +1,122 @@
 {
+    "descriptions": {
+        "CD 102": {
+            "description": "Introduction to the child development major, self-assessments, career opportunities, university and community resources, and the program at Cal Poly.  2 lectures.",
+            "title": "Orientation to the Child Development Major"
+        },
+        "CD 131": {
+            "description": "Observation methods and guidance techniques for adults working with children in family, community, and educational settings. 3 lectures, 1 activity.",
+            "title": "Observing and Interacting with Children"
+        },
+        "CD 200": {
+            "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor. Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems"
+        },
+        "CD 207": {
+            "description": "Study of theories and research about the development and learning of children and young adolescents within diverse backgrounds, and application to teaching in public school settings.  Observations/interactions with children in school settings.  3 lectures, 1 activity.  Participation in public schools requires mandated fingerprint clearance.  Crosslisted as CD/EDUC 207.",
+            "title": "Children's Learning and Development in Educational Settings"
+        },
+        "CD 230": {
+            "description": "Preliminary teaching experience with children in a preschool laboratory setting.  Participant planning, execution and evaluation of age-appropriate activities.  Observation is used as the basis for planning for the development of the whole child.  2 lecture, 2 laboratories.",
+            "title": "Preschool Laboratory"
+        },
+        "CD 254": {
+            "description": "Introduction to research and theory on family relationships and behavior across the lifespan.  Contextual influences, diversity of family forms, and topics such as love, mate selection, marital quality, parenting, gender, household work, divorce, and remarriage.  4 lectures.  Crosslisted as CD/PSY 254.",
+            "title": "Family Psychology"
+        },
+        "CD 256": {
+            "description": "Introduction to the scientific study of development with emphasis on the lifespan, from infancy to old age.  Basic research and concepts in understanding social, emotional, cognitive, contextual, and diversity influences on development.  4 lectures.  Crosslisted as CD/PSY 256.",
+            "title": "Developmental Psychology"
+        },
+        "CD 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CD 304": {
+            "description": "Human development from conception through the second year of life.  Examination of theory and research in multiple domains of development.  Consideration of environments and activities which enhance the emerging capabilities of infants and toddlers.  4 lectures.",
+            "title": "Infant and Toddler Development"
+        },
+        "CD 305": {
+            "description": "In-depth study of theory and research on development in early and middle childhood, especially within physical, cognitive, social, and emotional domains.  Consideration of case studies and current practices in light of theoretical perspectives and current research.  4 lectures.",
+            "title": "Early and Middle Childhood Development"
+        },
+        "CD 306": {
+            "description": "Psychological analysis of the years from prepubescence to young adulthood.  Current research on behavior and development during adolescence with emphasis on physical, affective, cognitive, sociocultural, historical, family, peer and school aspects of life during the post-child, pre-adult years.  4 lectures.  Crosslisted as CD/PSY 306.",
+            "title": "Adolescence"
+        },
+        "CD 329": {
+            "description": "Introduction to research methods in child development.  Critically evaluating research literature, generating research questions, and conducting observations and interviews with children and adolescents.  3 lectures, 1 activity.",
+            "title": "Research Methods in Child Development"
+        },
+        "CD 330": {
+            "description": "Faculty supervised fieldwork experience.  Role of professional apprentice is experienced and analyzed by each student.  Credit/No Credit grading only.",
+            "title": "Supervised Fieldwork Internship"
+        },
+        "CD 333": {
+            "description": "Faculty-supervised research experience on various topics related to child and adolescent development.  Student apprenticeship with a department faculty member engaging in a research project.  Credit/No Credit grading only.",
+            "title": "Research Internship"
+        },
+        "CD 350": {
+            "description": "Current issues and research concerning how children and youth develop and learn in school.  Topics may include motivation, views of intelligence, teacher and student relations, constructivist learning environments, socioemotional learning, school climates, home-school connections.  4 lectures.",
+            "title": "Developmental Issues in Education"
+        },
+        "CD 351": {
+            "description": "How children and youth develop and learn in settings and activities outside of formal schooling, such as everyday family activities, informal learning institutions (e.g., museums), nature, and organized extracurricular activities.  Research findings and theoretical perspectives on how activity in such settings supports development and learning.  4 lectures.",
+            "title": "Learning in Out-of-School Time"
+        },
+        "CD 400": {
+            "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor.  Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "CD 401": {
+            "description": "Advanced study of theoretical perspectives and research on the development of children and adolescents and the implications for current practice and policy.  4 seminars.",
+            "title": "Perspectives on Child and Adolescent Development"
+        },
+        "CD 413": {
+            "description": "Examination of research and theory on how children and adolescents use digital technologies and influences on cognitive, social, and identity development.  Observations of children's use of various digital technologies, and design of activities that use technology tools to support learning goals.  4 lectures, 2 laboratories.",
+            "title": "Children, Adolescents & Technology"
+        },
+        "CD 417": {
+            "description": "Current theories and research on the development of interpersonal relationships in childhood and adolescence.  Topics may include parent-child relationships, peer relationships in childhood, intimate relationships in adolescence.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Crosslisted as CD/PSY 417.",
+            "title": "Interpersonal Relationships in Childhood and Adolescence"
+        },
+        "CD 424": {
+            "description": "Examination of research on child and adolescent learning and development in diverse families and community settings.  Further study of ecological and sociocultural perspectives and cross-cultural research.  4 lectures.",
+            "title": "Children's Learning and Development in Diverse Families and Communities"
+        },
+        "CD 430": {
+            "description": "Faculty-supervised preprofessional experience in a career-related setting which complements the CD 330 internship.  Such roles as master teacher, caseworker, therapeutic intern, administrative aide or program specialist are experienced and analyzed by each student.  Credit/No credit grading only.",
+            "title": "Advanced Supervised Fieldwork Internship"
+        },
+        "CD 431": {
+            "description": "Current developmental and environmental assessments used in care and educational settings and in prevention programs and research.  Practice using, creating, and evaluating child assessments.  3 lectures, 1 activity.  Crosslisted as CD/PSY 431.",
+            "title": "Assessing Children's Development and Environments"
+        },
+        "CD 433": {
+            "description": "Faculty-supervised research experience on various topics related to child and adolescent development.  Student apprenticeship with a department faculty member to conduct aspects of a research project.  Credit/No Credit grading only.",
+            "title": "Advanced Research Internship"
+        },
+        "CD 456": {
+            "description": "Applications of psychological principles to childhood behavioral disorders.  Aggression, delinquency, stress reactions, motivational, perceptual-attentional deficiencies, psychoses, anxiety disorders, biological dysfunctions, and social, emotional and intellectual disabilities.  4 seminars.  Crosslisted as CD/PSY 456.",
+            "title": "Behavioral Disorders in Childhood"
+        },
+        "CD 460": {
+            "description": "Issues in child maltreatment, including definitions and forms, causes, consequences, assessment, reporting, treatment, and prevention.  Possible links among research, intervention, and public policy will be emphasized.  4 seminars.  Crosslisted as CD/PSY 460.",
+            "title": "Child Abuse and Neglect"
+        },
+        "CD 461": {
+            "description": "Senior project expectations and skills.  Students work alone or in groups to identify appropriate topics, methods and content for the senior project; to be presented in a series of progress reports.  Begin literature reviews for completion in CD 462.  2 seminars.",
+            "title": "Senior Project Seminar"
+        },
+        "CD 462": {
+            "description": "Completion of a project under faculty supervision.",
+            "title": "Senior Project"
+        },
+        "CD 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "PSY 201",

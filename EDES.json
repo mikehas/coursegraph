@@ -1,4 +1,34 @@
 {
+    "descriptions": {
+        "EDES 101": {
+            "description": "Familiarization with the professional fields of architecture, landscape architecture, structural engineering, construction, and city planning. Introduction to the college's programs as they relate to individual aptitudes. The design process. Visiting speakers. 2 lectures.",
+            "title": "Introduction to Architecture and Environmental Design"
+        },
+        "EDES 123": {
+            "description": "Introduction to the individual's and societal relation with the designed and built environment, and its impact on natural resource consumption, identity, behavior, community, and human health, safety, and general well-being.  Study of the individual and role of design in community development and in making and preserving culture.  Diverse perspectives including designers, engineers, governing bodies, and individual users.  2 lectures, 2 discussions.  Fulfills GE D4.",
+            "title": "Principles of Environmental Design"
+        },
+        "EDES 333": {
+            "description": "Skills and tools for employment acquisition or graduate school admissions.  Individual resume design and production.  Documentation of personal, professional and academic experience via written, oral and image based systems.  Employment interview dynamics.  Electronic and hardcopy portfolio production.  Internet marketing.  1 lecture, 3 activities.",
+            "title": "Professional Presentations"
+        },
+        "EDES 350": {
+            "description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV 350.  Fulfills GE Area F.",
+            "title": "The Global Environment"
+        },
+        "EDES 406": {
+            "description": "Collaboration of interdisciplinary faculty and guest speakers/panelists.  Introduction, illustration and analysis of concepts and principles for sustainability to be used in all aspects of environmental design.  Integration and application of knowledge of human and natural systems with environmental, social and economic concerns, from a global-to-local perspective.  4 lectures.",
+            "title": "Sustainable Environments"
+        },
+        "EDES 408": {
+            "description": "A primarily project-based course, intended to aid students who wish to collaborate with the purpose of implementing sustainability principles by developing tools, process or designs, for community-based projects and proposals at various scales of planning, architecture and design of the human environment to address social, environmental and economic issues.  4 lectures.",
+            "title": "Implementing Sustainable Principles"
+        },
+        "EDES 410": {
+            "description": "Advanced continuation of community-based projects defined and initiated in EDES 408.  Ongoing projects, individual and group, address variable scales of planning, architecture, and environmental design, with required completion at the end of the course.  2 seminars and supervised work.",
+            "title": "Advanced Implementation of Sustainable Principles"
+        }
+    },
     "links": [
         {
             "source": "EDES 406",

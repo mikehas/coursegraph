@@ -1,4 +1,390 @@
 {
+    "descriptions": {
+        "MU 101": {
+            "description": "Introduction to the elements of music and their use by composers and performers. Notation of pitch and rhythm, scales, key signatures, intervals and chords. 3 lectures, 1 activity. Fulfills GE C3.",
+            "title": "Introduction to Music Theory"
+        },
+        "MU 103": {
+            "description": "Introduction to species counterpoint, structure of tonality, four-part writing of root position and inverted triads, dominant seventh chord, phrase structure, harmonic progressions, harmonization of a melody and nonharmonic tones.  Composition project.  4 lectures.",
+            "title": "Music Theory I: Diatonic Materials"
+        },
+        "MU 104": {
+            "description": "Introductory sightsinging in the major mode; rhythmic performance and dictation in simple and compound meters; identification and performance of melodic and harmonic intervals and triads; dictation of major diatonic melodies and chord progressions using the primary triads.  2 activities.",
+            "title": "Musicianship I"
+        },
+        "MU 105": {
+            "description": "Construction and resolution of diatonic seventh chords, secondary dominants, augmented sixth, and Neapolitan chords.  Modal mixture and modulation to closely-related keys.  Binary, ternary, and variation forms.  Introduction to 18th-century counterpoint.  Composition project.  4 lectures.",
+            "title": "Music Theory II: Chromatic Materials"
+        },
+        "MU 106": {
+            "description": "Sightsinging and dictation in major and minor modes; performance and dictation of one- and two-part rhythms in simple and compound meters; syncopation; identification of compound intervals, triad inversions and cadence types; harmonic dictation using diatonic root position triads and the dominant seventh.  2 activities.",
+            "title": "Musicianship II"
+        },
+        "MU 108": {
+            "description": "One- and two-part sightsinging and melodic dictation; alto and tenor clefs; one- and two-part rhythmic performance and dictation including syncopation and triplets; harmonic dictation including diatonic triads in all inversions and dominant and supertonic seventh chords; identification of phrase structure.  2 activities.",
+            "title": "Musicianship III"
+        },
+        "MU 114": {
+            "description": "Fundamental concepts in music composition.  Creative projects.  Compositional techniques, development, and structure.  Analysis of examples from the literature.  3 lectures, 1 activity.",
+            "title": "Introduction to Composing"
+        },
+        "MU 120": {
+            "description": "Explores the world of music with emphasis on Western tradition. Language of music, the role of music in society. Historical context and major composers from the Middle Ages to the present. 3 lectures, 1 activity. Fulfills GE C3.",
+            "title": "Music Appreciation"
+        },
+        "MU 121": {
+            "description": "Survey of selected non-Western music cultures.  Emphasis on listening and understanding the ensemble type, aesthetic principle, musical style, and performance practice of each.  3 lectures, 1 activity.",
+            "title": "Introduction to Non-Western Musics"
+        },
+        "MU 149": {
+            "description": "Individual instruction in performance with emphasis on the technical skills needed for the performance of repertoire.  Total credit limited to 3 units.  The Schedule of Classes will list topic selected.",
+            "title": "Applied Study/Technique"
+        },
+        "MU 150": {
+            "description": "Individual instruction in performance with emphasis on repertoire, technical skills, style, and interpretation.  Total credit limited to 6 units.  The Schedule of Classes will list topic selected.",
+            "title": "Applied Music"
+        },
+        "MU 151": {
+            "description": "Beginning piano for student with no background in keyboard instruments. Includes fundamentals of notation, keyboard techniques, tone production, sightreading and facility. 1 lecture, 1 activity.",
+            "title": "Beginning Class Piano"
+        },
+        "MU 152": {
+            "description": "Continuation of MU 151.  Piano for students with the ability to play a simple Bach or Mozart Minuet.  Total credit limited to 3 units.  1 activity.",
+            "title": "Elementary Class Piano"
+        },
+        "MU 154": {
+            "description": "Beginning study of vocal and performance technique for the untrained singer. Includes the beginning study of the vocal mechanism and the fundamentals of notation. 1 activity.",
+            "title": "Beginning Voice"
+        },
+        "MU 155": {
+            "description": "Fundamentals of guitar technique and performance. Elements of classical, pop, and folk styles. Basics of staff and chord notations. No previous experience necessary. 1 activity.",
+            "title": "Beginning Guitar"
+        },
+        "MU 161": {
+            "description": "Preparation for Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills I"
+        },
+        "MU 162": {
+            "description": "Continuation of MU 161.  Preparation for Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills II"
+        },
+        "MU 163": {
+            "description": "Continuation of MU 162.  Preparation for Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills III"
+        },
+        "MU 168": {
+            "description": "Preparation and performance of vocal and instrumental music written with piano accompaniment.  Choral rehearsal accompanist techniques.  Open to students who are proficient on piano at a collegiate level.  Total credit limited to 6 units.  1 activity.",
+            "title": "Piano Accompanying"
+        },
+        "MU 170": {
+            "description": "Rehearsal and public performance of jazz big band repertoire.  Open to qualified students who sing or who play trumpet, trombone, saxophone, piano, guitar, vibes, bass, drums, or congas.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "University Jazz Band"
+        },
+        "MU 171": {
+            "description": "Open to qualified musicians.  Rehearsal and public performances in large and small ensembles.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1 activity.",
+            "title": "Instrumental Ensembles"
+        },
+        "MU 172": {
+            "description": "Study and public performance of music written for large wind band.  Open to all qualified students who perform on woodwind, brass, and percussion instruments.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Wind Orchestra"
+        },
+        "MU 173": {
+            "description": "Study and public performance of music written for wind bands with limited doubling and flexible instrumentation.  Open to all students who perform on woodwind, brass and percussion instruments on an advanced collegiate level.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Wind Ensemble"
+        },
+        "MU 174": {
+            "description": "Preparation and performance of orchestral music including both the standard repertoire and rarely performed works.  Open to all qualified students.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Symphony Orchestra"
+        },
+        "MU 176": {
+            "description": "Public performance of music and specially-designed shows written for marching band (woodwinds, brass, percussion, and flag team auxiliary).  Limited to those students who have had marching experience with wind and percussion instruments, or flag, rifle or dance lines.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Mustang Band"
+        },
+        "MU 177": {
+            "description": "Study and public performance of chamber music written for woodwinds, brass, or percussion.  Open to all instrumentalists who have high school or college level performance experience.  Total credit limited to 6 units.  1 activity.",
+            "title": "Chamber Winds"
+        },
+        "MU 178": {
+            "description": "Study and application of advanced field show marching techniques used in performance by the Cal Poly Mustang Band and other university bands. Limited to those students who have experience performing on a wind/percussion instrument, or in a marching band flag/dance team auxiliary. Total credit limited to 6 units. 1 activity.",
+            "title": "Field Show Marching Skills"
+        },
+        "MU 181": {
+            "description": "Study and public performance of music for mixed voices.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Polyphonics"
+        },
+        "MU 183": {
+            "description": "Open to qualified singers.  Rehearsal and performance of specialized vocal music.  Total credit limited to 6 units.  1 activity.",
+            "title": "Vocal Ensemble"
+        },
+        "MU 185": {
+            "description": "Study and public performance of music for large mixed chorus.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "University Singers"
+        },
+        "MU 186": {
+            "description": "Study and public performance of vocal and instrumental music from 1200 to 1750.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Early Music Ensemble"
+        },
+        "MU 188": {
+            "description": "Rehearsal and performance of instrumental and vocal repertoire drawn from art and popular music of wide-ranging Arabic-speaking societies and historically related cultures. Accompanying music theories, instrumental techniques, and performance practices, with presentation of seminal works in public concerts. Total credit limited to 6 units. 1 laboratory.",
+            "title": "Arab Music Ensemble"
+        },
+        "MU 189": {
+            "description": "Study and implementation of performing techniques used by vocalists in a recital or concert setting.  Total credit limited to 6 units.  1 activity.",
+            "title": "Vocal Practicum"
+        },
+        "MU 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "MU 210": {
+            "description": "Continuation of MU 108.  Sightsinging and melodic dictation using chromatic tones; rhythmic performance in changing meters; harmonic dictation including seventh chords, secondary dominants, and modulation to closely-related keys; seventh chord inversions; and aural identification of binary and ternary forms.  1 activity.",
+            "title": "Musicianship IV"
+        },
+        "MU 211": {
+            "description": "Continuation of MU 210.  Sightsinging using chromatic tones; rhythmic performance and dictation in changing and asymmetric meters; harmonic dictation including Neapolitan triads, augmented sixth chords, modal mixture, and modulation to closely-related keys; aural identification of sonata, rondo, and variation forms.  1 activity.",
+            "title": "Musicianship V"
+        },
+        "MU 212": {
+            "description": "Continuation of MU 211.  Emphasis on previously acquired skills, plus sightsinging, melodic dictation, and harmonic dictation using modulation to foreign keys; performance and dictation of cross-rhythms and complex beat divisions; tempo modulation; aural identification of contrapuntal genres; and modulatory melodic dictation in two parts.  1 activity.",
+            "title": "Musicianship VI"
+        },
+        "MU 221": {
+            "description": "Survey of Jazz as a significant American art form from 1900 to the present; its historical background and development in the United States; key elements, leading performers, and significant compositions in each style. Emphasis on listening skills. 3 lectures, 1 activity. Fulfills GE C3 and USCP.",
+            "title": "Jazz Styles"
+        },
+        "MU 227": {
+            "description": "Study of popular music of USA from the nineteenth century to contemporary times.  Emphases include understanding of cultural identity, social diversity, musical aesthetics, and artistic significance.  Investigations engage ethnic relations, gender issues, religious expression, performance practice, technological development, modernization, commodification, and political empowerment.  3 lectures, 1 activity.  Fulfills GE C3 and USCP.",
+            "title": "Popular Music of the USA"
+        },
+        "MU 229": {
+            "description": "Explores wide spectrum of rock, folk and pop styles of the 60s. Relates music to social turmoil and historical trends, including Vietnam War, Civil Rights Movement, American Indian Movement, Chicano Movement, Free Speech Movement. 3 lectures, 1 activity. Fulfills GE C3 and USCP.",
+            "title": "Music of the 60's: War and Peace"
+        },
+        "MU 249": {
+            "description": "Individual instruction in performance with emphasis on the technical skills needed for the performance of repertoire.  Total credit limited to 3 units.",
+            "title": "Applied Study/Technique"
+        },
+        "MU 250": {
+            "description": "Individual instruction in performance with emphasis on repertoire, technical skills, style, and interpretation.  Total credit limited to 6 units.  Specific areas of study are listed in the Class Schedule.",
+            "title": "Applied Music"
+        },
+        "MU 253": {
+            "description": "Advanced level piano techniques with emphasis on style, interpretation, sightreading, basic performance practices and the solution to general musical problems.  Total credit limited to 3 units.  1 activity.",
+            "title": "Advanced Class Piano"
+        },
+        "MU 259": {
+            "description": "Development of fundamentals of jazz improvisation including scales, arpeggios, patterns, swing feel, expressiveness, and motifs through in-class performance of written materials and improvisations with play-along recordings.  Total credit limited to 6 units.  2 activities.",
+            "title": "Beginning Jazz Improvisation"
+        },
+        "MU 261": {
+            "description": "Continuation of MU 163.  Preparation for Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, and improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills IV"
+        },
+        "MU 262": {
+            "description": "Continuation of MU 261.  Preparation for Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills V"
+        },
+        "MU 263": {
+            "description": "Continuation of MU 262.  Completion of this course with a C- or better represents fulfillment of the Piano Proficiency Examination.  Study of piano repertoire, sightreading, transposition, harmonization of a melody, accompanying, improvisation of a melody, score-reading.  1 activity.",
+            "title": "Piano Skills VI"
+        },
+        "MU 265": {
+            "description": "Preparation for Piano Proficiency Examination.  For students with an extensive piano repertoire background but needing focused preparation in sightreading, transposition, harmonization of a melody, accompanying, and score reading.  Total credit limited to 3 units.  1 activity.",
+            "title": "Accelerated Piano Skills"
+        },
+        "MU 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "MU 301": {
+            "description": "Counterpoint as a compositional technique.  Modal, tonal, and post-tonal practices.  Composition project.  4 lectures.",
+            "title": "Counterpoint"
+        },
+        "MU 303": {
+            "description": "Compositional procedures employed by composers of the Classical and Romantic periods.  Chromatic third-related harmony, linear chromaticism, and extended tertian chords.  Chromatic and enharmonic modulation to distantly-related keys.  Sonata and rondo forms.  Composition project.  4 lectures.",
+            "title": "Music Theory III: Advanced Chromaticism"
+        },
+        "MU 305": {
+            "description": "Examination of 20th- and 21st-century compositional practices including impressionism, developments in rhythm, polytonality, non-serial atonality, serialism, timbre and form, neoclassicism, minimalism, and the new eclecticism.  Analysis and creative projects.  4 lectures.",
+            "title": "Music Theory IV: Contemporary Practices"
+        },
+        "MU 311": {
+            "description": "Fundamental tools of electroacoustic sound design.  Concepts and application of music studio procedure, recording, synthesis, and MIDI.  Studio projects.  3 lectures, 1 activity.",
+            "title": "Sound Design: Technologies"
+        },
+        "MU 312": {
+            "description": "Exploring creative use of recording technology.  Analog and digital equipment for recording music.  Analysis and creative projects.  3 lectures, 1 activity.",
+            "title": "Sound Design: Recording"
+        },
+        "MU 320": {
+            "description": "Methodology for researching, analyzing, and writing about music.  Exploration of investigative tools including library resources, periodicals, bibliographic tools, computerized search methods.  Performance practice.  4 lectures.",
+            "title": "Music Research and Writing"
+        },
+        "MU 324": {
+            "description": "Exploration into the role of music historically and culturally.  Emphasis on deeper understanding and appreciation of the context of music through topics of special interest.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 activity.  Fulfills GE C4 except for Music majors.",
+            "title": "Music and Society"
+        },
+        "MU 325": {
+            "description": "Explorations of the many styles of America's music through lectures, readings, sound recordings, musical scores, and performance.  Includes 'Native American,' 'folk,' 'popular,' and 'fine art' traditions.  How American music reflects the different cultural heritages, social contexts, and philosophies of its creators.  4 lectures.  Fulfills USCP.",
+            "title": "America's Music"
+        },
+        "MU 326": {
+            "description": "Exploring the definition, concepts, and structures of music in terms of theory, performance practice, and compositional procedures of selected non-Western cultures.  3 lectures, 1 activity.",
+            "title": "Cultural Concepts and Structures in Music"
+        },
+        "MU 328": {
+            "description": "Survey of women's contributions as composers and performers of western art and popular music; historical overview of the experiences and perception of women as musicians.  3 lectures, 1 activity.  Fulfills GE C4 except for Music majors.",
+            "title": "Women in Music"
+        },
+        "MU 331": {
+            "description": "Musical literature, styles, composers, theory, genres and notation of the Middle Ages and Renaissance.  Relationship to historical trends.  4 lectures.",
+            "title": "Music of the Middle Ages and Renaissance"
+        },
+        "MU 332": {
+            "description": "Survey of the history of western art music from 1600 to 1780.  4 lectures.",
+            "title": "Music of the Baroque and Early Classic Eras"
+        },
+        "MU 336": {
+            "description": "Survey of Jazz theoretical techniques.  Emphasis upon historical context and development of Jazz through study and analysis of scores and historical performances.  4 lectures.",
+            "title": "Jazz History and Theory"
+        },
+        "MU 340": {
+            "description": "Principles and techniques of conducting with experience in score reading.  2 activities.",
+            "title": "Conducting: Fundamentals"
+        },
+        "MU 341": {
+            "description": "Continuation of MU 340.  Emphasis on choral literature.  Score reading, rehearsal techniques, and musical details associated with vocal music.  2 activities.",
+            "title": "Conducting: Choral"
+        },
+        "MU 342": {
+            "description": "Continuation of MU 340.  Emphasis on band and orchestra literature.  Score reading, rehearsal techniques, and musical details associated with instrumental music.  2 activities.",
+            "title": "Conducting: Instrumental"
+        },
+        "MU 350": {
+            "description": "Individual instruction in performance and composition.  Total credit limited to 6 units.  Specific areas of study are listed in the Class Schedule.",
+            "title": "Applied Music"
+        },
+        "MU 351": {
+            "description": "Arranging for small and large jazz ensembles.  Score and part preparation.  2 activities.",
+            "title": "Jazz and Popular Music Arranging"
+        },
+        "MU 352": {
+            "description": "Ranges, transposition, technical capabilities, and scoring of vocal ensembles, band, and orchestra instruments.  Creative project.  3 lectures, 1 activity.",
+            "title": "Orchestration"
+        },
+        "MU 360": {
+            "description": "Development of skills for fostering creative music experiences in the classroom.  Exploration of various approaches to motivating children musically.  Study of folk songs for singing, playing instruments, and learning about music as well as for their ethnic and cultural significance.  3 lectures, 1 activity.",
+            "title": "Music for Classroom Teachers"
+        },
+        "MU 361": {
+            "description": "Fundamentals of playing and teaching woodwind, brass, string, and percussion instruments.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1 activity.",
+            "title": "Instruments"
+        },
+        "MU 368": {
+            "description": "Preparation and performance of vocal and instrumental music written with piano accompaniment.  Choral rehearsal accompanist techniques.  Open to students who are proficient on piano at a collegiate level.  Total credit limited to 6 units.  1 activity.",
+            "title": "Piano Accompanying"
+        },
+        "MU 370": {
+            "description": "Rehearsal and public performance of jazz big band repertoire.  Open to qualified students who sing or play trumpet, trombone, saxophone, piano, guitar, vibes, bass, drums, or congas.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "University Jazz Band"
+        },
+        "MU 371": {
+            "description": "Open to qualified musicians.  Rehearsal and public performance in large and small ensembles.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1 activity.",
+            "title": "Instrumental Ensemble"
+        },
+        "MU 372": {
+            "description": "Study and public performance of music written for large wind band.  Open to all qualified students who perform on woodwind, brass and percussion instruments.  The Schedule of Classes will list topic selected.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Wind Orchestra"
+        },
+        "MU 373": {
+            "description": "Study and public performance of music written for wind band with limited doubling and flexible instrumentation.  Open to all students who perform on woodwind, brass and percussion instruments on an advanced collegiate level.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Wind Ensemble"
+        },
+        "MU 374": {
+            "description": "Preparation and performance of orchestral music including both the standard repertoire and rarely performed works.  Open to all students whose technique is adequate.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Symphony Orchestra"
+        },
+        "MU 376": {
+            "description": "Public performance of music and specially-designed shows written for marching bank (woodwinds, brass, percussion, and flag team auxiliary).  Limited to those students who have had marching experience with wind and percussion instruments, or flag, rifle or dance lines.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Mustang Band"
+        },
+        "MU 377": {
+            "description": "Study and public performance of chamber music written for woodwinds, brass, or percussion.  Open to all instrumentalists who have college level performance experience.  Total credit limited to 6 units.  1 activity.",
+            "title": "Chamber Winds"
+        },
+        "MU 378": {
+            "description": "Study and application of advanced field show marching techniques used in performance by the Cal Poly Mustang Band and other university bands.  Limited to those students who have experience performing on a wind/percussion instrument, or in a marching band flag/dance team auxiliary.  Total credit limited to 6 units.  1 activity.",
+            "title": "Field Show Marching Skills"
+        },
+        "MU 381": {
+            "description": "Study and public performance of music for mixed voices.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Polyphonics"
+        },
+        "MU 383": {
+            "description": "Open to qualified singers.  Rehearsal and performance of specialized vocal music.  Total credit limited to 6 units.  1 activity.",
+            "title": "Vocal Ensemble"
+        },
+        "MU 385": {
+            "description": "Study and public performance of music for large mixed chorus.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "University Singers"
+        },
+        "MU 386": {
+            "description": "Study and public performance of vocal and instrumental music from 1200 to 1750.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Early Music Ensemble"
+        },
+        "MU 388": {
+            "description": "Rehearsal and performance of instrumental and vocal repertoire drawn from art and popular music of wide-ranging Arabic-speaking societies and historically related cultures.  Accompanying music theories, instrumental techniques, and performance practices, with presentation of seminal works in public concerts.  Total credit limited to 6 units.  1 laboratory.",
+            "title": "Arab Music Ensemble"
+        },
+        "MU 389": {
+            "description": "Study and implementation of performing techniques used by vocalists in a recital or concert setting.  Total credit limited to 6 units.  1 activity.",
+            "title": "Vocal Practicum"
+        },
+        "MU 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "MU 411": {
+            "description": "Compositional application of sound synthesis techniques.  Realization of computer music.  Creative projects.  3 lectures, 1 activity.",
+            "title": "Sound Design: Synthesis"
+        },
+        "MU 412": {
+            "description": "Production of electroacoustic music in media.  Program analysis, technical planning, composition, and product development.  3 lectures, 1 activity.",
+            "title": "Sound Design: Composition and Production"
+        },
+        "MU 431": {
+            "description": "Survey of the history of western art music from 1780 to 1900.  4 lectures.",
+            "title": "Music of the Classic and Romantic Eras"
+        },
+        "MU 432": {
+            "description": "Composers, important works, and significant trends in the Western European and American classical tradition during the 20th and 21st Centuries.  4 lectures.",
+            "title": "Music of the Modern Era"
+        },
+        "MU 449": {
+            "description": "Individual instruction in performance with emphasis on the technical skills needed for the performance of repertoire.  Total credit limited to 3 units.  The Schedule of Classes will list topic selected.",
+            "title": "Applied Study/Technique"
+        },
+        "MU 450": {
+            "description": "Individual instruction in performance and composition.  Total credit limited to 6 units.  Specific areas of study are listed in the Class Schedule.",
+            "title": "Applied Music"
+        },
+        "MU 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Minimum of 90 hours total time.  Results presented in a recital, creative work, formal report, or a combination of all three.",
+            "title": "Senior Project"
+        },
+        "MU 465": {
+            "description": "Survey of choral literature especially suited for secondary schools.  Philosophy and strategy for developing a school program.  Musical as well as non-musical techniques for effective rehearsal.  3 lectures, 1 activity.",
+            "title": "Choral Literature and Rehearsal Techniques"
+        },
+        "MU 466": {
+            "description": "Survey of instrumental literature written for orchestras, bands, solo instrument, and chamber ensembles.  Philosophy and strategy necessary for developing a professional, semi-professional, or school instrumental music program.  Musical as well as non-musical techniques for effective rehearsal.  3 seminars, 1 activity.",
+            "title": "Instrumental Literature and Rehearsal Techniques"
+        },
+        "MU 470": {
+            "description": "Intensive study of selected topics in music history through the use of readings, recordings, scores, and class presentations.  The Schedule of Classes will list topics selected.  Total credit limited to 8 units.  3 lectures, 1 activity.",
+            "title": "Music History: Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "MU 101",

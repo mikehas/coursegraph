@@ -1,4 +1,214 @@
 {
+    "descriptions": {
+        "RPTA 101": {
+            "description": "History, philosophy, theory, and organization of the experience industry.  Exploration of the experience industry profession; emphasis upon functions, areas, facilities, clientele, and career opportunities.  4 lectures.",
+            "title": "Introduction to the Experience Industry"
+        },
+        "RPTA 110": {
+            "description": "Orientation to the Experience Industry Management department, the Recreation, Parks, and Tourism Administration major and concentration areas.  Development of two- to four-year plan toward graduation.  Exploration of skills, learning strategies, and problem solving for success in college life.  Career planning in experience industry management.  Credit/No Credit grading only.  1 activity.",
+            "title": "Orientation and College Success in Experience Industry Management"
+        },
+        "RPTA 112": {
+            "description": "Introduction to park and outdoor recreation systems. History, philosophy, policy, and principles of outdoor recreation, wilderness, park management, environmental education, outdoor education, visitor experiences, and natural resources recreation at the local, regional, national, and international levels. Field trips required. 3 lectures, 1 activity.",
+            "title": "Introduction to Parks and Outdoor Recreation"
+        },
+        "RPTA 114": {
+            "description": "History and development of the hospitality and travel industries. Exploration of different sectors of the hospitality and tourism industries, travel motivations, supply and demand for tourism products and services, trends and issues, and effects of tourism on individuals, cultures and the natural environment. Career opportunities in the hospitality and travel industries. Field trips required. 4 lectures.",
+            "title": "Introduction to Hospitality and Travel"
+        },
+        "RPTA 160": {
+            "description": "Introduction to the philosophy, organization, issues and career paths of sport management. Emphasis on ethical decision-making and career opportunities in youth, interscholastic, intercollegiate, professional, and international sport. 4 lectures.",
+            "title": "Introduction to Sport Management"
+        },
+        "RPTA 201": {
+            "description": "History and theoretical frameworks associated with the interplay between work and leisure in the United States; global perspective examining sociocultural differences and marginalization of groups; issues impacting work-life balance including technology, demography, geography, corporate culture, and career fields. 4 lectures. Fulfills GE D3.",
+            "title": "Sociocultural Dimensions of Work and Leisure"
+        },
+        "RPTA 203": {
+            "description": "Law enforcement applied to natural resource conservation on public and private lands. Examination of state and federal laws related to fish and wildlife management. Problems associated with implementation of resource laws examined. 3 lectures. Crosslisted as NR/RPTA 203.",
+            "title": "Resource Law Enforcement"
+        },
+        "RPTA 205": {
+            "description": "Recreation, parks, and tourism leadership with small and large groups.  Skills, knowledge, and abilities required of effective leaders in leisure organizations and settings.  3 lectures, 1 activity.",
+            "title": "Leadership and Facilitation"
+        },
+        "RPTA 210": {
+            "description": "Methods of program planning, experience design, organization, implementation and evaluation in public and private settings.  Interrelationship of needs and interests of people, physical settings, structured and co-created experiences.  Emphasis on experience and program design, planning, and scheduling.  3 lectures, 1 activity.",
+            "title": "Experience Program Design"
+        },
+        "RPTA 216": {
+            "description": "Exploration of the technical operations integral to resort and lodging:  food, beverage and restaurant; housekeeping and engineering; sales and catering departments; staff management and state, national, and international classification systems.  Field trips required.  3 lectures, 1 activity.",
+            "title": "Resort and Lodging Operations"
+        },
+        "RPTA 221": {
+            "description": "Service qualities and behaviors across the experience industry, including recreation, parks, tourism, sport, events, outdoor and community environments.  Professionalism and ethics, developing customer relationships, delivering memorable and meaningful customer experiences, and creating service-focused organizations.  Developing competencies to enhance customer and participant experiences.  4 lectures.",
+            "title": "Professionalism and Customer Experiences"
+        },
+        "RPTA 252": {
+            "description": "Introduction to special populations and therapeutic recreation.  Specialized leadership and communication techniques.  Modification requirements for programs, areas, facilities, equipment, and supplies.  Exploration of disability rights issues, including legislation which impacts the delivery of recreation and leisure services.  3 lectures, 1 activity.",
+            "title": "Therapeutic Recreation and Special Populations"
+        },
+        "RPTA 257": {
+            "description": "Development and application of leadership skills in experience industry settings.  Emphasis on applicable leadership techniques for working with groups consisting of representatives from diverse populations such as those with disabilities or special needs, cultural and social differences, and diversity of ages.  3 lectures, 1 activity.",
+            "title": "Leadership and Diverse Groups"
+        },
+        "RPTA 260": {
+            "description": "Philosophy, foundations, policy and techniques underlying community relations and sports-based youth development in public, private and commercial settings.  Methods of program planning, organization, implementation and evaluation with emphasis on program planning and mission development.  3 lectures, 1 activity.",
+            "title": "Community Relations and Sports-Based Youth Development"
+        },
+        "RPTA 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "RPTA 275": {
+            "description": "Techniques and models used in leadership, facilitation, and teambuilding. Emphasis on leadership and facilitation styles and models, teambuilding and group dynamics, and working with various populations. Field trip required. 2 seminars. Crosslisted as MSL/RPTA 275.",
+            "title": "Facilitation and Teambuilding"
+        },
+        "RPTA 302": {
+            "description": "Education and teaching techniques that apply to learning experiences in an outdoor environment.  Impact of natural resource usage that affects sociological, cultural, biological and physical resources.  Educational strategies for presenting environmental learning to grades K-12 in selected environments.  3 lectures, 1 activity.",
+            "title": "Environmental and Wilderness Education"
+        },
+        "RPTA 313": {
+            "description": "Investigation of the experience industry from a sustainability perspective.  Emphasis on facility design, industry practices, and services provisions in the Experience Industry Management field that sustain social, cultural, heritage, and natural environments while generating economic development.  3 lectures, 1 laboratory.",
+            "title": "Sustainability in the Experience Industry"
+        },
+        "RPTA 314": {
+            "description": "The planning and development of tourism destinations, agencies, and services from a sustainable development perspective.  Emphasis on the economic, social and environmental impacts of tourism.  Examination of alternative forms of tourism.  Emphasis on sustainable tourism.  Travel research and planning models.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Travel and Tourism Planning"
+        },
+        "RPTA 317": {
+            "description": "Role of conventions, meetings management, and events in the hospitality and travel industry.  Factors involved in meeting planning for small and large groups to include committees, amenities, operations logistics, venue selection, technology, virtual meetings, registration, catering arrangements, sustainable operations and evaluation.  Field trips required.  3 lectures, 1 activity.",
+            "title": "Hospitality, Convention and Meeting Management"
+        },
+        "RPTA 318": {
+            "description": "Examination of the development and critical roles that destination management and marketing organizations, destination management companies, and convention and visitors bureaus play in the tourism industry.  Exploration of the major areas of destination management including service, roles and responsibilities, research, and product development.  4 lectures.",
+            "title": "Destination Management"
+        },
+        "RPTA 320": {
+            "description": "Strategy and successful practices in special event planning.  Emphasis on conceptualization, strategy, analysis, and planning considerations of small to large-scale events.  Exploration of event planning and experience management as a profession.  3 lectures, 1 activity.",
+            "title": "Strategic Event Planning"
+        },
+        "RPTA 321": {
+            "description": "Management issues in meeting the needs of experience industry businesses and organizations.  Topics to include customer satisfaction, service quality, visitor experiences, customer service skills and procedures, and creating a customer focused organization.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  1-4 seminars.",
+            "title": "Visitor Services in Experience Industry Management"
+        },
+        "RPTA 323": {
+            "description": "Exploration of the world of professional sports and intercollegiate athletics through the lens of sport promotions and the fan experience.  Development of an understanding of the promotional strategies employed to increase attendance, enhance attendee experiences before, during, and after the game, and build fan loyalty.  2 lectures.",
+            "title": "Sport Promotions and the Fan Experience"
+        },
+        "RPTA 325": {
+            "description": "Theoretical principles and experience in leadership, judgment, and decision-making in outdoor and adventure settings.  Field trip required.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 activity.",
+            "title": "Leadership in Outdoor Experiences"
+        },
+        "RPTA 330": {
+            "description": "Practical work experience in related phases of the experience industry in an organization under qualified supervision.  Minimum of 16 hours per week.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Directed Field Experience"
+        },
+        "RPTA 342": {
+            "description": "Legislative and legal aspects of public, private, commercial, and non-profit experience industry organizations.  Emphasis on risk management, including liability, insurance, and negligence.  Understanding of legal foundations and the legislative process.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Risk Management for the Experience Industry"
+        },
+        "RPTA 350": {
+            "description": "Management of sport and event venues:  clientele considerations, facility and outdoor area site planning; day-to-day operations of common sport and event venues from sport stadiums to multi-use wineries to city streets (e.g., parades, marathons, etc.).  Field trip required.  3 lectures, 1 activity.",
+            "title": "Sport and Event Venue Management"
+        },
+        "RPTA 360": {
+            "description": "Evaluation of experience industry programs using a variety of research methodologies.  Needs assessment, program evaluation, research design, and decision making based on data analysis.  3 lectures, 1 laboratory.",
+            "title": "Assessment and Evaluation of Experience Industry Management"
+        },
+        "RPTA 370": {
+            "description": "Core principles of experiential marketing within the realm of tourism, hospitality, and destination management; sport and recreation experience management, and event planning and experience management.  Emphasis on strategies to actively engage consumers in experience industry settings.  4 lectures.",
+            "title": "Experiential Marketing Strategies for Experience Industry Management"
+        },
+        "RPTA 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "RPTA 405": {
+            "description": "The study, analysis, and practice of management processes as they are applied to experience industry management organizations:  planning, organizing, leading, and controlling.  Emphasis upon application of theories, practices and case studies in experience industry management settings.  4 lectures.",
+            "title": "Principles of Experience Industry Management"
+        },
+        "RPTA 412": {
+            "description": "Selected topics on aspects of the tourism field.  Field trip may be required.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units, repeatable in same term.  1 to 4 seminars.",
+            "title": "Tourism and Outdoor Applications Seminar"
+        },
+        "RPTA 413": {
+            "description": "Practices of tourism and recreation resource management in protected areas.  History and principles of protected areas.  Social, cultural, economic, and environmental benefits of and risks to protected areas and communities.  Environmental stewardship in tourism and recreation resource management worldwide.  3 lectures, 1 laboratory.",
+            "title": "Tourism and Protected Area Management"
+        },
+        "RPTA 420": {
+            "description": "Management strategies and practices for small to large scale community festivals and events.  Emphasis on sponsorship, marketing, staffing, production, and budgeting.  4 lectures.",
+            "title": "Festival and Event Management"
+        },
+        "RPTA 424": {
+            "description": "Financing experience industry products and services in public, private, commercial and voluntary settings.  Emphasis on sources and methods of financing; operational/ financial cost analysis; forecasting, budgeting, pricing and fiscal master planning through use of computer technology.  4 lectures.",
+            "title": "Financial Management in the Experience Industry"
+        },
+        "RPTA 450": {
+            "description": "Explores principles of grant writing and resource development including:  researching grant funding resources from both the private and public sector, preparing grant proposals, grant administration, partnerships, and sponsorships.  4 lectures.",
+            "title": "Resource and Grant Development"
+        },
+        "RPTA 460": {
+            "description": "Selection and completion of an individual senior project.  Ability to collect data and/or synthesize and evaluate information and draw conclusions based on that process.  Project results are presented in a formal oral and written report.  Information synthesis and evaluation.  Emphasis on critical thought and analysis of industry trends and issues.  3 lectures, 1 laboratory.",
+            "title": "Senior Project in Experience Industry Management"
+        },
+        "RPTA 461": {
+            "description": "Completion, under faculty supervision, of an investigative project typical of problems which graduates must solve in their fields of employment.  Required minimum of 90 hours.  Analytical, formal report is required.",
+            "title": "Senior Project"
+        },
+        "RPTA 463": {
+            "description": "Exploration of internship opportunities and practices.  Internship selection process and procedures introduced.  Credit/No Credit grading only.  1 seminar.",
+            "title": "Pre-Internship Seminar"
+        },
+        "RPTA 465": {
+            "description": "400 hours of full-time concentration-specific practical work experience over a ten-week period in an approved organization.  Comprehensive involvement in organization's programs and services.  Credit/No Credit grading only.",
+            "title": "Internship"
+        },
+        "RPTA 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to under-graduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "RPTA 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to graduate and undergraduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "RPTA 472": {
+            "description": "Tasks associated with development of personal leadership skills.  Study and practice in setting goals and objectives; developing, evaluating and implementing a project independently and as part of a team; decision making and problem-solving emphasized.  Total credit limited to 4 units.  1 laboratory.  Crosslisted as NR/RPTA 472.",
+            "title": "Leadership Practice"
+        },
+        "RPTA 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the department faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study"
+        },
+        "RPTA 502": {
+            "description": "Societal issues that influence the management and delivery of recreation, parks, and tourism services.  Critical investigation of current research and trends.  4 seminars.",
+            "title": "Current Issues in Recreation, Parks and Tourism"
+        },
+        "RPTA 527": {
+            "description": "Theories of recreation and leisure; conceptual and theoretical foundations of leisure; the role of leisure behavior in modern day society.  The Schedule of Classes will list topic selected.  Constructs that contribute to contemporary understanding of leisure behavior.  Connection of theories to individual research.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Leisure Behavior and Theory"
+        },
+        "RPTA 539": {
+            "description": "Application of theory to the solution of problems of recreation, parks and tourism or related businesses in the field.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Recreation, Parks and Tourism"
+        },
+        "RPTA 570": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 seminars.",
+            "title": "Selected Topics in Recreation, Parks and Tourism"
+        },
+        "RPTA 571": {
+            "description": "Directed group laboratory of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Recreation, Parks and Tourism"
+        },
+        "RPTA 581": {
+            "description": "Group study of selected developments, trends and problems in the field of recreation, parks and tourism.  Total credit limited to 4 units.  1 seminar.",
+            "title": "Graduate Seminar in Recreation, Parks and Tourism"
+        },
+        "RPTA 599": {
+            "description": "Individual research in recreation, parks and tourism management under the general supervision of faculty, leading to a graduate thesis.  Degree credit limited to 9 units.  Students must enroll each quarter advisement is received.",
+            "title": "Thesis in Recreation, Parks and Tourism"
+        }
+    },
     "links": [
         {
             "source": "RPTA 210",

@@ -1,4 +1,58 @@
 {
+    "descriptions": {
+        "FR 101": {
+            "description": "Beginning French. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation. Language taught in its intercultural context. 3 lectures, 1 activity.",
+            "title": "Elementary French I"
+        },
+        "FR 102": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary French  II"
+        },
+        "FR 103": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing, and conversation.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary French III"
+        },
+        "FR 201": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate French I"
+        },
+        "FR 202": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate French II"
+        },
+        "FR 203": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in French within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate French III"
+        },
+        "FR 233": {
+            "description": "Selected readings in French from Francophone authors that illustrate the French literary tradition from the Middle Ages to the present in both France and other French-speaking countries.  May include film and other media.  Conducted in French.  4 lectures.  Fulfills GE C1.",
+            "title": "Critical Reading in French Literature"
+        },
+        "FR 270": {
+            "description": "Directed group study of selected topics.  Open only to undergraduate students.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "FR 301": {
+            "description": "Written and oral development of structural grammar, syntax and complex components of French.  Expansion of vocabulary and idiomatic expressions through text study.  Written compositions.  May include French/English translation.  Conducted in French.  4 lectures.",
+            "title": "Advanced French Composition and Grammar"
+        },
+        "FR 302": {
+            "description": "Oral and written development of structural grammar, syntax and complex components of French.  Expansion of vocabulary and idiomatic expressions through topics focusing on culture.  Individual and/or group presentations.  Conducted in French.  4 lectures.",
+            "title": "Advanced French Conversation and Grammar"
+        },
+        "FR 305": {
+            "description": "Critical analysis and oral discussion of poetry, essays, novels, plays, films, and other media by selected French and Francophone authors.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors.",
+            "title": "Significant Works in French"
+        },
+        "FR 350": {
+            "description": "Selected works to be read by students in English translation.  Critical analysis, interpretation, and comparison of works by French and/or Francophone authors.  Course may include film and other media.  Discussion in English.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Modern Languages and Literatures majors.",
+            "title": "French Literature in English Translation"
+        },
+        "FR 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Conducted in French.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "FR 101",

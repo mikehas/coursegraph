@@ -1,4 +1,290 @@
 {
+    "descriptions": {
+        "BRAE 121": {
+            "description": "Identification and use of tools and materials; shop safety; tool sharpening and care; concrete mixes and materials; simple electric wiring; metal work; pipe fitting; basic woodworking; estimating quantities and costs. Students are required to meet safety regulations in laboratory work. 1 lecture, 1 laboratory.",
+            "title": "Agricultural Mechanics"
+        },
+        "BRAE 128": {
+            "description": "Introduction to careers associated with BioResource and Agricultural Engineering, and Agricultural Systems Management. Professional engineering registration process. Engineering problem solution and report format. Design procedures. Engineering fundamentals. Laboratory includes visits to facilities relating to career opportunities. 1 lecture, 1 laboratory.",
+            "title": "Careers in Bioresource and Agricultural Engineering"
+        },
+        "BRAE 129": {
+            "description": "Introduction to fabrication and construction materials used in the field of Agricultural Engineering.  Fabrication skills in the development of wood, metal, concrete projects, and creative design.  Strength tests of wood, fasteners, concrete, and student design projects.  1 laboratory.",
+            "title": "Laboratory Skills and Safety"
+        },
+        "BRAE 133": {
+            "description": "Visual communication in engineering design and problem solving. Principles of freehand sketching, engineering graphics, and computer-aided-drafting. Perspective and orthographic sketching, orthographic drawing with instruments and computer, applied descriptive geometry. 1 laboratory.",
+            "title": "Introduction to Engineering Design Graphics"
+        },
+        "BRAE 141": {
+            "description": "Evaluation of safe tractor and equipment operation. Supervised field operation emphasizing the safe and efficient performance of modern farm and utility-industrial equipment. 2 lectures, 1 laboratory.",
+            "title": "Agricultural Machinery Safety"
+        },
+        "BRAE 142": {
+            "description": "Evaluation of agricultural machinery and tractor power performance.  Equipment studied includes primary and secondary tillage tools, grain drills, row crop planters, sprayers, grain and forage harvesters, and specialty crop harvesters.  Emphasis on management, selection, cost analysis using computers and efficient operation of agricultural machinery.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Power and Machinery Management"
+        },
+        "BRAE 151": {
+            "description": "Computer aided drafting on a desktop personal computer using Autocad software. Drawing setup. 2-D projections including automatic dimensioning and hatching. Isometric construction, drawing layers, library symbols. Use of 3-D drawing software. 1 laboratory.",
+            "title": "CAD for Agricultural Engineering"
+        },
+        "BRAE 152": {
+            "description": "Introduction to 3-dimensional solids modeling using state-of-the-art software.  Model generation and modification of associative properties, assembly modeling, extrusions and revolutions.  1 laboratory.",
+            "title": "3-D Solids Modeling"
+        },
+        "BRAE 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "BRAE 203": {
+            "description": "Agricultural Systems Analysis investigates the interrelationships between sub-components in an overall system.  Problem solving algorithms, network analysis, project planning techniques, and optimization.  2 lectures, 2 activities.",
+            "title": "Agricultural Systems Analysis"
+        },
+        "BRAE 213": {
+            "description": "Treatment of the engineering applications of biology.  Genetic engineering and the industrial application of microbiology.  Systems physiology with engineering applications.  Structure and function relationships in biological systems.  The impact of life on its environment.  Course may be offered in classroom-based or online format.  2 lectures.  Crosslisted as BMED/BRAE 213.  Fulfills GE B2.",
+            "title": "Bioengineering Fundamentals"
+        },
+        "BRAE 216": {
+            "description": "Application of electricity in BioResource and Agricultural Engineering, including basic electric circuits.  Will include wiring materials, code regulations, electrical measurements, R-L-C circuit fundamentals, system planning, motors, basic electronics, and an introduction to computer usage.  3 lectures, 1 laboratory.",
+            "title": "Fundamentals of Electricity"
+        },
+        "BRAE 232": {
+            "description": "Planning of facilities required in production systems.  Materials and processes used in construction of agricultural structures.  Environmental factors affecting crop storage structures and animal housing.  Design of structural environments to meet the needs of commodities, animals, and plants.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Structures Planning"
+        },
+        "BRAE 234": {
+            "description": "Introduction to elements used in the mechanical transmission of power and force in agricultural systems.  Power transmission using v-belts.  roller chain, gear and shaft drives, hydraulic actuators.  Linear and nonlinear actuation devices including linkages, cams, and hydraulic/pneumatic cylinders.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Mechanical Systems in Agriculture"
+        },
+        "BRAE 236": {
+            "description": "Land grading design, operation, management, and evaluation of irrigation methods.  3 lectures, 1 laboratory.",
+            "title": "Principles of Irrigation"
+        },
+        "BRAE 237": {
+            "description": "An introduction to basic field note keeping as well as the use of steel tapes, automatic levels, total stations and survey tools.  Training in the procedures for differential and profile leveling; angle measurement and traversing.  Hands-on experience with the use of GPS for surveying.  An understanding in computations to determine direction, elevations, and earthwork volumes.  Practice in map reading and building layout.  1 lecture, 1 laboratory.",
+            "title": "Introduction to Engineering Surveying"
+        },
+        "BRAE 239": {
+            "description": "Development of proper field note taking and procedures for measuring using automatic levels, total stations and GPS systems.  Understanding in the procedures and computations for differential leveling, profiles, traversing, triangulation and topographic surveys.  Computations in traverse adjustment, contour mapping, earthwork volumes, curve alignments and building layout.  Understanding in map reading, the use of datums, photogrammetry, CAD design and boundary law.  2 lectures, 2 laboratories.",
+            "title": "Engineering Surveying"
+        },
+        "BRAE 240": {
+            "description": "Individual projects.  Total credit limited to 4 units.  1 laboratory.",
+            "title": "Agricultural Engineering Laboratory"
+        },
+        "BRAE 244": {
+            "description": "Precision agriculture applications.  Integrating GIS, GPS, and remote sensing technologies with site-specific farming practices to optimize agricultural productivity.  Field trip required.  3 lectures, 1 laboratory.  Crosslisted as AEPS/BRAE 244.",
+            "title": "Precision Farming"
+        },
+        "BRAE 247": {
+            "description": "Use and care of tapes, staff compass, abney levels, total stations, and GPS receivers.  Keeping field notes, measurements by tape.  Closed and open traverse by compass and total stations.  Turning angles and determining directions of lines.  Map reading and public land description.  GPS measurements.  Weekend field trips required.  1 lecture, 1 laboratory.  Crosslisted as BRAE/NR 247.",
+            "title": "Forest Surveying"
+        },
+        "BRAE 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "BRAE 301": {
+            "description": "Selection, application and use of hydraulic components and mechanical power transmission equipment.  Use of standardized circuit design procedures.  3 lectures, 1 laboratory.",
+            "title": "Hydraulic and Mechanical Power Systems"
+        },
+        "BRAE 302": {
+            "description": "Application of microcomputers and programmable logic controllers to hydraulic, pneumatic and mechanical systems.  Theory, instrumentation and sensors used in process and control systems used in agricultural equipment.  3 lectures, 1 laboratory.",
+            "title": "Servo Hydraulics"
+        },
+        "BRAE 312": {
+            "description": "Static and dynamic characteristics of liquids, flow in open and closed channels, uniform and nonuniform flow, flow measurement, pumps.  3 lectures, 1 laboratory.",
+            "title": "Hydraulics"
+        },
+        "BRAE 320": {
+            "description": "Theory and applications of bioprocess technology in biological and agricultural systems.  Engineering properties of biological materials and organisms.  Basic unit operations, fluid mechanics and heat/mass transfer as applied to bioprocess technology.  Special requirements of agricultural and biological processes.  3 lectures, 1 laboratory.",
+            "title": "Principles of Bioresource Engineering"
+        },
+        "BRAE 321": {
+            "description": "Principles of agricultural safety.  Accident causation and prevention, hazard identification and abatement, laws and regulations.  Machinery, electrical, chemical, livestock, shop and fire safety.  Safety program development.  2 lectures, 1 activity.",
+            "title": "Agricultural Safety"
+        },
+        "BRAE 324": {
+            "description": "Applications of DC/AC electricity in agriculture.  National Electric Code regulations.  The wiring of agricultural structures and electrical distribution.  Series, parallel and series-parallel circuits, R-L-C circuits, electric motors, electronics.  3 lectures, 1 laboratory.",
+            "title": "Principles of Agricultural Electrification"
+        },
+        "BRAE 328": {
+            "description": "Transducers and engineering measurements in agricultural engineering.  Covering transducer characteristics, signal processors and controllers, instrumentation techniques, and the use of the computer in the measurement and control of typical engineering problems.  3 lectures, 1 laboratory.",
+            "title": "Measurements and Computer Interfacing"
+        },
+        "BRAE 331": {
+            "description": "Plant-water-soil relations using evapo-transpiration, plant stress, soil moisture deficiency, frequency and depth of irrigation, salinity, infiltration, drainage and climate control.  3 lectures.",
+            "title": "Irrigation Theory"
+        },
+        "BRAE 335": {
+            "description": "Principles of operation of internal combustion engines.  Theory of operation and diagnosis evaluation and repair of small engines, gasoline and diesel engines and economics of operation, use and repair.  Power analysis and application.  3 lectures, 1 laboratory.",
+            "title": "Internal Combustion Engines"
+        },
+        "BRAE 337": {
+            "description": "Design of sprinkler and drip irrigation systems including:  site characteristics, soil variables affecting water storage and infiltration rate, plant selection and hydrozones, hydraulics, nozzle spacing, selection of system components, back flow prevention, plumbing codes and cost estimating.  Irrigation system evaluation and audit irrigation scheduling, and water budget.  3 lectures, 1 laboratory.",
+            "title": "Landscape Irrigation"
+        },
+        "BRAE 339": {
+            "description": "Students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Internship in Bioresource and Agricultural Engineering"
+        },
+        "BRAE 340": {
+            "description": "Soil-plant-water relationships; evapotranspiration; irrigation schedules; salinity and drainage; irrigation efficiency.  Water measurement; soil moisture measurement; irrigation systems and practical constraints affecting scheduling.  California water supply and budget; water rights; local, state and federal water institutions; California water issues.  3 lectures, 1 laboratory.  Fulfills GE Area F.",
+            "title": "Irrigation Water Management"
+        },
+        "BRAE 342": {
+            "description": "Physical properties of agricultural materials and their measurement.  Strength of materials, material flow and transport, material deformation, shape and size classification, moisture relationships and biological interactions.  Interactions between agricultural materials, the environment and equipment used to handle them.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Materials"
+        },
+        "BRAE 343": {
+            "description": "Use of statics and dynamics to make original calculations, plans, sketches, graphics, drawings, schemes and layouts for the fabrication and construction of machines.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Systems Analysis"
+        },
+        "BRAE 344": {
+            "description": "Fabrication systems including cutting, sawing, shearing, bending, welding, grinding, cleaning, painting and proper safety procedures.  Experimental projects to include team design and construction, presentation, organization, and evaluation.  2 lectures, 2 laboratories.",
+            "title": "Fabrication Systems"
+        },
+        "BRAE 345": {
+            "description": "Object recognition, three-dimensional equipment, and interpretation of aerial photographs.  Print alignment, stereoscopic viewing, scales, elevation determination, and application.  Orthophotos and their relationship to Geographic Information Systems (GIS).  Application of aerial photos to regional studies.  2 lectures, 1 laboratory.",
+            "title": "Aerial Photogrammetry and Remote Sensing"
+        },
+        "BRAE 348": {
+            "description": "Study of how the transition can be made from fossil fuels to renewable energy sources including hydro, biomass, solar, wind, and energy conservation.  Environmental, economic, and political consequences of a renewable energy-based sustainable society.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Energy for a Sustainable Society"
+        },
+        "BRAE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems in agriculture.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems"
+        },
+        "BRAE 403": {
+            "description": "Engineering and economic principles combined with mathematical optimization techniques to evaluate parameters in agricultural production and processing systems.  Project planning techniques, linear and nonlinear modeling, response surface methodology.  Professional responsibilities in Agricultural Engineering including ethics, patents, copyrights, liability.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Systems Engineering"
+        },
+        "BRAE 405": {
+            "description": "Fertilizer and chemical injection through irrigation systems.  Hardware, fertilizer compounds, and distribution uniformity.  Matching chemicals and equipment to specific irrigation methods.  Safety.  1 laboratory.",
+            "title": "Chemigation"
+        },
+        "BRAE 414": {
+            "description": "Design of on-farm irrigation systems; micro, surface, and sprinkler irrigation systems; canals and pumps; economic and strategies of pipe design; pipeline protection.  3 lectures, 1 laboratory.",
+            "title": "Irrigation Engineering"
+        },
+        "BRAE 418": {
+            "description": "Project management of agricultural systems.  Emphasis placed on a team approach to problem solution.  Case studies and student projects used to explore the following topics:  project leadership, project organization, communication, needs assessment, feasibility studies, cost analysis, decision making, solution implementation, and evaluation.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Systems Management I"
+        },
+        "BRAE 419": {
+            "description": "Project management of agricultural systems.  Emphasis placed on a team approach to problem solution.  Case studies and student projects used to explore the following topics:  project leadership, project organization, communication, needs assessment, feasibility studies, cost analysis, decision making, solution implementation, and evaluation.  2 lectures, 2 laboratories.",
+            "title": "Agricultural Systems Management II"
+        },
+        "BRAE 421": {
+            "description": "Design and construction of specialized agricultural components and equipment.  2 lectures, 1 laboratory.",
+            "title": "Equipment Engineering"
+        },
+        "BRAE 422": {
+            "description": "Design and construction of specialized agricultural components and equipment.  2 lectures, 2 laboratories.",
+            "title": "Equipment Engineering"
+        },
+        "BRAE 425": {
+            "description": "Computer activated controls as applied to agricultural machinery, agricultural structures, processing and irrigation industries.  Encompassing control logic to evaluate stability behavior of systems of computer interfacing, data input and control output.  2 lectures, 1 laboratory.",
+            "title": "Computer Controls for Agriculture"
+        },
+        "BRAE 428": {
+            "description": "Agricultural applications of signal processing, control theories, machine vision and robot basics for agricultural production and processing.  Approaches and constraints related to agricultural automation and the use of robotics in field applications.  Engineering approach to problem-solving and experimental data analysis.  Field trip required.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Robotics and Automation"
+        },
+        "BRAE 432": {
+            "description": "Selection of buildings, storage units, and related equipment for production agriculture.  Economics and functionality of various designs and construction materials.  Environmental factors affecting crop storage and animal housing.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Buildings"
+        },
+        "BRAE 433": {
+            "description": "Structural analysis and design of agricultural service and processing buildings.  Emphasis on use of wood, metals, and reinforced concrete in light construction.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Structures Design"
+        },
+        "BRAE 434": {
+            "description": "Multidisciplinary investigation of automotive renewable fuels and electric/hybrid vehicles.  Analyze and design related technologies and systems.  Methods for complete-cycle energy and GHG analysis.  Comparative emissions, efficiency, power output, and infrastructure requirements.  Laboratory projects converting engines and vehicles to operate on alternative fuels or electric propulsion.  3 lectures, 1 laboratory.  Crosslisted as BRAE/EE 434.",
+            "title": "Automotive Engineering for a Sustainable Future"
+        },
+        "BRAE 435": {
+            "description": "Relevant principles of hydrology and porous media flow.  Flow nets, wells and ground water, design of simple surface and sub-surface drains.  3 lectures, 1 laboratory.",
+            "title": "Drainage"
+        },
+        "BRAE 438": {
+            "description": "Drip/micro irrigation hardware and management.  Emphasizes agricultural drip/micro irrigation with some landscape application.  Filtration, emitters, chemical injection, agronomic constraints, and scheduling.  Field trip(s) included.  3 lectures, 1 laboratory.",
+            "title": "Drip/Micro Irrigation"
+        },
+        "BRAE 440": {
+            "description": "On-farm irrigation system evaluation and management.  Drip, micro-spray, furrow, border strip, sprinkler systems.  Irrigation efficiency and uniformity.  Pumping costs.  For non-BRAE majors only.  3 lectures, 1 laboratory.",
+            "title": "Agricultural Irrigation Systems"
+        },
+        "BRAE 447": {
+            "description": "Collecting field data; processing the data; generating graphical representation of the data; design based on the data and laying out the design in the field; and available record resources for use in GIS systems and their accuracy.  2 lectures, 2 laboratories.",
+            "title": "Advanced Surveying with GIS Applications"
+        },
+        "BRAE 448": {
+            "description": "Biological, thermal and physical techniques for converting biomass into useful energy forms for agriculture and industry.  Laboratory exercises include experiments with anaerobic digestion of animal wastes into methane, ethanol fermentation of grains and composting of agricultural residues.  Technical and economic feasibility of biofuels.  3 lectures, 1 laboratory.",
+            "title": "Bioconversion"
+        },
+        "BRAE 450": {
+            "description": "Engineering principles, design, and installation of solar photovoltaic power systems including grid-tie and off-grid systems.  Photonic energy conversion, solar module engineering, solar power electronics, photovoltaic site planning, mechanical and structural considerations, permit processes, government incentives, and analysis of financial and investment issues.  Field trips required.  3 lectures, 1 laboratory.  Crosslisted as BRAE/EE/HNRS 450.",
+            "title": "Solar Photovoltaic System Engineering"
+        },
+        "BRAE 460": {
+            "description": "Selection and organization of senior project.  Involves time management, research techniques, budgeting and project presentation.  Documentation of multidisciplinary team experience.  1 lecture.",
+            "title": "Senior Project Organization"
+        },
+        "BRAE 461": {
+            "description": "Solution of an engineering or systems management problem in agriculture.  May involve research methodology, problem statement, analysis, synthesis, project design, construction, and evaluation.  Project requires 150 hours with a minimum of faculty supervision.",
+            "title": "Senior Project I"
+        },
+        "BRAE 462": {
+            "description": "Solution of an engineering or systems management problem in agriculture.  May involve research methodology, problem statement, analysis, synthesis, project design, construction, and evaluation.  Project requires 150 hours with a minimum of faculty supervision.",
+            "title": "Senior Project II"
+        },
+        "BRAE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "BRAE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "BRAE 481": {
+            "description": "Advanced shop skills.  Carpentry, electricity, plumbing, surveying, power mechanics, tractor equipment operation and maintenance.  1 lecture, 1 laboratory.",
+            "title": "Advanced Agricultural Mechanics"
+        },
+        "BRAE 485": {
+            "description": "Part-time work experience with an approved BioResource and Agricultural Engineering firm engaged in production or related business, industry or governmental agency.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience in BioResource and Agricultural Engineering"
+        },
+        "BRAE 495": {
+            "description": "Full time work experience with an approved BioResource and Agricultural Engineering firm engaged in production or related business, industry or governmental agency.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience in BioResource and Agricultural Engineering"
+        },
+        "BRAE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 6 units, repeatable in same term.",
+            "title": "Individual Study"
+        },
+        "BRAE 532": {
+            "description": "Water well drilling, design, and development.  Pump characteristics and system head.  Series and parallel operation.  Design of pump intakes.  Variable speed electric drives and engines.  Pump testing.  3 lectures, 1 laboratory.",
+            "title": "Water Wells and Pumps"
+        },
+        "BRAE 533": {
+            "description": "Engineering solutions and social aspects of improved water delivery to farms and canal automation.  Flow measurement.  Water user associations.  Unsteady canal and pipeline controls.  PID controls and modeling.  3 lectures, 1 laboratory.",
+            "title": "Irrigation Project Design"
+        },
+        "BRAE 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Advanced Topics in BioResource and Agricultural Engineering"
+        },
+        "BRAE 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Bioresources and Agricultural Engineering"
+        },
+        "BRAE 599": {
+            "description": "Systematic research of a significant problem in bioresource and agricultural engineering.  Thesis will include problem identification, significance, methods, data analysis, and conclusion.  Students must enroll every quarter in which facilities are used or advisement is received.  Degree credit limited to 6 units.",
+            "title": "Thesis in BioResource and Agricultural Engineering"
+        }
+    },
     "links": [
         {
             "source": "MATH 116",

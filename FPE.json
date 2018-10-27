@@ -1,4 +1,70 @@
 {
+    "descriptions": {
+        "FPE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the program faculty.  Open only to graduate students in the FPE program who have demonstrated ability to do independent work.  FPE 500 must be taken as a 4-unit class when substituting for a required course in the FPE program.",
+            "title": "Individual Study"
+        },
+        "FPE 501": {
+            "description": "Introduction to the thermal sciences, including thermodynamics, fluid dynamics and heat transfer, as they relate to fire protection engineering.  Includes 1st and 2nd laws of thermodynamics, conservation relations, hydrostatics, internal and external flows, and heat transfer by conduction, convection and radiation.  4 lectures.",
+            "title": "Fundamental Thermal Sciences"
+        },
+        "FPE 502": {
+            "description": "First exposure to fire dynamics phenomena.  Includes fundamental fire and combustion topics such as thermodynamics of combustion, fire chemistry, premixed and diffusion flames, ignition, burning of liquids and solids, heat release rates, flame spread and fire plumes.  4 lectures.",
+            "title": "Fire Dynamics"
+        },
+        "FPE 503": {
+            "description": "Characterization of flammability properties of gaseous, liquid and solid materials.  Fire test methods for evaluating flammability properties of materials and burning characteristics of products.  Overview of regulatory requirements for restricting the flammability of products and materials used in buildings.  4 lectures.",
+            "title": "Flammability Assessment Methods"
+        },
+        "FPE 504": {
+            "description": "Fire modeling techniques for fire safety assessment.  Application of various engineering correlations and computer-based fire models, including zone models and computational fluid dynamics models, to representative fire problems.  4 lectures.",
+            "title": "Fire Modeling"
+        },
+        "FPE 521": {
+            "description": "Regulatory requirements for egress systems in buildings, including occupancy classifications, occupant loads, means of egress components and exit capacities.  Introduction to human behavior in fire and to methods for calculating people movement under emergency conditions, including computer-based evacuation models.  4 lectures.",
+            "title": "Egress Analysis and Design"
+        },
+        "FPE 522": {
+            "description": "Analysis of the operating characteristics of fire detection devices and alarm notification appliances.  Introduction to modern fire alarm systems and components.  Introduction to mass communication systems.  Current installation and approval standards.  4 lectures.",
+            "title": "Fire Detection, Alarm and Communication Systems"
+        },
+        "FPE 523": {
+            "description": "Analysis and design of water-based fire suppression systems, including water supply analysis and hydraulic calculations.  Overview and design considerations for automatic sprinkler, water spray, water mist and foam suppression systems.  Typical contemporary installations and current installation and approval standards.  4 lectures.",
+            "title": "Water-based Fire Suppression"
+        },
+        "FPE 524": {
+            "description": "Regulation and analysis procedures for structural components of wood, steel, concrete, composites.  Structural capabilities, modifications under fire induced exposures.  Calculation methods for predicting fire resistance of structural components.  Definition of types of building construction.  4 lectures.",
+            "title": "Structural Fire Protection"
+        },
+        "FPE 551": {
+            "description": "Use of model building and fire codes, administrative regulation, retrospective codes, performance-based codes, and risk-based regulation to manage fire safety.  Identification and application of different fire risk management tools and techniques.  4 lectures.",
+            "title": "Fire Safety Regulation and Management"
+        },
+        "FPE 552": {
+            "description": "Analysis and design of smoke management systems.  Assessment of smoke hazards.  Identification of special hazards.  Analysis and design of fire suppression systems used for fire control of special hazards, including gaseous and chemical agents and systems.  4 lectures.",
+            "title": "Smoke Management and Special Hazards"
+        },
+        "FPE 554": {
+            "description": "Introduction to the processes of fire investigation and reconstruction.  Engineering analysis of structural and wildland fires.  Identification of failure mechanisms in fire safety systems.  Case studies of actual fire incidents to address and reinforce concepts related to different types of system and performance failures.  4 lectures.",
+            "title": "Forensic Fire Analysis"
+        },
+        "FPE 555": {
+            "description": "Social, economic, political, and technological issues affecting fire management in urbanized landscapes where fire continues its ecological role.  Fire risk analysis; needs assessment, legislative codes, standards and policies; liability issues; evacuation; incident response planning.  3 lectures, 1 laboratory.",
+            "title": "Fire Protection Management in the Wildland-Urban Interface (WUI)"
+        },
+        "FPE 556": {
+            "description": "Advanced principles of heat transfer.  Classical solution techniques to problems in radiation with applications related to the role of radiation heat transfer in the development of fire in buildings.  4 lectures.  Crosslisted as FPE/ME 556.",
+            "title": "Advanced Heat Transfer III"
+        },
+        "FPE 596": {
+            "description": "Performance of comprehensive fire and life safety evaluations of buildings and other structures.  Communication of the results and findings of such evaluations in written report and by oral presentation.  Conducted under supervision of faculty.",
+            "title": "Culminating Experience in Fire Protection Engineering"
+        },
+        "FPE 599": {
+            "description": "Each individual will be assigned a thesis project for solution under faculty supervision as a requirement for the master's degree, culminating in a written thesis.",
+            "title": "Design Thesis"
+        }
+    },
     "links": [
         {
             "source": "FPE 501",

@@ -1,4 +1,110 @@
 {
+    "descriptions": {
+        "HLTH 101": {
+            "description": "Orientation to the public health discipline.  Advising, introduction to the faculty, department and campus resources to facilitate student success; extracurricular and research opportunities, careers and current topics in public health.  Credit/No Credit grading only.  1 lecture.",
+            "title": "Orientation to Public Health"
+        },
+        "HLTH 250": {
+            "description": "Personal health with emphasis on healthful behavioral practices including physical fitness, nutrition, psychosocial well-being, alcohol and other drugs, intentional and unintentional injury, reproductive health, infectious and non-infectious diseases. Not open to students with credit in HLTH/KINE 255 or Liberal Studies majors. Course may be offered in classroom-based or online format. 4 lectures. Crosslisted as HLTH/KINE 250. Fulfills GE D4.",
+            "title": "Healthy Living"
+        },
+        "HLTH 255": {
+            "description": "Personal health with special emphasis on multicultural practices. Not open to students with credit in HLTH/KINE 250. Course may be offered in classroom-based or online format. 4 lectures. Crosslisted as HLTH/KINE 255. Fulfills GE D4 and USCP.",
+            "title": "Personal Health: A Multicultural Approach"
+        },
+        "HLTH 260": {
+            "description": "Introduction to major health issues that affect women disproportionately or differently from men. Topics include female sexual health and reproduction, exercise and eating behaviors, substance abuse, mental health and stress, and violence against women. 4 lectures. Crosslisted as HLTH/KINE 260. Fulfills GE D4 and USCP.",
+            "title": "Women's Health Issues"
+        },
+        "HLTH 265": {
+            "description": "Introduction to community health and the core functions of public health.  Social-ecological, behavioral, and policy influences on community and population health.  Health promotion in community/public health settings.  3 lectures.  Crosslisted as HLTH/KINE 265.",
+            "title": "Introduction to Community and Public Health"
+        },
+        "HLTH 280": {
+            "description": "Introduction to multiple health and fitness assessment protocols through participation in community-based activities and/or as assistants on faculty-led research projects.  Experiential and service learning.  Total credit limited to 3 units.  Credit/ No Credit grading only.  1 activity.  Crosslisted as HLTH/KINE 280.",
+            "title": "Assessment Team for Health Promotion Activities"
+        },
+        "HLTH 281": {
+            "description": "Introduction to health education and promotion strategies through participation in community-based activities and/or as assistants on faculty-led projects.  Experiential and service learning.  Field trip required.  Total credit limited to 3 units.  Credit/No Credit grading only.  1 activity.  Crosslisted as HLTH/KINE 281.",
+            "title": "Health Ambassadors"
+        },
+        "HLTH 297": {
+            "description": "Development of medical vocabulary used in health care occupations, through the study of root words, prefixes, suffixes, and case studies.  Pronunciation, spelling, and use of medical terms and abbreviations related to diagnosis, clinical procedures, surgery, and anatomical and physiological systems.  Course offered online only.  Credit/No Credit grading only.  3 lectures.  Crosslisted as HLTH/KINE 297.",
+            "title": "Medical Terminology"
+        },
+        "HLTH 298": {
+            "description": "Introduction to epidemiological principles and methods for studying chronic and communicable diseases in the United States.  Upstream determinants of health and disease.  Chronic disease continuum and epidemiologic triangle.  Evidence-based recommendations for public health interventions.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 298.",
+            "title": "Disease Epidemiology"
+        },
+        "HLTH 299": {
+            "description": "Apply epidemiological principles and methods to the study of the distribution and determinants of significant health behaviors; role of behaviors in public health; evidence-based recommendations for public health interventions to promote health behaviors and prevent risk behaviors.  3 lectures, 1 laboratory.",
+            "title": "Behavioral Epidemiology"
+        },
+        "HLTH 305": {
+            "description": "Social, biological, and psychological factors of the major drugs associated with therapeutic and recreational use and abuse in society.  Topics include drug use as a social problem, theories and treatment of addiction, how drugs work, and the detrimental health effects of drug use.  Includes both illegal and legal drugs.  4 lectures.  Crosslisted as HLTH/KINE 305.",
+            "title": "Drugs in Society"
+        },
+        "HLTH 310": {
+            "description": "Examination of potential injuries in workplace, school, home, recreation and transportation settings.  Strategies for prevention of unintentional injuries due to sudden and chronic loading on various structures in the human body.  3 lectures.",
+            "title": "Injury Prevention"
+        },
+        "HLTH 320": {
+            "description": "Applications of computers, electronic media and information technology as related to promoting health.  Projects include digital videos, professional websites, ePortfolios, and blogs.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 320.",
+            "title": "Media and Technology in Health Promotion"
+        },
+        "HLTH 334": {
+            "description": "Introduction to health behavior theories and models.  Examination of effectiveness of theory-based interventions to facilitate behavior change to promote health and prevent disease.  3 lectures.",
+            "title": "Health Behavior Theory"
+        },
+        "HLTH 402": {
+            "description": "Quantitative and qualitative research approaches and methods in public health settings, with particular emphasis on social and behavioral sciences.  3 lectures, 1 laboratory.",
+            "title": "Research Methods in Public Health Settings"
+        },
+        "HLTH 405": {
+            "description": "Overview of stress physiology.  Multifactorial causes and consequences of stress in chronic disease.  Assessment of stress in health promotion settings.  Evidence-based stress management practices and programs for disease prevention in public health settings.  3 lectures, 1 activity.",
+            "title": "Stress, Health and Chronic Illness"
+        },
+        "HLTH 410": {
+            "description": "Application of public health evidence-based approaches to contemporary global health problems.  Particular attention to disparities, national and international policies, health systems, and resource availability and utilization.  Patterns and determinants of health, disease, and disability at all levels of Bronfenbrenner's social ecological model.  4 lectures.",
+            "title": "Global Health"
+        },
+        "HLTH 434": {
+            "description": "Application of methods to facilitate behavior change to promote health and prevent morbidity and mortality.  Concepts affecting health behavior, motivation, and decision making.  Development of program planning skills in health education and promotion.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 434.",
+            "title": "Health Promotion Program Planning"
+        },
+        "HLTH 435": {
+            "description": "Implementation and evaluation of health promotion programs in school, community, medical, public health, worksite, and college/university settings.  Planning the intervention design, implementation and evaluation protocols including process, impact and outcome assessments.  3 lectures, 1 laboratory.  Crosslisted as HLTH/KINE 435.",
+            "title": "Health Promotion Program Implementation and Evaluation"
+        },
+        "HLTH 443": {
+            "description": "The health status, special concerns and national health objectives for school aged children.  Coordinated school health programs and California Health Framework.  Health, nutrition, safety, alcohol, tobacco and other drugs, reproductive health, and chronic disease prevention.  Satisfies CTC requirement for credential.  4 lectures.  Crosslisted as HLTH/KINE 443.",
+            "title": "Health Education for Teachers"
+        },
+        "HLTH 450": {
+            "description": "Planning, implementing, and evaluating comprehensive worksite/university health promotion (WHP) and campus wellbeing programs.  Benefits of WHP for employers and employees.  Educational, organizational, economic, and environmental supports for behaviors conducive to health.  4 lectures.  Crosslisted as HLTH/KINE 450.",
+            "title": "Worksite and University Health Promotion Programs"
+        },
+        "HLTH 453": {
+            "description": "Overview of research on the causes and consequences of obesity.  Evidence-based prevention and treatment interventions.  Emphasis on skills for promoting weight control in multidisciplinary health promotion and public health settings.  3 lectures, 1 activity.  Crosslisted as HLTH/KINE 453.",
+            "title": "Obesity Prevention and Treatment"
+        },
+        "HLTH 460": {
+            "description": "Applied and project-based culminating experience in planning, implementing, and evaluating a campus, community, or worksite health promotion program under faculty supervision.  Minimum 30 hours.  1 laboratory.",
+            "title": "Experiential Senior Project"
+        },
+        "HLTH 461": {
+            "description": "A comprehensive synthesis of professional literature that integrates content from major courses resulting in a report.  Topic must be approved by the instructor.  Minimum 30 hours time commitment.  1 seminar.",
+            "title": "Senior Project Report"
+        },
+        "HLTH 462": {
+            "description": "Completion of an advanced research, or creative project.  Results may be submitted for poster presentation or other public/ professional forum.  Total credit limited to 4 units.  1 to 4 supervision.",
+            "title": "Research Senior Project"
+        },
+        "HLTH 463": {
+            "description": "Practical experience at an approved agency that provides public health promotion programs.  Students participate in program administration under the direct supervision of an approved on-site coordinator as a capstone experience.  Total credit limited to 3 units.  Credit/No Credit grading only.  1 to 3 supervision.",
+            "title": "Public Health Internship"
+        }
+    },
     "links": [
         {
             "source": "HLTH 101",

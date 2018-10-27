@@ -1,4 +1,54 @@
 {
+    "descriptions": {
+        "UNIV 100": {
+            "description": "Course supports the successful student transition to Cal Poly. Establishes links between student needs and campus resources. Covers goal setting, degree planning, campus and academic policies, time management, college and campus culture, growth mindset and effective learning strategies. Not open to students with credit in EDUC/UNIV 125. Credit/No Credit grading only. 1 lecture.",
+            "title": "University Studies"
+        },
+        "UNIV 125": {
+            "description": "Issues associated with the successful transition from high school or community college to Cal Poly. Links fostered between student needs and campus resources. Coverage of academic policies and procedures, university study skills, goal setting, career planning, wellness and other topics relevant to student success. Not open to students with credit in UNIV 100. Credit/No Credit grading only. 1 lecture, 1 activity. Crosslisted as EDUC/UNIV 125.",
+            "title": "First Year Seminar"
+        },
+        "UNIV 321": {
+            "description": "Research methods and tools for sciences and humanities, including formulating a research question, designing a study, using the scientific method to conduct and analyze surveys, and analyzing data.  Emphasis on working in interdisciplinary research teams.  Total credit limited to 8 units.  2 lectures, 2 activities.  Crosslisted as HNRS/UNIV 321.",
+            "title": "Undergraduate Research Methods and Practice"
+        },
+        "UNIV 330": {
+            "description": "Scientific investigation of the natural features of the Cal Poly landscape and their transformations by land management technology.  Analysis of the environmental, economic, social, and political effects of agriculture, resource extraction, and construction technology on that landscape.  Emphasis on the educational, land-use, and long term planning issues of technology presented by this case study.  4 lectures.  Crosslisted as AG/ISLA/UNIV 330.  Fulfills GE Area F.",
+            "title": "Cal Poly Land: Nature, Technology, and Society"
+        },
+        "UNIV 333": {
+            "description": "Integrated, interdisciplinary study of the technologies of global food production, environmental and social issues related to the application of those technologies, and moral and ethical issues associated with global food production and distribution.  Emphasis on the politics of change.  4 lectures.  Crosslisted as POLS/UNIV 333.  Fulfills GE Area F.",
+            "title": "World Food Systems"
+        },
+        "UNIV 350": {
+            "description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV 350.  Fulfills GE Area F.",
+            "title": "The Global Environment"
+        },
+        "UNIV 391": {
+            "description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and project mentorship.  4 lectures.  Crosslisted as HNRS/PSC/UNIV 391.  Fulfills GE D5.",
+            "title": "Appropriate Technology for the World's People: Development"
+        },
+        "UNIV 392": {
+            "description": "Addresses the needs of international impoverished communities with technological solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Not open to students with credit in PSC/UNIV/HNRS 492.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PSC/UNIV 392.  Fulfills GE Area F.",
+            "title": "Appropriate Technology for the World's People: Design"
+        },
+        "UNIV 424": {
+            "description": "The design and creation of educational museum displays that highlight science, engineering, and technology.  Projects done by multidisciplinary teams and for clients in the community.  Emphasis on design, teamwork, service learning and project management.  3 lectures, 1 laboratory.  Crosslisted as HNRS/UNIV 424.",
+            "title": "Design of Museum Displays of Science, Engineering and Technology"
+        },
+        "UNIV 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "UNIV 491": {
+            "description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and mentorship.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS 391.  4 lectures.  Crosslisted as PSC/UNIV 491.",
+            "title": "Appropriate Technology for the World's People: Development"
+        },
+        "UNIV 492": {
+            "description": "Addresses the needs of international impoverished communities with techno-logical solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS 392.  3 lectures, 1 laboratory.  Crosslisted as PSC/UNIV 492.",
+            "title": "Appropriate Technology for the World's People: Design"
+        }
+    },
     "links": [
         {
             "source": "GE D1",

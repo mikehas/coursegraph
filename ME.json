@@ -1,4 +1,346 @@
 {
+    "descriptions": {
+        "ME 128": {
+            "description": "Introduction to mechanical engineering and its application in professional practice.  Includes design, analysis, testing and dissection of mechanical engineering systems, from simple machines to more complicated systems.  Introduction to engineering graphic communication.  Introduction to HVAC, Manufacturing and Mechatronics concentrations.  Includes first quarter cornerstone service learning project.  1 laboratory.  Formerly ME 134.",
+            "title": "Introduction to Mechanical Engineering I"
+        },
+        "ME 129": {
+            "description": "Communication of designs for manufacturing using basic definitions of points, lines and planes in space.  Pictorials, orthographic projection, section views and auxiliary views.  Techniques from geometry and spatial definitions integrated to provide information to both the design and manufacturing processes.  1 laboratory.",
+            "title": "Introduction to Mechanical Engineering II"
+        },
+        "ME 130": {
+            "description": "Use of computer-aided design to communicate parts and assemblies.  Dimensioned drawings for part fabrication.  Introduction to fits and tolerances.  Layout drawings and functional assemblies.  1 laboratory.",
+            "title": "Introduction to Mechanical Engineering III"
+        },
+        "ME 163": {
+            "description": "Introduction to career opportunities in Mechanical Engineering, exploration of the ethical responsibilities of being a student and professional engineer, and familiarization with the Mechanical Engineering curriculum including cooperative education and international exchange opportunities.  Conclusion of cornerstone service learning project.  Field trip may be required.  1 activity.",
+            "title": "Freshmen Orientation to Mechanical Engineering"
+        },
+        "ME 211": {
+            "description": "Analysis of forces on engineering structures in equilibrium.  Properties of forces, moments, couples, and resultants.  Equilibrium conditions, friction, centroids, area moments of inertia.  Introduction to mathematical modeling and problem solving.  Vector mathematics where appropriate.  3 lectures.  Crosslisted as HNRS/ME 211.",
+            "title": "Engineering Statics"
+        },
+        "ME 212": {
+            "description": "Analysis of motions of particles and rigid bodies encountered in engineering.  Velocity, acceleration, relative motion, work, energy, impulse, and momentum.  Further development of mathematical modeling and problem solving.  Vector mathematics where appropriate.  3 lectures.  Crosslisted as HNRS 214/ME 212.",
+            "title": "Engineering Dynamics"
+        },
+        "ME 228": {
+            "description": "Use of engineering communication principles to communicate details of project designs including: sketching, orthographic projection, section and auxiliary views, dimensioning, and tolerances. Hand and computer based methods explored. Introduction to design for manufacturability. 2 laboratories.",
+            "title": "Engineering Design Communication"
+        },
+        "ME 229": {
+            "description": "Introduction to Mechanical Engineering and its application in professional practice. Includes design, analysis, testing and dissection of mechanical engineering systems. Investigation of personal and professional ethics. Familiarization with the ME curriculum including cooperative education and international exchange opportunities. 1 lecture, 1 laboratory.",
+            "title": "Introduction to Mechanical Engineering for Transfers"
+        },
+        "ME 234": {
+            "description": "General approach to the meaning of engineering design.  Conceptual blocks, creativity, design process, design considerations and elements.  3 lectures.",
+            "title": "Philosophy of Design"
+        },
+        "ME 236": {
+            "description": "Introduction to principles and practice of measurement.  Application of probability distributions, sampling, confidence intervals, uncertainty, and regression analysis to engineering experiments and design.  Techniques for measuring common physical quantities such as temperature, pressure, and strain.  Introduction to laboratory report writing and communication of technical data.  2 lectures, 1 laboratory.",
+            "title": "Measurement and Engineering Data Analysis"
+        },
+        "ME 251": {
+            "description": "Part and system or assembly design with solid modeling using current software and hardware.  Techniques of advanced communication including weld symbols, threaded fasteners, dimensioning and tolerancing.  Creation of design layouts and part models with varied configurations and dynamic assembly models.  Introduction to section mass and inertia properties.  Emphasis of group work and peer review in the production of parts for assemblies.  1 lecture, 1 laboratory.",
+            "title": "Introduction to Detailed Design with Solid Modeling"
+        },
+        "ME 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ME 271": {
+            "description": "Directed group laboratory study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 4 units.  1 to 2 laboratories.",
+            "title": "Selected Laboratory"
+        },
+        "ME 302": {
+            "description": "Properties of working fluids and fundamental relations for processes involving the transfer of energy.  First and second laws of thermodynamics, irreversibility and availability.  3 lectures.",
+            "title": "Thermodynamics I"
+        },
+        "ME 303": {
+            "description": "Vapor and gas power cycles, refrigeration cycles, thermodynamic relations, psychrometrics, and chemical reactions.  3 lectures.",
+            "title": "Thermodynamics II"
+        },
+        "ME 305": {
+            "description": "Introduction to microcontrollers and assembly language programming.  Emphasis on components and techniques for interfacing that are typical of embedded microcontroller applications (A/D conversion, D/A conversion, interrupts, timers, and pulse-width modulation).  Laboratory exercises involve real-time interfacing of microcontrollers to external mechanical and/or electromechanical devices.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Mechatronics"
+        },
+        "ME 318": {
+            "description": "Free and forced vibration response of single and multiple degree of freedom systems.  Experimental studies of the dynamic behavior of structures and machines.  Instrumentation methods utilized in field and laboratory.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Vibrations"
+        },
+        "ME 320": {
+            "description": "Interdisciplinary connection of everyday consumer decisions with energy costs, security, and global warming.  Energy consumption by home appliances and automobiles.  Methods to reduce the individual 'energy footprint' with renewable energy, purchasing carbon offsets, and behavioral modifications.  4 lectures.  Fulfills GE Area F.",
+            "title": "Consumer Energy Guide"
+        },
+        "ME 323": {
+            "description": "Investigation of engineering product designs, including social, environmental, and technological influences.  Incorporation of engineering design tools to develop a product using creative methods and design methodology.  Exploration of creative problem solving methods and barriers to creativity.  4 lectures.  Fulfills GE Area F.",
+            "title": "Everything is Designed: The Invention and Evolution of Products"
+        },
+        "ME 326": {
+            "description": "Continuation of ME 212.  Additional analysis of planar motion of rigid bodies with particular attention to rotating reference frames.  Kinematics of linkages, three dimensional dynamics, introduction to numerical methods and dynamic simulation of mechanisms.  3 lectures, 1 activity.",
+            "title": "Intermediate Dynamics"
+        },
+        "ME 328": {
+            "description": "Design of machine parts by stress and deflection.  Effects of fluctuating stresses and stress concentration.  Design of shafts and other machine parts.  Modern industrial design practice using standard components and design layout drawings.  3 lectures, 1 laboratory.",
+            "title": "Design for Strength and Stiffness"
+        },
+        "ME 329": {
+            "description": "Design of mechanical equipment and systems using various machine elements and components such as threaded fasteners, power screws, springs, gears, bearings, clutches, prime movers, etc.  Decision modeling based on technical and economic feasibility.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Systems Design"
+        },
+        "ME 341": {
+            "description": "Fluid properties and fluid statics.  Euler and Bernoulli equations.  Conservation equations; dimensional analysis.  Viscous pipe flow.  Course may be offered in classroom-based or online format.  3 lectures.",
+            "title": "Fluid Mechanics I"
+        },
+        "ME 347": {
+            "description": "Conservation equations of fluid dynamics.  Viscous flow, boundary layer concepts, lift and drag, compressible flow, turbomachinery.  Laboratory measurement of turbomachine performance, velocity profiles, boundary layers on surfaces.  3 lectures, 1 laboratory.",
+            "title": "Fluid Mechanics II"
+        },
+        "ME 350": {
+            "description": "Basic principles of heat transfer by conduction and convection.  Laboratory experiments to characterize thermodynamic material properties, energy conversion processes, thermodynamic cycles, and performance of heat transfer equipment.  Not open to students with credit in ME 343.  3 lectures, 1 laboratory.",
+            "title": "Heat Transfer"
+        },
+        "ME 359": {
+            "description": "Fundamentals of heating, ventilating and air-conditioning (HVAC) systems, human comfort and indoor air quality, primary and secondary systems and components.  3 lectures, 1 laboratory.",
+            "title": "Fundamentals of HVAC Systems"
+        },
+        "ME 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ME 401": {
+            "description": "Advanced strength of materials:  behavior of disks, plates, and shells.  Theory of elasticity.  Energy methods.  3 lectures, 1 laboratory.",
+            "title": "Stress Analysis"
+        },
+        "ME 402": {
+            "description": "Biomechanical analysis of the musculoskeletal system.  Emphasis on the use of statics, dynamics, strength of materials, viscoelasticity, and poroelasticity to analyze the mechanical loads acting on human joints, the mechanical properties of tissues, and the design of artificial joints.  3 lectures, 1 laboratory.",
+            "title": "Orthopedic Biomechanics"
+        },
+        "ME 404": {
+            "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics.  The power and pitfalls associated with the finite element method highlighted through practical modeling assignments.  Introduces the use of commercial finite element codes.  3 lectures, 1 laboratory.  Crosslisted as BMED/CE/ME 404.",
+            "title": "Applied Finite Element Analysis"
+        },
+        "ME 405": {
+            "description": "Microprocessor applications in machine control and product design.  Applied electronics.  Drive technology; transducers and electromechanical systems.  Real-time programming.  Mechatronic design methodology.  3 lectures, 1 laboratory.",
+            "title": "Mechatronics"
+        },
+        "ME 409": {
+            "description": "Examination of human motion biomechanics.  Experimental and analytical methods in motion analysis based on rigid body dynamics.  Protocols for protection of human subjects in research.  Hypothesis-driven research in interdisciplinary teams, including written proposal development and written/oral communication of results to a scientific audience.  1 lecture, 3 activities.  Crosslisted as BMED/KINE/ME 409.",
+            "title": "Interdisciplinary Study in Biomechanics"
+        },
+        "ME 410": {
+            "description": "Bonded resistance strain gages for static and dynamic measurements; rosettes, bridge circuits, lead wire effects, special gages.  Data acquisition systems, and measurement of displacement, velocity, and acceleration.  Photoelastic methods including birefringent coatings.  Applications in mechanical design and metrology.  3 lectures, 1 laboratory.",
+            "title": "Experimental Methods in Mechanical Design I"
+        },
+        "ME 412": {
+            "description": "Behavior of unidirectional fiber composites.  Properties of short-fiber composites, and orthotropic lamina.  Analysis of laminated composites.  Strength and hygrothermal behavior of composite materials.  Structural optimization.  3 lectures, 1 laboratory.",
+            "title": "Composite Materials Analysis and Design"
+        },
+        "ME 415": {
+            "description": "Engineering aspects of energy sources, conversion and storage.  Topics selected from fossil fuel systems, nuclear power, thermoelectric systems, thermionic converters, fuel cells, magnetohydrodynamic generators, and geothermal, tidal, wind and ocean temperature energy conversion systems.  4 lectures.",
+            "title": "Energy Conversion"
+        },
+        "ME 416": {
+            "description": "Design of ground vehicles for directional stability and control.  Tire mechanics and their effects on vehicle performance.  Simulation of vehicle dynamics using digital computer.  Synthesis of steering mechanism and suspension system.  3 lectures, 1 laboratory.",
+            "title": "Ground Vehicle Dynamics and Design"
+        },
+        "ME 420": {
+            "description": "Radiation and combined mode heat transfer.  Design of thermal systems.  Engineering economics, thermal component sizing, and steady-state simulation techniques applied to the design and performance analysis of thermal systems.  Not open to students with credit in ME 440.  3 lectures, 1 laboratory.",
+            "title": "Thermal System Design"
+        },
+        "ME 422": {
+            "description": "Modeling and control of physical systems.  Design of mechanical, hydraulic and electrical systems using time response, frequency response, state space, and computer simulation.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Control Systems"
+        },
+        "ME 423": {
+            "description": "Introduction to robots and their types.  Homogeneous transformations.  Kinematic equations and their solutions.  Motion trajectories, statics, dynamics, and control of robots.  Robot programming.  Actuators, sensors and vision systems.  3 lectures, 1 laboratory.",
+            "title": "Robotics: Fundamentals and Applications"
+        },
+        "ME 428": {
+            "description": "First of three courses taken sequentially in component and system design using real-world problems.  Small teams study and apply techniques of the engineering design process including problem definition, concept generation, feasibility studies and decision making.  Practice of professional skills including written and oral communication, teaming, project management, societal responsibility and ethics.  2 laboratories.",
+            "title": "Senior Design Project I"
+        },
+        "ME 429": {
+            "description": "Continuation of a project begun in ME 428.  Activities focused on detail design, analysis and material procurement.  2 laboratories.",
+            "title": "Senior Design Project II"
+        },
+        "ME 430": {
+            "description": "Completion of a project begun in ME 428 and continued in ME 429.  Design verified through prototyping and testing.  2 laboratories.",
+            "title": "Senior Design Project III"
+        },
+        "ME 431": {
+            "description": "Comprehensive study of various design methods and techniques.  Techniques used to explore various structural concepts such as prestressing, shaping, sizing, etc.  Simulation of systems using digital computer.  Design criteria identification of design parameters and constraints.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Design Techniques"
+        },
+        "ME 434": {
+            "description": "Primary, secondary, and tertiary (enhanced) oil recovery methods.  Waterflooding, polymerflooding, gas injection, steam injection, in-situ combustion, chemical flooding, miscible flooding.  Performance calculations and computer applications in EOR.  4 lectures.",
+            "title": "Enhanced Oil Recovery"
+        },
+        "ME 435": {
+            "description": "Theory and practice of oilwell planning, drilling, well logging, and completion applied to the development of new oil and gas production, from onshore and offshore fields.  4 lectures.",
+            "title": "Drilling Engineering"
+        },
+        "ME 436": {
+            "description": "Design and operation of surface and subsurface equipment required in oil production.  Processes and systems involved are rod pumping, gas lifting, acidizing, hydraulic fracturing, fluid gathering and storage, separation of oil, gas, water and sediment from produced fluid.  Includes equipment used in enhanced oil recovery processes.  4 lectures.",
+            "title": "Petroleum Production Engineering"
+        },
+        "ME 437": {
+            "description": "Operation of a nuclear electric generation station; includes reactor water chemistry, material science, electric science, mechanical science, civil engineering for the nuclear power plant engineers and digital process control systems.  Field trip may be required.  4 lectures.",
+            "title": "Nuclear Energy Power Generation"
+        },
+        "ME 438": {
+            "description": "Principal elements of pressurized water reactor nuclear power systems; overview of reactor physics, thermodynamics, and heat transfer; includes basic reactor physics, reactor heat generation, reactor plant systems, support systems, and reactor safety.  Field trip may be required.  4 lectures.",
+            "title": "Nuclear Power Plant Design"
+        },
+        "ME 440": {
+            "description": "Design and optimization of thermal systems.  Engineering economics, thermal component sizing, steady-state simulation, and optimization techniques applied to the design and performance analysis of thermal systems.  Not open to students with credit in ME 420.  3 lectures, 1 laboratory.",
+            "title": "Thermal System Design and Optimization"
+        },
+        "ME 441": {
+            "description": "Design of single track vehicles, including handling characteristics, ergonomics and human power, strength and stiffness considerations, braking and suspension.  Laboratory focus on designing a single track vehicle, including fabrication of a handling prototype.  3 lectures, 1 laboratory.",
+            "title": "Single Track Vehicle Design"
+        },
+        "ME 442": {
+            "description": "Graphical synthesis and analysis of mechanisms and machines.  Analytical fundamentals for study of displacements, velocities, accelerations, and static and dynamic forces necessary for design of planar linkages and gearing systems.  Creative design projects using software simulation tools.  3 lectures, 1 laboratory.",
+            "title": "Design of Machinery"
+        },
+        "ME 443": {
+            "description": "Performance characteristics of various types for liquids and for gases.  Criteria for proper selection of type and main dimensions.  Cavitation criteria.  Gas turbine cycles and performance.  Two-dimensional cascades.  Axial flow turbines and compressors.  Centrifugal compressors and radial-inflow turbines.  4 lectures.",
+            "title": "Turbomachinery"
+        },
+        "ME 444": {
+            "description": "Application of design parameters to the various engine cycles.  Aspects of the combustion processes.  Emission regulation effects on engine design.  Static and dynamic loading.  3 lectures, 1 laboratory.",
+            "title": "Combustion Engine Design"
+        },
+        "ME 450": {
+            "description": "High and intermediate temperature systems for conversion of solar energy to mechanical power and heat.  Thermal energy storage and total thermal energy system design.  3 lectures, 1 laboratory.",
+            "title": "Solar Thermal Power Systems"
+        },
+        "ME 456": {
+            "description": "Air and water distribution components and systems and the design of these systems with applications to the heating, ventilating and air-conditioning (HVAC) industry.  3 lectures, 1 laboratory.",
+            "title": "HVAC Air and Water Distribution System Design"
+        },
+        "ME 457": {
+            "description": "Basic engineering principles of refrigeration processes including:  vapor compression cycles, multipressure systems, absorption systems, steam jet cooling, air cycles, and low temperature refrigeration.  3 lectures, 1 laboratory.",
+            "title": "Refrigeration Principles and Design"
+        },
+        "ME 458": {
+            "description": "Building heating and cooling load calculations, estimating energy consumption and operating costs for heating, ventilating and air-conditioning system design and selection.  3 lectures, 1 laboratory.",
+            "title": "Building Heating and Cooling Loads"
+        },
+        "ME 459": {
+            "description": "First quarter of a two quarter sequence.  Team project work in designing heating, ventilating and air-conditioning (HVAC) systems.  New developments, policies and practices in the HVAC industry.  Professional ethics relevant for practicing engineers.  1 lecture, 2 laboratories.",
+            "title": "HVAC Senior Design Project I"
+        },
+        "ME 460": {
+            "description": "Continuation of work begun in ME 459.  Team project designing heating, ventilating and air-conditioning (HVAC) systems.  2 laboratories.",
+            "title": "HVAC Senior Design Project II"
+        },
+        "ME 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ME 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ME 488": {
+            "description": "Engineering aspects of windpower systems including mechanical design, support structure design, aerodynamic analysis, wind field analysis, system concepts and analysis, and economics.  4 lectures.",
+            "title": "Wind Energy Engineering"
+        },
+        "ME 493": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "ME 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "ME 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "ME 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.",
+            "title": "Individual Study"
+        },
+        "ME 501": {
+            "description": "Introduction to continuum mechanics.  Kinematics, stress, and balance laws.  Constitutive theory for isotropic and anisotropic solids and viscous fluids.  Applications including design of beams and pressure vessels, stress concentrations, fiber-reinforced composites, and non-homogeneous biological materials.  4 lectures.  Crosslisted as CE 511/ME 501.",
+            "title": "Continuum Mechanics and Elasticity"
+        },
+        "ME 503": {
+            "description": "Perfectly plastic and work hardening materials; von Mises and Tresca yield, isotropic and kinematic hardening flow rules, boundary-value problems.  Finite elasticity:  kinematics, Cauchy- and Green-elasticity, invariance, constraints, Neo-Hookean and Mooney-Rivlin materials, experimental approaches, non-uniqueness, anisotropy, residual stress, thermoelasticity, boundary-value problems.  4 lectures.  Crosslisted as CE 513/ME 503.",
+            "title": "Inelastic Stress Analysis"
+        },
+        "ME 504": {
+            "description": "Linear finite element theory and analysis.  Strong, weak and variational formulations.  Physical and isoparametric spaces.  Error estimates and numerical integration.  Development of finite element algorithms.  Use of commercial finite element codes to illustrate course concepts including modeling issues and limitations.  3 lectures, 1 laboratory.  Crosslisted as CE/ME 504.",
+            "title": "Finite Element Analysis"
+        },
+        "ME 506": {
+            "description": "Unified approach for mathematical modeling and analysis of dynamic physical systems which may store energy in multiple energy domains.  Emphasis on developing lumped-parameter linear system models from a set of primitive elements in a systematic manner.  4 lectures.",
+            "title": "System Dynamics"
+        },
+        "ME 507": {
+            "description": "Application of principles of high-level design to mechanical control system implementation.  Use of modified state transition logic in conjunction with object-oriented programming as design methodology.  Real-time programming using above techniques for control of mechanical systems.  3 lectures, 1 laboratory.",
+            "title": "Mechanical Control System Design"
+        },
+        "ME 517": {
+            "description": "Vibration of complex engineering systems.  Inertia and stiffness matrices.  Natural frequencies and normal modes.  Approximate solutions and computer techniques.  Response to transient and periodic inputs.  3 lectures, 1 laboratory.",
+            "title": "Advanced Vibrations"
+        },
+        "ME 518": {
+            "description": "Vibrations relating to rotating machinery.  Modeling of structural rotordynamic phenomena induced by shaft flexibility, bearings, and seals.  Laboratory measurement of rotor system dynamic response and interpretation of machinery diagnostic information.  Research project on a related topic.  3 lectures, 1 laboratory.",
+            "title": "Machinery Vibration and Rotor Dynamics"
+        },
+        "ME 540": {
+            "description": "Introduction to tensor calculus and indicial notation.  Development of Reynolds' Transport Theory.  Special forms of the governing equations of fluid motion.  Internal flows and other classical solutions to the Navier-Stokes equations.  4 lectures.",
+            "title": "Viscous Flow"
+        },
+        "ME 541": {
+            "description": "Selected modern applications of thermodynamics which may include topics from:  1) equilibrium and kinetics as applied to combustion and air pollution, analysis and evaluation of techniques used to predict properties of gases and liquids, and 2) improvement of modern thermodynamic cycles by second law analysis.  4 lectures.",
+            "title": "Advanced Thermodynamics"
+        },
+        "ME 542": {
+            "description": "Control volume analysis of fluid-thermo equations for one-dimensional, compressible flow involving area change, normal shocks, friction, and heat transfer.  Two-dimensional supersonic flow including linearization, method of characteristics, and oblique shocks.  One-dimensional constant area, unsteady flow, 4 lectures.",
+            "title": "Dynamics and Thermodynamics of Compressible Flow"
+        },
+        "ME 552": {
+            "description": "Advanced principles of heat transfer.  Classical solution techniques to problems in conduction and/or radiation.  4 lectures.",
+            "title": "Advanced Heat Transfer I"
+        },
+        "ME 553": {
+            "description": "Advanced principles of heat transfer.  Classical solution techniques to problems in convection.  4 lectures.",
+            "title": "Advanced Heat Transfer II"
+        },
+        "ME 554": {
+            "description": "Numerical solutions of classical, industrial, and experimental problems in conduction, convection, and radiation heat transfer.  3 lectures, 1 laboratory.",
+            "title": "Computational Heat Transfer"
+        },
+        "ME 556": {
+            "description": "Advanced principles of heat transfer.  Classical solution techniques to problems in radiation with applications related to the role of radiation heat transfer in the development of fire in buildings.  4 lectures.  Crosslisted as FPE/ME 556.",
+            "title": "Advanced Heat Transfer III"
+        },
+        "ME 563": {
+            "description": "Current developments in mechanical engineering.  Participation by graduate students, faculty and guests.  1 seminar.",
+            "title": "Graduate Seminar"
+        },
+        "ME 570": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units; may be repeated in same term.  1-4 seminars.",
+            "title": "Selected Advanced Topics"
+        },
+        "ME 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units; may be repeated in same term.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ME 579": {
+            "description": "Design, analysis, and control of fluid power systems.  Analysis of fluid power system components such as valves, actuators, pumps and motors.  System response and stability.  Dynamic modeling and computer simulation 3 lectures, 1 laboratory.",
+            "title": "Fluid Power Control"
+        },
+        "ME 599": {
+            "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis.",
+            "title": "Design Project (Thesis)"
+        }
+    },
     "links": [
         {
             "source": "ME 128",

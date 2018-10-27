@@ -1,4 +1,90 @@
 {
+    "descriptions": {
+        "GSA 501": {
+            "description": "Advanced individual research in accounting topics planned and completed under the direction of a member of the college faculty.  Designed to meet the needs of qualified students who wish to pursue investigations in accounting which cannot be followed effectively in regularly offered elective courses.  A formal written proposal must be accepted by the Associate Dean of OCOB before work begins.",
+            "title": "Graduate Accounting Individual Research"
+        },
+        "GSA 536": {
+            "description": "Income taxation of trusts and estates as flow-through entities; transfer taxation of gifts and estates, including generation-skipping transfers.  4 lectures.",
+            "title": "Taxation of Trusts, Estates, and Transfer Taxes"
+        },
+        "GSA 537": {
+            "description": "Multi-state income and franchise taxation; property taxes; sales and use taxes; and the constitutional authority for the imposition of state taxes.  4 lectures.",
+            "title": "State and Local Taxation"
+        },
+        "GSA 538": {
+            "description": "Current developments in income taxation of individuals, trusts and estates and business entities; transfer taxation of gifts and estates; and ethics and professional responsibility in taxation.  4 lectures.",
+            "title": "Current Developments in Taxation"
+        },
+        "GSA 539": {
+            "description": "Accounting internship that allows graduate level accounting students the opportunity to apply skills and competencies to an employment opportunity.  Placement in a full-time supervised work experience at a public accounting firm or in an accounting or internal audit department of a private enterprise or government agency.  Credit/No Credit grading only.",
+            "title": "Clinical Tax Education Internship"
+        },
+        "GSA 540": {
+            "description": "Comparative study of the taxation of C corporations and flow-through tax entities, including S corporations, partnerships and limited liability companies.  Not open to students with credit in BUS 417.  4 lectures.",
+            "title": "Taxation of Corporations and Partnerships"
+        },
+        "GSA 541": {
+            "description": "Comprehensive coverage of selected advanced financial accounting and reporting topics.  Topics include accounting changes and errors, leases, pensions and other post-employment benefits, income taxes, and consolidated financial statements.  4 seminars.",
+            "title": "Advanced Financial Reporting Issues I"
+        },
+        "GSA 543": {
+            "description": "Comprehensive coverage of selected advanced financial accounting and reporting topics.  Topics include financial statement footnote and MD&A disclosures and coverage of SEC statutes, regulations and filing forms.  5 seminars.",
+            "title": "Advanced Financial Reporting Issues II"
+        },
+        "GSA 544": {
+            "description": "Study of various transactions in order to understand the underlying business processes and information flows between various business units, in order for a transaction to occur and be properly reported, and the information determined that is critical for the information system to capture.  Emphasis of role of information systems in controlling the authorization of transactions, access to information, access to assets, preparation of accounting records and reports.  3 seminars, 1 activity.",
+            "title": "Advanced Enterprise Wide Business Processes for Accounting"
+        },
+        "GSA 545": {
+            "description": "Advanced use of authoritative accounting and auditing data bases and actual filings by public companies.  Frequent writing and speaking exercises.  Real world accounting and auditing issues facing public and private enterprises.  In-depth coverage of federal and state regulation of securities transactions.",
+            "title": "Applied Accounting Research and Communications"
+        },
+        "GSA 546": {
+            "description": "Research techniques applicable to tax issues including the communication of research results.  Administrative procedures necessary for tax compliance with the various tax jurisdictions with primary emphasis on IRS practices.  2 seminars, 2 activities.",
+            "title": "Tax Research and Administrative Procedures"
+        },
+        "GSA 548": {
+            "description": "Advanced concepts concerning the impact of taxes on individuals.  Introduction to transfer taxes imposed on individuals.  Financial, estate and compensation tax planning issues.  4 seminars.",
+            "title": "Advanced Individual Taxation and Tax Planning"
+        },
+        "GSA 549": {
+            "description": "Advanced and special topics related to the income tax treatment of partnerships, limited liability companies, trusts and S corporations and their owners and beneficiaries.  Creation, operation, liquidation and sale of such organizations.  4 seminars.",
+            "title": "Advanced Taxation of Flow-Through Entities"
+        },
+        "GSA 550": {
+            "description": "Advanced and special topics related to the income tax treatment of regular corporations and their shareholders.  Mergers and acquisitions, tax accounting methods and periods, cross-boundary topics, and current issues.  4 seminars.",
+            "title": "Advanced Corporate Taxation"
+        },
+        "GSA 551": {
+            "description": "Fundamental tax concepts of inbound and outbound investments of U.S.  taxpayers, controlled foreign corporations, Subpart F, the foreign tax credit, transfer pricing and contracting country treaties.  4 lectures.",
+            "title": "International Taxation"
+        },
+        "GSA 552": {
+            "description": "Occupational and financial statement fraud; particular emphasis on the breakdown of corporate governance and ethics systems and developing internal control systems to prevent and detect fraudulent activities.  4 lectures.",
+            "title": "Fraud Auditing and Examination"
+        },
+        "GSA 553": {
+            "description": "International accounting, auditing, and corporate governance standards including international financial reporting standards (IFRS).  4 lectures.",
+            "title": "International Accounting"
+        },
+        "GSA 554": {
+            "description": "Advanced topics in electronic spreadsheets and their use in accounting and financial applications.  Developing spreadsheet models for data analysis and decision making.  Integrating automation tools and external data sources into spreadsheets.4 lectures.",
+            "title": "Advanced Spreadsheet Modeling for Accounting"
+        },
+        "GSA 555": {
+            "description": "Fundamental concepts in database analysis, design, implementation, administration, and audit including issues such as requirements specification, REA modeling, ER modeling, normalization, SQL, transaction control, database security, and query optimization.  May also include topics such as data warehouses, XBRL and ebXLM.  4 lectures.",
+            "title": "Database Modeling and Analysis for Accounting"
+        },
+        "GSA 556": {
+            "description": "Comprehensive coverage of approaches to the measurement of fair values that are used in accounting situations such as mergers and acquisitions, recognition of stock based compensation, and determination of impairments in the carrying amounts of long-lived assets including intangible assets and goodwill.  Role of financial reporting in the valuation of securities, credit analysis, and the determination of the cost of capital.  4 lectures.",
+            "title": "Financial Accounting and Valuation"
+        },
+        "GSA 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics for Accounting"
+        }
+    },
     "links": [
         {
             "source": "GSA 541",

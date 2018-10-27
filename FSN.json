@@ -1,4 +1,290 @@
 {
+    "descriptions": {
+        "FSN 101": {
+            "description": "Understanding the depth and breadth of the Food Science and Nutrition programs. Emphasis on academic and career planning. Students are required to complete this course within their first year in the major. Separate sections will be offered for each major. Credit/No Credit grading only. 1 lecture.",
+            "title": "Orientation to the Food Science and Nutrition Majors"
+        },
+        "FSN 121": {
+            "description": "Theoretical aspects and practical applications of the principles of culinary science and food preparation. 3 lectures, 1 laboratory.",
+            "title": "Fundamentals of Food"
+        },
+        "FSN 125": {
+            "description": "Basic principles of food science. Chemical, physical, and microbiological properties of foods. Ingredient properties, preservation, and processing. Overview of the commercial food processing industry at state and national levels. Field trip may be required. 3 lectures, 1 laboratory.",
+            "title": "Introduction to Food Science"
+        },
+        "FSN 200": {
+            "description": "Individual investigation, research studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "FSN 201": {
+            "description": "Post-harvest processing of a high quality food product.  Project participation is voluntary and subject to approval by the department head and the Cal Poly Corporation.  Total degree credit for FSN 201 and FSN 401 combined limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Enterprise Project"
+        },
+        "FSN 204": {
+            "description": "Applied food manufacturing and processing technology emphasizing unit operations.  Water removal in foods (dehydration, spray drying, vacuum concentration), heat removal (refrigeration, freezing), and osmotic preservation.  Students produce processed foods in a pilot plant.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Food Processing Operations"
+        },
+        "FSN 210": {
+            "description": "Introduction to the science of human nutrition. Nutrient structure, metabolism, function and requirements. Application of nutrition science principles to promote optimal health. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE B5.",
+            "title": "Nutrition"
+        },
+        "FSN 230": {
+            "description": "Principles of food processing operations covering thermal processing, freezing, dehydration, fermentation and raw material handling. Overview of food technology, food quality, spoilage, packaging and label requirements. For non-Food Science majors only. Field trip may be required. 3 lectures, 1 laboratory.",
+            "title": "Elements of Food Processing"
+        },
+        "FSN 244": {
+            "description": "Applied science of cereal-based products.  Theory and practice underlying preparation of doughs, batters, fillings, and glazes.  Chemistry of baking doughs and batters and storage of finished products.  Marketing and product development of breads, cakes, cookies, and pastries.  Comparative nutritional evaluation of flours, grains, and finished products.  3 lectures, 1 laboratory.",
+            "title": "Cereal and Bakery Science"
+        },
+        "FSN 250": {
+            "description": "Anthropological perspective of traditional and contemporary food customs and culture. Major emphasis on U.S. cultures including Native American, Hispanic American, African American, and Asian American. Opportunities to explore personal cultural food experiences. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE D4 and USCP.",
+            "title": "Food and Nutrition: Customs and Culture"
+        },
+        "FSN 275": {
+            "description": "Introduction to food safety from farm-to-fork. Topics include good agricultural practices, good manufacturing practices, food safety regulations, and an overview of Hazard Analysis Critical Control Point (HACCP). Emphasis on control of biological, chemical, and physical hazards to assure food safety. Not open to Food Science majors. 4 lectures.",
+            "title": "Elements of Food Safety"
+        },
+        "FSN 290": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "FSN 304": {
+            "description": "Chemistry of starch, fat and proteins and its impact on texture, taste, flavor and appearance of food.  Effects of microorganisms on changes of food during preparation and storage.  3 lectures, 1 laboratory.",
+            "title": "Advanced Culinary Principles and Practice"
+        },
+        "FSN 310": {
+            "description": "Nutritional needs and related nutritional challenges of women and children, including fertility, pregnancy and lactation; physical, nutritional, social growth and development from infancy through adolescence.  Current nutrition issues in maternal and child nutrition.  4 lectures.",
+            "title": "Maternal and Child Nutrition"
+        },
+        "FSN 311": {
+            "description": "Sensory attributes of food, physiological basis of sensory evaluation, sensory panels, environment for sensory evaluation, sample preparation and presentation, types of score cards, statistical methods for data analysis and interpretation.  3 lectures, 1 laboratory.",
+            "title": "Sensory Evaluation of Food"
+        },
+        "FSN 315": {
+            "description": "Nutrition issues in the middle and later years.  Changes in organ systems, nutrient needs, functional status, and food preferences as adults age.  Nutrition and chronic disease.  Nutritional assessment and screening.  Nutrition-related health care and social services.  4 lectures.",
+            "title": "Nutrition in Aging"
+        },
+        "FSN 319": {
+            "description": "Overview of the science and technology used to produce the foods consumed on a daily basis.  Food science, biotechnology, food law, processing, preservation, ingredient functionality, package label information, and food safety information.  Not open to Food Science Majors.  4 lectures.  Fulfills GE Area F.",
+            "title": "Food Technology for the Consumer"
+        },
+        "FSN 321": {
+            "description": "Principles involved in the choice, purchase, and preparation of foods in a variety of settings and for various populations.  Contemporary and ongoing issues associated with food and cooking in the context of nutrition and health.  Planning and preparation of meals with emphasis on nutritional, aesthetic, economic and cultural aspects of food.  3 lectures, 1 laboratory.",
+            "title": "Contemporary Issues in Food Choice and Preparation"
+        },
+        "FSN 328": {
+            "description": "Metabolism of carbohydrates, fats and proteins as it applies to human nutrition.  Integration and regulation of metabolic pathways.  4 lectures.",
+            "title": "Nutrient Metabolism I"
+        },
+        "FSN 329": {
+            "description": "Continuation of FSN 328.  Biochemical, molecular, and physiological functions of vitamins and minerals and their interaction with other nutrients.  3 lectures, 1 laboratory.",
+            "title": "Nutrient Metabolism II"
+        },
+        "FSN 330": {
+            "description": "Introduction to principles of food engineering and basic calculations needed for food plant operations.  Unit conversions, material balance, heat balance, steam heating, psychrometry, vacuum and pressure.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Principles of Food Engineering"
+        },
+        "FSN 334": {
+            "description": "Function of food packaging in food processing and preservation.  Packaging materials and forms.  Regulations and testing of food packaging material.  Oral presentation required.  3 lectures.",
+            "title": "Food Packaging"
+        },
+        "FSN 335": {
+            "description": "Microbiological and physical methods of analyses of foods used in food quality assurance and product development laboratories.  Organization and management of quality assurance programs utilizing basic statistical control.  Development of food production standards and interpretation of specifications.  Packaging and container evaluation.  3 lectures, 1 laboratory.",
+            "title": "Food Quality Assurance"
+        },
+        "FSN 341": {
+            "description": "Processing, manufacturing, historical and bio-technical applications of fermentation technology for the production of food and beverages.  Wines of the world, distilled beverages, beers, fermented dairy, vegetable and meat products important to the post-harvest economy of California.  4 lectures.",
+            "title": "Fermented Foods"
+        },
+        "FSN 342": {
+            "description": "Scientific principles of malting and brewing.  Chemistry, microbiology, and technology of the entire brewing process, from the raw ingredients (barley, malt, hops, water, yeast) to the production of beer and its quality assurance.  4 lectures.",
+            "title": "Brewing Science"
+        },
+        "FSN 343": {
+            "description": "Principles of equipment selection and food service facility, planning with emphasis on sanitation and safety.  2 lectures, 1 laboratory.",
+            "title": "Institutional Foodservice I"
+        },
+        "FSN 344": {
+            "description": "Continuation of FSN 343.  Economic principles and problems involved in planning and preparing food using institutional equipment to meet specific product standards for large groups.  Field trip may be required.  3 lectures, 1 laboratory.",
+            "title": "Institutional Foodservice II"
+        },
+        "FSN 346": {
+            "description": "Introduction to brewing practices and hands-on instruction on industry standard laboratory methods for the analysis of barley, malt, hops, water, yeast, and beer.  Perform pilot brews and apply methodologies for the analysis of raw ingredients, process control, and final product.  Field trip required.  1 lecture, 2 laboratories.  Students must be 18 years of age or older.",
+            "title": "Brewing Methods"
+        },
+        "FSN 354": {
+            "description": "Basic food spoilage and preservation mechanisms.  The role of food packaging in food processing.  Package and food compatibility.  For non-Food Science majors.  3 lectures.",
+            "title": "Packaging Function in Food Processing"
+        },
+        "FSN 364": {
+            "description": "Study of molecular properties of major food components such as water, carbohydrates, lipids, proteins, vitamins, minerals, pigments, enzymes and other important molecules as well as chemical reactions of these compounds occurring as a result of processing and or storage.  Laboratory focus on assessment of the role of food components in food systems and food products.  3 lectures, 1 laboratory.",
+            "title": "Food Chemistry"
+        },
+        "FSN 368": {
+            "description": "Principles of chemical and biochemical methods and techniques for measuring food protein, carbohydrates, lipids, water, vitamins, minerals and other components of foods using approved methods.  3 lectures, 1 laboratory.",
+            "title": "Food Analysis"
+        },
+        "FSN 370": {
+            "description": "Principles and practice of food plant sanitation and prerequisite programs to ensure production of a safe and wholesome food supply.  Topics include good manufacturing practices, sanitary design, cleaning and sanitizing compound selection, pest management, waste treatment, and allergen control programs.  Field trips required.  4 lectures.",
+            "title": "Food Plant Sanitation and Prerequisite Programs"
+        },
+        "FSN 374": {
+            "description": "Federal, state, and local laws and regulations affecting the production, processing, packaging, marketing, and distribution of food.  Emphasis on FDA, USDA and California codes.  4 lectures.",
+            "title": "Food Laws and Regulations"
+        },
+        "FSN 375": {
+            "description": "Principles, practices, and regulations governing and ensuring the chemical, physical, and biological safety of the food supply.  Topics include Hazard Analysis Critical Control Point (HACCP), risk assessment, import safety, food bioterrorism and defense, product recalls, and traceability.  3 lectures, 1 activity.",
+            "title": "Food Safety"
+        },
+        "FSN 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "FSN 401": {
+            "description": "Leadership responsibility on enterprise projects.  Lead students, under the supervision of instructor, will be accountable for all phases of the project:  scheduling times, securing raw product, record keeping, and marketing of the product.  Total degree credit for FSN 201 and FSN 401 combined limited to 12 units.",
+            "title": "Advanced Enterprise Project"
+        },
+        "FSN 408": {
+            "description": "Functionality of water, carbohydrates, proteins, lipids, additives and other food ingredients used in the formulation, development, and processing of foods.  Product development processes from idea generation to marketing to consumer guided technical prototype development will be completed.  3 lectures, 1 laboratory.",
+            "title": "Food Product Development"
+        },
+        "FSN 410": {
+            "description": "Methods for assessing nutritional quality of foods/diets.  Nutrient databases for raw and processed foods.  Effects of food industry practices (e.g., processing, fortification, new product development, biotechnology) on nutritional quality of foods/diets.  Evolution of public policy.  4 seminars.",
+            "title": "Nutritional Implications of Food Industry Practices"
+        },
+        "FSN 415": {
+            "description": "Application of appropriate behavior and learning theories in nutrition education and communications across diverse population groups.  Effective use of techniques, materials, and computer-based technology to enhance communications.  Includes community-based learning projects.  4 lectures.",
+            "title": "Nutrition Education and Communications"
+        },
+        "FSN 416": {
+            "description": "Federal, state and local nutrition assessment activities and program services.  Emphasis on public health, health promotion and disease prevention.  Development of skills in assessing community nutrition problems and planning community interventions.  4 lectures.",
+            "title": "Community Nutrition"
+        },
+        "FSN 417": {
+            "description": "Communication, behavioral, and counseling theories as they relate to nutrition counseling.  Emphasis on development of skills to promote healthy eating behaviors.  Examination of eating disorders and obesity, including preventative and therapeutic interventions.  4 lectures.",
+            "title": "Nutrition Counseling"
+        },
+        "FSN 420": {
+            "description": "Nutrition research terminology and methods.  Critical evaluation and interpretation of nutrition research with emphasis on human studies of diet-health relationships.  Evidence based review.  4 seminars.",
+            "title": "Critical Evaluation of Nutrition Research"
+        },
+        "FSN 426": {
+            "description": "Principles of successful organization and management with their application to the effective operation of clinical, community and foodservice systems.  Administrative responsibilities of nutrition and foodservice directors.  Management theories and practice.  Labor relations.  Discipline and performance appraisal.  4 lectures.",
+            "title": "Nutrition and Foodservice Systems Management"
+        },
+        "FSN 429": {
+            "description": "Application of the nutrition care process to physiological disorders which may alter nutritional requirements or require dietary modifications.  Anthropometric, biochemical, clinical, and dietary assessment.  Diabetes mellitus, electrolytes, acid-base balance, hydration and enteral and parenteral nutrition.  Anemias, pharmacology, cardiovascular disease and obesity.  3 lectures, 1 laboratory.",
+            "title": "Clinical Nutrition I"
+        },
+        "FSN 430": {
+            "description": "Continuation of FSN 429.  Application of the nutrition care process to physiological and metabolic disorders which may alter nutritional requirements or require dietary modifications.  GI disease, respiratory diseases, metabolic stress, burns, cancer, inborn errors of metabolism, cardiovascular disease, liver disease, and renal disease.  3 lectures, 1 laboratory.",
+            "title": "Clinical Nutrition II"
+        },
+        "FSN 440": {
+            "description": "Career experience with private or public agencies.  Total credit limited to 12 units.  Maximum of 6 units may be applied toward degree requirements.",
+            "title": "Internship"
+        },
+        "FSN 444": {
+            "description": "Engineering principles governing heat transfer, fluid flow, and introductory mass transfer and application of these principles to selected unit operations; theoretical aspects of the scientific and engineering principles of fluid flow and the transfer and change of materials and energy primarily by physical means during processing of food.  3 lectures, 1 laboratory.",
+            "title": "Food Engineering"
+        },
+        "FSN 461": {
+            "description": "Selection of scientific research topic in major area.  Development of literature review, research questions in Senior Project I.  Research design, data collection, and analysis in Senior Project II.  Project requires a formal report which must follow departmental guidelines.  Minimum of 90 hours per quarter.",
+            "title": "Senior Project I"
+        },
+        "FSN 462": {
+            "description": "Selection of scientific research topic in major area.  Development of literature review, research questions in Senior Project I.  Research design, data collection, and analysis in Senior Project II.  Project requires a formal report which must follow departmental guidelines.  Minimum of 90 hours per quarter.",
+            "title": "Senior Project II"
+        },
+        "FSN 463": {
+            "description": "Exploration of students' transition to professional practice, career opportunities, and factors to be considered in career decisions.  Application of strategic planning, critical thinking, written and oral communication skills in preparation for nutrition and dietetics professions.  2 lectures.",
+            "title": "Professional Practice in Nutrition and Dietetics"
+        },
+        "FSN 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "FSN 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "FSN 474": {
+            "description": "Advanced topics in processing operations with emphasis on thermal processing.  Non-traditional processing technology such as microwave, ionizing radiation, and high pressure.  3 lectures, 1 laboratory.",
+            "title": "Advanced Food Processing"
+        },
+        "FSN 485": {
+            "description": "Part-time work experience with an approved Food Science or Nutrition firm engaged in production or related business, industry or governmental agency.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience in Food Science and Nutrition"
+        },
+        "FSN 495": {
+            "description": "Full time work experience with an approved Food Science or Nutrition firm engaged in production or related business, industry or governmental agency.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience in Food Science and Nutrition"
+        },
+        "FSN 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the department faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study"
+        },
+        "FSN 501": {
+            "description": "Digestion, absorption and metabolism of lipids with emphasis on lipoprotein metabolism, regulation of lipid metabolism, effects of gene expression, essential fatty acid requirements and functions.  3 seminars.",
+            "title": "Lipid Metabolism and Nutrition"
+        },
+        "FSN 505": {
+            "description": "Orientation to and discussion of research interests in food science and nutrition.  Discussion of policy and ethical issues in the conduct of research.  Intended for entering graduate students in Food Science or Nutrition.  Credit/ No Credit grading only.  1 seminar.",
+            "title": "Orientation to Food Science and Nutrition Graduate Studies"
+        },
+        "FSN 508": {
+            "description": "Focus on product innovation strategies, project management, product life cycle, project development team management, product innovation metrics, process optimization and cost management.  Plan and execute an industry-relevant specialized project.  3 lectures, 1 laboratory.",
+            "title": "Food Product Innovation"
+        },
+        "FSN 516": {
+            "description": "Advanced concepts and issues in population health and epidemiology.  Covers epidemiologic methods, study design, and conceptual frameworks from public health perspective.  Analytical considerations related to population health will be presented.  Emphasis on nutrition-related issues at national and global levels.  3 lectures.",
+            "title": "Population Health and Epidemiology"
+        },
+        "FSN 528": {
+            "description": "Advanced topics in the human metabolism of carbohydrates, lipids and proteins.  Classic and recent findings related to mechanisms of nutrient-regulated gene expression.  Metabolism related to specific diseases will also be covered.  4 lectures.",
+            "title": "Biochemical and Molecular Aspects of Human Macronutrient Metabolism"
+        },
+        "FSN 529": {
+            "description": "Advanced topics in the molecular roles and functions of vitamins.  Classic and recent findings related to mechanisms of vitamin-regulated gene expression.  Specific aspects of vitamin deficiencies and toxicities will also be covered.  2 lectures.",
+            "title": "Metabolic and Molecular Aspects of Vitamins"
+        },
+        "FSN 530": {
+            "description": "Advanced topics in the molecular roles and functions of minerals.  Classic and recent findings related to mechanisms of mineral-regulated gene expression.  Specific aspects of mineral deficiencies and toxicities will also be covered.  2 lectures.",
+            "title": "Metabolic and Molecular Aspects of Minerals"
+        },
+        "FSN 541": {
+            "description": "A forum for dietetic interns to make presentations and share their experiences in their supervised practice.  Guest presentations on current issues in nutrition therapy, foodservice management and community nutrition.  Total credit limited to 6 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only.  2 seminars.",
+            "title": "Dietetic Internship Seminar"
+        },
+        "FSN 564": {
+            "description": "Integration of food chemistry concepts to develop an in-depth understanding on the role of structural and functional properties of components in food systems.  Research topics for components in specific food systems.  4 lectures.",
+            "title": "Chemistry of Food Systems"
+        },
+        "FSN 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Food Science and Nutrition"
+        },
+        "FSN 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Food Science and Nutrition"
+        },
+        "FSN 574": {
+            "description": "Analysis of root causes and impacts of failure scenarios within the food industry.  Corrective actions relative to safety, quality, and economics of the affected products will be assessed.  3 lectures, 1 activity.",
+            "title": "Food Process Failure Analysis"
+        },
+        "FSN 575": {
+            "description": "In-depth analysis of food safety issues including outbreaks, risk assessment, Food Safety Modernization Act (FSMA), product and process assessments.  Special emphasis on the critical evaluation, development and execution of food safety research.  3 lectures, 1 laboratory.",
+            "title": "Advanced Food Safety"
+        },
+        "FSN 581": {
+            "description": "Current findings and research problems in the field and their application to food science and nutrition.  Class Schedule will list topic selected.  Total credit limited to 6 units with approval of advisor.  1-3 seminars.",
+            "title": "Graduate Seminar in Food Science and Nutrition"
+        },
+        "FSN 599": {
+            "description": "Individual research in food science and nutrition under faculty supervision leading to a graduate thesis of suitable quality.  Total credit limited to 6 units.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "FSN 125",

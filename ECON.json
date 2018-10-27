@@ -1,4 +1,154 @@
 {
+    "descriptions": {
+        "ECON 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "ECON 201": {
+            "description": "Basic principles of microeconomics and macroeconomics. Emphasis on applications to current national and global economic issues. For majors requiring one quarter of economics. Not open to students having previous credit in ECON 222 or equivalent. 4 lectures. Crosslisted as ECON/HNRS 201. Fulfills GE D2.",
+            "title": "Survey of Economics"
+        },
+        "ECON 221": {
+            "description": "Microeconomic principles. Marginal and equilibrium analysis of commodity and factor markets in determination of price and output. Normative issues of efficiency and equity. 4 lectures.",
+            "title": "Microeconomics"
+        },
+        "ECON 222": {
+            "description": "Introduction to economic problems. Macroeconomic analysis and principles. Aggregate output, employment, prices, and economic policies for changing these variables. International trade and finance. Issues of economic growth and development. Comparative economic systems and economies in transition. 4 lectures. Fulfills GE D2.",
+            "title": "Macroeconomics"
+        },
+        "ECON 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ECON 303": {
+            "description": "Economic analysis of the cause, extent and impact of poverty, discrimination and immigration and of the policies designed to address these socioeconomic issues.  Emphasis on the experience of African-Americans, Latinos, and women in the United States.  4 lectures.  Crosslisted as ECON/HNRS 303.  Fulfills GE D5 except for Economics majors.  Fulfills USCP.",
+            "title": "Economics of Poverty, Discrimination and Immigration"
+        },
+        "ECON 304": {
+            "description": "Analysis of economic systems as a set of mechanisms and institutions for decision making, and the implementation of decisions regarding income distribution, the levels of consumption and production, and the level of economic welfare.  4 lectures.  Fulfills GE D5 except for Economics majors.",
+            "title": "Comparative Economic Systems"
+        },
+        "ECON 311": {
+            "description": "Consumer behavior and the theory of demand; production, cost, supply functions; perfect competition; monopoly and oligopoly; labor markets.  4 lectures.",
+            "title": "Intermediate Microeconomics I"
+        },
+        "ECON 312": {
+            "description": "Game theory; risk, uncertainty and information; choice over time; asset markets; general equilibrium; welfare economics, externalities and public goods.  4 lectures.",
+            "title": "Intermediate Microeconomics II"
+        },
+        "ECON 313": {
+            "description": "Analysis of national income, price level, employment, international trade and economic growth.  Development of the theory of national income determination.  Evaluation of roles of monetary and fiscal policy.  4 lectures.",
+            "title": "Intermediate Macroeconomics"
+        },
+        "ECON 325": {
+            "description": "Analysis of the economy of less developed countries, and a survey of public policies designed to stimulate economic growth and reduce poverty.  Topics include financing development, technology, population problems, human capital, rural and urban development, trade policy and the economic relationships between developed and developing nations.  4 lectures.",
+            "title": "Economics of Development and Growth"
+        },
+        "ECON 330": {
+            "description": "Theory of comparative advantage, gains from trade, and recent developments in trade theory; examination of tariffs, quotas, exchange controls, other trade barriers and underlying policy issues; review of U.S.  commercial policy, GATT, the common market, regional and world economic organizations.  4 lectures.  Not open to students with credit in ECON 404 or equivalent.",
+            "title": "International Trade Theory"
+        },
+        "ECON 337": {
+            "description": "Financial markets and institutions.  Structure of the banking industry and impacts of technological change in banking.  Structure and operations of the Federal Reserve.  Impacts of monetary policy on the economy.  4 lectures.",
+            "title": "Money, Banking and Credit"
+        },
+        "ECON 339": {
+            "description": "Application of statistical methods useful in economics.  General linear regression model.  Specific issues and problems related to economic models:  multicollinearity, autocorrelation, heteroscedasticity, dummy variables, lagged variables, and simultaneous equation estimation.  Application and evaluation of selected examples of empirical economic research.  Microcomputer applications.  3 lectures, 1 activity.",
+            "title": "Econometrics"
+        },
+        "ECON 345": {
+            "description": "Economics of environmental resource management.  Conservation, sustainability, and dynamic efficiency in natural resources.  Effects of property rights and economic incentives on environmental and economic systems.  Design of local and global environmental policies to align market outcomes with social welfare goals.  4 lectures.  Not open to students with credit in ECON 431, ECON 432 or equivalent.",
+            "title": "Environmental and Natural Resource Economics"
+        },
+        "ECON 395": {
+            "description": "Basic principles of algorithmic problem solving and computer programming for economics and business analytics applications.  Functions, iteration, recursion, and data structures.  Testing and debugging.  Design of algorithms and algorithmic complexity.  Stochastic programs.  Graph optimization.  Credit will only be granted in one of the following courses:  CSC 108, CSC 202, ECON 395.  3 lectures, 1 laboratory.",
+            "title": "Programming for Economics and Analytics"
+        },
+        "ECON 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems"
+        },
+        "ECON 403": {
+            "description": "Application of basic tools of economics to American Industry.  Case studies of individual firms and industries.  Performance of various business structures, such as monopoly and oligopoly.  Effects of government regulation and antitrust policy.  4 lectures.",
+            "title": "Industrial Organization"
+        },
+        "ECON 404": {
+            "description": "Theory of comparative advantage, neoclassical model of trade, offer curves and terms of trade, edgeworth boxes, valuation of factor inputs, effects of migration and mobility of funds, emerging growth and trade distortions, welfare effects of trade, and recent developments in trade theory.  4 lectures.",
+            "title": "International Trade Theory"
+        },
+        "ECON 405": {
+            "description": "Nature of international payments, U.S.  balance of payments.  Theory and practice of foreign exchange rate determination under the gold standard, paper standard, and IMF system; international money and capital markets; problems of international liquidity and monetary stability.  4 lectures.",
+            "title": "International Monetary Economics"
+        },
+        "ECON 406": {
+            "description": "Causes and measurement of business fluctuations.  Techniques of forecasting with microcomputer applications.  3 lectures, 1 activity.",
+            "title": "Applied Forecasting"
+        },
+        "ECON 408": {
+            "description": "Applications of quantitative techniques to topics in microeconomic and macroeconomic theory.  Use of multivariate calculus and linear algebra in formulating static economic models.  Applications of statistical inference, estimation and forecasting in economic models.  4 lectures.",
+            "title": "Mathematical Economics"
+        },
+        "ECON 409": {
+            "description": "Decision making in complex, realistic situations.  Simulation of random variables in Excel.  Risk aversion.  Subjective assessment of probabilities and correlations.  Decision trees.  Optimal bidding in auctions.  The winner's curse.  Moral hazard and risk sharing.  Repeated investment decisions under risk.  4 lectures.",
+            "title": "Probability Models for Economic Decisions"
+        },
+        "ECON 410": {
+            "description": "Principles of rational decision making with respect to government revenues and spending.  Measurement of costs and benefits, and criterion selection.  Taxation, user fees, deficit financing, public goods, neighborhood effects and zoning.  Microcomputer applications.  4 lectures.",
+            "title": "Public Finance and Cost-Benefit Analysis"
+        },
+        "ECON 413": {
+            "description": "Wage determination theory, basic economic factors that affect the labor movement, economic impact of union activities on employment, output, income, wages, prices, and national economic policy.  4 lectures.",
+            "title": "Labor Economics"
+        },
+        "ECON 417": {
+            "description": "Analysis of ideas related to the development of economic theory in the Western civilization from the Greeks through the classical, neoclassical, and Keynesian to the current post-Keynesian concepts.  4 lectures.",
+            "title": "Development of Economic Analysis"
+        },
+        "ECON 424": {
+            "description": "The role of money in our economy.  Focus on the links between monetary policy, interest rates, prices, housing markets, mortgage lending and overall economic activity.  Public policy issues relating to real estate markets.  4 lectures.",
+            "title": "Monetary Economics"
+        },
+        "ECON 431": {
+            "description": "Economic dimensions of environmental abuse and protection.  Use of simple economic models in developing and evaluating environmental policies.  Overview of current environmental problems.  Issues related to the sustainability of economic growth at the national and international levels.  4 lectures.",
+            "title": "Environmental Economics"
+        },
+        "ECON 432": {
+            "description": "Economic theory and public policies as applied to problems of natural resources and energy.  Dynamic resource and energy models developed with reference to public and private sector growth.  Application of the principles of capital theory emphasized.  Case studies.  Computer software applications in the study of natural resources and energy under uncertainty.  4 lectures.",
+            "title": "Economics of Energy and Resources"
+        },
+        "ECON 434": {
+            "description": "Application of basic tools of economic analysis to problems of urban regions.  Causes and possible cures for inadequate growth rate, income levels, and the quality of life in urban regions.  4 lectures.",
+            "title": "Urban Economics"
+        },
+        "ECON 435": {
+            "description": "Economic analysis of natural resource issues, policies and management with an emphasis on land and water use decisions in the western U.S.  Urban demand for water; water supply and economic growth; economic impacts of surface water law and institutions; economics of land management.  4 lectures.",
+            "title": "Economics of Land and Water"
+        },
+        "ECON 440": {
+            "description": "Modern advanced econometric techniques with a special focus on those commonly used in academic and non-academic settings.  Discrete dependent variable models, instrumental variables, causal inference, nonlinear estimation, panel data, seemingly unrelated regression, distributed lag models, cointegration, and error correction models.  3 lectures, 1 activity.",
+            "title": "Advanced Econometrics"
+        },
+        "ECON 460": {
+            "description": "Theory and practice of the development of economic analysis.  Steps in the formulation and execution of an economics research project.  4 lectures.",
+            "title": "Research Methodology in Applied Economics"
+        },
+        "ECON 461": {
+            "description": "Selection and analysis of a problem under faculty supervision.  Problems typical of those which graduates must solve in their fields of employment.  Formal report is required.  Minimum 120 hours total time.",
+            "title": "Senior Project I"
+        },
+        "ECON 462": {
+            "description": "Selection and analysis of a problem under faculty supervision.  Problems typical of those which graduates must solve in their fields of employment.  Formal report is required.  Minimum 120 hours total time.",
+            "title": "Senior Project II"
+        },
+        "ECON 464": {
+            "description": "Analysis of selected economic topics and problems in directed individual or group-based projects, which require application of economic models, principles and theory to investigate important business, economic or social issues.  Formal report required.  4 seminars.",
+            "title": "Applied Senior Project"
+        },
+        "ECON 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "ECON 201",

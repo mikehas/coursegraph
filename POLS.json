@@ -1,4 +1,338 @@
 {
+    "descriptions": {
+        "POLS 111": {
+            "description": "Basic aspects of California state government. Satisfies GE D1 for students who have passed both AP US Government and US History exams, or transfer students who have received advice in writing from the Office of the Registrar to take POLS 111. Course may be offered in classroom-based or hybrid format. 1 lecture.",
+            "title": "California Constitution and Government"
+        },
+        "POLS 112": {
+            "description": "Study of governmental institutions, politics, issues and political behavior in the United States and California in constitutional, historical, social and cultural perspectives. Meets the U.S. government and California state/local government requirement. 4 lectures. Fulfills GE D1.",
+            "title": "American and California Government"
+        },
+        "POLS 180": {
+            "description": "Introduction to the scope, language, concepts and approaches employed in political science and the social sciences. Includes emphasis on basic methodological and research strategies for assessing political issues, and an overview of the subfields of political science. 4 lectures.",
+            "title": "Political Inquiry"
+        },
+        "POLS 225": {
+            "description": "Introduction to the basic concepts, issues, and theories surrounding the study of international politics. Changes in the nature of conflict, power, and national interests in the post-Cold War era. Role of states, non-governmental actors, and international organizations in the global arena. 4 lectures.",
+            "title": "Introduction to International Relations"
+        },
+        "POLS 229": {
+            "description": "Introduction to basic concepts, issues, methodology, and theories in comparative politics. Major issues/theories include electoral laws and party systems, parliamentary and presidential institutions, socialization, democratization, corporatism and pluralism, religious and cultural impacts on politics. Topics explored through politics of countries and regions throughout the world. 4 lectures.",
+            "title": "Introduction to Comparative Politics"
+        },
+        "POLS 230": {
+            "description": "Introduction to political theory. Focuses on concepts like: authority, liberty, equality, law, justice, community, rights, citizenship, property, class conflict, and constitutionalism. Readings from major thinkers, such as Plato, Aristotle, Augustine, Aquinas, Machiavelli, Locke, Hobbes, Rousseau, Marx, Nietzsche, Rawls, and others. 4 lectures.",
+            "title": "Basic Concepts of Political Thought"
+        },
+        "POLS 245": {
+            "description": "The nature of the legal system. Topics may include: private and public law, civil and criminal law, trial and appellate courts, criminal procedure, judges, attorneys, and juries. 4 lectures.",
+            "title": "Judicial Process"
+        },
+        "POLS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "POLS 285": {
+            "description": "Introduction to the United Nations and major issues that confront it.  Preparation for participation in collegiate Model United Nations conferences.  Rules of procedure and debate, preparation of country position papers, and resolution writing.  4 lectures.",
+            "title": "Model United Nations"
+        },
+        "POLS 295": {
+            "description": "Introduction to evidence, trial procedure, objections, and witness examination.  Preparation for intercollegiate mock trial competitions (held in winter and spring).  Extensive hands-on experience in researching, preparing, and arguing a legal case.  4 lectures.",
+            "title": "Foundations of Mock Trial"
+        },
+        "POLS 308": {
+            "description": "Causes, methods, and consequences of non-state groups that use violent means to pursue revolutionary, separatist, or ideological goals both domestically and internationally.  Dynamics of ethnic conflict, terrorist movements, paramilitary groups, insurgencies, and narco-trafficking.  Processes of conflict resolution in divided societies through military responses, negotiated settlements, democracy, and peacekeeping missions.  4 lectures.",
+            "title": "Political Violence and Conflict Resolution"
+        },
+        "POLS 310": {
+            "description": "The social construction of gender, race, ethnicity, class and sexuality as analytical concepts and social locations.  Using a variety of sources - political essays, critical theory, and memoir - the course analyzes how gender, race, ethnicity, class, and sexuality are shaped by social, cultural, and political contexts.  4 lectures.  Fulfills USCP.",
+            "title": "The Politics of Race, Class, Gender and Sexuality"
+        },
+        "POLS 315": {
+            "description": "Nature and problems of contemporary presidential leadership emphasizing the impact of Congress, bureaucracy, public opinion, the courts, non-governmental factors, and the party system upon presidential power.  4 lectures.",
+            "title": "The American Presidency"
+        },
+        "POLS 316": {
+            "description": "Role of political participation as manifested through social, psychological, and institutional constraints.  Analysis of consensus and conflict in present day political participation as reflected in electoral, protest, and related behavior.  4 lectures.",
+            "title": "Political Participation"
+        },
+        "POLS 317": {
+            "description": "Focus on contemporary political campaigns and elections in the U.S.  Campaign management, message development and delivery.  Impact of political ideology, mass media, technology, pressure groups on electoral outcomes.  4 lectures.",
+            "title": "Campaigns and Elections"
+        },
+        "POLS 319": {
+            "description": "Congressional elections and their effects on congressional actions, including the organization, procedures and consequences of the legislative process in Congress.  4 lectures.",
+            "title": "United States Congress"
+        },
+        "POLS 321": {
+            "description": "Survey of major concepts and theories of political culture and relationships among culture, politics, and society.  Cultural influences of Christianity, Confucianism, Islam, and contemporary democratic, civic culture.  The role of political culture in the industrialization process and post-colonial and post-communist transitions.  4 lectures.",
+            "title": "Comparative Political Culture"
+        },
+        "POLS 324": {
+            "description": "Survey of theoretical approaches to the study of international political processes and issues, including foreign policies, global political issues, cooperation and conflict.  Analyses of selected problems to elucidate differences between realist, liberal, socialist, constructivist, and other theories.  4 lectures.",
+            "title": "International Relations Theory"
+        },
+        "POLS 325": {
+            "description": "Concepts and theories in international relations and contemporary global issues.  Application of principles of international relations to political issues and subjects which affect our lives.  4 lectures.  Fulfills GE D5 except for Political Science majors.",
+            "title": "Global Political Issues"
+        },
+        "POLS 328": {
+            "description": "A detailed survey of the domestic politics of developing countries from a comparative perspective.  Assessment of theories of development with appropriate examples taken from particular areas and countries.  Repeatable to 8 units with different subtitles (e.g., 'Latin America,' 'East Asia,' 'Africa').  The Schedule of Classes will list topic selected.  4 lectures.",
+            "title": "Politics of Developing Areas"
+        },
+        "POLS 329": {
+            "description": "Political theory from ancient Greece, ancient Rome, and the Medieval period.  Readings from major authors, such as Plato, Aristotle, Augustine, Aquinas, and others.  4 lectures.",
+            "title": "Ancient and Medieval Political Thought"
+        },
+        "POLS 330": {
+            "description": "Theories of political participation and the relationship between the individual and the state as developed in the works of influential thinkers such as Locke, Rousseau, Mill and Marx.  4 lectures.",
+            "title": "Modern Political Thought"
+        },
+        "POLS 331": {
+            "description": "Ideas of major contemporary political thinkers, such as Wolff, Singer, Rawls, Strauss, MacKinnon, Beauvoir, Dewey, Walzer and others in historical context, compared and contrasted.  4 lectures.",
+            "title": "Contemporary Political Thought"
+        },
+        "POLS 333": {
+            "description": "Integrated, interdisciplinary study of the technologies of global food production, environmental and social issues related to the application of those technologies, and moral and ethical issues associated with global food production and distribution.  Emphasis on the politics of change.  4 lectures.  Crosslisted as POLS/UNIV 333.  Fulfills GE Area F.",
+            "title": "World Food Systems"
+        },
+        "POLS 334": {
+            "description": "Normative and analytical problems concerning law.  Nature of law and legal systems including liberty and justice.  Topics may include the connection between law and morality, feminist and critical race perspectives, crime and punishment, and economic analysis of the law.  4 lectures.",
+            "title": "Jurisprudence"
+        },
+        "POLS 337": {
+            "description": "Investigation of China's political history with close attention to past and present U.S.-China relations.  Topics include the conflict over Taiwan, territorial disputes in the South China Sea, and ongoing economic cooperation and competition, concerning trade and debt.  4 lectures.  Fulfills GE D5 except for Political Science majors.",
+            "title": "U"
+        },
+        "POLS 338": {
+            "description": "Examination of significant social, legal, economic and political issues that face the country and how the basic institutions of government-national, state, local-are responding to them; assessment of policies to correct these problems.  4 lectures.  Crosslisted as HNRS/POLS 338.  Fulfills GE D5 except for Political Science majors.",
+            "title": "Critical Issues in American Politics"
+        },
+        "POLS 339": {
+            "description": "A comparative examination of governing institutions used throughout the world.  Emphasis on the diversity of governmental designs found within both authoritarian and democratic regimes.  4 lectures.  Fulfills GE D5 except for Political Science majors.",
+            "title": "Authoritarian and Democratic Rule"
+        },
+        "POLS 340": {
+            "description": "Empirical aspects of the decision making of federal and state courts, with an emphasis on understanding how interactions between the courts and other political factors shape judicial behavior.  4 lectures.",
+            "title": "American Judicial Politics"
+        },
+        "POLS 341": {
+            "description": "United States Supreme Court decisions in the areas of separation of powers, judicial review, commerce clause, federalism, due process.  4 lectures.",
+            "title": "American Constitutional Law"
+        },
+        "POLS 342": {
+            "description": "Competing theories of constitutional interpretation.  Emphasis on the conflict between judicial review and democracy, effects of political events on constitutional evolution, merits of different approaches to constructing constitutional meaning.  4 lectures.",
+            "title": "Constitutional Theory"
+        },
+        "POLS 343": {
+            "description": "Case-based examination of discrimination based on race, ethnic, gender, and sexual orientation in the United States.  Emphasis on the Supreme Court's interpretation of the Equal Protection Clause.  4 lectures.  Fulfills USCP.",
+            "title": "Civil Rights in America"
+        },
+        "POLS 344": {
+            "description": "Role of Supreme Court as interpreter of civil liberties.  Topics may include freedom of expression and religion, search and seizure, due process of law.  4 lectures.",
+            "title": "Civil Liberties"
+        },
+        "POLS 347": {
+            "description": "Intersection of politics and mass media.  How political actors use popular culture to establish issue agendas, convey political concepts, symbolism, rhetoric and values.  4 lectures.",
+            "title": "Politics and Popular Culture"
+        },
+        "POLS 348": {
+            "description": "The central political ideas of America's leading thinkers from the arrival of the Mayflower to the Civil War.  Selections may include readings of American political ideas from Winthrop, Paine, Publius, Hamilton, de Tocqueville, Douglass, Calhoun, Thoreau, and Lincoln, among others.  4 lectures.  Fulfills GE D5 except for Political Science majors.",
+            "title": "Early American Political Thought"
+        },
+        "POLS 349": {
+            "description": "The central political ideas of America's leading thinkers from the Civil War to the present.  4 lectures.  Fulfills GE D5 except for Political Science majors.",
+            "title": "Contemporary American Political Thought"
+        },
+        "POLS 351": {
+            "description": "Systematic and critical approach to evaluating and designing public policies and the development of management functions in government.  Attention given to intergovernmental relations and case studies in economic development, health, the environment, and other policy areas.  4 lectures.",
+            "title": "Public Policy and Administration"
+        },
+        "POLS 359": {
+            "description": "Methodology and research design used in qualitative and quantitative analysis.  Examination of multiple methods used to analyze political phenomena in the political science discipline.  4 lectures.",
+            "title": "Research Design"
+        },
+        "POLS 361": {
+            "description": "Survey of quantitative methodology in political science, up to and including multiple regression.  Laboratory computer instruction to facilitate understanding of quantitative approaches to political research.  3 seminars, 1 activity.",
+            "title": "Quantitative Methodology"
+        },
+        "POLS 375": {
+            "description": "Political culture, processes, behavior, institutions, public policy and distribution of power in California state and substate governments.  4 lectures.",
+            "title": "California Politics"
+        },
+        "POLS 380": {
+            "description": "The root causes of the Israeli-Palestinian conflict and its current manifestation.  Possibilities for solutions from the perspectives of religious studies and political science.  4 lectures.  Crosslisted as POLS/RELS 380.",
+            "title": "Religion and Politics in the Israeli-Palestinian Conflict"
+        },
+        "POLS 381": {
+            "description": "Dynamics of interstate peace and war.  Topics include:  military strategy, the military-industrial complex, arms races and disarmament, diplomacy, deterrence and pre-emption, collective security and alliance behavior, civil-military relations, post-conflict reconstruction, and the role of international law and organizations.  4 lectures.",
+            "title": "Peace and War"
+        },
+        "POLS 382": {
+            "description": "Systematic analysis of the international and domestic pressures leading different states to take particular foreign policy stances, with appropriate examples taken from different regions of the world.  Discussion of contemporary foreign policy issues and responses.  4 lectures.",
+            "title": "Comparative Foreign Policy"
+        },
+        "POLS 383": {
+            "description": "History and development of the European Union in the context of theories of regional integration.  Overview of institutional and policymaking machinery of the EU.  Current issues facing member states.  Impact of EU on US interests and world politics more generally.  4 lectures.",
+            "title": "Politics of the European Union"
+        },
+        "POLS 384": {
+            "description": "Survey of cultural, historic, institutional, and social contexts of legal traditions.  Emphasis on comparing western common and code law to Confucian, Islamic, indigenous and other nonwestern societies.  Comparative topics may include prison reform, property rights, constitutional law, international law, rule of law, and the judicialization of politics.  4 lectures.",
+            "title": "Comparative Law"
+        },
+        "POLS 385": {
+            "description": "Preparation for participation in collegiate Model United Nations conferences.  Rules of procedure and debate, preparation of country position papers, and resolution writing.  Discussion of current issues of concern to the United Nations.  Credit/No Credit grading only.  Total credit limited to 6 units.  2 lectures.",
+            "title": "Advanced Model United Nations"
+        },
+        "POLS 386": {
+            "description": "Supervised work experience in a government or related public agency.  Intern will function as an employee subject to all the duties and responsibilities of employees engaged in comparable work.  30 hours of work experience per unit of credit.  Total credit limited to 12 units.  Credit/No Credit grading.",
+            "title": "Government Internship"
+        },
+        "POLS 387": {
+            "description": "Faculty-supervised research experience on various topics related to politics and government.  Student research assistantship with a faculty member engaging in a research project.  Total credit limited to 8 units.  Credit/No Credit grading only.",
+            "title": "Research Internship"
+        },
+        "POLS 395": {
+            "description": "Advanced preparation for participation in intercollegiate mock trial competitions.  Emphasis on advanced topics and techniques related to evidence, trial procedure, objections, and witness examination.  Extensive hands-on practice in arguing a legal case.  Credit/No Credit grading only.  Total credit limited to 4 units.  2 lectures.",
+            "title": "Advanced Mock Trial"
+        },
+        "POLS 400": {
+            "description": "Individual investigation, research, study, or survey of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "POLS 417": {
+            "description": "Different approaches to US feminist legal theory and topics in gender and US law.  Topics covered include employment, domestic violence, sexual harassment, reproductive justice, sex work, rape, and welfare reform.  4 seminars.  Crosslisted as POLS/WGS 417.",
+            "title": "Feminist Legal Theory"
+        },
+        "POLS 419": {
+            "description": "Selected U.S.  social movements, including abolitionism, feminism, civil rights, gay rights, the Christian right, and environmentalism.  Political opportunities and constraints that impact collective political action, and effects of grassroots struggles for justice in U.S.  politics and society.  4 lectures.",
+            "title": "Social Movements and Political Protest"
+        },
+        "POLS 420": {
+            "description": "Historical influences and theoretical assumptions behind U.S.  foreign policy.  Examination of American power and influence, examining key concepts from public opinion, business interests, executive privilege, diplomacy, propaganda, trade, and military strategies.  4 lectures.",
+            "title": "Contemporary U"
+        },
+        "POLS 425": {
+            "description": "Examination of the causes and effects of corruption in the United States and around the world, and the problems corruption causes in different societies.  Particular attention will be placed on the role of political and social institutions.  4 seminars.",
+            "title": "Comparative Political Corruption"
+        },
+        "POLS 426": {
+            "description": "Analysis of contemporary international legal issues, such as arms control and nonproliferation, intellectual property rights and the World Trade Organization, and human rights and the United Nations.  Case studies drawn from advancements in the biological sciences, such as those affecting public health.  4 lectures.",
+            "title": "International Organizations and Law"
+        },
+        "POLS 427": {
+            "description": "Political conflicts surrounding the trading, financial, and security structures of the international economy.  Motivations, resources, and responses of states, international organizations, multinational corporations and other nonstate actors as they address economic, political, environmental, and security issues within these structures.  Desirability and inevitability of globalization.  3 lectures and a research paper.",
+            "title": "Politics of the Global Economy"
+        },
+        "POLS 428": {
+            "description": "Selected topics and issues in the field of comparative politics.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Issues and Topics in Comparative Politics"
+        },
+        "POLS 429": {
+            "description": "Selected topics and issues in the field of international relations.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Issues and Topics in International Relations"
+        },
+        "POLS 430": {
+            "description": "In-depth examination of a theme or thinker in political theory.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Advanced Topics in Political Theory"
+        },
+        "POLS 431": {
+            "description": "Selected topics and issues in the field of American politics.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Issues and Topics in American Politics"
+        },
+        "POLS 435": {
+            "description": "Introduction to political communication.  Concepts, theories and methods from areas such as communication, media studies, journalism, political science, and public policy.  How language and non-verbal communication used by the media, government, and other actors shapes public perception of and behavior in the social, political, and scientific world.  4 lectures.",
+            "title": "Political Communication"
+        },
+        "POLS 440": {
+            "description": "Experiential, project-based course where students will draft a bill and work to move it through the California Legislature toward becoming law.  Field trip may be required.  Total credit limited to 6 units.  2 seminars.",
+            "title": "California Student Bill Project"
+        },
+        "POLS 445": {
+            "description": "Philosophical, legal, and behavioral analysis of electoral representation; the 1965 Voting Rights Act; vote dilution; racial and partisan discrimination; voter identification and voter suppression.  Similarities and differences across and within racial/ethnic/political groups in the US with regards to effective representation.  4 lectures.  Fulfills USCP.",
+            "title": "Voting Rights and Representation"
+        },
+        "POLS 451": {
+            "description": "Exploration of the historical and contemporary political influences shaping modern science and technology policy.  Addresses sources of technological innovation, such as public-private partnerships, military R & D, democratic governance, and competitiveness among industrialized nations.  Case studies may include cybersecurity, geoengineering, nanotechnology, and neurosciences.  4 seminars.",
+            "title": "Technology and Public Policy"
+        },
+        "POLS 452": {
+            "description": "Examines potential for advanced technologies to support international development from political and social science perspective.  Reviews historical efforts toward and socio-economic contexts of global development.  Analyzes current applications of advanced technology for sustainable development, democracy-building, education, healthcare, and policy reform.  4 seminars.",
+            "title": "Technology and International Development"
+        },
+        "POLS 457": {
+            "description": "Multi-disciplinary approach to the study of the law and politics of reproduction in the United States.  Topics studied include histories of reproductive regulation, abortion law and politics, technology and fertility, and social policy and reproductive control.  4 seminars.  Crosslisted as POLS/WGS 457.",
+            "title": "U"
+        },
+        "POLS 459": {
+            "description": "Analysis of the politics and policies associated with the American welfare state, focusing on welfare and homelessness policies.  Exploration of the causes of poverty and how social policy responds to poverty.  4 lectures.",
+            "title": "The Politics of Poverty"
+        },
+        "POLS 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Project results presented in a formal paper.",
+            "title": "Senior Project I"
+        },
+        "POLS 462": {
+            "description": "Selection and completion of a project under faculty supervision.  Project results presented in a formal paper.",
+            "title": "Senior Project II"
+        },
+        "POLS 470": {
+            "description": "Directed courses on timely issues and topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "POLS 471": {
+            "description": "Theoretical approaches, concepts, and politics associated with urban governments.  Urban power structures, the relationship between urban society and politics, and inter-governmental relations.  3 lectures and a research paper.",
+            "title": "Urban Politics"
+        },
+        "POLS 500": {
+            "description": "Individual research, studies, or surveys under the supervision of the faculty.  Total credit limited to 4 units.",
+            "title": "Independent Study"
+        },
+        "POLS 510": {
+            "description": "Approaches to policy research, question development, hypothesis framing, literature reviews, sampling, measurement, and approaches to analysis.  4 lectures.",
+            "title": "Research Design"
+        },
+        "POLS 515": {
+            "description": "Theoretical and practical approaches to public policy making and contemporary policy issues such as markets; regulation; criminal justice; housing; environment; poverty; health care and education.  4 lectures.",
+            "title": "Public Policy"
+        },
+        "POLS 518": {
+            "description": "Contextual, problem oriented analysis of the societal problems and possible solutions to them.  Development and use of concepts and tools related to policy evaluation with particular emphasis on qualitative methods.  4 lectures, 1 activity.",
+            "title": "Public Policy Analysis"
+        },
+        "POLS 540": {
+            "description": "An exploration of the changing notion of leadership in public policy.  Focus on understanding and developing leadership capacity within the complex inter-organizational structure in which the student works.  4 seminars.",
+            "title": "Leadership and Management in Public Policy"
+        },
+        "POLS 550": {
+            "description": "Theories of regulatory and economic policy, including markets and market failures, politics of economic policy, and applications of government regulatory and economic policy, and skills and experience necessary to social and economic questions.  4 seminars.",
+            "title": "Regulatory and Economic Policy"
+        },
+        "POLS 560": {
+            "description": "Social science methodology focusing on research design and quantitative methods used in policy and political research, such as multi-regression, non-linear techniques, diagnostics and time series.  Advanced computer packages used to analyze challenging data sets.  4 lectures, 1 activity.",
+            "title": "Quantitative Methods"
+        },
+        "POLS 568": {
+            "description": "Selected advanced topics applicable to public policy problems.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 seminars and a research project.",
+            "title": "Topics and Issues in Public Policy"
+        },
+        "POLS 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "POLS 586": {
+            "description": "Supervised work experience in a government or related public agency.  Intern will function as an employee engaged in comparable work.  Credit/No Credit grading only.  Total credit limited to 8 units.",
+            "title": "Policy Internship"
+        },
+        "POLS 590": {
+            "description": "Seminar designed as a culminating component to the Master of Public Policy Program.  Individual research under the supervision of the faculty within a small discussion environment, leading to a graduate project or paper that demonstrates practical mastery of the MPP curriculum.  Total credit limited to 8 units.  4 seminars.",
+            "title": "Graduate Seminar"
+        },
+        "POLS 595": {
+            "description": "Directed readings and preparation for Master of Public Policy (MPP) comprehensive exams.  Regular consultation between advisor and student.  Credit/No Credit grading only.  2 seminars.",
+            "title": "Directed Readings for MPP Comprehensive Exams"
+        }
+    },
     "links": [
         {
             "source": "POLS 225",

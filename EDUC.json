@@ -1,4 +1,342 @@
 {
+    "descriptions": {
+        "EDUC 125": {
+            "description": "Issues associated with the successful transition from high school or community college to Cal Poly. Links fostered between student needs and campus resources. Coverage of academic policies and procedures, university study skills, goal setting, career planning, wellness and other topics relevant to student success. Not open to students with credit in UNIV 100. Credit/No Credit grading only. 1 lecture, 1 activity. Crosslisted as EDUC/UNIV 125.",
+            "title": "First Year Seminar"
+        },
+        "EDUC 207": {
+            "description": "Study of theories and research about the development and learning of children and young adolescents within diverse backgrounds, and application to teaching in public school settings.  Observations/interactions with children in school settings.  3 lectures, 1 activity.  Participation in public schools requires mandated fingerprint clearance.  Crosslisted as CD/EDUC 207.",
+            "title": "Children's Learning and Development in Educational Settings"
+        },
+        "EDUC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "EDUC 300": {
+            "description": "Historical, philosophical, and social foundations of public education in relation to school curriculum, instruction and dispositions of effective teachers.  Structured observation and participation in K-12 public schools with attention to instructional practices for diverse learners.  2 lectures, 1 activity.  Participation in public schools requires mandated fingerprint clearance.",
+            "title": "Historical, Philosophical, and Social Foundations of Public Education"
+        },
+        "EDUC 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "EDUC 401": {
+            "description": "Discussion of contemporary educational issues, classroom practice, and professional dispositions; reflection on beginning fieldwork experiences in the classroom and their connection with educational theory and research.  Credit/ No Credit grading only.  3 seminars.",
+            "title": "Field Experience Seminar"
+        },
+        "EDUC 405": {
+            "description": "Social, cultural, historical, political, economic, and educational factors and systems in Latin America and the United States that have contributed to and shaped Latino/a individual and group identity.  How factors affect individual acculturation in California and the United States and influence how Latino/as experience and participate with schooling in the United States.  3 seminars, 1 activity.",
+            "title": "Social, Historical and Cultural Influences on Latino/a Students in Education"
+        },
+        "EDUC 410": {
+            "description": "Inquiry into the social, historical, philosophical and psychological foundations of education with an emphasis on applying educational theory to practice.  Prepares Single Subject Credential Program students for classroom teaching.  4 lectures.",
+            "title": "Social, Historical and Ethical Perspectives on Teaching and Learning"
+        },
+        "EDUC 412": {
+            "description": "The role of culture, status, identity, and human development in public school experiences of diverse learners.  Organization and management of secondary school classrooms as related to adolescent development and issues of access to learning.  4 lectures.",
+            "title": "Access to Learning in a Pluralistic Society"
+        },
+        "EDUC 414": {
+            "description": "Principles, methods and practices of organizing curriculum, instruction, and assessment for secondary school subject areas, with an emphasis on backward design in curriculum development and assessment.  Site visits to local schools to allow analysis of planning, instruction, and assessment in secondary school classrooms.  4 lectures.",
+            "title": "Curriculum and Inquiry in Public Schools"
+        },
+        "EDUC 416": {
+            "description": "Theories and application of literacy learning, assessment and second language acquisition in content classrooms.  Observation of classrooms, tutoring English language learners, designing and teaching literacy lessons, planning and implementing assessments across content areas.  Recognition of the role of culture in language acquisition.  Course may be offered in classroom-based or online format.  3 lectures.",
+            "title": "Literacy, Language, and Culture in Content Area Classrooms"
+        },
+        "EDUC 417": {
+            "description": "Fieldwork in the secondary classroom related to literacy, language and culture for Agriculture Education candidates. Includes 1-3 hours of observation each week. Participation in public schools requires mandated fingerprint clearance. Credit/No Credit grading. 1 activity.",
+            "title": "Literacy, Language, and Culture in the Content Area Classroom Fieldwork"
+        },
+        "EDUC 418": {
+            "description": "Differentiated instruction and further theoretical knowledge and skills needed for successful teaching of linguistically and culturally diverse learners, as well as students with special learning needs.  PACT assessments embedded in course prepare credential candidates for the teaching event.  3 lectures.",
+            "title": "Culturally Responsive Teaching in Diverse Classrooms"
+        },
+        "EDUC 419": {
+            "description": "Fieldwork in the secondary classroom related culturally responsive teaching in diverse classrooms for Agriculture Education candidates. Includes 1-3 hours of observation each week. Participation in public schools requires mandated fingerprint clearance. Credit/No Credit grading. 1 activity.",
+            "title": "Culturally Responsive Fieldwork in Diverse Classrooms"
+        },
+        "EDUC 423": {
+            "description": "Patterns of classroom organization, application of reading programs, approaches, methods in English and Spanish, and supervised field experiences in elementary classrooms with bilingual students.  3 seminars, 1 activity.",
+            "title": "Bilingual Literacy"
+        },
+        "EDUC 427": {
+            "description": "Theories, methods, materials and assessment involved in the instruction of emergent bilingual students.  Bilingual, transitional, and English only programs compared across a historical framework.  Emphasis on an integrated language arts approach; theories of language acquisition.  3 seminars, 1 activity.  Participation in public schools requires mandated fingerprint clearance.",
+            "title": "Theories, Methods, and Assessment of First and Second Language Acquisition in Schools"
+        },
+        "EDUC 428": {
+            "description": "Introduction of foundational topics in literacy teaching and learning in K-8 schools with diverse populations.  Examination of concepts and theories underlying literacy learning and instruction, and relating research-based patterns of reading and writing development to features of the learner and learning environments.  Participation in public schools requires mandated fingerprint clearance.  3 seminars, 1 activity.",
+            "title": "Foundations of K-8 Literacy Teaching and Learning in Schools with Diverse Populations"
+        },
+        "EDUC 429": {
+            "description": "Integration of theory and practice for planning, instruction and assessment in a balanced, comprehensive, research-based K-8 literacy and language arts program to enable children of all abilities and background to read, write, speak, listen and think effectively.  4 seminars.",
+            "title": "Learning to Teach K-8 Literacy in Schools with Diverse Populations"
+        },
+        "EDUC 431": {
+            "description": "Curriculum instruction and assessment concepts regarding teaching social studies to culturally diverse students in grades K-8, to promote civic competence and the development of elementary students' knowledge and reasoning in the social sciences.  4 seminars.",
+            "title": "Learning to Teach K-8 Social Studies with Diverse Populations"
+        },
+        "EDUC 433": {
+            "description": "History, theories, and practices associated with contemporary bilingual education in California and the U.S.  Observation and limited teaching in bilingual classrooms.  Approximately one-half of the class taught in Spanish.  3 seminars, 1 activity.",
+            "title": "Foundations of Bilingual Education"
+        },
+        "EDUC 435": {
+            "description": "Curriculum, instruction, and assessment concepts regarding teaching mathematics for understanding to culturally diverse students in grades K-8, with emphasis on using manipulatives to promote elementary students' development of mathematical knowledge and reasoning.  4 seminars.",
+            "title": "Learning to Teach K-8 Mathematics with Diverse Populations"
+        },
+        "EDUC 436": {
+            "description": "Curriculum, instruction, and assessment concepts regarding teaching science for understanding to culturally diverse students in grades K-8, with emphasis on teaching via inquiry to promote the development of scientific knowledge and reasoning.  3 seminars, 1 activity.",
+            "title": "Learning to Teach K-8 Science with Diverse Populations"
+        },
+        "EDUC 438": {
+            "description": "Clinical experiences involving observation; limited lesson planning, instruction, assessment and reflection; growth as a professional educator and participation in school-related activities in K-8 public school classrooms.  Participation in public schools requires mandated fingerprint clearance.  Total credit limited to 4 units.  Credit/No Credit grading only.",
+            "title": "Multiple Subject Clinical Practice I"
+        },
+        "EDUC 439": {
+            "description": "Discussion of contemporary educational issues and classroom practice; reflection on beginning clinical experiences in elementary education and their connection with educational theory and research.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 seminars.",
+            "title": "Multiple Subject Clinical Practice Seminar I"
+        },
+        "EDUC 440": {
+            "description": "Characteristics, incidence, and etiology of individuals with exceptional needs.  Problems, assessment, and approaches toward accommodating students with exceptional needs in the regular classroom.  3 seminars, 1 activity.",
+            "title": "Educating Individuals with Exceptional Needs"
+        },
+        "EDUC 442": {
+            "description": "Public school classroom experiences in general education and/or special education classrooms at the elementary level.  Teaching individuals and small groups.  Total credit limited to 4 units.  Credit/No Credit grading only.",
+            "title": "Elementary Field Experience in General and/or Special Education"
+        },
+        "EDUC 447": {
+            "description": "Public school classroom experiences in general education classrooms and/or special education classrooms at the secondary level.  Teaching individuals and small groups.  Total credit limited to 4 units.  Credit/No Credit grading only.",
+            "title": "Secondary Field Experience in General and/or Special Education"
+        },
+        "EDUC 449": {
+            "description": "Participation in public schools as a student teacher in activities representing different roles of special education teachers.  Assumption of a teacher's responsibility for individual and small groups.  Minimum 4 days per week.  Credit/No Credit grading only.",
+            "title": "Special Education Student Teaching"
+        },
+        "EDUC 450": {
+            "description": "Tasks, timelines, evaluation rubrics, and academic writing in relation to the Teaching Performance Assessments that are required for teacher credentialing in California. Total credit limited to 2 units. Credit/No Credit grading. 1 seminar.",
+            "title": "Teaching Performance Assessment Seminar"
+        },
+        "EDUC 451": {
+            "description": "Educational issues and research, development and assessment of teaching portfolio, completion of materials for a job search, and beginning the first year as a special educator.  3 seminars, 1 activity.",
+            "title": "Special Education Student Teaching Seminar"
+        },
+        "EDUC 454": {
+            "description": "Clinical experiences involving planning, instruction, assessment and reflection; growth as a professional and related activities in K-8 public school classrooms.  Participation in public schools requires mandated fingerprint clearance.  Credit/No Credit grading only.",
+            "title": "Multiple Subject Clinical Practice II"
+        },
+        "EDUC 455": {
+            "description": "Discussion of contemporary educational issues, state education policies and expectations for effective classroom practice; reflection on clinical experiences in elementary education and their connection with educational theory research.  Participation in public schools requires mandated fingerprint clearance.  Credit/No Credit grading.  3 seminars.",
+            "title": "Multiple Subject Clinical Practice Seminar II"
+        },
+        "EDUC 456": {
+            "description": "Advanced clinical experiences involving planning, instruction, assessment and reflection; growth as a professional and related activities in K-8 public school classrooms.  Credit/No Credit grading only.",
+            "title": "Multiple Subject Clinical Practice III"
+        },
+        "EDUC 457": {
+            "description": "Discussion of contemporary educational issues, national education policies and expectations for effective classroom practice; reflection on advanced clinical experiences in elementary education and their connection with educational theory and research.  Credit/No Credit grading.  3 seminars.",
+            "title": "Multiple Subject Clinical Practice Seminar III"
+        },
+        "EDUC 460": {
+            "description": "Clinical experiences involving observation; limited planning, instruction, assessment and reflection; growth as a professional, and participation in other school-related activities in secondary public classrooms.  Credit/No Credit grading only.",
+            "title": "Clinical Practice I"
+        },
+        "EDUC 469": {
+            "description": "Part-time assignment in a classroom (Single Subject only).  Includes teaching activities under the direction of a selected cooperating teacher in consultation with a university supervisor.  Assignment consists of an entire morning in the classroom (or the equivalent) for one quarter.  Credit/No Credit grading only.",
+            "title": "Clinical Practice II"
+        },
+        "EDUC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "EDUC 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "EDUC 479": {
+            "description": "Full-time assignment in a classroom (Single Subject only).  Includes teaching activities under the direction of a selected cooperating teacher in consultation with a university supervisor.  Assignment consists of an entire teaching day in the school for one quarter.  Credit/No Credit grading only.",
+            "title": "Clinical Practice III"
+        },
+        "EDUC 480": {
+            "description": "Computer assisted instruction and computer based technology.  Lesson planning and integration of technology into the K-12 curriculum.  Familiarization with available educational courseware and software.  Emphasis on classroom application.  1 seminar, 1 activity.",
+            "title": "Computer Based Curriculum"
+        },
+        "EDUC 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 8 units.",
+            "title": "Individual Study"
+        },
+        "EDUC 502": {
+            "description": "Examination of technology-supported instruction with special focus on the use of technology to enable constructivist learning experiences for K-12 students.  A survey of advanced technologies including Web-based tools, apps, digital story telling, and media production.  Course offered online only.  3 seminars, 1 activity.",
+            "title": "Advancing Pedagogical Practices with Technology"
+        },
+        "EDUC 510": {
+            "description": "Financing public schools in America:  historical and current sources and types of funding.  District level and site level funding and budgeting including priorities and purchasing procedures.  Financial implications of personnel contracts and obligations.  3 seminars, 1 activity.",
+            "title": "Education Finance and Resource Allocation"
+        },
+        "EDUC 511": {
+            "description": "Legal aspects of school administration including unions, collective bargaining, and contract administration.  Governing roles of federal, state, and local agencies including boards and district administrators.  3 seminars, 1 activity.",
+            "title": "Educational Law and Governance"
+        },
+        "EDUC 512": {
+            "description": "Principles of organization, management, and leadership and their relationship to educational effectiveness and productivity.  Activity experience in the application of management theory in schools.  3 seminars, 1 activity.",
+            "title": "Education Organization and Management"
+        },
+        "EDUC 513": {
+            "description": "Concepts of planning and decision making in educational administration that utilize a wide range of data gathering and analysis procedures.  3 seminars, 1 activity.",
+            "title": "Education Planning and Decision Making"
+        },
+        "EDUC 515": {
+            "description": "Supervision, management, and evaluation of educational curriculum and educational programs.  Current trends in program management including mapping, monitoring, alignment.  3 seminars, 1 activity.",
+            "title": "Educational Program Management and  Evaluation"
+        },
+        "EDUC 516": {
+            "description": "Principles and processes for the supervision and evaluation of certificated and classified staff including legal, research, and professional considerations.  3 seminars, 1 activity.",
+            "title": "Educational Personnel Supervision and Evaluation"
+        },
+        "EDUC 518": {
+            "description": "Supervised fieldwork in school administration for supervision at the elementary and secondary level.  Assignments must encompass three of the four academic quarters and must involve some multicultural experience.  Total credit limited to 18 units, only 9 of which may be applied toward master's degree.  Credit/No Credit grading only.",
+            "title": "Administrative Services Fieldwork"
+        },
+        "EDUC 519": {
+            "description": "Demonstration of exemplars of professional practice keyed to standards for the California Preliminary Administrative Services Credential.  Class meets two (2) times per quarter.  Faculty meet individually with students as to address portfolio development on a case-by-case basis.  Credit/No Credit grading only.  1 activity.",
+            "title": "Professional e-Portfolios for Educational Leaders"
+        },
+        "EDUC 521": {
+            "description": "Supporting students' literacy development across school subjects -- English language arts, mathematics, science, social studies -- through an integrated instructional approach focusing on critical literacy as meaning-making, accommodating diverse students including English language learners and students with special needs.  4 seminars.",
+            "title": "Literacy Across the Curriculum"
+        },
+        "EDUC 522": {
+            "description": "Principles of authentic pedagogy and development of a classroom learning community.  Examination of the role of classroom culture and advanced instructional strategies to foster conceptual development and disciplinary ways of knowing in diverse classrooms.  4 seminars.",
+            "title": "Advanced Classroom Pedagogy"
+        },
+        "EDUC 523": {
+            "description": "Perspectives, principles and practices for designing curriculum to foster authentic instruction using integrative approaches.  Emphasis on designing for the development of multiple literacies.  3 seminars, 1 activity.",
+            "title": "Integrative Approaches to Curriculum"
+        },
+        "EDUC 528": {
+            "description": "The relationship between theory, research and practice in English Language Arts.  Emphasis is on reading processes and principles and advanced teaching practices for the English Language Arts with attention to working with diverse students including English language learners and students with special needs.  4 seminars.",
+            "title": "Advanced Classroom Pedagogy in English Language Arts"
+        },
+        "EDUC 532": {
+            "description": "Advanced field experience and practical application of specialization emphasis for general and special education teachers, school administrators and school support personnel.  Total credit limited to 12 units for specialist credentials.  Total credit limited to 6 units for the master's degree.  Credit/No Credit grading only.",
+            "title": "Advanced Field Experiences in Education"
+        },
+        "EDUC 535": {
+            "description": "Standards-based principles and advanced pedagogical practices for elementary mathematics instruction in diverse classroom settings.  4 seminars.",
+            "title": "Advanced Classroom Pedagogy in Elementary Mathematics Education"
+        },
+        "EDUC 536": {
+            "description": "Perspectives, principles and advanced practices for instruction geared to the Next Generation Science Standards at the elementary level.  Emphasis on strategies to support elementary students in substantive conversation in a learning community and higher-order thinking and activity common to the practice of science/engineering.  4 seminars.",
+            "title": "Advanced Classroom Pedagogy in Elementary Science Education"
+        },
+        "EDUC 542": {
+            "description": "Principles and practices of organizing and administering special education, reading, counseling, and other support programs.  Assessment and placement procedures, middle management's role, overview of specially funded programs, historical precedents and future trends.  3 seminars, 1 activity.",
+            "title": "Administration of Special Programs and Services"
+        },
+        "EDUC 544": {
+            "description": "Advanced studies and skills in educational consultation.  Emphasis on the collaborative and consultative role of the special educator with a wide range of individuals from diverse cultural backgrounds including school personnel, parents, outside agencies, and paraprofessionals.  3 seminars, 2 activities.",
+            "title": "Advanced Collaboration and Consultation for Teachers of Students with Special Needs"
+        },
+        "EDUC 545": {
+            "description": "Advanced studies and skills in educational consultation.  Emphasis on the collaborative and consultative role of the special educator with a wide range of individuals from diverse cultural backgrounds including school personnel, parents, outside agencies, and paraprofessionals.  3 seminars, 2 activities.",
+            "title": "Characteristics and Instruction of Pupils with Mild/Moderate Disabilities"
+        },
+        "EDUC 546": {
+            "description": "Overview of principles of reading instruction, elements of the language arts program including literature-based reading, content area reading, and the role of phonics, emergent literacy, and diagnosis of reading problems for special education teachers.  3 seminars, 2 activities.",
+            "title": "Reading and Language Arts Instruction in Special Education"
+        },
+        "EDUC 550": {
+            "description": "Using norm referenced, criterion referenced, and curriculum based testing for assessing academic, behavioral, and physical status of individuals with exceptional needs, including English language learners, for referral purposes.  Instructional and evaluation decisions regarding exceptional students in school settings.  3 seminars, 2 activities.",
+            "title": "Assessment Strategies for Special Education"
+        },
+        "EDUC 552": {
+            "description": "Basic guidance techniques for teachers working with exceptional individuals and their families.  Career selection, preparation, and counseling.  Transition from school to work, and community resource utilization.  3 seminars, 2 activities.",
+            "title": "Support and Transition Strategies in Special Education"
+        },
+        "EDUC 553": {
+            "description": "Consideration of assumptions and techniques of educational research regarding the educational, personal, social and vocational difficulties affecting the development of individuals with exceptional needs; emphasizing their applicability to general and specific educational programs.  4 seminars.",
+            "title": "Current Issues, Emerging Research and Practices in Special Education"
+        },
+        "EDUC 554": {
+            "description": "Assessment of students whose behavior impedes either their own learning or the learning of other students.  Strategies for facilitating proactive educational, environmental and social-emotional techniques for supporting students with challenging behavior.  3 seminars, 2 activities.",
+            "title": "Behavior Disorders and Positive Behavior Support Strategies"
+        },
+        "EDUC 555": {
+            "description": "Overview of the counseling profession, history, philosophy, theory and ethics.  Required activity.  3 seminars, 1 activity.",
+            "title": "Introduction to the Counseling Profession"
+        },
+        "EDUC 556": {
+            "description": "Initiation of critical analysis of personal beliefs and attitudes regarding counseling in a diverse society.  Focus on a variety of approaches to explore the beliefs and attitudes of the student in counseling settings, and examination of strategies considered effective in working with diverse populations.  3 seminars, 1 activity.",
+            "title": "Multicultural Counseling"
+        },
+        "EDUC 557": {
+            "description": "Focus on the study and application of career development theories in career counseling.  Utilizing appraisal instruments, community referral resources, occupational information, computerized retrieval systems, and personal and social data and required activities.  3 seminars, 1 activity.",
+            "title": "Career Counseling"
+        },
+        "EDUC 560": {
+            "description": "Theories and practice of counseling with special emphasis on the counseling process.  Emphasis of conditions of counseling, counseling techniques, counseling diverse populations and the counselor as a professional helper.  3 seminars, 1 activity.",
+            "title": "Counseling Theories"
+        },
+        "EDUC 561": {
+            "description": "Theory and practice of group counseling, client selection, group structure, process and termination, and application of theories to specific developmental groups.  Communication and facilitation skills emphasized with relevant ethics and law.  3 seminars, 1 activity.",
+            "title": "Group Counseling"
+        },
+        "EDUC 562": {
+            "description": "Exploration of the roles and competencies of the student development specialist in higher education.  Review of relevant developmental theory with emphasis on practical implementation.  Explore current issues and trends in higher education, and organizational framework.  4 seminars.",
+            "title": "Student Development - Higher Education"
+        },
+        "EDUC 564": {
+            "description": "Consideration of legal, ethical, cultural and related professional issues as they affect the practice of counseling.  3 seminars, 1 activity.",
+            "title": "Legal and Ethical Issues in Counseling"
+        },
+        "EDUC 565": {
+            "description": "Training and evaluation in the utilization of tests, scales, measures, and other instruments with K-12, and college-age students.  An understanding of culturally appropriate tests and measures, collaboration with school personnel, parents, and students in the review and interpretation of test scores and measures.  3 seminars, 1 activity.",
+            "title": "Counseling Measurement and Assessment"
+        },
+        "EDUC 566": {
+            "description": "Development of skills in planning, organizing, coordinating, and delivering programs that generate systemic change through establishing collaboration within schools, communities and other stakeholders.  Emphasis on social action and its role in the counseling profession.  3 seminars, 1 activity.",
+            "title": "Leadership and Consultation in Counseling"
+        },
+        "EDUC 568": {
+            "description": "Theory and practice of individual counseling, process and termination, and application of theories to specific developmental issues working with K-12 students.  Communication and facilitation skills emphasized, working with diverse populations and following legal and ethical guidelines.  3 seminars, 1 activity.",
+            "title": "Individual Counseling Techniques"
+        },
+        "EDUC 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "EDUC 573": {
+            "description": "Practical application of guidance services and counseling in public schools, colleges and community settings.  Seminars with university staff included.  Total credit limited to 24 units.  Credit/No Credit grading only.  Maximum of 12 units may be applied toward MA Education.",
+            "title": "Field Experience, Counseling"
+        },
+        "EDUC 586": {
+            "description": "Introduction to professional literature search techniques and to professional organizations as a basis for educational inquiry.  Explanation of social construction of knowledge, and the philosophical basis of quantitative and qualitative research.  3 seminars, 1 activity.",
+            "title": "Introduction to Inquiry in Education"
+        },
+        "EDUC 587": {
+            "description": "Historical, organizational, legal and philosophical characteristics of American education.  Emphasis on the analysis of contemporary issues focusing on these characteristics.  Course may be offered in classroom-based or online format.  4 seminars.",
+            "title": "Educational Foundations and Current Issues"
+        },
+        "EDUC 588": {
+            "description": "Cultural characteristics of educational institutions and practice.  Review of theory and research relating to the social and organizational context in which learning and teaching takes place.  4 seminars.",
+            "title": "Education, Culture, and Learning"
+        },
+        "EDUC 589": {
+            "description": "Introduction to research methodologies, application of inferential and descriptive statistics, critical analysis of research designs and data collection techniques.  3 seminars, 1 activity.",
+            "title": "Educational Research Methods"
+        },
+        "EDUC 590": {
+            "description": "Application of social science research techniques to problems in education and human services.  Capstone experience for the School of Education master's inquiry course sequence.  Completion of an inquiry project required.  2 seminars, 2 activities.",
+            "title": "Research Application in Education"
+        },
+        "EDUC 598": {
+            "description": "Completion and presentation of the results of an action research project that addresses a meaningful question in the practice of education.  Total credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Action Research Project in Education"
+        },
+        "EDUC 599": {
+            "description": "Completion of a thesis pertinent to the field of education.  Student must register for each quarter of advisement.  Total credit limited to 6 units.",
+            "title": "Thesis in Education"
+        }
+    },
     "links": [
         {
             "source": "PSY 201",

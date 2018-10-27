@@ -1,4 +1,186 @@
 {
+    "descriptions": {
+        "COMS 101": {
+            "description": "Introduction to the principles of public speaking. Practical experience in the development, presentation, and critical analysis of speeches to inform, to persuade, and to actuate. Not open to students with credit in COMS 102. 4 lectures. Crosslisted as COMS/HNRS 101. Fulfills GE A2; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A2.",
+            "title": "Public Speaking"
+        },
+        "COMS 102": {
+            "description": "Introduction to the fundamentals and principles which underlie effective oral communication. Practical experience in various types of speaking situations: informative speaking, persuasive speaking, and panel discussion. Not open to students with credit in COMS 101. 4 lectures. Crosslisted as COMS/HNRS 102. Fulfills GE A2; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A2.",
+            "title": "Principles of Oral Communication"
+        },
+        "COMS 126": {
+            "description": "The nature of critical thinking as applied in written and oral argument.  Analysis of inductive and deductive reasoning.  Analysis of reasoning, argument, forms of support and fallacies of argument and language.  Instruction in and practical experience in writing sound persuasive arguments and engaging in oral argumentation assignments.  4 lectures.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3.",
+            "title": "Argument and Advocacy"
+        },
+        "COMS 145": {
+            "description": "The principles of reasoning in argumentation.  Examination of rhetorical principles and responsible rhetorical behavior.  Application of these principles to written and oral communications.  Effective use of research methods and sources.  4 lectures.  Crosslisted as COMS/ENGL/HNRS 145.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3.",
+            "title": "Reasoning, Argumentation, and Writing"
+        },
+        "COMS 201": {
+            "description": "Further consideration of the principles of public address.  Advanced practice in manuscript, extemporaneous, and impromptu speaking.  4 lectures.",
+            "title": "Advanced Public Speaking"
+        },
+        "COMS 208": {
+            "description": "Poetry, prose, nonfiction and dramatic literature performed to communicate the levels of meaning within each work to the audience.  4 lectures.  Fulfills GE C3.",
+            "title": "Performance of Literature"
+        },
+        "COMS 212": {
+            "description": "Introduction to the interaction process in two-person (dyadic) communication settings.  Emphasis on the functions of varying messages in the initiation, development, maintenance and termination of personal and professional relationships.  4 lectures.  Crosslisted as COMS/PSY 212.",
+            "title": "Interpersonal Communication"
+        },
+        "COMS 213": {
+            "description": "Introduction to communication within the organization and between the organization and its environment.  Effects of networks, superior/subordinate message patterns, team building, climate, message flow patterns and distortion on organizational effectiveness.  4 lectures.",
+            "title": "Organizational Communication"
+        },
+        "COMS 217": {
+            "description": "Basic principles and techniques of small group communication.  Survey of the importance of discussion in contemporary society, including study of and practice in informal group discussion, panel discussion, symposium, and forum.  4 lectures.",
+            "title": "Small Group Communication"
+        },
+        "COMS 218": {
+            "description": "Overview of the interaction between mass media and individuals in American society. Drawing on theoretical perspectives from mass communication and psychology to explore how individuals develop a coherent understanding of self within a highly mediated world. The power and influence of media messages and practices. Individual responsibility in an information society. 4 lectures. Crosslisted as COMS/JOUR 218. Fulfills GE D4.",
+            "title": "Media, Self and Society"
+        },
+        "COMS 226": {
+            "description": "Intermediate level course in the theory and practice of everyday argument.  Select theories of argumentation, and practical experience arguing in a wide variety of contexts.  4 lectures.",
+            "title": "Applied Argumentation"
+        },
+        "COMS 250": {
+            "description": "Introduction to competitive debate activities.  Research, analysis, and debating about contemporary issues.  Any student who wishes to receive academic credit for participation in such activities during the quarter should enroll.  Total credit limited to 6 units.  2 laboratories.",
+            "title": "Forensic Activity"
+        },
+        "COMS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "COMS 301": {
+            "description": "Communication skills and functions for all levels of organizational employees.  Interviewing, oral briefings, motivational and conference speaking.  4 lectures.",
+            "title": "Business and Professional Communication"
+        },
+        "COMS 308": {
+            "description": "Examination and experience in the various modes of group performance of literature:  Readers Theatre, Chamber Theatre, Story Theatre.  Scripting; directing; performing and critiquing of group performance of literature.  4 lectures.  Fulfills GE C4 except for Communication Studies majors.",
+            "title": "Group Performance of Literature"
+        },
+        "COMS 311": {
+            "description": "Survey of human communication theories including interpersonal, small group, organizational, persuasion, nonverbal, intercultural, and media.  Philosophical foundations for understanding communication from a social science perspective.  4 lectures.",
+            "title": "Communication Theory"
+        },
+        "COMS 312": {
+            "description": "Exploration of communication research strategies and methodologies.  Basic methods of designing research in empirical communication studies.  4 lectures.",
+            "title": "Communication Research Methods"
+        },
+        "COMS 315": {
+            "description": "Survey of theory and research concerning language and communication between various social groups (e.g., age, sex, race, sexual orientation), with an emphasis on understanding the role verbal, nonverbal, and mass communication plays in identity formation and differentiating group members.  4 lectures.",
+            "title": "Intergroup Communication"
+        },
+        "COMS 316": {
+            "description": "Cultural aspects of communication within and among diverse groups.  Particular focus on U.S.  culture and history and the diversity of ethnic, subcultural, and co-cultural groups.  Development of nuanced understanding of the role of culture and communication in human thought, behavior, and interaction.  Course may be offered in classroom-based or online format.  4 lectures.  Not open to students with credit in COMS 416.  Fulfills USCP.  Fulfills GE D5 except for Communication Studies majors.",
+            "title": "Intercultural Communication"
+        },
+        "COMS 317": {
+            "description": "Impact of technological change upon human communication.  Past, present, and future technological developments that have affected how humans communicate.  Emphasis on new communication technologies.  4 lectures.",
+            "title": "Technology and Human Communication"
+        },
+        "COMS 319": {
+            "description": "Analysis and integration of theories and methods of Cultural Studies as an interdisciplinary mode of critical qualitative inquiry.  Emphasis on the role of communication in differential power relations, particularly on issues of identity, struggle, and representation in a diverse culture.  4 lectures.",
+            "title": "Critical Cultural Studies and Communication"
+        },
+        "COMS 322": {
+            "description": "Theory of persuasion with particular emphasis upon social psychological principles of influence.  Analysis of various forms of persuasion, social influence and propaganda.  4 lectures.",
+            "title": "Persuasion"
+        },
+        "COMS 330": {
+            "description": "Early development of rhetorical theory in Greco-Roman civilization.  Analysis of the canons of rhetoric.  Rhetorical thought of Sophists, Isocrates, Plato, Aristotle, Cicero and Quintilian.  4 lectures.",
+            "title": "Classical Rhetorical Theory"
+        },
+        "COMS 331": {
+            "description": "Rhetoric's role in contemporary culture.  Issues:  political advocacy; science, technology and mass persuasion; ethics and rhetoric.  Representative theorists:  Burke, Weaver, Richards, Toulmin and McLuhan.  4 lectures.",
+            "title": "Contemporary Rhetorical Theory"
+        },
+        "COMS 332": {
+            "description": "Theory and method used in the analysis and evaluation of rhetorical discourse.  Study of critical essays.  Practice in interpreting and evaluating persuasive discourse.  4 lectures.",
+            "title": "Rhetorical Criticism"
+        },
+        "COMS 350": {
+            "description": "Advanced participation in intercollegiate speech activities.  Intercollegiate tournament competition, judging speech competition and other communication-related public service on campus and in the community.  Total credit limited to 6 units.  2 laboratories.",
+            "title": "Advanced Forensic Activity"
+        },
+        "COMS 385": {
+            "description": "Theory and method used in analyzing media from critical, rhetorical, and cultural perspectives.  Practice in interpreting and evaluating news, advertising, prime-time television, the Internet, and other mass-mediated texts, with special attention to relationships among media, identity, and political action.  4 lectures.",
+            "title": "Media Criticism"
+        },
+        "COMS 386": {
+            "description": "Political communication and the U.S.  mass media system, including role of the media in democratic society; news norms, government regulation of media, and media ownership; the changing media landscape and implications for news construction, polarization, and selective exposure; and incivility and bias.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE D5 except for Communication Studies majors.",
+            "title": "Communication, Media, and Politics"
+        },
+        "COMS 390": {
+            "description": "Recent developments in the field of environmental communication, including how and with what effect environmental messages are transmitted among scientists, policymakers, and the public.  Critical/rhetorical and mediated perspectives that inform contemporary understandings of the human-nature relationship are addressed.  4 lectures.",
+            "title": "Environmental Communication"
+        },
+        "COMS 395": {
+            "description": "Examination of science communication in a variety of contexts.  Issues covered may include:  scientific journal articles, boundary-work, information deficit models, public understanding/awareness of science, accommodated science, mediated science, popular science.  4 lectures.",
+            "title": "Science Communication"
+        },
+        "COMS 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "COMS 413": {
+            "description": "Describing and measuring the organization's human message system.  Planning and implementing communication training and development for the organization.  New functions, careers and opportunities for the communication professional.  4 lectures.",
+            "title": "Advanced Organizational Communication"
+        },
+        "COMS 418": {
+            "description": "Communication in health contexts.  Topics include interpersonal communication (e.g., health professional/patient), group and organizational communication (e.g., health-related groups), and mass communication (e.g., persuasive health campaigns).  Open to all majors and valuable to laypersons who are consumers of health care, and pre-health professionals.  4 lectures.",
+            "title": "Health Communication"
+        },
+        "COMS 419": {
+            "description": "Effects of media on the individual.  Influence of mediated message producers, production technologies, and message content.  Empirical approaches to data collection using experimental and survey techniques.  4 lectures.",
+            "title": "Media Effects"
+        },
+        "COMS 420": {
+            "description": "Influence of kinesic, proxemic, artifactual, olfactory, paralinguistic and environmental factors in human communication.  Theory, research and practice in nonverbal communication.  4 lectures.",
+            "title": "Nonverbal Communication"
+        },
+        "COMS 421": {
+            "description": "Explores the theory and practice of how gender is created, maintained, and transformed through communication; examines how gender roles are enacted and interpreted in various public and private contexts.  4 lectures.",
+            "title": "Gender and Communication"
+        },
+        "COMS 422": {
+            "description": "Examination of rhetorical strategies and persuasive techniques used within scientific, technical, and medical discourses.  Topics include genre features of scientific articles, rhetorical topoi in scientific discourse, pop-culture depictions of science, the scientific ethos, and risk communication.  4 lectures.",
+            "title": "Rhetorics of Science, Technology, and Medicine"
+        },
+        "COMS 428": {
+            "description": "Communication theory and practice within family structures.  Examination of relationship communication in marital/partnership, parent/child, intergenerational, and sibling relationships.  Topics include family communication regarding identity, attachment, conflict, relational dialectics, storytelling/narratives, family transitions, cultural influences, and family support.  4 lectures.",
+            "title": "Family Communication"
+        },
+        "COMS 435": {
+            "description": "Role of oratory in American political and social history since Lincoln.  Historical and rhetorical analyses of important political speeches delivered by presidents, activists, demagogues, and leaders of social movements.  4 lectures.",
+            "title": "American Political Rhetoric"
+        },
+        "COMS 450": {
+            "description": "Supervised practicum and application of principles and theories of communication in organizational settings.  Total credit limited to 8 units.  Credit/No Credit grading only.",
+            "title": "Internship: Communication Studies"
+        },
+        "COMS 458": {
+            "description": "Apply human-centered design practices to address a social or an environmental challenge, specific to a local community.  Achieve revenue-generating social impact through innovative business models.  Practice team competencies including problem-solving, interviewing, brainstorming, prototyping, and written, visual, and oral communication.  4 lectures.  Crosslisted as BUS/COMS 458.",
+            "title": "Solving Big World Challenges"
+        },
+        "COMS 460": {
+            "description": "Discussion and design of individual projects, oral reports on material in current professional writings.  1 seminar.",
+            "title": "Undergraduate Seminar"
+        },
+        "COMS 461": {
+            "description": "Completion of approved project under faculty supervision.  Project results are presented in a formal written report.  Minimum 90 hours total time.",
+            "title": "Senior Project"
+        },
+        "COMS 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "COMS 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        }
+    },
     "links": [
         {
             "source": "COMS 311",

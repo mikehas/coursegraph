@@ -1,4 +1,62 @@
 {
+    "descriptions": {
+        "MSCI 100": {
+            "description": "Introduction to Marine Sciences faculty, the Biology Department and campus resources, research opportunities, possible careers, studying science, and current topics in marine sciences.  Credit/No credit grading only.  1 lecture.",
+            "title": "Introduction to Marine Sciences"
+        },
+        "MSCI 301": {
+            "description": "Interdisciplinary study of marine organisms, how they interact with each other and their physical, chemical and geological environment.  Emphasis on how these interactions impact abundance, diversity and temporal and spatial distributions.  3 lectures.",
+            "title": "Biological Oceanography"
+        },
+        "MSCI 303": {
+            "description": "Introduction to techniques in oceanography and marine sciences.  Hands-on technical training in sampling, measuring, tagging and tracking of bathymetry and geography; waves, tides and currents; salinity, temperature and pressure; dissolved oxygen and pH; irradiance and light scattering; phytoplankton and zooplankton; and benthic fauna and marine macrofauna.  1 lecture, 2 labs.",
+            "title": "Ocean Sampling Techniques"
+        },
+        "MSCI 307": {
+            "description": "Life histories and habitats of important species of fishes, invertebrates and algae.  Methodologies for the commercial propagation of specific forms.  Global and regional coverage, including socioeconomic trends, controversies and applications in developed and less developed regions of the world.  Not open for major credit in Biological Sciences.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "World Aquaculture: Applications, Methodologies and Trends"
+        },
+        "MSCI 324": {
+            "description": "Introduction to the biology, ecology and evolution of mammals, reptiles and birds of the marine environment, with an emphasis on Central California species, diversity patterns, evolutionary relationships, adaptations to the ocean, and conservation issues.  Field trips required.  2 lectures, 2 laboratories.",
+            "title": "Marine Mammals, Birds and Reptiles"
+        },
+        "MSCI 328": {
+            "description": "Introduction to the functional biology of marine plants and animals and the ecological processes that underlie their distribution and abundance in open oceans, coastal regions, and estuaries.  Field trips required.  2 lectures, 2 laboratories.",
+            "title": "Marine Ecology"
+        },
+        "MSCI 330": {
+            "description": "Survey of ocean sensor systems, sensor platforms, and other emerging technologies that provide new understanding of the ocean, current issues in marine science, and the social context and societal implications of discoveries in ocean sciences.  Course projects could include presentations, data analysis, and hands-on design of sensors.  Field trip required.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Technologies for Ocean Discovery"
+        },
+        "MSCI 401": {
+            "description": "Volunteer or internship experience in a marine science business, industry, government agency or informal science center.  Positions require communicating science to the public.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units.  Total credit limited to 8 units.  Credit/No credit grading only.",
+            "title": "Marine Science Outreach"
+        },
+        "MSCI 410": {
+            "description": "Advanced training in scientific methods associated with practical training in scuba diving.  Satisfies American Academy of Underwater Sciences standards.  Combination of theory, techniques and scuba diving.  Experience collecting data and handling scientific equipment underwater.  AAUS certification will require additional assessments outside of class.  Field trips and additional fee required.  1 lecture, 2 labs.",
+            "title": "Scientific Diving"
+        },
+        "MSCI 428": {
+            "description": "Examination of how science and policy are used to evaluate and implement marine conservation and resource management.  Topics include endangered species, fisheries, climate change, marine protected areas, research and conservation topics and developing policy for management decision-making.  Field trip required.  3 lectures, 1 laboratory.",
+            "title": "Marine Conservation and Policy"
+        },
+        "MSCI 437": {
+            "description": "Comprehensive examination of the ecology, life histories, functional morphology, physiology, and taxonomy of marine algae and marine plants.  Laboratory emphasizes species endemic to the central coast of California.  3 lectures, 1 laboratory.",
+            "title": "Marine Botany"
+        },
+        "MSCI 438": {
+            "description": "Propagation and rearing of fishes, invertebrates and algae from marine, freshwater, and estuarine habitats.  Current methodologies and general life histories.  Global perspective including aquacultural development in developed and developing countries.  3 lectures, 1 laboratory.",
+            "title": "Aquaculture"
+        },
+        "MSCI 439": {
+            "description": "Scientific investigation of marine and freshwater fisheries.  Methodologies and quantitative strategies for study of finfish and invertebrates.  Role of oceanographic or limnological processes on stock maintenance.  Impact of human exploitation on maintenance of sustainable yields, including user-group conflict issues, and regional/global controversies.  Lab/field protocols, basic fisheries statistical procedures, molecular methods, computer simulations.  3 lectures, 1 laboratory.",
+            "title": "Fisheries Science and Resource Management"
+        },
+        "MSCI 440": {
+            "description": "Simultaneous focus on developing a knowledge of ocean sciences and the advanced educational approaches for communicating that knowledge.  Teaching skills developed through coursework, outreach events and design of collaborative projects at museums and aquariums.  Primary objective is to learn how to present ocean-themed hands-on, inquiry-based science exhibits, in order to improve the scientific literacy of audiences of all ages.  Field trip required.  1 lecture, 2 activities.",
+            "title": "Communicating Ocean Sciences to Informal Audiences"
+        }
+    },
     "links": [
         {
             "source": "BIO 160",

@@ -1,4 +1,58 @@
 {
+    "descriptions": {
+        "LAES 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "LAES 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "LAES 301": {
+            "description": "Examination of how to define LAES as a new field of study; analysis of the creative process and team building in theory and in application.  Researching, writing, revising and presenting a technical proposal suitable for submission to a national design competition seeking innovative solutions to complex technological/social problems.  2 seminars, 2 activities.",
+            "title": "Project-Based Learning in Liberal Arts and Engineering Studies"
+        },
+        "LAES 302": {
+            "description": "Teamwork and leadership in project-based learning.  Students lead, build, and maintain project teams; guide the creative process; and use and evaluate the principles of project management in theory and practice.  Development of a technical proposal suitable for submission to a national design competition seeking innovative solutions to complex technological/social problems.  2 seminars, 2 activities.",
+            "title": "Advanced Project-Based Learning in Liberal Arts and Engineering Studies"
+        },
+        "LAES 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "LAES 411": {
+            "description": "Onsite work with a global technical development and/or design team to develop a project to be completed/expanded upon in LAES 461.  Through guided online discussion with the instructor and fellow LAES students, work through intercultural collaboration and design issues, and present works-in-progress.  4 lectures.",
+            "title": "Global Synthesis in Liberal Arts and Engineering Studies"
+        },
+        "LAES 430": {
+            "description": "Work experience in business, industry, government and other areas of student career interest.  Periodic written progress reports, final report, and evaluation by work supervisor required.  Credit/No Credit grading.  Total credit limited to 12 units.",
+            "title": "Internship"
+        },
+        "LAES 461": {
+            "description": "Under faculty supervision, the selection and completion of a senior project, demonstrating an interdisciplinary focus in LAES.  With one-on-one format with the instructor, individual or small group work through many iterations of the senior project, with occasional showing of works in small student groups.",
+            "title": "Senior Project in Liberal Arts and Engineering Studies"
+        },
+        "LAES 462": {
+            "description": "The final refinement and completion of LAES senior projects and other projects.  In a development workshop format, presentation of final versions of works-in-progress to combined faculty and professional review committees throughout the quarter.",
+            "title": "Capstone Senior Seminar in Liberal Arts and Engineering Studies"
+        },
+        "LAES 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "LAES 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "LAES 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 18 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "LAES 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  Major credit limited to 6 units; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        }
+    },
     "links": [
         {
             "source": "MATH 241",

@@ -26,15 +26,12 @@
 
               <button type='button' id='findcourse' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Show Prerequisites</button>
 
-              <label for="deptid">Department: </label>
+              <label for="deptid">Select Department: </label>
               <select id='deptid'></select>
 
-              <button type='button' id='updatedept' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Update Department</button>
+              <!-- <button type='button' id='updatedept' class="ui-button ui-widget" style='width:100%; margin-top: 5px; margin-bottom:15px;'>Update Department</button> -->
 
             </div>
-
-
-
             </div>
          </div>
        </div>
@@ -56,8 +53,19 @@ var width = 1200;
 var height = 900;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
-d3.json("departments.json").then(function(deptdata) {
-d3.json("AEPS.json").then(function(graph) {
+var deptsjson = "departments.json"
+var selecteddept = "AEPS"
+
+let searchParams = new URLSearchParams(window.location.search)
+if (searchParams.has('dept')) {
+  selecteddept = searchParams.get('dept');
+}
+
+var coursesjson = selecteddept + ".json";
+
+
+d3.json(deptsjson).then(function(deptdata) {
+d3.json(coursesjson).then(function(graph) {
 
 var label = {
     'nodes': [],
@@ -439,6 +447,7 @@ $( function() {
 $( ".selector" ).selectmenu( "option", "appendTo", "#deptid" );
 
 
+$( "#deptid" ).append($('<option></option>').val('----').html('----'))
 // console.log(graph.nodes);
 deptdata.map(o => {
   $( "#deptid" ).append($('<option></option>').val(o).html(o));
@@ -451,22 +460,24 @@ deptdata.map(o => {
 }); // d3.json
 });// d3.json
 
-function updateData(jsonfile) {
-   console.log(jsonfile);
-   d3.json(jsonfile, function(graph) {
-      graph.nodes.forEach(function(d, i) {
-          label.nodes.push({node: d});
-          label.nodes.push({node: d});
-          label.links.push({
-             source: i * 2,
-             target: i * 2 + 1
-          });
-      });
+// function updateData(jsonfile) {
+//    console.log(jsonfile);
+// }
+//
+// // updateData('AERO.json');
+// $('#updatedept').click(function() {
+//   updateData('AERO.json')
+// });
 
-   });
-}
-updateData('AERO.json');
-$('#updatedept').click(updateData);
+
+$('#deptid').bind('change', function(){
+    var params = [
+        "dept=" + $(this).val()
+    ];
+    window.location.href = window.location.protocol + '?' + params.join('&');
+});
+
+$('#pagetitle').append('<p>Department: ' + selecteddept + '</p>');
 
 
 

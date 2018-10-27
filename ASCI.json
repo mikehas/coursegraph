@@ -1,4 +1,330 @@
 {
+    "descriptions": {
+        "ASCI 101": {
+            "description": "Economic, environmental and societal impact of the livestock, poultry and horse industries. Basic terminology, anatomy, and physical requirements of animals. Career and academic planning. Co-curricular, extra-curricular, and post-graduate opportunities. Required of all first-time students in the Animal Science Department. Credit/No Credit grading only. 2 lectures.",
+            "title": "Introduction to the Animal Sciences"
+        },
+        "ASCI 112": {
+            "description": "Comparative physiology of digestive, endocrine, and reproductive systems in animals. Principles of nutrition, genetics, growth and development, behavior, food processing/safety of animals. Current issues in animal agriculture including biosecurity, animal welfare, and governmental safeguards for animal and human health. 4 lectures. Fulfills GE B2 except for ASCI majors.",
+            "title": "Principles of Animal Science"
+        },
+        "ASCI 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 3 units per quarter.  Credit/No Credit grading only.",
+            "title": "Special Problems"
+        },
+        "ASCI 203": {
+            "description": "Identification, life cycles, prevention and control of the common external and internal parasites causing economic loss in livestock.  3 lectures.",
+            "title": "Animal Parasitology"
+        },
+        "ASCI 211": {
+            "description": "Muscle food processing methods and operations. Conversion of muscle to meat. Meat inspection, grading, composition, curing, preservation, food safety and related topics. Carcass beef, pork, and lamb processed into consumer ready products. 3 lectures, 1 laboratory.",
+            "title": "Meat Science"
+        },
+        "ASCI 212": {
+            "description": "Application of the management and operations of Cal Poly's Western Bonanza Livestock Show. Principles and procedures in planning, organizing, financing, promoting and managing a major livestock show and the fair industry. Total credit limited to 6 units. Not open to students with credit for ASCI 412 or ASCI 413. 1 lecture, 2 activities.",
+            "title": "Livestock Show Management"
+        },
+        "ASCI 214": {
+            "description": "Application of safety, risk reduction, horsemanship skills.  Develop a working equine/human relationship.  Selection and application of nutrition, equipment, preventive health and farrier program, and equitation skills.  2 laboratories.",
+            "title": "Equine Management"
+        },
+        "ASCI 220": {
+            "description": "Nutrient digestion and absorption; basic functions of major nutrient classes; NRC feed classification and feedstuff characteristics; Van Soest system of fiber analysis and practical applications; feed processing:  effects on feeds and nutrient availability; nutrient requirements of animals; diet formulation techniques.  3 lectures, 1 laboratory.",
+            "title": "Introductory Animal Nutrition and Feeding"
+        },
+        "ASCI 221": {
+            "description": "Survey of industry characteristics, breeds, market classes, production systems, and current issues facing the beef industry. 3 lectures, 1 laboratory.",
+            "title": "Introduction to Beef Production"
+        },
+        "ASCI 222": {
+            "description": "Structure of the pork industry in the U.S.; production standards and new technologies; breed systems. Market classification, product quality and quality assurance. Swine behavior and husbandry systems; biosecurity, health and feeding systems and management. 3 lectures, 1 laboratory.",
+            "title": "Systems of Swine Production"
+        },
+        "ASCI 223": {
+            "description": "Sheep and goat industry overview, populations, trends, cultural implications, breed identification, nutritional, reproductive, health, marketing, and herd management of sheep and goats. Field trip may be required. 3 lectures, 1 laboratory.",
+            "title": "Systems of Small Ruminant Management"
+        },
+        "ASCI 224": {
+            "description": "History, status of the horse industry, breeds. Application of management skills, safety, conformation evaluation, hoof and leg conformation and care. Understanding equine behavior. Insurance and tax ramifications. Pedigree analysis. Alternate therapies. 3 lectures, 1 laboratory.",
+            "title": "Equine Science"
+        },
+        "ASCI 225": {
+            "description": "Introduction to modern techniques in poultry production, processing, marketing and price discovery. Consumption trends, breeds and consumer grades. Laboratory application of management skills, health care, keeping of production and accounting records and processing techniques. 3 lectures, 1 laboratory.",
+            "title": "Introduction to Poultry Management"
+        },
+        "ASCI 226": {
+            "description": "Utilization of objective and subjective estimation measures in establishing economic worth of domestic animals of the three meat animal species and horses. 1 lecture, 2 laboratories.",
+            "title": "Livestock Evaluation"
+        },
+        "ASCI 227": {
+            "description": "Companion animal anatomy and physiology, reproduction, nutrition, behavior, management, common parasites, and infectious diseases. Scientific method in studying the human-animal bond. Application of biological concepts to problems related to companion animals. Trends in pet industry including animal welfare issues. 3 lectures, 1 laboratory.",
+            "title": "Companion Animal Science"
+        },
+        "ASCI 228": {
+            "description": "Appraisal of equine breeds at halter and in performance classes. Evaluate horse classes, decide their order of placement, and then orally justify these decisions to a judge. The relationship of equine anatomy and physiology on competitive performance. 2 laboratories.",
+            "title": "Equine Evaluation"
+        },
+        "ASCI 229": {
+            "description": "Comprehensive overview of the principal systems of farm animals using an integrative, systemic approach to learning the homeostasis of mammalian organisms so the information can be applied to their daily care and management.  3 lectures, 1 laboratory.",
+            "title": "Anatomy and Physiology of Farm Animals"
+        },
+        "ASCI 232": {
+            "description": "Basic handling skills of livestock; introductory selection of livestock; basic feedstuff identification and processing; and health care practices. 1 laboratory.",
+            "title": "General Animal Science Laboratory"
+        },
+        "ASCI 260": {
+            "description": "Techniques, equipment and knowledge necessary in order to properly condition, groom, and present beef cattle or horses for evaluation and merchandising. 3 activities.",
+            "title": "Preparation of Livestock for Shows and Sales"
+        },
+        "ASCI 265": {
+            "description": "Training of weanling and yearling horses at halter. Selection of proper attire for the handler and equipment for the horse. Application of safe, behavioral training techniques enabling the horse to accept handling, farrier and health care. 3 activities.",
+            "title": "Equine Behavior and Training"
+        },
+        "ASCI 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ASCI 290": {
+            "description": "Beginning field experience in animal production systems.  May include health, nutrition, reproduction, management, processing, budgeting, and/or marketing exercises.  Total major credit for ASCI 290 limited to 6 units.  Total credit for ASCI 290 limited to 10 units.  Credit/No Credit grading only.  1-5 lectures.",
+            "title": "Animal Production and Management Enterprise"
+        },
+        "ASCI 304": {
+            "description": "Application of genetic principles for domestic animal improvement.  Improving animal performance and health through use of genetic markers and diagnostics, gene mapping, and related current technologies.  3 lectures.",
+            "title": "Animal Genomics"
+        },
+        "ASCI 310": {
+            "description": "Restraint and handling of animals, physical examination, necropsy procedure, basic wound management, applied pharmacology.  Reproduction and herd health programs.  3 lectures, 1 laboratory.",
+            "title": "Technical Veterinary Skills"
+        },
+        "ASCI 311": {
+            "description": "Management principles for the sustainability of commercial beef cattle operations.  Systems approach for goal setting, financial analysis, range management, breeding systems, nutrition, health programs, marketing, and production practices to enhance profitability of commercial cow-calf operations.  3 lectures, 1 laboratory.",
+            "title": "Advanced Beef Cattle System Management"
+        },
+        "ASCI 312": {
+            "description": "Basic disease concepts.  Fundamentals of immunology and therapeutics.  Disease prevention principles, infectious and non-infectious.  Pre-harvest food safety and milk and meat quality assurance.  Herd health management programs for production efficiency and product quality.  3 lectures.",
+            "title": "Production Medicine"
+        },
+        "ASCI 315": {
+            "description": "Anatomy and physiology of the equine hoof and limb.  An understanding of the art and science of the farrier's work.  Evaluation of proper hoof care, trimming, and shoeing.  Foot and leg conformation as it relates to sound locomotion.  3 lectures, 1 activity.",
+            "title": "Equine Biomechanics"
+        },
+        "ASCI 320": {
+            "description": "Interactions between the biological and chemical reactions in livestock.  Physiology explained at the organ, tissue and cellular level as it relates to the whole animal system.  4 lectures.",
+            "title": "Physiological Chemistry of Animals"
+        },
+        "ASCI 321": {
+            "description": "Public health concerns including:  animal and bird diseases which may be transmitted to people; pre-harvest food safety and handling concerns; and environmental public health hazards.  3 lectures, 1 activity.",
+            "title": "Zoonoses and Veterinary Public Health Concerns"
+        },
+        "ASCI 324": {
+            "description": "Appraising the relative merit of individual horses in halter and performance through the application, development and refinement of deductive and inductive logical processes.  Oral and written expression of the selection rationale.  2 laboratories.",
+            "title": "Advanced Equine Evaluation"
+        },
+        "ASCI 325": {
+            "description": "Management of replacement pullets and laying hens including flock scheduling, vaccination and handling procedures, nutrition management, costs of operation and production projections.  Quality determination, processing, sales and distribution of shell eggs and egg products.  3 lectures, 1 laboratory.",
+            "title": "Egg Production, Processing and Distribution"
+        },
+        "ASCI 326": {
+            "description": "Application of deductive and inductive logical processes in appraising the relative merit of individual animals within a group sample.  Oral expression of the selection rationale.  Total credits limited to 4 units.  2 laboratories.",
+            "title": "Advanced Livestock Evaluation"
+        },
+        "ASCI 329": {
+            "description": "Characteristics, history and multiple uses of rangeland.  Principles of range plant physiology and ecology in relation to range condition, trend, utilization and improvement practices.  Principles of proper grazing practices and nutrition of livestock.  3 lectures, 1 laboratory.",
+            "title": "Principles of Range Management"
+        },
+        "ASCI 330": {
+            "description": "Modern production techniques for the poultry meat industry.  Management of hatcheries, broiler and/or turkey meat production, processing and further processing.  3 lectures, 1 laboratory.",
+            "title": "Poultry Meat Production and Processing"
+        },
+        "ASCI 333": {
+            "description": "Management of the breeding farm, breeding problems, diseases, study of estrus cycles, servicing the mare, handling stallions.  Breeding systems, teasing, embryo transfer, ultrasound pregnancy diagnosis, new developments in breeding technology.  4 lectures, 1 laboratory.",
+            "title": "Equine Reproduction"
+        },
+        "ASCI 339": {
+            "description": "Selected Animal Science students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Major credit limited to 6 units.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Internship in Animal Science"
+        },
+        "ASCI 340": {
+            "description": "Introduction to moral principles that have shaped the field of animal welfare science.  Definition of Animal Welfare.  Identification of science-based measures of welfare.  Current welfare concerns with companion, laboratory, production, and exotic animals.  4 lectures.",
+            "title": "Animal Welfare and Ethics"
+        },
+        "ASCI 342": {
+            "description": "Organization and management of vertically integrated poultry operations.  Personnel management, cash flow analysis, cash vs.  accrual accounting, structuring of financial statements, projecting product outputs and cash flow needs, employee benefit programs and insurance needs for poultry companies.  4 lectures.",
+            "title": "Poultry Business Management"
+        },
+        "ASCI 344": {
+            "description": "Behavior of the horse and its relationship with people.  Learning, motivation, social behavior and communication with techniques to improve the safety and understanding between people and horses.  Total credit limited to 6 units.  3 activities.",
+            "title": "Equine and Human Communication"
+        },
+        "ASCI 345": {
+            "description": "Advanced principles of equine behavior modification for training young horses under saddle.  Identifying differences in individual horse's attitudes, techniques to teach horses to respond to different stimuli, management of young equine athlete.  5 activities.",
+            "title": "Equine Behavior Modification"
+        },
+        "ASCI 346": {
+            "description": "Equine digestion, diet development considerations and evaluations, nutritional management, and the relationship of respective topics to recommended feeding practices, research data, and nutritional portfolios.  Information is based on recent advances in horse nutrition and the National Research Council's Nutrient Requirements for Horses.  3 lectures, 1 laboratory.",
+            "title": "Equine Nutrition"
+        },
+        "ASCI 347": {
+            "description": "Applied physiology of the exercising horse.  Examine different physiological systems:  muscular, cardiovascular, respiratory, and nutritional.  Gait analysis, lameness, and treatment.  The athletic horse:  sports medicine, conditioning, drugs, and necropsy evaluation.  A distance learning course.  3 lectures.",
+            "title": "Equine Exercise Physiology"
+        },
+        "ASCI 350": {
+            "description": "Comparison of nonruminant and ruminant digestive systems, nutrient requirements, risk management for ingredients, formulation and nutritional management.  Influence of growth and production curves, consumption patterns, and feeding management in commercial poultry and swine industries.  Feed manufacturing and governmental regulations.  3 lectures, 1 laboratory.",
+            "title": "Nonruminant Nutrition"
+        },
+        "ASCI 351": {
+            "description": "Reproductive anatomy of male and female farm animals.  General endocrinology and systemic physiology.  Endocrine system effects on the various aspects of reproduction, such as:  gametogenesis, estrus, gestation, parturition, mothering and seasonality.  Introduction to reproductive biotechnology and embryo manipulation.  3 lectures, 1 laboratory.",
+            "title": "Reproductive Physiology"
+        },
+        "ASCI 355": {
+            "description": "Digestive physiology and nutrition of ruminants.  Anatomy and physiology of the digestive tract.  Rumen microbial fermentation.  Nitrogen utilization and metabolism.  Energy partitioning.  Net energy system.  Range livestock and feedlot nutrition.  Supplementation.  Common metabolic and nutritional dysfunctions.  Diet formulation.  3 lectures, 1 laboratory.",
+            "title": "Ruminant Nutrition"
+        },
+        "ASCI 360": {
+            "description": "Application of holistic management, a goal-oriented, value-driven framework for making decisions that are ecologically, economically, and socially sound.  Impact of technology and other tools on ecosystem processes.  Holistic approach to management, especially of land-based resources, aimed toward greater biodiversity and sustainability.  Not open to students with credit in AG 450.  3 lectures, 1 laboratory.  Crosslisted as AG/ASCI 360.  Fulfills GE Area F.",
+            "title": "Holistic Management"
+        },
+        "ASCI 363": {
+            "description": "Major developments in the chosen field of the student.  Discussion of new developments, policies, practices, and procedures.  Each individual is responsible for the development and presentation of a topic in the chosen field, resume, and cover letter.  2 seminars.",
+            "title": "Undergraduate Seminar"
+        },
+        "ASCI 366": {
+            "description": "Investigation of pharmacological principles applied to animal systems.  Overview of drugs acting on the nervous, endocrine, circulatory, urinary systems, and reproductive systems, specialty areas of pharmacology, and pharmacogenomics of livestock and companion animals.  3 lectures, 1 activity.",
+            "title": "Veterinary Pharmacology"
+        },
+        "ASCI 370": {
+            "description": "Review of practices used for improving the productivity or ecological functions of rangeland landscapes managed for grazing livestock, wildlife, or for ecological and/or aesthetic values.  3 lectures.",
+            "title": "Rangeland Improvements"
+        },
+        "ASCI 384": {
+            "description": "Physical, chemical and functional characteristics of meat food raw materials.  Science and technology of value-added processing including curing, sausage manufacture, low moisture products, and restructuring.  Quality assurance and related current industry topics.  3 lectures, 1 laboratory.",
+            "title": "Processed Meat Products"
+        },
+        "ASCI 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 4 units per quarter.  Credit/No Credit grading only.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ASCI 403": {
+            "description": "Coverage of current resources, techniques and methodologies used in animal research and biotechnology as well as experimental design, model assessment, and data interpretation with application to an experimental setting in the laboratory.  3 lectures, 2 laboratories.",
+            "title": "Applied Biotechnology in Animal Science"
+        },
+        "ASCI 405": {
+            "description": "Endocrine homeostasis with emphasis on the influence of hormones involved in digestion, metabolism, calcium and phosphorous, thyroid gland, adrenal gland, reproduction, and pregnancy.  Signaling pathways.  4 lectures.",
+            "title": "Domestic Livestock Endocrinology"
+        },
+        "ASCI 406": {
+            "description": "Comparative physiology and molecular understanding of oocyte development, fertilization, culturing, cryopreservation and micromanipulation of gametes and embryos.  3 lectures, 1 activity.",
+            "title": "Applied Animal Embryology and Assisted Reproduction"
+        },
+        "ASCI 407": {
+            "description": "Coverage of current resources, advanced techniques and methodologies of assisted reproduction of gametes and embryos involving in-vivo collection, in-vitro fertilization, cryopreservation and micromanipulation.  Mouse, cattle and horse gametes used for learning the techniques involved in embryology and assisted reproduction 1 lecture, 2 laboratories.",
+            "title": "Assisted Reproduction Technologies of Gametes and Embryos Laboratory"
+        },
+        "ASCI 410": {
+            "description": "Principles of behavior applied to animals in managed environments.  Observation and measurement of behavior, including sampling and recording methods.  Learning, including training and operant conditioning.  Discussion of issues related to behavioral welfare.  Etiology and management of maladaptive behavior.  3 lectures, 1 laboratory.",
+            "title": "Applied Animal Behavior Science"
+        },
+        "ASCI 412": {
+            "description": "Organization and planning for the Western Bonanza Junior Livestock Show.  Establishment of committee assignments and show manager responsibilities.  Corporate partnerships established and fund raising begun.  Planning for activities and guest speakers and new student recruitment.  Total credit limited to 6 units.  1 lecture, 2 activities.",
+            "title": "Advanced Livestock Event Planning"
+        },
+        "ASCI 413": {
+            "description": "Student management of the Western Bonanza Junior Livestock Show.  Leadership skills, team building, media relations, use of computer applications, livestock and fair industry contacts and mentoring to new students.  Application of knowledge learned in ASCI 412.  Total credit limited to 2 units.  1 activity.",
+            "title": "Advanced Livestock Event Management"
+        },
+        "ASCI 415": {
+            "description": "Using Hazard Analysis and Critical Control Point (HACCP) principles to develop regulatory inspection plans for meat and poultry operations; development and use of prerequisite programs; microbiological and process overviews.  3 lectures.",
+            "title": "HACCP for Meat and Poultry Operations"
+        },
+        "ASCI 420": {
+            "description": "Metabolism of proteins, carbohydrates, lipids, minerals, vitamins and water, and the relationship of nutrient utilization to animal production.  3 lectures.",
+            "title": "Animal Metabolism and Nutrition"
+        },
+        "ASCI 425": {
+            "description": "Study tour of commercial meat businesses.  Livestock harvest and carcass fabrication, further meat processing, retail and food service operations.  Personnel, processing procedures, regulatory standards, industry specifications and current issues.  Travel for 4 days.  2 activities.",
+            "title": "Meat Industry Study Tour"
+        },
+        "ASCI 438": {
+            "description": "Homeostatic relationships of organ systems.  Cardiovascular, respiratory, urogenital and neuro-endocrinological functions.  3 lectures, 1 laboratory.",
+            "title": "Systemic Animal Physiology"
+        },
+        "ASCI 440": {
+            "description": "Introduction to immune system, including innate and acquired immunity of domesticated animals.  Application of immunological analyses and examination of current disease issues in domesticated animals.  3 lectures, 1 laboratory.",
+            "title": "Immunology and Diseases of Animals"
+        },
+        "ASCI 450": {
+            "description": "Development of spreadsheets relating to livestock production.  Integration of database and analytical techniques.  Cost-benefit analyses of livestock production systems.  2 lectures, 2 activities.",
+            "title": "Computer Applications in Animal Science: Spreadsheet Analysis"
+        },
+        "ASCI 455": {
+            "description": "Assisted reproductive technologies in horses; use of gametes from normal and sub-fertile horses; manipulation of sub-fertile horses, donor and recipient mares; manipulation of endocrine system; embryo utilization; cryobiology of gametes and embryos; assessment of high-risk mare, fetus, and neonate.  3 lectures, 1 laboratory.",
+            "title": "Advanced Equine Reproductive Technologies"
+        },
+        "ASCI 460": {
+            "description": "Examination of methods used for determining the healthy and function of rangeland ecosystems, and the application of planning processes used in the management of rangelands and associated ecosystems.  Field trip required.  3 lectures, 1 laboratory.",
+            "title": "Rangeland Assessment and Planning"
+        },
+        "ASCI 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ASCI 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ASCI 477": {
+            "description": "Independent research experience in a specific area of animal science conducted under faculty supervision.  Satisfies senior project requirement.  Minimum 90 hours required.",
+            "title": "Senior Project - Research Experience in Animal Science"
+        },
+        "ASCI 478": {
+            "description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of animal science.  Completion of a project as a component of the internship.  Satisfies senior project requirement.  Minimum 90 hours required.",
+            "title": "Senior Project - Advanced Internship Experience in Animal Science"
+        },
+        "ASCI 479": {
+            "description": "Critical evaluation and formal presentation of current issues facing animal agriculture.  Evaluation of current topics, analysis of supporting evidence and logic, and synthesis and formal presentation of the resulting perspectives on different approaches to current challenges.  3 lectures.",
+            "title": "Senior Project - Current Topics in Animal Science"
+        },
+        "ASCI 490": {
+            "description": "Advanced field experience in animal production systems.  May include health, nutrition, reproduction, management, processing, budgeting, and/or marketing exercises as well as management decision-making opportunities.  Total major credit for ASCI 490 limited to 6 units.  Total credit for ASCI 490 limited to 10 units.  Credit/No Credit grading only.  1-5 lectures.",
+            "title": "Advanced Animal Production and Management Enterprise"
+        },
+        "ASCI 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Animal Science faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study in Animal Science"
+        },
+        "ASCI 503": {
+            "description": "Advanced molecular laboratory techniques in animal science.  Topics include analyses of cellular and metabolic regulation, gene expression, gene activation and regulation, gene construct design, transgenesis, knockout animal models.  2 lectures, 2 laboratories.",
+            "title": "Advanced Molecular Techniques in Animal Science"
+        },
+        "ASCI 520": {
+            "description": "Advanced problem-based presentation of animal nutrition case studies.  Emphasis on nutrients, clinical nutrition disorders and species not commonly considered in production animal nutrition.  Analytical and problem-solving skills will be utilized to develop solutions to complex animal nutrition management issues.  3 lectures, 1 activity.",
+            "title": "Comparative Animal Nutrition"
+        },
+        "ASCI 540": {
+            "description": "In-depth analysis of the immune system, including molecular basis for immunity of domesticated animals.  Application of immunological assays, and application of scientific method to examine immunity and disease in domesticated animals.  Not open to students with credit in ASCI 440.  3 lectures, 1 laboratory.",
+            "title": "Advanced Immunology and Diseases of Animals"
+        },
+        "ASCI 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Animal Science"
+        },
+        "ASCI 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ASCI 581": {
+            "description": "Current findings and research problems in the field and their application to the industry.  Credit/No Credit grading only.  Total credit limited to 12 units.  1-4 seminars.",
+            "title": "Graduate Seminar in Animal Science"
+        },
+        "ASCI 593": {
+            "description": "Supervised graduate research and/or development in stem cell science or regenerative medicine and engineering.  Provides students with an off-campus industrial or university internship.  Total credit limited to 10 units.   Crosslisted as ASCI/BIO/BMED 593.",
+            "title": "Regenerative Medicine Internship"
+        },
+        "ASCI 594": {
+            "description": "Transfer of skills and knowledge gained through coursework, in an applied setting at Cal Poly.  Demonstration of technical, problem solving, and presentation skills, and familiarity with current research.  Part of the culminating experience for the Specialization in Regenerative Medicine in the MS in Biological Sciences, or the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture.  1 seminar and supervised work.  Crosslisted as ASCI/BIO/BMED 594.",
+            "title": "Applications in Regenerative Medicine"
+        }
+    },
     "links": [
         {
             "source": "BIO 111",

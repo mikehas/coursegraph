@@ -1,4 +1,82 @@
 {
+    "descriptions": {
+        "RELS 201": {
+            "description": "The way in which interactions between religious traditions shape society at various levels. Case studies drawn from eastern and western religious traditions during the ancient and modern periods. 4 lectures. Fulfills GE D3.",
+            "title": "Religion, Dialogue, and Society"
+        },
+        "RELS 205": {
+            "description": "Exploration and analysis of the person of Jesus. Includes examination of our sources of knowledge about him, his self-understanding, and various interpretations of him in historical, comparative, and contemporary settings. 4 lectures.",
+            "title": "Jesus"
+        },
+        "RELS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "RELS 301": {
+            "description": "Comparative study of the religions of Asia, particularly Hinduism, Buddhism, and the religions of China.  Topics include historical continuities/discontinuities, worldviews, sacred texts, practices, responses to modernity, the place of women across the traditions.  4 lectures.  Fulfills GE C4.",
+            "title": "Religions of Asia"
+        },
+        "RELS 302": {
+            "description": "An introduction to the global religions of Judaism, Christianity, and Islam, with a focus on their shared origin in the Patriarch Abraham.  Topics include for each religion:  the origins, worldview, scripture, practices, and relationship to modernity.  4 lectures.  Fulfills GE C4.",
+            "title": "Abrahamic Religions: Judaism, Christianity, and Islam"
+        },
+        "RELS 304": {
+            "description": "Origins, beliefs and practices of Judaism and central themes in the Hebrew Bible.  The development of Judaism in the post-biblical and Talmudic period.  Jewish philosophy, life, rituals and customs.  The emergence of modern Judaism, Zionism and post-Holocaust philosophy.  4 lectures.  Fulfills GE C4.",
+            "title": "Judaism"
+        },
+        "RELS 306": {
+            "description": "Origins, beliefs and practices of Hinduism from the Veda and the Upanishads through the teachings of the Bhagavad Gita and the Puranas.  Modern Hindu institutions, saints and sages, and social philosophy contrasted with the ancient.  4 lectures.  Fulfills GE C4.",
+            "title": "Hinduism"
+        },
+        "RELS 307": {
+            "description": "Buddhist origins, viewpoints and practices will be seen in their development in India, Tibet, China, Japan, South Asia and America.  The life of Buddha, Gautama, the rise of Theravada, Mahayana and Tantra.  Encounters with Shinto and Confucianism.  4 lectures.  Fulfills GE C4.",
+            "title": "Buddhism"
+        },
+        "RELS 310": {
+            "description": "The development of the Christian religion from the story of Jesus, the New Testament, Church formation, the role of St.  Paul, dissenting ideas, Protestant and Catholic views, and contemporary issues of conscience, such as the Social Gospel and liberation theologies.  4 lectures.  Fulfills GE C4.",
+            "title": "Christianity"
+        },
+        "RELS 311": {
+            "description": "The development of Islamic civilization from the inspiration of the Qur'an and the Prophet Muhammad and the Sunni-Shi'i split to contemporary political and social issues.  Emphasis of Sufi literature, art, architecture, and philosophies of Islam.  4 lectures.  Fulfills GE C4.",
+            "title": "Islam"
+        },
+        "RELS 344": {
+            "description": "Examination of religion from an academic perspective by surveying the various historical approaches employed within the discipline of religious studies to collect, analyze, and interpret religious phenomena cross-culturally.  4 lectures.  Fulfills GE D5.",
+            "title": "Approaches to Religion and Spirituality"
+        },
+        "RELS 370": {
+            "description": "Critical examination of religious ideas and institutions in the United States.  Focus on interlocking systems of sex, gender, race, class and religion; individual and group experiences at the intersection of religion, politics and culture.  4 lectures.  Crosslisted as RELS/WGS 370.  Fulfills GE C4 and USCP.",
+            "title": "Religion, Gender, and Society"
+        },
+        "RELS 372": {
+            "description": "Shaping influence of ascetics, mystics and the insane on global religious traditions.  Topics may include the relationship between spiritual extremists and society, cultural construction of holiness and insanity, and literary depictions of spiritual extremists.  4 lectures.  Fulfills GE C4.",
+            "title": "Spiritual Extremism: Asceticism, Mysticism, and Madness"
+        },
+        "RELS 374": {
+            "description": "Historical and contemporary case studies of how various religions have condoned, motivated and justified violence.  The place of sacrifice, martyrdom, self-injury and forced conversion in religious doctrines.  Representations of religious violence in the media.  4 lectures.  Fulfills GE C4.",
+            "title": "Religion and Violence"
+        },
+        "RELS 376": {
+            "description": "Interdisciplinary investigation of relationships between religion, science and technology, including the ethical implications of various technologies.  Topics may include human origins, medical technology, environment, reproduction, social media and emerging technologies.  4 lectures.  Fulfills GE area F.",
+            "title": "Religion, Science and Technology"
+        },
+        "RELS 378": {
+            "description": "Descriptive analysis of how diverse religious traditions construct moral decisions about a variety of contemporary issues including sexuality, ecology, and justice.  Challenges for religious value systems in secular and pluralistic societies.  4 lectures.  Fulfills GE C4.",
+            "title": "Religion and Contemporary Values"
+        },
+        "RELS 380": {
+            "description": "The root causes of the Israeli-Palestinian conflict and its current manifestation.  Possibilities for solutions from the perspectives of religious studies and political science.  4 lectures.  Crosslisted as POLS/RELS 380.",
+            "title": "Religion and Politics in the Israeli-Palestinian Conflict"
+        },
+        "RELS 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "RELS 470": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list topics selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [],
     "nodes": [
         {

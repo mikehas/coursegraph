@@ -1,4 +1,82 @@
 {
+    "descriptions": {
+        "LS 201": {
+            "description": "Career and academic planning, co-curricular, extra-curricular opportunities, and pathway into a K-8  teaching profession.  Academic policies and procedures, goal settings, elements of career in education, and other topics relevant to student and professional success. Intended for new students in the Liberal Studies major. Not open to students with credit in LS 101. 1 activity.",
+            "title": "Orientation to Liberal Studies"
+        },
+        "LS 211": {
+            "description": "Theory, aesthetics, appreciation and applications of visual arts, through multiple two dimensional art strategies, as related to educational processes for the elementary classroom. Focus on elements, principles of design while fostering artistic perception. One Saturday field trip required. 3 lectures, 1 laboratory.",
+            "title": "Visual Arts in the Elementary Classroom"
+        },
+        "LS 214": {
+            "description": "Examination of U.S. and California constitutions, significant legislation, and court cases affecting public education from the colonial period to the present. Overview of contributions by individuals of historical, national, and international educational significance. Examination of landmark decisions. 4 lectures.",
+            "title": "Constitutional Issues in the History of U"
+        },
+        "LS 230": {
+            "description": "Overview of current practices and issues in elementary education, including teacher compensation, cultural impact on schools, time and classroom management, English learners, and the affective aspect of teaching. 24 hours of fieldwork required. 2 activities.",
+            "title": "Field Experience in the Elementary Classroom I"
+        },
+        "LS 250": {
+            "description": "Overview of current practices and issues in elementary education, including components of effective teaching, motivating students, diagnostic/prescriptive teaching, curriculum, and accountability. In addition to class time, 24 hours of fieldwork required. Participation in public schools requires fingerprint clearance. 2 activities.",
+            "title": "Field Experience in the Elementary Classroom II"
+        },
+        "LS 260": {
+            "description": "Analysis and evaluation of traditional literature, fantasy, realistic fiction, historical fiction, informational books, picture books, and poetry for children in multiple subject classroom grades K-6.  Emphasis on multicultural texts.  4 lectures.  Crosslisted as ENGL/LS 260.",
+            "title": "Children's Literature"
+        },
+        "LS 290": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "LS 301": {
+            "description": "Overview of ethical, legal, and historical issues in education; major foundational philosophies in American public education.  Career pathways in education, targeted advising, portfolio building and professional goals and opportunities.  Not open to students with credit in LS 101.  1 activity.",
+            "title": "Liberal Studies Career Preparation"
+        },
+        "LS 305": {
+            "description": "Extended collaborative study of a question or problem in STEM using a Project Based Learning (PBL) environment; includes consideration of the educational framework and principles of PBL.  Topics will have an engineering design component that will require application of mathematics, technology, and science.  The Schedule of Classes will list topic selected.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 activities.",
+            "title": "Project Based Learning in STEM Education"
+        },
+        "LS 310": {
+            "description": "Techniques for selection, preparation and presentation of traditional folktales and myths for an audience.  Applications of storytelling in teaching and organizations; theory and history of folk literature and mythology.  4 lectures.",
+            "title": "Storytelling: Modern Applications of Traditional Narrative"
+        },
+        "LS 370": {
+            "description": "Current theory and practice of standards based performing arts with an emphasis on the use of music, theater, media arts and dance, as discrete disciplines with historical and cultural context in the classroom.  Attendance at outside performances required.  4 lectures.",
+            "title": "Performing Arts in the Elementary Classroom"
+        },
+        "LS 380": {
+            "description": "Structured application of a specific content area in schools and informal educational settings.  Topics include:  Arts, English, Science, Mathematics, History/Social Studies, and Physical Education and Health.  The Schedule of Classes will list topic selected.  Participation in public schools requires mandated fingerprint clearance.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 activities.",
+            "title": "Subject Matter Apprenticeship"
+        },
+        "LS 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "LS 410": {
+            "description": "Analysis and practice of subject matter knowledge and skills to facilitate K-8 learning through identifying major themes and questions.  The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 seminars, 1 activity.",
+            "title": "Subject Matter Seminar"
+        },
+        "LS 411": {
+            "description": "Analysis and practice of history and social sciences knowledge and skills to facilitate K-8 learning through identifying major themes and questions.  The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues.  3 seminars, 1 activity.",
+            "title": "Advanced History/Social Sciences Integration for the K-8 Classroom"
+        },
+        "LS 412": {
+            "description": "Analysis and practice of Arts knowledge and skills to facilitate K-8 learning through identifying major themes and questions.  The use of inquiry, assessment, curriculum integration, and technology to connect discipline specific content to contemporary social issues.  Field trips required.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Advanced Arts Integration for the K-8 Classroom"
+        },
+        "LS 461": {
+            "description": "Examination of issues in education of state, national and international concern.  Students prepare presentations and conduct individual research and analysis of selected problems.  Substantial research paper required.  4 seminars.",
+            "title": "Senior Project Seminar"
+        },
+        "LS 462": {
+            "description": "Application of content and theory to the educational experience of one specific subject matter area in the Liberal Studies program.  Total credit limited to 4 units.",
+            "title": "Senior Project Research"
+        },
+        "LS 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "LS 211",

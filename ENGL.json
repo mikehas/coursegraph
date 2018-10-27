@@ -1,4 +1,450 @@
 {
+    "descriptions": {
+        "ENGL 129": {
+            "description": "Part one of a two-part stretch course sequence. Introduction to academic writing for bilingual and multilingual audiences. Draft, revise, and edit brief, weekly writing assignments to develop fluency in composing English for academic purposes. Credit/No Credit grading only. 4 lectures.",
+            "title": "Multilingual Approaches to Academic Writing Stretch (Part I)"
+        },
+        "ENGL 130": {
+            "description": "Part two of a two-part stretch course sequence.  Rhetorical principles of and strategies for producing effective academic writing for multilingual audiences.  Focus on genre awareness, strategic responses to a range of rhetorical situations across multiple languages, cultures, and style issues appropriate for bilingual and multilingual writers.  4 lectures.  Fulfills GE Area A1.",
+            "title": "Multilingual Approaches to Academic Writing Stretch (Part II)"
+        },
+        "ENGL 131": {
+            "description": "Part one of a two-part stretch course sequence. Rhetorical principles of and strategies for producing effective academic writing. Writing as a recursive process that leads to greater organizational coherency, stylistic complexity, and rhetorical awareness. Credit/No Credit grading only. 4 lectures.",
+            "title": "Writing and Rhetoric Stretch (Part I)"
+        },
+        "ENGL 132": {
+            "description": "Part two of a two-part stretch course sequence.  Rhetorical principles of and strategies for producing effective academic writing.  Writing as a recursive process that leads to greater organizational coherency, stylistic complexity, and rhetorical awareness.  4 lectures.  Fulfills GE Area A1.",
+            "title": "Writing and Rhetoric Stretch (Part II)"
+        },
+        "ENGL 133": {
+            "description": "Rhetorical principles and tactics applied to written work.  Writing as a recursive process that leads to greater organizational coherency, stylistic complexity, and rhetorical awareness with an emphasis on grammatical elements appropriate for English as a Second Language students.  4 lectures.  Fulfills GE Area A1; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A1.",
+            "title": "Writing & Rhetoric for English as a Second Language Students"
+        },
+        "ENGL 134": {
+            "description": "Rhetorical principles and tactics applied to written work.  Writing as a recursive process that leads to greater organizational coherency, stylistic complexity, and rhetorical awareness.  4 lectures.  Fulfills GE Area A1; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A1.",
+            "title": "Writing and Rhetoric"
+        },
+        "ENGL 135": {
+            "description": "Guided discussion and practice of writing strategies for students seeking support for first-year composition-related coursework.  Weekly, individualized hour-long sessions with a peer writing consultant offering feedback based on the audience, purpose, and context of a writing task.  Open to all students enrolled in ENGL 129, ENGL 131, ENGL 133, or ENGL 134; required of all students enrolled in ENGL 130 or ENGL 132.  Total credit limited to 2 units.  Credit/No Credit grading only.  1 activity.",
+            "title": "Writing and Rhetoric Tutorial"
+        },
+        "ENGL 145": {
+            "description": "The principles of reasoning in argumentation.  Examination of rhetorical principles and responsible rhetorical behavior.  Application of these principles to written and oral communications.  Effective use of research methods and sources.  4 lectures.  Crosslisted as COMS/ENGL/HNRS 145.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3.",
+            "title": "Reasoning, Argumentation, and Writing"
+        },
+        "ENGL 148": {
+            "description": "The principles of reasoning in professional writing.  Discussion and application of rhetorical principles, both oral and written, in professional environments.  Study of methods, resources and common formats used in corporate or research writing.  4 lectures.  Crosslisted as ENGL/HNRS 148.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3.",
+            "title": "Reasoning, Argumentation and Professional Writing"
+        },
+        "ENGL 149": {
+            "description": "The principles of technical writing.  Discussion and application of rhetorical principles in technical environments.  Study of methods, resources and common formats used in corporate or research writing.  4 lectures.  Crosslisted as ENGL/HNRS 149.  Fulfills GE A3; for students admitted Fall 2016 or later a grade of C- or better is required to fulfill GE Area A3.",
+            "title": "Technical Writing for Engineers"
+        },
+        "ENGL 150": {
+            "description": "Guided discussion and practice of writing strategies for students seeking support for writing-related coursework and/or the GWR.  Weekly, individualized and group sessions with a peer writing consultant offering feedback based on the audience, purpose, and context of a writing task.  Credit/No Credit only.  Total credit limited to 4 units.  1 activity.",
+            "title": "Writing Tutorial"
+        },
+        "ENGL 202": {
+            "description": "Introduction to literary genres, concepts, and terms.  Emphasis on explication and interpretation, and on writing about literature.  4 lectures.",
+            "title": "Introduction to Literary Studies"
+        },
+        "ENGL 203": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  Selections may include such readings as Beowulf, Chaucer, Dante, a mystery or morality play, the Pearl Poet and others, as chosen by the instructor.  4 lectures.",
+            "title": "Core I: 450-1485"
+        },
+        "ENGL 204": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  Selections may include such readings as Bradstreet, Donne, Milton, Shakespeare, Spenser, and others, as chosen by the instructor.  4 lectures.",
+            "title": "Core II: 1485-1660"
+        },
+        "ENGL 205": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  Selections may include such readings as Defoe, Franklin, Pope, Swift, Wheatley, and others, as chosen by the instructor.  4 lectures.",
+            "title": "Core III: 1660-1789"
+        },
+        "ENGL 221": {
+            "description": "Introduction to the rhetorical, stylistic, and genre conventions used in technical and professional communication.  Emphasis on the analysis, evaluation, and production of technical and professional documents.  Required for Technical and Professional Communication Certificate Program.  4 lectures.",
+            "title": "Introduction to Technical and Professional Communication"
+        },
+        "ENGL 230": {
+            "description": "Covers a thousand years of British literature, from the eighth to the eighteenth century and may include such readings as Beowulf, The Canterbury Tales, Utopia, Othello, Paradise Lost, Oroonoko and Gulliver's Travels.  4 lectures.  Fulfills GE C1.",
+            "title": "Masterworks of British Literature through the Eighteenth Century"
+        },
+        "ENGL 231": {
+            "description": "Broadly surveys Romantic, Victorian, Modern, and Contemporary British literature in an historical-cultural context.  Investigates works from several genres and a variety of national and cultural voices.  May include such writers as Wordsworth, Wollstonecraft, Dickens, G.  Eliot, Wilde, Woolf, Yeats, and Gordimer.  4 lectures.  Crosslisted as ENGL 231/HNRS 232.  Fulfills GE C1.",
+            "title": "Masterworks of British Literature from the Late 18th Century to the Present"
+        },
+        "ENGL 241": {
+            "description": "Survey of early American literature from pre-Columbian era to end of Civil War.  A range of writers and genres, including indigenous creation stories, early exploration documents, first contact narratives, colonial histories, sermons, poetry, essays, autobiographies, drama, and fiction.  Not open to students with credit in ENGL 240.  4 lectures.  Fulfills GE C1.",
+            "title": "American Literature: Beginnings to 1865"
+        },
+        "ENGL 242": {
+            "description": "A broad survey of later American literature from the rise of literary nationalism to the present.  A wide range of writers and genres, including novels, short stories, poems, plays, essays, and autobiographies.  Not open to students with credit in ENGL 240.  4 lectures.  Crosslisted as ENGL/HNRS 242.  Fulfills GE C1.",
+            "title": "American Literature: 1830 to the Present"
+        },
+        "ENGL 251": {
+            "description": "Examination of the ancient epics and classical literature of Mesopotamia, Greece, and Rome.  May include such readings as The Epic of Gilgamesh, the Iliad, the Odyssey, Genesis, Exodus, Antigone, the Symposium, the Aeneid, and Marcus Aurelius's Meditations.  4 lectures.  Crosslisted as ENGL/HNRS 251.  Fulfills GE C1.",
+            "title": "Great Books I: Introduction to Classical Literature"
+        },
+        "ENGL 252": {
+            "description": "Examination of key works marking the transition from Mediterranean Classicism (c.  500 CE) to an emergent European tradition (c.  1800 CE).  May include such readings as Augustine's Confessions, Song of Roland, Egil's Saga, the Consolation of Philosophy, The Romance of Tristan, the Inferno, Cellini's Autobiography, Utopia, Princess of Cleves, Candide, Discourse on Method, and Rousseau's Confessions.  4 lectures.  Fulfills GE C1.",
+            "title": "Great Books II: Medieval to Enlightenment Literature"
+        },
+        "ENGL 253": {
+            "description": "Examination of key works marking the Romantic Revolution and the realist and modernist movements that followed in its wake.  May include such readings as the poetry of Blake, Wordsworth, Eliot, Rimbaud, Plath, Ginsberg, and Stein; Notes from Underground, The Death of Ivan Ilych, The Metamorphosis and/or The Hunger Artist, Heart of Darkness, 'Sonny's Blues,' and Virginia Woolf's short fiction and essays.  4 lectures.  Fulfills GE C1.",
+            "title": "Great Books III: Romanticism to Modernism Literature"
+        },
+        "ENGL 260": {
+            "description": "Analysis and evaluation of traditional literature, fantasy, realistic fiction, historical fiction, informational books, picture books, and poetry for children in multiple subject classroom grades K-6.  Emphasis on multicultural texts.  4 lectures.  Crosslisted as ENGL/LS 260.",
+            "title": "Children's Literature"
+        },
+        "ENGL 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ENGL 290": {
+            "description": "Introduction to the nature of language; concepts and methods of linguistic science.  4 lectures.",
+            "title": "Introduction to Linguistics"
+        },
+        "ENGL 302": {
+            "description": "Writing and analysis of expository and argumentative papers at an advanced level.  Special attention paid to issues of style and voice.  Critical reading of models of effective writing.  4 lectures.  Fulfills GWR.",
+            "title": "Writing: Advanced Composition"
+        },
+        "ENGL 303": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  May include such authors as Austen, Emerson, Hawthorne, Keats, Wordsworth, and others, as chosen by the instructor.  4 lectures.",
+            "title": "Core IV: 1789-1861"
+        },
+        "ENGL 304": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  May include such authors as Arnold, Dickinson, James, Tennyson, Whitman, and others, as chosen by the instructor.  4 lecture.",
+            "title": "Core V: 1861-1914"
+        },
+        "ENGL 305": {
+            "description": "Representative canonical and non-canonical readings in the literature of the period.  May include such authors as Eliot, Faulkner, Morrison, Woolf, Yeats, and others, as chosen by the instructor.  4 lectures.",
+            "title": "Core VI: 1914 - Present"
+        },
+        "ENGL 310": {
+            "description": "Instruction and practice in forms of communication characteristic of business and industry.  4 lectures.  Fulfills GWR.",
+            "title": "Corporate Communication"
+        },
+        "ENGL 317": {
+            "description": "Instruction and practice in editing skills commonly used in workplace settings.  Includes practical instruction in copyediting, sentence level editing, and substantive editing for accuracy and consistency.  Editing documents, illustrations, web pages for consistency and use.  Application of grammar and punctuation.  4 lectures.  Fulfills GWR.",
+            "title": "Technical Editing"
+        },
+        "ENGL 319": {
+            "description": "Mid-level presentation of the theory and practice involved with the production of technical documents.  Focus on history, typography, information design principles, the effective integration of text and graphics, project management, and recent industry trends in software use.  4 lectures.",
+            "title": "Information Design and Production"
+        },
+        "ENGL 330": {
+            "description": "The historical development of medieval English literature through selected canonical and non-canonical works of various genres.  Medieval authorship and textual practice, the relationship between gender and writing, and the forging of a national poetic identity.  Interdisciplinary support material (artwork and music) illustrating key themes.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Belief: to 1485"
+        },
+        "ENGL 331": {
+            "description": "The literary, historical, political, religious and scientific concerns of the Age of the Renaissance.  May include such readings as More's Utopia, Spenser's Faerie Queene, Shakespeare's Othello, Donne's Songs and Sonnets, Milton's Paradise Lost.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Discovery: 1485-1660"
+        },
+        "ENGL 332": {
+            "description": "In-depth exploration of the dominant themes and preoccupations of the Age of Enlightenment.  Historical and cultural contexts of canonical and non-canonical literature emphasized to illustrate 18th century Britons' views of themselves and their changing world.  May include such writers as Dryden, Behn, Defoe, Swift, Pope, and Johnson.  4 lectures.  Crosslisted as ENGL/HNRS 332.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Enlightenment: 1660-1798"
+        },
+        "ENGL 333": {
+            "description": "In-depth exploration of the literature of the British Romantic period.  Cultural, historical, and philosophic contexts will also be examined in both canonical and non-canonical works.  May include such writers as Blake, Wordsworth, Keats, and Wollstonecraft.  4 lectures.  Crosslisted as ENGL/HNRS 333.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Romanticism: 1798-1832"
+        },
+        "ENGL 334": {
+            "description": "In-depth study of historical, philosophical, and literary reaction to the rise of the modern industrial state.  Special focus on the literary response to the following:  industry, democracy, class, art, and culture.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Industrialism: 1832-1914"
+        },
+        "ENGL 335": {
+            "description": "In-depth exploration of the dominant concerns and achievements of British literature from Modernism through Postmodernism.  Historical and cultural contexts of canonical and non-canonical literature explored to illustrate 20th century Britain's reactions to the breakdown of traditional beliefs, the World Wars, the legacy of colonialism, the changing politics and problems of a multicultural nation.  May include such writers as Conrad, Joyce, Woolf, Yeats, Heaney, Ishiguro, Walcott.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "British Literature in the Age of Modernism: 1914-Present"
+        },
+        "ENGL 339": {
+            "description": "Shakespeare's works as texts, productions and major historical, aesthetic and cultural touchstones.  The author's intellectual and social influences on four centuries of theatre and his subsequent impact on literature and other arts.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Introduction to Shakespeare"
+        },
+        "ENGL 340": {
+            "description": "The literature of the United States from its sources in the accounts of the early British and Spanish explorers to the works of the American Renaissance.  The relationship between mainstream and marginalized voices in the American character.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "The Literary Sources of the American Character: 1600-1865"
+        },
+        "ENGL 341": {
+            "description": "Analysis of literary Realism and Naturalism in their cultural and historical contexts.  May include such writers as Whitman, Dickinson, Twain, Chopin, James, Wharton, Dreiser, Norris, and Crane who are seen to accommodate the sense of danger, doubt, and disorder of the time.  4 lectures.  Crosslisted as ENGL/HNRS 341.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "The Literary Sources of the American Character: 1865-1914"
+        },
+        "ENGL 342": {
+            "description": "The writers of the modern period and those of the early post-modern age, including writers marked by stylistic innovation and a willingness to challenge traditionally accepted standards.  May include such writers as Hemingway, Fitzgerald, Stein, Hughes.  4 lectures.  Crosslisted as ENGL/HNRS 342.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "The Literary Sources of the American Character: 1914-1956"
+        },
+        "ENGL 343": {
+            "description": "In-depth study of American fiction, poetry, and drama written since 1956.  How contemporary literature examines enduring American themes and breaks new ground with the inclusion of diverse voices.  4 lectures.  Crosslisted as ENGL/HNRS 343.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Multiple Voices of Contemporary American Literature"
+        },
+        "ENGL 345": {
+            "description": "In-depth exploration of works of 20th century women authors within their historical and cultural contexts.  Analysis of canonical and non-canonical writing by women of differing classes, races, ethnicities, and sexual preferences.  Literary techniques through which texts reflect or challenge such cultural constructs as gender, identity, sexuality, motherhood, etc.  The emergence of a female literary tradition.  May include such writers as Woolf, Rich, Kingston, Yamamoto, Morrison, Cervantes.  4 lectures.  Crosslisted as ENGL/HNRS 345.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Women Writers of the Twentieth Century"
+        },
+        "ENGL 346": {
+            "description": "Investigation of the primary issues, themes, and tropes of literature written in English by African-American, Asian-American, Native American, Hispanic and Jewish writers.  Cultural and historical contexts explored to consider effects of marginalization on this literature, and its subsequent relation to the American canon.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Ethnic American Literature"
+        },
+        "ENGL 347": {
+            "description": "The writings of African Americans from the end of the eighteenth century to the present.  Individual works and literary trends among African Americans of various periods and contexts:  intellectual, political, and cultural.  4 lectures.  Crosslisted as ENGL/HNRS 347.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "African American Literature"
+        },
+        "ENGL 349": {
+            "description": "In-depth study of issues related to male and female identity and the relations between men and women as depicted in twentieth-century fiction, poetry, non-fiction, and/or drama.  How gender issues are created and viewed from different perspectives, such as social/economic class, ethnicity, and sexual orientation.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Gender in Twentieth Century Literature"
+        },
+        "ENGL 350": {
+            "description": "Readings in the modern novel in its historical and cultural context.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "The Modern Novel"
+        },
+        "ENGL 351": {
+            "description": "Modern poetry, considered in its historical and cultural context.  The rise of experimental styles designed to reflect the disorder of the twentieth century - fragmentation, alienation, dislocation, and the absence of connections.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Modern Poetry"
+        },
+        "ENGL 352": {
+            "description": "Reading and analysis of world drama of the last 150 years, thereby enhancing student awareness of modern culture, history, ethics, politics, and the human condition.  Design work, multi-media forms, art, music, and cinema as components or informing elements of the works under consideration.  4 lectures.  Crosslisted as ENGL/HNRS 352.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Modern Drama"
+        },
+        "ENGL 354": {
+            "description": "The most important and representative books of the Bible.  Exposure to works based on the Bible in literature, painting, sculpture, architecture, music, and film.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "The Bible as Literature and in Literature and the Arts"
+        },
+        "ENGL 360": {
+            "description": "Analysis and evaluation of young adult literature appropriate for classroom instruction in grades 6-12 with special attention to the relationship of young adult literature to popular culture and themes relevant to adolescents.  Pedagogical approaches also explored.  Twenty hours of fieldwork in secondary schools required.  3 lectures, 1 activity.",
+            "title": "Literature for Adolescents"
+        },
+        "ENGL 361": {
+            "description": "Analysis and evaluation of young adult literature appropriate for classroom instruction in grades 6-12.  Special attention paid to metacognitive strategies of making sense of text with an emphasis on pedagogical approaches.  Twenty hours of fieldwork in secondary schools required.  Participation in public schools requires mandated fingerprint clearance.  4 lectures, 1 activity.",
+            "title": "Reading Instruction for the Teaching of Young Adult Literature"
+        },
+        "ENGL 365": {
+            "description": "Cognitive elements of reading and writing processes decoding and encoding, construction of meaning, recognizing and using text conventions of different genres.  Metacognitive strategies for making sense of text.  Twenty hours of fieldwork in secondary schools required.  3 lectures, 1 activity.",
+            "title": "Complexities of Literacy in Literature and Non-fiction Text"
+        },
+        "ENGL 368": {
+            "description": "Discussion and application of theories and practices central to writing center work, such as collaborative learning, the writing process, social dimensions of the peer/tutor relationship, and strategies for working with specific student populations including second-language writers and writers from across the disciplines.  Required for those interested in becoming tutors in the University Writing and Rhetoric Center and/or new teaching assistants in English.  3 lectures, 1 activity.",
+            "title": "Theory and Practice of Peer-to-Peer Writing Instruction"
+        },
+        "ENGL 370": {
+            "description": "Major works of international cinema with emphasis on critical interpretation, on the ways film communicates visually and aurally, and on the historical and cultural contexts in which films are created.  3 lectures, 1 laboratory.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "World Cinema"
+        },
+        "ENGL 371": {
+            "description": "Major films within particular cinematic genres or styles, with emphasis on critical interpretation, aesthetic appreciation, and the films' historical and cultural contexts.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Film Styles and Genres"
+        },
+        "ENGL 372": {
+            "description": "Films of one or more major film directors, with emphasis on critical interpretation, aesthetic appreciation, and the films' historical and cultural contexts.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  3 lectures, 1 laboratory.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Film Directors"
+        },
+        "ENGL 380": {
+            "description": "Literature selected according to a particular theme.  Emphasis on critical interpretation, aesthetic appreciation, and historical and cultural contexts.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Crosslisted as ENGL/HNRS 380.  Fulfills GE C4 except for English majors.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Literary Themes"
+        },
+        "ENGL 381": {
+            "description": "Literature selected according to a particular theme, with a focus on issues of ethnicity and gender.  Emphasis on critical interpretation, aesthetic appreciation, and historical and cultural contexts.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "Diversity in Twentieth-Century American Literature"
+        },
+        "ENGL 382": {
+            "description": "Representations of lesbian, gay, bisexual, transgendered (LGBT) individuals and issues, late 19th century to the present.  Topics include the closet, homophobia, coming out, AIDS, same-sex marriage, intersections of sexuality, race, class, gender identity.  4 lectures.  Fulfills GE C4 except for English majors.  Fulfills USCP.  Fulfills GWR for students with junior standing (90 units).",
+            "title": "LGBT Literature and Media"
+        },
+        "ENGL 386": {
+            "description": "Writing creative nonfiction (the memoir, the nature essay, the personal narrative, cultural criticism, literary journalism) by adding composition skills of fictional and poetic techniques.  A publication workshop.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for English majors.",
+            "title": "Creative Nonfiction"
+        },
+        "ENGL 387": {
+            "description": "How to write and read fiction.  Exploring and understanding the elements of fiction writing, employing models by established writers.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for English majors.",
+            "title": "Fiction Writing"
+        },
+        "ENGL 388": {
+            "description": "How to write and read poetry.  Exploring a variety of formal options, employing model poems by established writers and identifying and enhancing what is best in poetry written in class.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for English majors.",
+            "title": "Poetry Writing"
+        },
+        "ENGL 390": {
+            "description": "Linguistic analysis of the English language, including phonology, morphology, syntax, and style and dialect variation.  4 lectures.",
+            "title": "The Linguistic Structure of Modern English"
+        },
+        "ENGL 391": {
+            "description": "Topics in applied linguistics including sociolinguistics, first and second language acquisition, literacy, bilingualism, and dialectology.  Applications to teaching the English language.  4 lectures.",
+            "title": "Topics in Applied Linguistics"
+        },
+        "ENGL 395": {
+            "description": "Linguistic approach to the history of the English language:  evolution of phonology, morphology, lexicon, syntax, and semantics within the changing cultural context of the last 2000 years.  4 lectures.",
+            "title": "History of the English Language"
+        },
+        "ENGL 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ENGL 408": {
+            "description": "Advanced study and part-time work experience; current innovation, practices, and problems in administration, supervision, and organization.  Must be able to do independent work in career field.  Weekly reports and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Internship"
+        },
+        "ENGL 411": {
+            "description": "Advanced-level presentation of new media theory, design and practice.  Topics covered include, but are not limited to, interactivity theory, user-centered system design, cognitive psychology, media analysis, and basic web design theory.  Total credit limited to 8 units.  4 lectures.  Crosslisted as ENGL/HNRS 411.",
+            "title": "New Media Arts I"
+        },
+        "ENGL 412": {
+            "description": "Advanced level of work with the primary technologies and design/critique theories currently at use in the professional creation of new media works.  Lectures and readings expand upon material presented in ENGL 411.  4 lectures.  Crosslisted as ENGL/HNRS 412.",
+            "title": "New Media Arts II"
+        },
+        "ENGL 421": {
+            "description": "Advanced inquiry into themes, genres, or applications of technical and professional communication.  Required for Technical and Professional Communication Certificate Program.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Advanced Topics in Technical and Professional Communication"
+        },
+        "ENGL 424": {
+            "description": "Research-based methods of teaching English in secondary schools, with emphasis on practical approaches to teaching grammar/mechanics and the writing process in a literature-based classroom.  Attention to lesson and unit planning and integration of state standards and technology.  5 lectures.",
+            "title": "Teaching English in Secondary Schools"
+        },
+        "ENGL 425": {
+            "description": "Principles and practices in effective teaching of English at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession.  Credit/No Credit grading only.  Total credit limited to 4 units.  2 seminars.",
+            "title": "English Clinical Experience Seminar"
+        },
+        "ENGL 430": {
+            "description": "Selected readings from Canterbury Tales and Chaucer's other major poems.  4 seminars.",
+            "title": "Chaucer"
+        },
+        "ENGL 431": {
+            "description": "Representative comedies, tragedies, and histories.  4 seminars.",
+            "title": "Shakespeare"
+        },
+        "ENGL 432": {
+            "description": "Paradise Lost, Paradise Regained, and Samson Agonistes, with some attention to the minor poems.  4 seminars.",
+            "title": "Milton"
+        },
+        "ENGL 439": {
+            "description": "Selected British writers, as individual writers or in groups.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Significant British Writers"
+        },
+        "ENGL 449": {
+            "description": "Selected American writers, as individual writers or in groups.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Significant American Writers"
+        },
+        "ENGL 459": {
+            "description": "Selected world writers as individual writers or in groups.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Significant World Writers"
+        },
+        "ENGL 461": {
+            "description": "Capstone course which must be taken during the last two quarters of the student's undergraduate career.",
+            "title": "Senior Project"
+        },
+        "ENGL 467": {
+            "description": "The study of rhetorical concepts and theories.  Rhetorical analysis of various historical and contemporary texts -- including social, cultural and technological genres, compositions, and performances -- to understand how they communicate and persuade.  Field trip may be required.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Topics in Rhetoric and Writing"
+        },
+        "ENGL 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ENGL 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "ENGL 486": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 8 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "ENGL 487": {
+            "description": "Instruction and practice in advanced writing, revising and evaluating of fiction.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Advanced Creative Writing: Fiction"
+        },
+        "ENGL 488": {
+            "description": "Instruction and practice in advanced writing, revising and evaluating of poetry.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Advanced Creative Writing: Poetry"
+        },
+        "ENGL 495": {
+            "description": "Application of linguistics to human communications, human relations, and language policy and planning, or literature.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Topics in Applied Language Study"
+        },
+        "ENGL 497": {
+            "description": "Theories of first and second language learning and acquisition in the context of teaching English as a second language/dialect.  4 lectures.",
+            "title": "Theories of Language Learning and Teaching"
+        },
+        "ENGL 498": {
+            "description": "Approaches to teaching English as a second language.  Attention to materials development and testing.  4 lectures.",
+            "title": "Approaches to Teaching English as a Second Language/Dialect"
+        },
+        "ENGL 499": {
+            "description": "Practical experience in the English as a second language classroom under supervision of a cooperating teacher.  Teaching materials development and curriculum design.  Credit/No Credit grading only.  1 seminar and supervised work.",
+            "title": "Practicum in Teaching English as a Second Language/Dialect"
+        },
+        "ENGL 501": {
+            "description": "Purposes and methods of research in English studies, including literature, linguistics, rhetoric, and composition.  Acquaintance with printed and on-line materials of research and practical experience in collecting material, weighing evidence, reaching conclusions, and writing scholarly articles.  Discussion of areas of disciplinary specialization and ethics of scholarship.  4 seminars.",
+            "title": "Introduction to English Studies"
+        },
+        "ENGL 502": {
+            "description": "Basic approaches used by critics.  Multiple points of view.  Application to literary works.  Class Schedule will list topic selected.  Total credit limited to 8 units.  4 seminars.",
+            "title": "Seminar in Critical Analysis"
+        },
+        "ENGL 503": {
+            "description": "Introduction to linguistics for graduate students.  Phonology, morphology lexicon, syntax, and variation within language; application of linguistics to real-world issues.  4 seminars.",
+            "title": "Graduate Introduction to Linguistics"
+        },
+        "ENGL 505": {
+            "description": "Special problems in composition.  Direct application of composition and rhetorical theory to composition instruction.  4 seminars.",
+            "title": "Composition Theory"
+        },
+        "ENGL 506": {
+            "description": "Practical problems in the teaching of English composition.  Application and study of practical approaches.  Discussion of classroom organization and management.  Discussion of research into the nature and resolution of student writing problems.  Required of all new teaching assistants in English.  4 seminars.",
+            "title": "Pedagogical Approaches to Composition"
+        },
+        "ENGL 510": {
+            "description": "Intensive study of major British and American literary figures, singly, doubly or in small groups.  Written and oral reports of individual investigation.  Class Schedule will list topic selected.  Total credit limited to 16 units.  4 seminars.",
+            "title": "Seminar in Authors"
+        },
+        "ENGL 511": {
+            "description": "American periods.  Written and oral reports of individual investigation.  The Schedule of Classes will list topic selected.  Total credit limited to 20 units.  4 seminars.",
+            "title": "Seminar in American Literary Periods"
+        },
+        "ENGL 512": {
+            "description": "British periods.  Written and oral reports of individual investigation.  Class Schedule will list topic selected.  Total credit limited to 20 units.  4 seminars.",
+            "title": "British Literary Periods"
+        },
+        "ENGL 513": {
+            "description": "Themes and ideas in language and literature not ordinarily covered in the routine graduate course offerings.  Written and oral reports of individual investigation.  Class Schedule will list topic selected.  Total credit limited to 16 units.  4 seminars.",
+            "title": "Seminar in Special Topics"
+        },
+        "ENGL 515": {
+            "description": "Supervised experience in planning, teaching, and evaluating a 100-, 200- or 300-level linguistics, composition, or literature class taught by English faculty member.  Planning, selecting texts, conferring with students, discussing and constructing assignments, lecturing, leading small group discussions.  Credit/No Credit grading only.  Total credit limited to 8 units.",
+            "title": "Apprenticeship in Teaching Literature, Composition, or Linguistics at College Level"
+        },
+        "ENGL 518": {
+            "description": "Introduction to technical communication scholarship for graduate students.  Addresses usability, visual theory, information design, technical editing, and writing for professional and public audiences.  Analysis and critique of technical communication documents.  4 seminars.",
+            "title": "Graduate Technical Communication"
+        },
+        "ENGL 519": {
+            "description": "Themes and ideas in rhetoric and composition not ordinarily covered in the routine graduate course offerings.  Written and oral reports of individual investigation.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Seminar in Rhetoric and Writing"
+        },
+        "ENGL 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ENGL 590": {
+            "description": "Supervised independent or group study of special problems in selected areas of language, composition, or literature.  Total credit limited to 12 units.",
+            "title": "Directed Study"
+        },
+        "ENGL 598": {
+            "description": "Development, revision, and conclusion of a portfolio of graduate writing in literary criticism, linguistics, rhetoric, and/or composition.  Students engage in research and present their completed projects to the graduate advisor.  To be taken in the final term of the graduate program.  2 seminars.",
+            "title": "Graduate Project"
+        },
+        "ENGL 92": {
+            "description": "Instruction in the writing process. Practice in the strategies of writing, revising, and editing paragraphs and essays with attention paid to focus, support, and organization. Directed readings of exemplary prose. Not for baccalaureate credit. Credit/No Credit grading only. 4 lectures. Formerly ENGL 102.",
+            "title": "Basic Writing"
+        },
+        "ENGL 93": {
+            "description": "Practice in essay writing with special attention paid to the writing process. Focus on using details and examples for effective development. Review of grammar problems specific to ESL students. Journal writing to enhance fluency. Directed readings of essays and fiction. Not for baccalaureate credit. Credit/No Credit grading only. 4 lectures. Formerly ENGL 113.",
+            "title": "Essay Writing for English as a Second Language Students"
+        },
+        "ENGL 96": {
+            "description": "Directed, weekly practice in writing in a laboratory environment.  Open to all students enrolled in ENGL 92, ENGL 133, or ENGL 134; required of all students scoring below 147 on the English Placement Test (EPT).  Students scoring below 147 must enroll in the Writing and Rhetoric Stretch Program and take ENGL 96 during the second quarter of the stretch class, concurrently with ENGL 133 or ENGL 134.  Not for baccalaureate credit.  Credit/No Credit grading only.  1 laboratory.  Formerly ENGL 103.",
+            "title": "Writing and Rhetoric Tutorial"
+        },
+        "ENGL 98": {
+            "description": "Writing practice of extemporaneous expository and argumentative essays under time pressure.  Discussion and application of rhetorical and grammatical principles through critical reading of student and professional essays.  Satisfactory completion of the course fulfills the Graduate Writing Requirement.  Not for baccalaureate credit.  Credit/No Credit grading only.  4 lectures.  Formerly ENGL 115.",
+            "title": "Graduation Writing Requirement Preparation"
+        }
+    },
     "links": [
         {
             "source": "ENGL 129",

@@ -1,4 +1,70 @@
 {
+    "descriptions": {
+        "SCM 101": {
+            "description": "Introduction to health profession careers. Professionals from within the health care industry provide an overview of their careers. Emphasis on creating a pre-health career plan, academic course selection, obtaining appropriate experiences, and elements of a strong professional application. Intended for students undecided about their health professions career choice. Credit/No Credit grading only. 1 activity.",
+            "title": "Introduction to Health Profession Careers"
+        },
+        "SCM 150": {
+            "description": "Facilitated study and discussion of the theory, concepts, and applications of content material from selected biology, chemistry, physics, and statistics courses.  Credit/No Credit grading only.  Total credit limited to 8 units.  Maximum of 2 units for degree credit.  1 laboratory.",
+            "title": "Supplemental Workshops in Science"
+        },
+        "SCM 220": {
+            "description": "Concepts of teaching and learning as it relates to roles as K-12 grade science and math tutors and/or classroom assistants.  Restricted to students who are Teaching Assistants in Math and Science (TeAMS) tutors or Volunteers in Out of School Time (VOST).  Participation in public schools requires mandated fingerprint clearance.  1 activity.",
+            "title": "Seminar for Science and Math Tutors"
+        },
+        "SCM 230": {
+            "description": "Introduction to learning theory and teaching practices for mathematics and science learning assistants regarding conceptual development, questioning techniques, cooperative learning, nature of math and science, and argumentation in mathematics and science.  Restricted to students admitted to the Learning Assistant program.  2 seminars.",
+            "title": "Seminar for Learning Assistants"
+        },
+        "SCM 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "SCM 300": {
+            "description": "Historical, philosophical, and social foundations of public science and mathematics education.  Public school curriculum and professional education dispositions.  Structured observation and participation in K-12 public schools with attention to instructional practices for diverse learners.  Credit/No Credit grading only.  2 lectures, 2 activities.",
+            "title": "Early Field Experience"
+        },
+        "SCM 301": {
+            "description": "Application strategies and preparation for health professions programs.  Analysis of the application requirements and critique of personal application components.  Credit/No Credit grading only.  1 activity.",
+            "title": "Professional School Preparation for Health Profession Careers"
+        },
+        "SCM 302": {
+            "description": "Early teaching experience in an informal science, technology, engineering, and mathematics (STEM) teaching and learning environment.  Principles of inquiry-driven STEM education, lesson design, implementation and assessment.  Intended for undergraduates exploring STEM teaching as a career.  Total credit limited to 4 units.  Credit/No Credit grading only.  1 seminar, 1 laboratory.  Crosslisted as ENGR 322/SCM 302/HNRS 302.",
+            "title": "The Learn By Doing Lab Teaching Practicum"
+        },
+        "SCM 320": {
+            "description": "Impact of one or two technologies in modern London.  Development of the technology from the scientific/industrial revolution, as seen through London museums and industries.  Technological solutions to modern problems, and their dependence on available technology.  Field trips required.  The Schedule of Classes will list topic selected.  2 lectures, 2 activities.  Fulfills GE Area F.",
+            "title": "Technology in London"
+        },
+        "SCM 335": {
+            "description": "Impact of nuclear phenomena on energy production, warfare, health and medicine, and the environment.  Scientific and public policy aspects of reactor design, nuclear accidents, disposal of radioactive waste, nuclear medicine, food irradiation, nuclear weapons, and fusion as potential energy source.  4 lectures.  Fulfills GE Area F.",
+            "title": "Nuclear Science and Society"
+        },
+        "SCM 350": {
+            "description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV 350.  Fulfills GE Area F.",
+            "title": "The Global Environment"
+        },
+        "SCM 360": {
+            "description": "Examination of several inter-related environmental issues currently affecting California's Central Coast region.  Focuses on the role of technology in creating/mitigating environmental problems.  Field trips required.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Selected Environmental Issues of California's Central Coast"
+        },
+        "SCM 363": {
+            "description": "Structured observational experiences for pre-health students at the County Health Agency.  Designed to promote awareness and understanding of public health careers, as well as provide practical experience.  Limited space availability.  Application process for enrollment available from CSM Advising Office.  Total credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Public Health Fieldwork"
+        },
+        "SCM 451": {
+            "description": "The practice, performance and application of science from the standpoint of ethics.  Includes issues involving plagiarism, data handling, fraud, safety and selected applications in specific science careers.  Models for the analysis and resolution of ethical dilemmas are presented.  3 seminars.  Crosslisted as PHIL/SCM 451.",
+            "title": "Ethics in the Sciences"
+        },
+        "SCM 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "SCM 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "MATH 142",

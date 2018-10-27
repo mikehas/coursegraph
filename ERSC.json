@@ -1,4 +1,118 @@
 {
+    "descriptions": {
+        "ERSC 140": {
+            "description": "Analysis and development of career goals in natural resources and environmental sciences. Acquainting students with potential career options and preparation of academic plans for the majors in the Natural Resources Management and Environmental Sciences Department. Credit/No Credit grading. 1 activity. Crosslisted as ERSC/NR 140.",
+            "title": "Careers in Natural Resources Management and Environmental Sciences"
+        },
+        "ERSC 144": {
+            "description": "Survey of fundamental processes of Earth science. Application of systems thinking to understanding the dynamic interactions among geological, geographic, soils and human factors in shaping the Earth. 3 lectures, 1 activity.",
+            "title": "Introduction to Earth Science"
+        },
+        "ERSC 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 12 units, with a maximum of 2 units per quarter.  Crosslisted as ERSC/SS 200.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "ERSC 223": {
+            "description": "Origin, composition, identification and weathering of rocks, minerals, and clays important in the development of soils.  Parent materials as related to the nature and properties of soils.  3 lectures, 1 laboratory.",
+            "title": "Rocks and Minerals"
+        },
+        "ERSC 250": {
+            "description": "Addresses the origins and patterns of the earth's diverse assemblage of climates, landforms, biota and soils. A major focus on relationship between human cultures and these earthly environments. 4 lectures. Crosslisted as ERSC/GEOG 250.",
+            "title": "Physical Geography"
+        },
+        "ERSC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 lectures.  Crosslisted as ERSC/SS 270.",
+            "title": "Selected Topics"
+        },
+        "ERSC 301": {
+            "description": "Supervised practice in technical, educational, professional, and operational applications related to earth sciences or soil science.  Students participate in faculty-supervised group or individual activities that support educational and professional goals.  Credit/No Credit grading only.  Total credit limited to 12 units.  1-2 activities.  Crosslisted as ERSC/SS 301.",
+            "title": "Earth Sciences/Soils Science Practicum"
+        },
+        "ERSC 303": {
+            "description": "Evaluation of soil and water conservation and best management practices for agriculture, urban, riparian, and rangelands.  Study of process and control of soil erosion, water quality, and stormwater.  Development of an erosion and sediment control plan or farm water quality plan to meet regulatory requirements.  3 lectures, 1 activity.",
+            "title": "Soil Erosion and Water Conservation"
+        },
+        "ERSC 323": {
+            "description": "Recognizing and identifying major landforms and their components by interpretation of aerial photographs and topographic maps, and observations.  Emphasis on analyzing common landforms in the western United States for application in soil science, physical geography, hydrology, and geology.  2 lectures, 1 laboratory, 1 activity.",
+            "title": "Geomorphology"
+        },
+        "ERSC 325": {
+            "description": "Geographic perspective on the interrelationships between climate and human cultures.  Effects of people on climate and the influence of climate and weather upon human activities and behavior.  Focus on global human conditions which are responsible for the alteration of climate and in turn are vulnerable to climate change.  4 lectures.  Crosslisted as ERSC/GEOG 325.",
+            "title": "Climate and Humanity"
+        },
+        "ERSC 333": {
+            "description": "Global assessment of the impact of humans on the earth's vegetation, animals, soil, water and atmosphere.  Emphasis on problems stemming from the interactions of human attitudes, technologies, and population with natural resources.  4 lectures.  Crosslisted as ERSC/GEOG 333.",
+            "title": "Human Impact on the Earth"
+        },
+        "ERSC 335": {
+            "description": "Explore past civilizations and how management of soil, water, and other natural resources allowed them to flourish, decline, or fail.  Sustainability of natural resource use in modern/future societies.  Issues include sustainability, agricultural practices, deforestation, water quality, and land management.  4 lectures.  Fulfills GE Area F.",
+            "title": "Soil, Water, and Civilization"
+        },
+        "ERSC 339": {
+            "description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in work and study related to their major.  A detailed written proposal and written interim and final reports required.  One unit of credit may be allowed for each full week of internship.  Credit/No Credit grading.  Crosslisted as ERSC/SS 339.",
+            "title": "Internship in Environmental Earth and Soil Sciences"
+        },
+        "ERSC 363": {
+            "description": "Review of current research, experiments, and problems related to the student's major field of interest.  Presentation of reports on problems or research activities in preparation for the senior project.  Introduction to professional practices within a student's major field of interest.  2 seminars.",
+            "title": "Undergraduate Seminar"
+        },
+        "ERSC 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 12 units.  Crosslisted as ERSC/SS 400.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ERSC 401": {
+            "description": "Collecting and interpreting field-geologic data.  Description of sedimentary rocks and construction of stratigraphic columns.  Mapping geologic structures in the field.  Surficial geologic stratigraphy and surficial geologic mapping.  Understanding geologic processes through field study.  Communicating results of field study.  1 lecture, 3 activities.  Crosslisted as ERSC/GEOL 401.",
+            "title": "Field-Geology Methods"
+        },
+        "ERSC 402": {
+            "description": "Bedrock geologic mapping on topographic maps and aerial photos.  Surficial geologic mapping on topographic maps and aerial photos.  Correlating and defining surficial geologic map units on the basis of soil development.  Understanding landscape evolution using soil development 4 activities.  Crosslisted as ERSC/GEOL 402.",
+            "title": "Geologic Mapping"
+        },
+        "ERSC 414": {
+            "description": "The earth's pattern of climates and the physical processes that account for them.  Focus on interrelationships between climate and the physical/biological and cultural environments.  Special emphasis on modern climate changes and their consequences.  3 lectures, 1 laboratory.  Crosslisted as ERSC/GEOG 414.",
+            "title": "Global and Regional Climatology"
+        },
+        "ERSC 415": {
+            "description": "Physical processes in the atmosphere that determine regional weather, climate and climate variability.  Surface and satellite systems for weather observation, and weather/climate modeling.  Dynamics of weather systems, including thunderstorms and hurricanes.  Emphases on weather/climate affecting agriculture and other human activities.  3 lectures, 1 activity.  Crosslisted as ERSC/GEOG 415.",
+            "title": "Applied Meteorology and Climatology"
+        },
+        "ERSC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 lectures.  Crosslisted as ERSC/SS 470.",
+            "title": "Selected Advanced Topics"
+        },
+        "ERSC 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.  Crosslisted as ERSC/SS 471.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ERSC 476": {
+            "description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of environmental science/management.  Completion of a project as a component of their internship.  Satisfies the senior project requirement.  Minimum 90 hours required.  Crosslisted as ERSC/NR 476.",
+            "title": "Senior Project - Advanced Internship Experience in Environmental Science/Management"
+        },
+        "ERSC 477": {
+            "description": "Guided research experience in a specific area of environmental science.  Implementation of materials and methods.  Collection, analysis and interpretation of data.  Completion of formal written report.  Satisfies senior project requirement.  1 lecture, 2 laboratories.  Crosslisted as ERSC/NR 477.",
+            "title": "Senior Project - Research Experience in Environmental Science"
+        },
+        "ERSC 478": {
+            "description": "Critical evaluation and formal presentation of current issues in environmental science/management.  Evaluation of current topics, analysis of supporting evidence, and synthesis and presentation of resulting perspectives on different approaches to current challenges in environmental science/management.  Satisfies the senior project requirement.  3 lectures.  Crosslisted as ERSC/NR 478.",
+            "title": "Senior Project - Current Topics in Environmental Science/Management"
+        },
+        "ERSC 479": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 90 hours total time.  Crosslisted as ERSC/NR 479.",
+            "title": "Senior Project - Independent Study"
+        },
+        "ERSC 544": {
+            "description": "An interdisciplinary earth sciences course which emphasizes the interactions of multiple systems of air, water, land, life, and human society.  Designed for teachers and students seeking teaching credential.  Incorporates scientific theory, learning resources, and applications in the field.  3 lectures.  Not open to students in Soil Science specialization under MS Agriculture.",
+            "title": "Earth Sciences for Educators"
+        },
+        "ERSC 570": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Earth Science"
+        },
+        "ERSC 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "SS 121",

@@ -1,4 +1,54 @@
 {
+    "descriptions": {
+        "PSC 101": {
+            "description": "Introduction to the basic principles of physical science, including observation, description, modeling, and the application of physical phenomena. Emphasis on interactions as described by energy, forces, and fields for mechanical, thermal, electric, and magnetic systems. 3 lectures, 1 laboratory. Fulfills GE B3 & B4.",
+            "title": "Matter and Energy"
+        },
+        "PSC 102": {
+            "description": "Introduction to the basic principles of physical science (observation, description, modeling of physical phenomena) with an emphasis on interactions at the molecular level.  Interactions and the behavior of gases, physical change, and chemical change (including chemical reactions, chemical bonding, and solutions).  3 lectures, 1 laboratory.",
+            "title": "Atoms and Molecules"
+        },
+        "PSC 103": {
+            "description": "Introduction to the basic principles of the earth sciences, and applications of these principles in modern society.  Structure and formation of the Earth, earthquakes, weather, and oceanography.  3 lectures, 1 laboratory.",
+            "title": "The Physical Environment: Earth"
+        },
+        "PSC 201": {
+            "description": "Introduction to the motions of the ocean. Physical environment and sea floor features; seawater properties; atmosphere and ocean interactions; ocean currents and circulation; waves and tides; El Nino; coastal ocean processes; climate change and ocean stressors; ocean resources and marine life. 4 lectures. Fulfills GE B5.",
+            "title": "Physical Oceanography"
+        },
+        "PSC 307": {
+            "description": "Technology and basic science of fission/fusion weapons, uranium/plutonium, nuclear reactors, offensive/defensive missile systems, command/ control, verification, weapon effects, nuclear testing.  Historical context of Cold War and proliferation, recent events, global norms, arms control treaties.  3 lectures, 1 seminar.  Fulfills GE Area F.",
+            "title": "Nuclear Weapons in the Post-9/11 World"
+        },
+        "PSC 320": {
+            "description": "Science and technology of current and future energy sources along with associated environmental problems and societal response.  Energy production, consumption, efficient usage, fossil fuels, nuclear, solar, other renewables.  Risks, benefits, planning, economics.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Energy, Society and the Environment"
+        },
+        "PSC 391": {
+            "description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and project mentorship.  4 lectures.  Crosslisted as HNRS/PSC/UNIV 391.  Fulfills GE D5.",
+            "title": "Appropriate Technology for the World's People: Development"
+        },
+        "PSC 392": {
+            "description": "Addresses the needs of international impoverished communities with technological solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Not open to students with credit in PSC/UNIV/HNRS 492.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PSC/UNIV 392.  Fulfills GE Area F.",
+            "title": "Appropriate Technology for the World's People: Design"
+        },
+        "PSC 424": {
+            "description": "Techniques, aims and objectives in the teaching of physical and life sciences at the secondary level.  Selection and organization of teaching material, including strategies for English language learners (ELL) and special needs students.  Evaluation of results.  3 lectures, 1 activity.  Crosslisted as BIO/PSC 424.",
+            "title": "Organizing and Teaching Science"
+        },
+        "PSC 425": {
+            "description": "Principles and practices in effective teaching of science at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession.  Credit/No Credit grading only.  Total credit limited to 4 units.  2 seminars.  Crosslisted as BIO/PSC 425.",
+            "title": "Clinical Experience in Teaching Science Seminar"
+        },
+        "PSC 491": {
+            "description": "A broad overview of international development and appropriate design for sustainability.  Besides traditional classroom work, students work in teams to address problems with technical solutions.  Collaboration with mentors from the university, private sector, and nonprofits serves to provide diverse background and mentorship.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS 391.  4 lectures.  Crosslisted as PSC/UNIV 491.",
+            "title": "Appropriate Technology for the World's People: Development"
+        },
+        "PSC 492": {
+            "description": "Addresses the needs of international impoverished communities with techno-logical solutions, which are inexpensive, ecologically sustainable, and socially appropriate.  Group study of target communities, and design and construction of an appropriate technology prototype.  Seminar paper required.  Not open to students with credit in PSC/UNIV/HNRS 392.  3 lectures, 1 laboratory.  Crosslisted as PSC/UNIV 492.",
+            "title": "Appropriate Technology for the World's People: Design"
+        }
+    },
     "links": [
         {
             "source": "PHYS 121",

@@ -1,4 +1,42 @@
 {
+    "descriptions": {
+        "GSP 530": {
+            "description": "Packaging value chain from raw material supplier to retailers in the context of meeting current needs within the packaging arena.  Global exploration of value chain strategies to increase innovation, sustainability, cost savings, quality, organizational agility, and responsiveness.  Course offered online only.  2 lectures.",
+            "title": "Packaging Value Chain"
+        },
+        "GSP 532": {
+            "description": "Fundamental and physical properties of packaging materials.  Processing of materials.  Design and fabrication of packaging materials for efficient, economically viable and environmental sustainable product-package systems for global supply chain solutions.  Course offered online only.  4 lectures.",
+            "title": "Packaging Materials"
+        },
+        "GSP 533": {
+            "description": "Overview of packaging laws and regulations.  Content ranges from FDA, USDA, FTC, and EPA concepts, to labeling and structural issues such as bio-terror, product security and environmental packaging to materials issues, litigation, international concepts and intellectual property issues.  Course offered online only.  3 lectures.",
+            "title": "Advanced Packaging Laws and Regulations"
+        },
+        "GSP 535": {
+            "description": "Integrated view of procurement, operations and logistics management.  Management of the flow of products from raw material sourcing and acquisition through delivery to the final user.  Capturing and understanding the value across these flows and how to increase it.  Course offered online only.  3 lectures.",
+            "title": "Packaging Value in Logistics and Supply Chain Management"
+        },
+        "GSP 536": {
+            "description": "Overview of structural and graphic design concepts for package design with focus on creating value throughout the entire packaging value chain.  Topics include design thinking, innovation, design processes, two-dimensional and three-dimensional design elements, positioning, value creation, and distribution packaging considerations.  Course offered online only.  4 lectures.",
+            "title": "Packaging Design"
+        },
+        "GSP 538": {
+            "description": "Overview of the role of quality of packaged product and techniques used for testing and evaluating quality of consumer products as related to material quality assessment, product-package interaction and human-package interaction.  Course is offered online only.  4 Lectures.",
+            "title": "Quality Evaluation of Packaged Products"
+        },
+        "GSP 539": {
+            "description": "Packaging as a means to increase sales of product.  Package design, structure, materials and production costs.  Exploration of color, imagery, sustainability, and recent trends.  Course is offered online only.  4 lectures.",
+            "title": "Marketing and Sales for Packaged Products"
+        },
+        "GSP 540": {
+            "description": "Analytical and quantitative techniques.  Summary measures, smoothing, interpolation curve fitting, root-finding, extrema.  Numerical differentiation, integration.  Boundary value problems.  Numerical simulation.  Course is offered online only.  4 lectures.",
+            "title": "Quantitative Analysis for Packaging"
+        },
+        "GSP 541": {
+            "description": "Decisions with financial implications for firms' owners and stakeholders in the context of packaging.  Choice of best packaging alternative from the financial standpoint.  Course offered online only.  4 Lectures.",
+            "title": "Corporate Finance for Packaging"
+        }
+    },
     "links": [],
     "nodes": [
         {

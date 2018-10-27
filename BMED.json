@@ -1,4 +1,230 @@
 {
+    "descriptions": {
+        "BMED 101": {
+            "description": "Introduction to major topics in Biomedical Engineering.  Time management, study skills and class scheduling necessary for academic success.  Overview of university services.  Professional pathways and ethics.  Review of career opportunities.  1 seminar.",
+            "title": "Introduction to the Biomedical Engineering Major"
+        },
+        "BMED 102": {
+            "description": "General introduction to bioengineering analysis applied to representative topics in biomechanics, biofluidics, bioinstrumentation, biomaterials, biotechnology, and related areas.  Review of technological needs, testing procedures, governmental regulation, quality of life, and ethical issues.  1 seminar.",
+            "title": "Introduction to Biomedical Engineering Analysis"
+        },
+        "BMED 212": {
+            "description": "General introduction to bioengineering design, including examples of engineering analysis and design applied to representative topics in biomechanics, bioinstrumentation, biomaterials, biotechnology, and related areas.  A review of technological needs, design methodology, testing procedures, statistical analysis, governmental regulations, evaluation of costs and benefits, quality of life, and ethical issues.  2 lectures, 1 laboratory.",
+            "title": "Introduction to Biomedical Engineering Design"
+        },
+        "BMED 213": {
+            "description": "Treatment of the engineering applications of biology.  Genetic engineering and the industrial application of microbiology.  Systems physiology with engineering applications.  Structure and function relationships in biological systems.  The impact of life on its environment.  Course may be offered in classroom-based or online format.  2 lectures.  Crosslisted as BMED/BRAE 213.  Fulfills GE B2.",
+            "title": "Bioengineering Fundamentals"
+        },
+        "BMED 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "BMED 310": {
+            "description": "Fundamentals of biomedical engineering analysis.  Use and application of tools and analytical methods used by bioengineers.  3 lectures, 1 laboratory.",
+            "title": "Biomedical Engineering Measurement and Analysis"
+        },
+        "BMED 330": {
+            "description": "Design of biomedical devices and systems using various machine elements and components including gears, welded connections, prime movers.  Decision modeling based on technical and economic feasibility.  3 lectures, 1 laboratory.",
+            "title": "Intermediate Biomedical Design"
+        },
+        "BMED 355": {
+            "description": "Introduction to electrical engineering concepts for biomedical engineers.  Continuation of basic circuit analysis.  Steady state AC circuit analysis and phasor concepts.  Application of the Laplace Transform to transient circuit analysis.  Introduction to digital logic gates, combinational and sequential logic circuits.  4 lectures.",
+            "title": "Electrical Engineering Concepts for Biomedical Engineering"
+        },
+        "BMED 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total degree credit limited to 4 units.  Total credit limited to 6 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "BMED 401": {
+            "description": "Identification and evaluation of commercial opportunities in the healthcare industry.  Methods necessary for rapid iteration and market validation of early-stage prototypes, with emphasis on issues critical to biomedical products, including intellectual property, FDA submission, funding sources, and business models.  3 lectures, 1 laboratory.",
+            "title": "Biomedical Entrepreneurship"
+        },
+        "BMED 404": {
+            "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics.  The power and pitfalls associated with the finite element method highlighted through practical modeling assignments.  Introduces the use of commercial finite element codes.  3 lectures, 1 laboratory.  Crosslisted as BMED/CE/ME 404.",
+            "title": "Applied Finite Element Analysis"
+        },
+        "BMED 409": {
+            "description": "Examination of human motion biomechanics.  Experimental and analytical methods in motion analysis based on rigid body dynamics.  Protocols for protection of human subjects in research.  Hypothesis-driven research in interdisciplinary teams, including written proposal development and written/oral communication of results to a scientific audience.  1 lecture, 3 activities.  Crosslisted as BMED/KINE/ME 409.",
+            "title": "Interdisciplinary Study in Biomechanics"
+        },
+        "BMED 410": {
+            "description": "Introduction to physiological systems, with emphasis on structure and function of major tissues and organs.  Application of mechanics to understand the behavior of these tissues and organs at gross and microscopic levels.  Bioelastic solids.  Rigid body biomechanics.  Biofluids, basic mechanical properties of collagen and elastin, bone, cartilage, muscles, blood vessels, and other living tissues.  Application of continuum mechanics to hard and soft tissues.  Biomechanical engineering design for clinical applications.  3 lectures, 1 laboratory.",
+            "title": "Biomechanics"
+        },
+        "BMED 420": {
+            "description": "Fundamentals of materials science as applied to bioengineering design.  Biocompatibility of materials.  Materials characterization and design.  Natural and synthetic polymeric materials.  Wound repair, foreign body response, blood clotting.  Transplantation biology, artificial organs, and tissue engineering.  Medical devices, government regulations, and ethical issues.  3 lectures, 1 laboratory.",
+            "title": "Principles of Biomaterials Design"
+        },
+        "BMED 422": {
+            "description": "Overview of the path to market for new medical devices, including nonclinical and clinical evaluation and the regulatory process.  Course covers bench, in vitro, and in vivo models, GLP studies, clinical trials, Quality Systems, and FDA clearance and approval processes.  4 lectures.",
+            "title": "Medical Device Evaluation and the FDA Approval Process"
+        },
+        "BMED 425": {
+            "description": "Mass transfer in solids, liquids, and gases with application to biological systems.  Free and facilitated diffusion.  Convective mass transfer.  Diffusion-reaction phenomena.  Active transport.  Biological mass transfer coefficients.  Nonequilibrium thermodynamic analysis of transport phenomena.  The osmotic effect.  Diffusion and exchange in biological systems.  3 lectures, 1 laboratory.",
+            "title": "Biomedical Engineering Transport"
+        },
+        "BMED 430": {
+            "description": "Computational methods for anatomical modeling and boundary value problems in the biomechanics of tissues and biomedical devices.  Nonlinear biodynamics, heat flow, cardiac impulse propagation, anatomic modeling, and biomechanics.  1 lecture, 1 laboratory.",
+            "title": "Biomedical Modeling and Simulation"
+        },
+        "BMED 432": {
+            "description": "Fundamentals of designing micro/nano scale systems employing sensors, actuators and intelligent controls.  Explore mechanics, electronics, heat transfer, photonics, fluid mechanics and biometrics at the micrometer and nanometer scale.  Discover how scaling impacts design criteria.  Investigate the integration of science and engineering and evaluate applications in living systems.  Not open to students with credit in MATE 550.  4 lectures.",
+            "title": "Micro/Nano System Design"
+        },
+        "BMED 434": {
+            "description": "Fabrication science and technology for creating micro and nano scale devices.  Explore basic processes such as oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography.  Develop an understanding of the science of each process and how to select the right steps for fabricating electronic, photon and micro-electro-mechanical systems devices.  3 lectures.  Crosslisted as BMED 434/EE 423/MATE 430.",
+            "title": "Micro/Nano Fabrication"
+        },
+        "BMED 435": {
+            "description": "Application of basic processes involved in microfabrication:  cleanroom protocol, oxidation, diffusion, photolithography etching and sputtering.  Explore process development through fabrication of electronic, photonic or microfluidic devices.  Each student will be part of a team that will fabricate and test a device.  1 laboratory.  Crosslisted as BMED/MATE 435.",
+            "title": "Microfabrication Laboratory"
+        },
+        "BMED 436": {
+            "description": "Fundamentals of material's surface analysis techniques for exploring structure and composition of micro/nano scale features and films will be assessed.  Students will develop data analytics for deciding which technique to apply for morphological, elemental or chemical composition analysis.  4 lectures.",
+            "title": "Characterization of Micro/Nano Scale Structures"
+        },
+        "BMED 440": {
+            "description": "Analog and digital circuits in bioinstrumentation.  Biomedical signals in continuous and discrete systems.  Sampling and digital signal processing.  Ultrasound, MRI, CT, Bioelectromagnetics.  Electrokinetics.  Biophysical phenomena, transducers, and electronics as related to the design of biomedical instrumentation.  Potentiometric and amperometric signals and amplifiers.  Biopotentials, membrane potentials, chemical sensors.  Mechanical transducers for displacement, force and pressure.  Temperature sensors.  Flow sensors.  Light-based instrumentation.  Electrical safety.  3 lectures, 1 laboratory.",
+            "title": "Bioelectronics and Instrumentation"
+        },
+        "BMED 445": {
+            "description": "Focus on the principles associated with instrumentation used to detect surface biopotentials.  Emphasis on circuit level design and laboratory implementation of systems used to detect ECG, EMG and EEG signals.  Development of practical experience with analog electronic instrumentation used in the design and testing process.  A system level design project related to surface biopotential detection and recording.  2 lectures, 2 laboratories.",
+            "title": "Biopotential Instrumentation"
+        },
+        "BMED 450": {
+            "description": "Current and evolving topics in biomedical engineering, including medical and industrial applications.  Exploration of contemporary issues in biomedical engineering, including technical and societal implications.  The Schedule of Classes will list topic selected.  Total credit limited to 16 units.  4 lectures.",
+            "title": "Contemporary Issues in Biomedical Engineering"
+        },
+        "BMED 455": {
+            "description": "Engineering design methodology, design process, project planning, decision making, modeling, construction, and testing of an open-ended design project.  Preparation of formal engineering reports.  Statistical analysis.  Governmental regulations.  Bioethical issues.  2 lectures, 2 laboratories.",
+            "title": "Biomedical Engineering Design I"
+        },
+        "BMED 456": {
+            "description": "Engineering design methodology, design process, project planning, decision making, modeling, construction, and testing of an open-ended design project.  Preparation of formal engineering reports.  Statistical analysis.  Governmental regulations.  Bioethical issues.  2 lectures, 2 laboratories.",
+            "title": "Biomedical Engineering Design II: Senior Project"
+        },
+        "BMED 459": {
+            "description": "Selection and completion of senior thesis under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Thesis results presented in a formal report.  Minimum commitment of 120 hours.",
+            "title": "Senior Thesis"
+        },
+        "BMED 460": {
+            "description": "Physiology for biomedical engineering students, with an emphasis on control mechanisms and engineering principles.  Engineering aspects of basic cell functions; biological control systems; muscle; neural; endocrine, and circulatory systems, digestive, respiratory, renal, and reproductive systems; regulation of metabolism, and defense mechanisms.  3 lectures, 1 laboratory.",
+            "title": "Engineering Physiology"
+        },
+        "BMED 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "BMED 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "BMED 481": {
+            "description": "Selection and development of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research.  Formulation of outline, literature review, and project schedule.  1 laboratory.",
+            "title": "Senior Project Design Laboratory I"
+        },
+        "BMED 482": {
+            "description": "Continuation of BMED 481.  Continuation of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research.  Formulation of outline, literature review, and project schedule.  1 laboratory.",
+            "title": "Senior Project Design Laboratory II"
+        },
+        "BMED 483": {
+            "description": "Continuation of BMED 482.  Continuation of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research.  Formulation of outline, literature review, and project schedule.  2 laboratories.",
+            "title": "Senior Project Design Laboratory III"
+        },
+        "BMED 495": {
+            "description": "Work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A fully developed formal report and evaluation by work supervisor is required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "BMED 500": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Advanced study planned and completed under the direction of faculty.  Open to graduate students who have demonstrated the ability to do independent work.  Total credit limited to 8 units.",
+            "title": "Individual Study"
+        },
+        "BMED 510": {
+            "description": "Exploration of areas including cell source and isolation, scaffold selection and modification, tissue cultivation and bioreactor design, and patient implantation.  Applications of tissue engineering for creating skin, cartilage, blood vessels, and other tissues.  3 lectures, 1 laboratory.",
+            "title": "Principles of Tissue Engineering"
+        },
+        "BMED 512": {
+            "description": "Examination of the advances in nanotechnology, micro-electro-mechanical systems, materials and clinical technology.  Relationship between modern medical achievements and advances in engineering and science, the biomedical engineering industry, and the use of technology in a human context.  4 lectures.",
+            "title": "Biomedical Engineering Horizons"
+        },
+        "BMED 515": {
+            "description": "Fundamental principles and applications of biomedical imaging, modalities in medicine.  Topics focus on optical imaging techniques, such as brightfield, fluorescence, confocal, multiphoton, DIC, OCT, SEM, and other advanced microscopy techniques.  2 lectures, 2 laboratories.",
+            "title": "Introduction to Biomedical Imaging"
+        },
+        "BMED 520": {
+            "description": "Advanced treatment of the basic engineering sciences in the biomedical engineering context.  For the student who has had little prior exposure to biomedical engineering, but has either a strong engineering or a strong science background.  4 lectures.",
+            "title": "Introduction to Biomedical Engineering"
+        },
+        "BMED 525": {
+            "description": "Overview of the mechanical properties of various tissues in the musculoskeletal system, the relationship of these properties to anatomic and histologic structures, and the changes in these properties caused by aging, disease, overuse, and disuse.  Tissues covered include bone, cartilage and synovial fluid, ligament, and tendon.  4 lectures.",
+            "title": "Skeletal Tissue Mechanics"
+        },
+        "BMED 530": {
+            "description": "Structure-function relationships for materials in contact with biological systems.  Interactions of materials implanted in the body.  Histological and hematological considerations including foreign body responses, inflammation, carcinogenicity, thrombosis, hemolysis, immunogenic and toxic properties.  Microbial interaction with material surfaces, degradation.  4 lectures.  Crosslisted as BMED/MATE 530.",
+            "title": "Biomaterials"
+        },
+        "BMED 535": {
+            "description": "Advanced topics in physicochemical hydrodynamics, bioseparations and microfluidic bioseparations, which include the key aspects of electrokinetics, colloid science and suspension mechanics in bioseparations.  Understanding key separation design parameters through theoretical and numerical models.  4 lectures.",
+            "title": "Bioseparations"
+        },
+        "BMED 541": {
+            "description": "Topic groups include microvessel wall structure, network architecture, flow regulation, transport, inflammation, angiogenesis, arteriogenesis, and rarefaction.  Additional focus on patho-physiology and the engineering approaches to assess and treat microvascular dysfunction.  Not open to students with credit in BMED 540.  3 lectures.",
+            "title": "Microcirculation"
+        },
+        "BMED 542": {
+            "description": "Laboratory procedures include direct visualization of microvessels by microscopy and indirect assessment by skin temperature, evaluation of microvascular networks by casting and immunostaining, and assessment of vascular wall structure by histology.  1 laboratory.",
+            "title": "Microcirculation Laboratory"
+        },
+        "BMED 550": {
+            "description": "Current topics in biomedical engineering, including medical and industrial applications.  Exploration of detailed technical treatment of contemporary issues in biomedical engineering, and examination of technical and societal implications of these subjects.  The Schedule of Classes will list topics selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Current and Evolving Topics in Biomedical Engineering"
+        },
+        "BMED 555": {
+            "description": "The biophysical basis of the Hodgkin-Huxley active membrane model.  A detailed description of the dynamics of voltage gated ion channels.  The complete Hodgkin-Huxley active membrane model, with an emphasis on its use in simulating the electrical activity of nerve cells.  Equivalent circuit/ circuit simulator based approaches to modeling Hodgkin-Huxley neurons.  4 lectures.",
+            "title": "Neural Systems Simulation and Modeling"
+        },
+        "BMED 560": {
+            "description": "Topics include the etiology, patho-physiology, and rodent models for various forms of disease, such as inflammatory, autoimmune, and monogenic diseases, as well as nucleic acid, protein, and cellular-based therapies for these conditions.  Not open to students with credit in BMED 545.  2 lectures.",
+            "title": "Cell Transplantation and Biotherapeutics"
+        },
+        "BMED 561": {
+            "description": "Procedures include rodent handling, anesthesia, surgically modeling disease, biotherapy delivery, and visualizing/measuring therapeutic efficacy.  Additional focus on experimental design, data collection, and analysis.  2 laboratories.",
+            "title": "Cell Transplantation and Biotherapeutics Laboratory"
+        },
+        "BMED 563": {
+            "description": "Selected topics of interest to biomedical engineering and other graduate students.  Open to graduate students and selected seniors.  A forum to share information about research and research tools; an opportunity to discuss topics of interest with professionals in the field, academics, and other graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 4 units.  1 seminar, 1 laboratory.",
+            "title": "Biomedical Engineering Graduate Seminar"
+        },
+        "BMED 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "BMED 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "BMED 591": {
+            "description": "Selection and completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research and may involve students from several disciplines.  Formulation of outline, literature, review and project schedule.  2 laboratories.",
+            "title": "Thesis Project Design Laboratory I"
+        },
+        "BMED 592": {
+            "description": "Continuation of BMED 591.  Completion of project by individuals or team which is typical of problems graduates must solve in their fields of employment or applied research.  Project may involve, but is not limited to, physical modeling and testing of integrated design projects, costs, planning, scheduling and research.  Formulation of outline, literature review, and project schedule.  2 laboratories.",
+            "title": "Thesis Project Design Laboratory II"
+        },
+        "BMED 593": {
+            "description": "Supervised graduate research and/or development in stem cell science or regenerative medicine and engineering.  Provides students with an off-campus industrial or university internship.  Total credit limited to 10 units.   Crosslisted as ASCI/BIO/BMED 593.",
+            "title": "Regenerative Medicine Internship"
+        },
+        "BMED 594": {
+            "description": "Transfer of skills and knowledge gained through coursework, in an applied setting at Cal Poly.  Demonstration of technical, problem solving, and presentation skills, and familiarity with current research.  Part of the culminating experience for the Specialization in Regenerative Medicine in the MS in Biological Sciences, or the MS in Biomedical Engineering, or the Animal Science Specialization in the MS in Agriculture.  1 seminar and supervised work.  Crosslisted as ASCI/BIO/BMED 594.",
+            "title": "Applications in Regenerative Medicine"
+        },
+        "BMED 599": {
+            "description": "Selection by individual or group, with faculty guidance and approval, of topic for independent research or investigation resulting in a thesis or project to be used to satisfy the degree requirement.  An appropriate experimental or analytical thesis or project may be accepted.  Total credit limited to 9 units.",
+            "title": "Design Project (Thesis)"
+        }
+    },
     "links": [
         {
             "source": "BMED 101",

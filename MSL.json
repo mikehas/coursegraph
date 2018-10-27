@@ -1,4 +1,114 @@
 {
+    "descriptions": {
+        "MSL 101": {
+            "description": "Introduction to issues and competencies of the Army officer profession.  Emphasis on stereotypes about the military, the role of the Army officer, customs and traditions within the military, and personal and physical development.  1 lecture.",
+            "title": "Foundation of Officership I"
+        },
+        "MSL 102": {
+            "description": "The role of leadership within a large organization.  Emphasis on the definition of leadership, leadership framework, individual and organizational core values, and the moral responsibility of leadership.  1 lecture.",
+            "title": "Foundation of Officership II"
+        },
+        "MSL 103": {
+            "description": "The foundation of basic leadership fundamentals such as problem solving, communications, briefings and effective writing, techniques for improving listening and speaking skills, and an introduction to counseling.  1 lecture.",
+            "title": "Basic Leadership"
+        },
+        "MSL 110": {
+            "description": "Hands-on instruction on the proper execution of small-unit military operations.  Incorporation of the military decision-making process in the planning, execution and conducting of a wide variety of squad, platoon and company sized missions.  Credit/No Credit grading only.  1 activity.",
+            "title": "Exercises in Military Leadership"
+        },
+        "MSL 111": {
+            "description": "Principles of orienteering, basic map reading and compass skills; course running techniques applied in field orienteering events.  Open to all freshmen and sophomores.  1 lecture, 1 activity.",
+            "title": "Orienteering"
+        },
+        "MSL 112": {
+            "description": "The Army Physical Fitness Program and its proper execution. Physical training to the Army standard with the goal of successfully passing the Army Physical Fitness Test. 1 laboratory.",
+            "title": "The Army Physical Fitness Program"
+        },
+        "MSL 201": {
+            "description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, written and oral communications, tactics and group leadership.  2 lectures.",
+            "title": "Foundations of Leadership I"
+        },
+        "MSL 202": {
+            "description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, tactics and group leadership.  2 lectures.",
+            "title": "Foundations of Leadership II"
+        },
+        "MSL 203": {
+            "description": "The development of individual leadership traits and capabilities using the Army officer as a model.  The Army's problem solving methods, land navigation techniques, tactics and group leadership.  2 lectures.",
+            "title": "Foundations of Leadership III"
+        },
+        "MSL 212": {
+            "description": "One to seven units of credit may be granted depending upon successful completion of training. Five weeks of training, Fort Knox, Kentucky. Travel pay and salary provided through the Military Science Department. No obligation. LTC graduates eligible to enroll in ROTC Advanced Program.",
+            "title": "Leader's Training Course"
+        },
+        "MSL 229": {
+            "description": "Selection and preparation of the Ranger Challenge Team which will represent Cal Poly in military tactical skills competition. Includes rope bridging, orienteering, weapons knowledge, hand grenade accuracy, 10K road march with equipment, first aid, marksmanship, physical fitness and tactics. Credit/No Credit grading only. 2 activities.",
+            "title": "Ranger Challenge"
+        },
+        "MSL 240": {
+            "description": "Comprehensive analysis of American military history from the early Anglo-French period to the end of the 20th Century. Examination of the strategies, operations and tactics of military warfare, and exploration of how social, economic, and technological factors produced the distinct patterns of war that characterize the struggles of the past two hundred plus years. Open to all students. 4 lectures.",
+            "title": "American Military History and the Evolution of Western Warfare"
+        },
+        "MSL 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "MSL 275": {
+            "description": "Techniques and models used in leadership, facilitation, and teambuilding. Emphasis on leadership and facilitation styles and models, teambuilding and group dynamics, and working with various populations. Field trip required. 2 seminars. Crosslisted as MSL/RPTA 275.",
+            "title": "Facilitation and Teambuilding"
+        },
+        "MSL 301": {
+            "description": "Introduction to the life of a professional Army officer.  Instruction in the operational art of small-unit leadership, and the roles and responsibilities of an Army 2nd Lieutenant in preparation for attendance at the Leader Development and Assessment Course.  3 lectures.",
+            "title": "Tactical Leadership I"
+        },
+        "MSL 302": {
+            "description": "Continuation of study of the life of a professional Army officer.  Instruction in the operational art of small-unit leadership, and the roles and responsibilities of an Army 2nd Lieutenant in preparation for attendance at the Leader Development and Assessment Course.  3 lectures.",
+            "title": "Tactical Leadership II"
+        },
+        "MSL 303": {
+            "description": "Demonstration of proficiency in leading small units.  Emphasis on clear and concise oral communications, land navigation, weapons skills, and timely decision-making.  Completion of training for the Leader Development and Assessment Course and preparation for attendance at the course.  3 lectures.",
+            "title": "Applied Leadership"
+        },
+        "MSL 310": {
+            "description": "The planning, resourcing and execution of selected Army tactical missions in a field environment, and leading all students enrolled in MSL 110.  Total credit limited to 3 units.  1 activity.",
+            "title": "Advanced Leadership of Military Exercises"
+        },
+        "MSL 312": {
+            "description": "The planning, resourcing and execution of the Army Physical Fitness Program, and leading all students enrolled in MSL 112.  Total credit limited to 3 units.  1 laboratory.",
+            "title": "Leadership of the Army Physical Fitness Program"
+        },
+        "MSL 314": {
+            "description": "Five week summer training program required to achieve an Army commission.  Testing and training as functional Army officers and determination of potential for service.  Travel pay, room and board, and salary provided by the U.S.  Army.  Held at Fort Lewis, Washington.  Credit/No Credit grading only.",
+            "title": "Leadership Development and Assessment Course"
+        },
+        "MSL 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "MSL 401": {
+            "description": "In-depth study and analysis of the duties and responsibilities of an ethical Army officer.  Emphasis on honing skills required at follow-on training.  Administrative actions and self and subordinate developmental processes utilized by an Army 2nd Lieutenant.  3 lectures.",
+            "title": "Developmental Leadership I"
+        },
+        "MSL 402": {
+            "description": "Continuation of MSL 401 with a focus on communications and personal development.  Continuation of in-depth study and analysis of the duties and responsibilities of an ethical Army officer.  Emphasis placed on honing skills required at follow-on training.  Administrative actions and self and subordinate developmental processes utilized by an Army 2nd Lieutenant.  3 lectures.",
+            "title": "Developmental Leadership II"
+        },
+        "MSL 403": {
+            "description": "Beginning of transition from student to commissioned officer.  Emphasis on expectations of an Army 2nd Lieutenant.  Cultural awareness, effective command climates, terrorism and force protection in the current operational environment, and individual officer skills.  3 lectures.",
+            "title": "Adaptive Leadership"
+        },
+        "MSL 410": {
+            "description": "The supervision and evaluation of the organization, planning, resourcing, and execution of selected Army tactical missions, and mentoring assigned students enrolled in MSL 310.  Total credit limited to 3 units.  1 activity.",
+            "title": "Administration and Evaluation of Exercises in Military Leadership"
+        },
+        "MSL 412": {
+            "description": "The supervision and evaluation of the organization, planning, resourcing, and execution of the Army Physical Fitness Program, and mentoring assigned students enrolled in MSL 312.  Total credit limited to 3 units.  1 laboratory.",
+            "title": "Administration and Evaluation of the Army Physical Fitness Program"
+        },
+        "MSL 470": {
+            "description": "Directed group study of selected topics for advanced students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "MSL 101",

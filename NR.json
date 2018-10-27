@@ -1,4 +1,270 @@
 {
+    "descriptions": {
+        "NR 140": {
+            "description": "Analysis and development of career goals in natural resources and environmental sciences. Acquainting students with potential career options and preparation of academic plans for the majors in the Natural Resources Management and Environmental Sciences Department. Credit/No Credit grading. 1 activity. Crosslisted as ERSC/NR 140.",
+            "title": "Careers in Natural Resources Management and Environmental Sciences"
+        },
+        "NR 141": {
+            "description": "Fundamentals of forestry including basic silviculture, forest protection, measurement and policy. Integrated resource management of forest lands for water production, forage, recreation, wildlife, and timber. 3 lectures.",
+            "title": "Introduction to Forest Ecosystem Management"
+        },
+        "NR 142": {
+            "description": "Environmental management as a process within functioning societies seeking a harmonious balance between human activities and intrinsic behavior of the natural environment.  Major components of the natural environment and the political and social activities that impact that environment.  3 lectures.",
+            "title": "Environmental Management"
+        },
+        "NR 203": {
+            "description": "Law enforcement applied to natural resource conservation on public and private lands. Examination of state and federal laws related to fish and wildlife management. Problems associated with implementation of resource laws examined. 3 lectures. Crosslisted as NR/RPTA 203.",
+            "title": "Resource Law Enforcement"
+        },
+        "NR 204": {
+            "description": "Fire control techniques used on various wildland fuels. Elementary fire physics, fuels, weather, fire behavior, tactics and fire suppression techniques, line construction, 'mop-up', fire line safety, air operations and fire organization. Meets basic wildland fire fighter certification requirements for the USDA Forest Service. Partially meets California Department of Forestry Firefighter I requirements. 2 lectures, 1 laboratory.",
+            "title": "Wildland Fire Control"
+        },
+        "NR 208": {
+            "description": "Identification, classification, silvical characteristics, distribution, environmental requirements and economic importance of woody plants in shrub, woodland, and forest ecosystems of the United States.  Emphasis on species located in the Pacific Coastal, Sierran, and Cascade ecosystems.  2 lectures, 2 laboratories.",
+            "title": "Dendrology"
+        },
+        "NR 215": {
+            "description": "Introduction to land and resource measurement technology and methods - field instruments, property description, map and photograph reconciliation, data accuracy and precision. Trigonometric functions as applied to natural resources applications. Field trips required. 1 laboratory.",
+            "title": "Land and Resource Measurements"
+        },
+        "NR 218": {
+            "description": "ARC/INFO and ArcView Geographic Information System (GIS) computer software to explore environmental, natural resource, social and economic issues using spatial data. Develop and apply data base and software management competencies. 1 lecture, 2 laboratories. Crosslisted as LA/NR 218.",
+            "title": "Applications in GIS"
+        },
+        "NR 247": {
+            "description": "Use and care of tapes, staff compass, abney levels, total stations, and GPS receivers.  Keeping field notes, measurements by tape.  Closed and open traverse by compass and total stations.  Turning angles and determining directions of lines.  Map reading and public land description.  GPS measurements.  Weekend field trips required.  1 lecture, 1 laboratory.  Crosslisted as BRAE/NR 247.",
+            "title": "Forest Surveying"
+        },
+        "NR 260": {
+            "description": "Relationships between forest ecosystem management, forest practices, harvesting methods, timber harvest planning, components of forest harvesting, harvesting effects; cost analysis of harvesting methods; safety management; value-added forest utilization; environmental protection; and road location.  Overnight or weekend field trips required.  3 lectures, 1 laboratory.",
+            "title": "Forest Practices and Environmental Protection"
+        },
+        "NR 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "NR 290": {
+            "description": "Beginning through advanced skills in the event areas of college forestry activities.  Instruction in use of specialized equipment and safety.  Minimum of 4 hours of laboratory per week.  Total credit limited to 18 units.  Credit/No Credit grading only.",
+            "title": "Intercollegiate Forestry Activities"
+        },
+        "NR 306": {
+            "description": "Resource ecology and management implications in the major ecosystems of North America.  Importance of maintaining the natural dynamics of energy flow and nutrient cycles at the community and ecosystem level to sustain uses and values.  Humanity's role as a principal factor of change of the resources in natural systems.  3 lectures, 1 laboratory.",
+            "title": "Natural Resource Ecology and Habitat Management"
+        },
+        "NR 307": {
+            "description": "Effects of wildland fires on shrub, woodland, and forest environments to include fuels, plants, soil, water, wildlife, and air.  Emphasis on western U.S.  forest and shrub ecosystems.  2 lectures, 1 laboratory.",
+            "title": "Fire Ecology"
+        },
+        "NR 308": {
+            "description": "Prehistorical and historical record of human use of and attitude toward fire.  Mythology and religion of fire.  Traditional, cultural and ethnic variations and their influence on modern U.S.  institutions involved in managing fire.  3 lectures, 1 activity.  Crosslisted as ES/NR 308.  Fulfills GE D5.",
+            "title": "Fire and Society"
+        },
+        "NR 312": {
+            "description": "Models and technology to solve complex land management problems.  Historic, current and future perspectives of wildland fire in California.  Sustainability and ecosystem health.  Assumptions and limitations of fire behavior and suppression models.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Technology of Wildland Fire Management"
+        },
+        "NR 314": {
+            "description": "Estimation and assessment of environmental impacts of human activity and product development using life-cycle analysis methodology; organization and presentation of modeling results.  3 lectures, 1 laboratory.",
+            "title": "Environmental Life-Cycle Analysis"
+        },
+        "NR 315": {
+            "description": "Principles and methods of sampling and measurement for forest and natural resource quantities and qualities.  Modeling and estimation for tree volumes, stand structure and composition, and related forest vegetation.  Applications in sampling, statistical and inventory techniques.  2 lectures, 2 laboratories.  Overnight, weekend field laboratories required.",
+            "title": "Measurements and Sampling in Forested Environments"
+        },
+        "NR 317": {
+            "description": "Basic foundation for understanding the world through geographic information and tools available to utilize spatial data.  Application of Geographic Information Systems (GIS) and related technologies, including their scientific basis of operation.  Not open to students with credit in LA/NR 218.  3 lectures, 1 activity.  Crosslisted as LA/NR 317.  Fulfills GE Area F.",
+            "title": "The World of Spatial Data and Geographic Information Technology"
+        },
+        "NR 320": {
+            "description": "Introduction, analysis, and measurement of watershed processes of precipitation, evapotranspiration, streamflow, stream channels, erosion, and riparian functions.  Watershed management toward aquatic habitat and water quality goals.  Weekend field trip required.  3 lectures, 1 laboratory.",
+            "title": "Watershed Processes and Management"
+        },
+        "NR 321": {
+            "description": "Sustainable strategies and technologies to enhance freshwater supplies and marine habitats.  Systems treated include artificial wetlands, stormwater, drinking water, agricultural and industrial waste water.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Water Systems Technology, Issues and Impacts"
+        },
+        "NR 323": {
+            "description": "Social, economic, political and ecological conditions and institutions that influence decisions affecting the environment; examination of human-caused environmental impacts and how they in turn influence social institutions.  4 lectures.  Fulfills GE D5 except for Forestry and Natural Resources majors.",
+            "title": "Human Dimensions in Natural Resources Management"
+        },
+        "NR 324": {
+            "description": "Historical, political, socio-economic, and cultural dimensions of sustainable food and fiber systems.  Overview of frameworks used for understanding agro-ecological sustainability with an emphasis on human elements.  Exploration of core sustainability concepts, practices, and goals through case studies.  4 lectures.  Fulfills GE D5 except for Environmental Management and Protection majors.",
+            "title": "Social Dimensions of Sustainable Food and Fiber Systems"
+        },
+        "NR 326": {
+            "description": "Theory of efficient use of renewable and nonrenewable natural resources, including methods for attaching value to marketable and non-market natural resources.  Environmental economic theories and techniques to address allocation of water, timber, wildlife/fisheries, open space, and recreation.  3 lectures, 1 activity.",
+            "title": "Natural Resources Economics and Valuation"
+        },
+        "NR 335": {
+            "description": "Application of behavioral science principles and techniques in the management of natural resource systems.  Management of internal and external human resource issues and concerns in natural resources organizations is emphasized.  3 lectures, 1 laboratory.",
+            "title": "Conflict Management in Natural Resources"
+        },
+        "NR 339": {
+            "description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in forest or natural resources management.  Applying and developing managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Credit/No Credit grading.",
+            "title": "Internship in Forest and Natural Resources"
+        },
+        "NR 340": {
+            "description": "Wildland fuels, fire weather, and fire danger ratings in chaparral, grassland, and forested areas.  Advanced modeling of surface and crown fire behavior.  Fire management strategies and implications, policies and objectives of fire management organizations.  Saturday field trips may be required.  3 lectures.",
+            "title": "Wildland Fire Management"
+        },
+        "NR 350": {
+            "description": "Establishment and management of municipal forests, wildland-urban interface, wildlife habitat, and pollution abatement.  Management of forest areas requiring special attention because of heavy recreational use, fire hazard, watershed, and societal values.  Full-day field trips may be required.  2 lectures, 1 laboratory.",
+            "title": "Urban Forestry"
+        },
+        "NR 351": {
+            "description": "Emergency management emphasizing the Standardized Emergency Management System (SEMS) and Emergency Operations Center (EOC) operations.  Earthquake hazard used as the case to explore potential wide geographic impacts, multiple secondary hazards, and multidisciplinary problem-solving methods in natural disasters faced by local governments and communities.  2 lectures, 1 activity.  Crosslisted as CRP/NR 351.",
+            "title": "Introduction to Emergency Management in California"
+        },
+        "NR 360": {
+            "description": "Comparative study of how race and culture shape landscapes, and how social hierarchies allocate the use of natural resources and the burdens of environmental pollution.  4 lectures.  Crosslisted as ES/NR 360.  Fulfills GE C4 and USCP.",
+            "title": "Ethnicity and the Land"
+        },
+        "NR 365": {
+            "description": "Applied forest ecology focusing on development of prescriptions for achieving diverse forest ecosystem management objectives.  Topics include natural stand dynamics, traditional/contemporary silvicultural systems, forest health assessments/diagnoses, emulating natural disturbances, and managing ecosystem services.  Overnight and/or weekend field trips required.  2 lectures, 2 laboratories.",
+            "title": "Silviculture and Vegetation Management"
+        },
+        "NR 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 12 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "NR 401": {
+            "description": "Strategies and procedures for public sector management of recovery from disasters.  Understanding the role of, and relationship between, federal, state and local agencies to provide assistance to individuals and communities in the post-disaster environment.  Issues in the recovery process.  2 lectures, 1 activity.  Crosslisted as CRP/NR 401.",
+            "title": "Disaster Recovery"
+        },
+        "NR 402": {
+            "description": "Impact and losses to forested areas caused by physical and biotic agents (such as insects and diseases) other than fire; relation of direct and indirect control practices to forest management.  Saturday field trips required.  3 lectures, 1 laboratory.",
+            "title": "Forest Health"
+        },
+        "NR 404": {
+            "description": "Detailed examination of the law governing use and protection of natural resources with focus on the legal institutions entrusted with the public duty of protecting the environment.  3 lectures.  Crosslisted as CRP/NR 404.",
+            "title": "Environmental Law"
+        },
+        "NR 406": {
+            "description": "Interdisciplinary examination of the evolution of international law effecting indigenous peoples in the U.S.  and in the Americas.  Development of international legal and sociological norms and their impact on human rights of indigenous peoples with particular attention to environmental issues.  4 lectures.  Crosslisted as ES/NR 406.",
+            "title": "Indigenous Peoples and International Law and Policy"
+        },
+        "NR 408": {
+            "description": "Detailed examination of the various legal systems of water use, regulation and management in California and the United States.  Discussion on the key concepts and principles of state, federal and interstate water quantity and quality control; focusing on issues and problems, why conflicts occur and how solutions evolve.  3 lectures.  Crosslisted as CRP/NR 408.",
+            "title": "Water Resource Law and Policy"
+        },
+        "NR 412": {
+            "description": "Principles and practices of integrated sampling and inventory of natural resource values in terrestrial ecosystems, culminating in a student project report.  2 lectures, 1 laboratory.",
+            "title": "Senior Assessment Project"
+        },
+        "NR 414": {
+            "description": "Biophysical, economic, social and political influences on optimal forest management for purposes of providing sustained yields of goods and services.  Growth and yield modeling; forest investment analysis; sustainable forest production; harvest schedule modeling.  Day field trip required.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Forest Management"
+        },
+        "NR 416": {
+            "description": "National Environmental Policy and California Environmental Quality Acts as applied to environmental and natural resource management problems and projects.  Intent, purpose and history of the laws; differences between laws identified.  Request for proposals and preparation of environmental assessment documents covered.  3 lectures, 1 laboratory.",
+            "title": "Environmental Impact Analysis and Management"
+        },
+        "NR 418": {
+            "description": "Acquisition, organization and analysis of spatial data from diverse sources using Geographic Information System (GIS) software.  GIS modeling applications and validation techniques used in development and preparation of client-driven projects.  1 lecture, 2 activities.",
+            "title": "Applied GIS"
+        },
+        "NR 420": {
+            "description": "Analysis of streamflow, peak flows, and land management effects using established techniques and hydrologic models.  Fluvial processes, sediment transport, and channel restoration techniques.  Assessment and restoration of watersheds toward protection of aquatic and public resources.  Weekend field trips required.  3 lectures, 1 laboratory.",
+            "title": "Watershed Assessment and Protection"
+        },
+        "NR 421": {
+            "description": "The formation, characteristics, and functions of wetlands.  Genesis of hydric soils.  Plant adaptations to saturated soils.  Wetlands as wildlife habitat.  Policies and social issues associated with wetlands.  The procedures of wetland delineations.  3 lectures, 1 laboratory.  Crosslisted as BIO/NR/SS 421.",
+            "title": "Wetlands"
+        },
+        "NR 425": {
+            "description": "Environmental impacts in responses to resource management, projects, programs and activities.  Preparation, implementation, and coordination of environmental plans.  Criteria for measurements, interpretation, and evaluation.  Resource inventories, analysis, evaluation, synthesis, environmental assessment writing and preparation.  3 lectures, 1 laboratory.",
+            "title": "Applied Resource Analysis and Assessment"
+        },
+        "NR 434": {
+            "description": "Principles of wood properties, green building practices, sustainable and efficient use of renewable wood resources including methods for using wood as an energy source.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Wood Properties, Products and Sustainable Uses"
+        },
+        "NR 435": {
+            "description": "Policy process approach to understanding the efforts to resolve natural resource problems in the public and private sector.  Principles and techniques used to analyze the effects of environmental policies.  Analysis of major federal and state environmental laws.  4 lectures.",
+            "title": "Environmental Policy Analysis"
+        },
+        "NR 455": {
+            "description": "Biophysical and socioeconomic issues affecting wildland fire management in urbanized landscapes.  Fire risk assessment.  Pre-fire prevention, mitigation, and preparedness, during-fire response, and post-fire recovery actions by public- and private-sector agencies and residents.  3 lectures, 1 laboratory.",
+            "title": "Wildland-Urban Fire Protection"
+        },
+        "NR 465": {
+            "description": "Capstone course that integrates biophysical, economic and socio-political sciences.  Principles, concepts and techniques designed to utilize resources while sustaining ecosystem health within acceptable limits of change.  Ecosystem assessment, planning, management and monitoring project.  3 lectures, 1 laboratory.",
+            "title": "Ecosystem Management"
+        },
+        "NR 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "NR 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "NR 472": {
+            "description": "Tasks associated with development of personal leadership skills.  Study and practice in setting goals and objectives; developing, evaluating and implementing a project independently and as part of a team; decision making and problem-solving emphasized.  Total credit limited to 4 units.  1 laboratory.  Crosslisted as NR/RPTA 472.",
+            "title": "Leadership Practice"
+        },
+        "NR 475": {
+            "description": "Typical modules related to sustainable forest management, ecosystem sampling and inventory methods, photo interpretation, hydrologic resources, road condition, project impact analysis, best management practices.  Topics covered vary from term to term depending on the priority for learning modules.  Residency at Swanton Pacific and extended field trips required.  8 lectures, 4 activities.  Crosslisted as HNRS/NR 475.",
+            "title": "Sustainable Forest and Environmental Practices"
+        },
+        "NR 476": {
+            "description": "Independent internship experience conducted under faculty supervision focusing on a discipline area of environmental science/management.  Completion of a project as a component of their internship.  Satisfies the senior project requirement.  Minimum 90 hours required.  Crosslisted as ERSC/NR 476.",
+            "title": "Senior Project - Advanced Internship Experience in Environmental Science/Management"
+        },
+        "NR 477": {
+            "description": "Guided research experience in a specific area of environmental science.  Implementation of materials and methods.  Collection, analysis and interpretation of data.  Completion of formal written report.  Satisfies senior project requirement.  1 lecture, 2 laboratories.  Crosslisted as ERSC/NR 477.",
+            "title": "Senior Project - Research Experience in Environmental Science"
+        },
+        "NR 478": {
+            "description": "Critical evaluation and formal presentation of current issues in environmental science/management.  Evaluation of current topics, analysis of supporting evidence, and synthesis and presentation of resulting perspectives on different approaches to current challenges in environmental science/management.  Satisfies the senior project requirement.  3 lectures.  Crosslisted as ERSC/NR 478.",
+            "title": "Senior Project - Current Topics in Environmental Science/Management"
+        },
+        "NR 479": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 90 hours total time.  Crosslisted as ERSC/NR 479.",
+            "title": "Senior Project - Independent Study"
+        },
+        "NR 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Total credit limited to 4 units.",
+            "title": "Individual Study"
+        },
+        "NR 503": {
+            "description": "Tropical forest ecosystem classification, function and limitations.  Applied tropical forest management systems; tropical problems, management, and political strategies; over-grazing and desertification; overcutting and fuelwood shortages.  3 seminars.",
+            "title": "Tropical Forest Ecosystem"
+        },
+        "NR 532": {
+            "description": "Parametric and semi-parametric statistical methods in modeling biological and economic phenomena.  Biometric modeling of stand growth and inventory.  Econometric modeling of market and environmental values.  3 lectures, 1 laboratory.",
+            "title": "Applications in Biometrics and Econometrics"
+        },
+        "NR 534": {
+            "description": "Methods and modeling approaches used in quantifying ecological and environmental processes and conditions, such as fire behavior, wildland hydrology, terrestrial and aquatic habitat condition, using GIS and other models.  2 lectures, 1 laboratory.",
+            "title": "Environmental Modeling"
+        },
+        "NR 539": {
+            "description": "Application of theory to the solution of problems of forest resources or related businesses in the field.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Forest Resources"
+        },
+        "NR 570": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 seminars.",
+            "title": "Selected Topics in Forest Resources"
+        },
+        "NR 571": {
+            "description": "Directed group laboratory of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1-4 laboratories.",
+            "title": "Selected Topics Forest Resources Laboratory"
+        },
+        "NR 575": {
+            "description": "Techniques and applications in watershed hydrology to real-world projects.  Projects could include water quality or quantity assessments, water quality or channel morphology monitoring, and structural and non-structural enhancements for channel and upland watersheds, culminating in a final report and presentation.  2 laboratories.",
+            "title": "Applications in Advanced Watershed Hydrology"
+        },
+        "NR 581": {
+            "description": "Student study and presentation of selected developments, trends and problems in the field of forest and natural resources, earth and soil sciences, and environmental management.  3 seminars.  Crosslisted as NR/SS 581.",
+            "title": "Graduate Seminar in Environmental Sciences"
+        },
+        "NR 599": {
+            "description": "Individual research in forest or natural resources management under the general supervision of faculty, leading to a graduate thesis.  Degree credit limited to 9 units.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "NR 215",

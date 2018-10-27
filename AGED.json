@@ -1,4 +1,162 @@
 {
+    "descriptions": {
+        "AGED 102": {
+            "description": "Overview of agricultural education career pathways including goals and purposes. Kinds of classes and types of programs. Qualifications essential to success in teaching agriculture. Planned program of studies to meet requirement for teaching agricultural science and related disciplines. 2 lectures.",
+            "title": "Introduction to Agricultural Education"
+        },
+        "AGED 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication/Agricultural Education.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems in Agricultural Education"
+        },
+        "AGED 220": {
+            "description": "Problems encountered and practices applied during the conduct of the annual FFA State Convention.  Methods, procedures and materials adapted for use by the student in developing the committee system to produce conferences, conventions and workshops of all kinds and sizes.  Total credit limited to 6 units.  Credit/No Credit grading only.  2 activities.",
+            "title": "Agricultural Youth Conferences"
+        },
+        "AGED 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "AGED 303": {
+            "description": "Historical, philosophical and social foundation of high school agricultural education as it relates to the classroom/laboratory instruction, leadership (FFA) and supervised agricultural experiences (SAEs).  Application of integral components in developing a total program of agricultural education.  Two day field study tour required.  2 lectures, 2 activities.",
+            "title": "FFA and Supervised Agricultural Experience"
+        },
+        "AGED 339": {
+            "description": "Selected Agricultural Education students will spend up to 12 weeks with an approved agricultural firm engaged in production or related business.  Time will be spent applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Degree credit limited to 6 units.  Credit/No Credit grading only.",
+            "title": "Internship in Agricultural Education"
+        },
+        "AGED 350": {
+            "description": "Observation of the practices and techniques utilized by agriculture teachers in conducting organized instruction in high school classrooms, shops, school farms, and laboratories.  Discussion of activities and programs unique to teaching agriculture in California secondary schools.  Participation in public schools requires mandated fingerprint clearance.  2 seminars.",
+            "title": "Early Field Experience in Agriculture Education"
+        },
+        "AGED 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems in Agricultural Communication/Agricultural Education.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Advanced Special Problems in Agricultural Education"
+        },
+        "AGED 404": {
+            "description": "Emphasis upon equipping current and prospective leaders in agriculture with the background and skills to achieve their potential.  Class members will assess their status as leaders and identify means to improve their effectiveness.  Focus on the theoretical underpinnings of human motivation, personal leadership, and organizational development.  2 lectures, 1 activity.",
+            "title": "Agricultural Leadership"
+        },
+        "AGED 410": {
+            "description": "Development of agricultural teacher candidate's teaching effectiveness utilizing computer applications.  Analysis and specialization of hardware.  Instruction in digital technology, network systems and software applicable to teaching agriculture at the secondary level.  2 activities.",
+            "title": "Computer Applications in Agricultural Education"
+        },
+        "AGED 412": {
+            "description": "Leadership team facilitates a campus event under the direction of the Agricultural Education and Communication Department.  Team identifies goals, recruits students, organizes committees, addresses tasks, and conducts the event.  Practical application of problem solving, critical thinking, communication and collaboration skills.  Total credit limited to 6 units.  3 seminars.",
+            "title": "Advanced Agricultural Leadership Development Practicum"
+        },
+        "AGED 424": {
+            "description": "Determining course objectives, content, and calendar for use by the teacher in classroom, shop and field instruction while assigned to community schools.  Concurrent with student teaching.  3 activities.",
+            "title": "Organizing and Teaching Agriculture"
+        },
+        "AGED 440": {
+            "description": "Off-campus assignment to a selected cooperating public school. Participation in all phases of agriculture teacher duties and activities including departmental organization and administration. Prior approval and appointment necessary. Total credit limited to 18 units. Credit/No Credit grading only.",
+            "title": "Student Teaching in Agricultural Education"
+        },
+        "AGED 441": {
+            "description": "Problems encountered and practices applied during student teaching.  Methods, procedures and materials adapted for use by the teacher concurrent with student teaching.  2 activities.",
+            "title": "Student Teaching Practicum"
+        },
+        "AGED 460": {
+            "description": "Introduction to the research process and topic selection as it relates to the design and development of the senior project within the Agricultural Communication and the Agricultural Sciences majors.  1 lecture.",
+            "title": "Research Methodology in Agricultural Education and Communication"
+        },
+        "AGED 461": {
+            "description": "Empirical application of the scientific method as it relates to the selection of a project.  Projects typical of problems that graduates must solve in their field of employment.  1 seminar.",
+            "title": "Senior Project I"
+        },
+        "AGED 462": {
+            "description": "Completion of a project begun in AGED 461.  Projects typical of problems that graduates must solve in their field of employment.  Project results are presented in a formal report.  1 seminar.",
+            "title": "Senior Project II"
+        },
+        "AGED 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "AGED 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "AGED 481": {
+            "description": "Directed group study and individualized projects in the design and development of digital presentations in technical agriculture for use in teaching and program public relations.  Total credit limited to 3 units.  1 laboratory.",
+            "title": "Developing Digital Presentations for Instruction in Agricultural Education"
+        },
+        "AGED 482": {
+            "description": "Traditional academic and student-centered approaches to gaining resources and curriculum design.  Methods of using, and the development of the knowledge and skills related to planning, implementation and assessing the high school agriculture curriculum.  Organization and management and their relationship to education effectiveness and productivity.  1 lecture.",
+            "title": "Teaching Resources and Curriculum Design"
+        },
+        "AGED 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Agricultural Education and Communication faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study in Agricultural Education"
+        },
+        "AGED 501": {
+            "description": "Orientation to the Master of Agricultural Education program.  Current requirements, processes, documentation, and discussion of expectations of pre-professional teacher candidates.  Completion of formal documents for credentialing in California.  2 seminars.",
+            "title": "Professional Seminar in Agricultural Education"
+        },
+        "AGED 513": {
+            "description": "Practice and techniques in management and supervision of programs in agricultural education.  Relationships among students, staff, community and school groups.  Budgeting, staffing, records, reporting.  Student activities and Future Farmers of America programs.  Total credit limited to 6 units.",
+            "title": "Field Experience - Agricultural Education"
+        },
+        "AGED 520": {
+            "description": "Approaches to the development of an integrated agricultural education program in the comprehensive high school, based on occupational opportunities and community needs.  Philosophy, organization, and administration of programs.  Development in curriculum, supervised occupational experience, student leadership such as Future Farmers of America, and summer programs.  Field trip required.  Course may be offered in classroom-based or online format.  3 seminars.",
+            "title": "Program Development in Agricultural Education"
+        },
+        "AGED 522": {
+            "description": "Organizing agricultural technology laboratory instruction, curriculum, and facilities.  Student demonstrations and presentations; assessment, analysis, and evaluation.  Field trip required.  Not open to students with credit in AGED 523.  1 seminar, 2 laboratories.",
+            "title": "Laboratory Pedagogy in Agricultural Technology"
+        },
+        "AGED 523": {
+            "description": "Organizing and managing laboratories, including agriculture mechanics curriculum and determining course content.  Student demonstrations and presentations; assessment, analysis, and evaluation.  Course is designed for in-service secondary agriculture teachers.  Field trip required.  Not open to students with credit in AGED 522.  3 lectures.",
+            "title": "Laboratory Organization and Management in Agricultural Education"
+        },
+        "AGED 524": {
+            "description": "Principles of agricultural teaching methods and developmentally-appropriate pedagogy.  Daily and unit lesson plans incorporating content, teaching methods, and assessing learners.  Accommodations for English learners and students with special needs.  Class demonstrations in teaching procedures, analysis, assessment and reflection.  Field trip required.  2 lectures, 2 activities.",
+            "title": "Instructional Processes in Agricultural Education"
+        },
+        "AGED 525": {
+            "description": "Skills and techniques of propagation and production of horticulture crops.  Scheduling, growing media, construction and use of forcing structures, and plant identification.  Marketing plans and promotions.  Teaching methods, curriculum development, and identification of resources and materials for horticultural instruction.  3 lectures.  Open to agricultural educators or credential students only.",
+            "title": "Organizing Instruction for Growing and Selling Horticulture Products"
+        },
+        "AGED 526": {
+            "description": "Development of curriculum that meets California high school ornamental horticulture instructional needs and provides foundation for student entry into the horticulture industry.  Instructional methods for lecture and laboratory activities.  Identification of teaching resources and instructional materials.  3 lectures.",
+            "title": "Curriculum Development in Horticulture Science"
+        },
+        "AGED 530": {
+            "description": "Integrating FFA and supervised agricultural experience programs into the curriculum.  Career development event implementation; record book usage; officer and committee training; recruitment; retention; retreat and leadership training.  Current national and state initiatives and experiential learning opportunities in the workplace and entrepreneurial settings.  Not open to students with credit in AGED 330.  3 lectures.",
+            "title": "Developing FFA and Supervised Agricultural Experience Programs in Secondary Education"
+        },
+        "AGED 536": {
+            "description": "Selection and use of teaching strategies, methods/approaches, and techniques when planning, delivering, and evaluating instruction.  Intended for graduate students interested in pursuing a faculty position in agriculture, as well as other disciplines in higher education.  3 seminars.",
+            "title": "Teaching Agriculture in Higher Education"
+        },
+        "AGED 537": {
+            "description": "Teaching methods of important biological concepts using agriculture as the context.  Assisting agriculture teachers in identifying proper pedagogical strategies to integrate activities and laboratories into existing agriculture biology courses, including leadership development opportunities and activities.  Emphasis on appropriate teaching methods and techniques, curriculum integration and application, and classroom resources.  3 seminars.",
+            "title": "Enhancing Instruction in Agricultural Biology"
+        },
+        "AGED 539": {
+            "description": "Application of theory to the solution of problems of agricultural production or related business in the field of Agricultural Education.  Analyze specific management problems and perform general management assignments detailed in a contract between the student, the firm or organization, and the faculty advisor before the internship commences.  Degree credit limited to 6 units.",
+            "title": "Graduate Internship in Agricultural Education"
+        },
+        "AGED 540": {
+            "description": "Prior to the first day of teaching agriculture, develop a plan for delivery of instruction in a program of agriculture in a K-14 educational setting.  Instructional strategies will address the statewide Quality Criteria for Programs of Instruction in Agriculture.",
+            "title": "Instructional Planning in Agriculture"
+        },
+        "AGED 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Agricultural Education"
+        },
+        "AGED 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory in Agricultural Education"
+        },
+        "AGED 580": {
+            "description": "Individual study of modern issues and problems conducted through research, planning and development.  Field problems and in-service study in agricultural industry encouraged.  Final written report required.  Total credit limited to 9 units with not more than 3 units in any one quarter.",
+            "title": "Special Problems in Agricultural Education"
+        },
+        "AGED 581": {
+            "description": "Group study of selected developments, trends and issues in the field of Agricultural Education.  3 seminars.",
+            "title": "Graduate Seminar in Agricultural Education"
+        }
+    },
     "links": [
         {
             "source": "AGED 303",

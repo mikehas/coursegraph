@@ -1,4 +1,238 @@
 {
+    "descriptions": {
+        "ARCE 106": {
+            "description": "Introduction to building systems and materials. Use and application of structural, foundation, envelope, mechanical and electrical systems in the field of Architectural Engineering. 1 lecture, 1 activity.",
+            "title": "Introduction to Building Systems"
+        },
+        "ARCE 211": {
+            "description": "Introduction to the role of structures in the making of buildings.  Introduction to statics and creation of simple three-dimensional structures.  Development of skills to analyze structures composed of axial force (truss) members.  2 lectures, 1 activity.",
+            "title": "Structures I"
+        },
+        "ARCE 212": {
+            "description": "Introduction to the role of structures in the making of buildings.  Introduction to shear and moment diagrams using the principles of statics and the application of the diagrams to simple three-dimensional structures.  Development of skills, particularly free body diagrams, to analyze structures composed of bending (beams) members.  3 lectures.",
+            "title": "Structures II"
+        },
+        "ARCE 223": {
+            "description": "Advanced topics of stresses in beams.  Plastic bending, unsymmetrical bending.  Combined stresses.  Stress transformation.  Buckling.  Deflection of beams.  3 lectures.",
+            "title": "Mechanics of Structural Members"
+        },
+        "ARCE 224": {
+            "description": "Experimental investigations of material properties.  Experimental studies of stresses and deflections in beams, including plastic bending, and unsymmetrical bending.  Stress transformations via strain gages for combined loading cases.  Culminating lab experience:  A student run, self-designed experiment.  1 laboratory.",
+            "title": "Mechanics of Structural Members Laboratory"
+        },
+        "ARCE 226": {
+            "description": "Description, behavior and comparison of structural building systems.  Concepts of structural stability, load flow, framing schemes and building configuration related to vertical and lateral loads.  Not open to Architectural Engineering majors.  3 lectures.",
+            "title": "Introduction to Structural Systems"
+        },
+        "ARCE 227": {
+            "description": "Continuation of selected concepts covered in ARCE 211 and ARCE 212.  Advanced topics in two-dimensional and three-dimensional equilibrium of structural building systems.  2 lectures.",
+            "title": "Structures III"
+        },
+        "ARCE 257": {
+            "description": "Emphasis on the use of computer graphics software to represent a building's structural system and its individual elements.  1 lecture, 1 laboratory.",
+            "title": "Structural CAD for Building Design"
+        },
+        "ARCE 260": {
+            "description": "Social, symbolic, and technical importance of landmark structures. Analysis of breakthrough ideas that led to major advances in building design. Contextualization of these advances. Tools by which to assess and critique structural art as a separate and distinct art form. 4 lectures. Fulfills GE C3.",
+            "title": "History of Structures"
+        },
+        "ARCE 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ARCE 302": {
+            "description": "Analysis of statically indeterminate structures using virtual work, slope deflection, the force method and moment distribution.  Analysis of structural systems using approximate methods and influence lines.  3 lectures.",
+            "title": "Structural Analysis"
+        },
+        "ARCE 303": {
+            "description": "Analysis and design of steel structural members subjected to bending, shear and axial forces.  3 lectures.",
+            "title": "Steel Design I"
+        },
+        "ARCE 304": {
+            "description": "Analysis and design of timber structural members subjected to bending, shear, and axial forces.  Wood diaphragms, shear walls and their connections.  3 lectures.",
+            "title": "Timber Design"
+        },
+        "ARCE 305": {
+            "description": "Design of load-bearing walls, shear walls, columns and beams in masonry.  2 lectures.",
+            "title": "Masonry Design"
+        },
+        "ARCE 306": {
+            "description": "Analysis of statically indeterminate structures by direct stiffness method including continuous beams, plane trusses, and frames.  Introduction to finite-element methods.  3 lectures.",
+            "title": "Matrix Analysis of Structures"
+        },
+        "ARCE 315": {
+            "description": "Introduction to structures that use timber, steel and concrete as the primary construction material.  Introduction to gravity load carrying systems and lateral load resisting systems using timber, steel and concrete elements.  Credit not allowed for ARCE majors.  4 lectures.",
+            "title": "Introduction to Structural Design"
+        },
+        "ARCE 316": {
+            "description": "Integration of structural systems into architectural design.  Preliminary design of structures including the development of gravity load carrying systems and lateral load resisting systems.  Introduction to tall building and long span structural systems.  Introduction to structural issues of cladding systems.  Not open for major credit to Architectural Engineering majors.  4 lectures.",
+            "title": "Structural Integration in Architecture"
+        },
+        "ARCE 352": {
+            "description": "Computer calculations, programming and technical reporting.  Emphasis on use of two-dimensional structural analysis software to analyze a building's structural system and its individual elements.  1 laboratory.",
+            "title": "Structural Computing Analysis"
+        },
+        "ARCE 353": {
+            "description": "Emphasis on the use of nonplanar structural analysis software to analyze a building's structural system and its individual elements.  1 laboratory.",
+            "title": "Matrix Structural Computing Analysis"
+        },
+        "ARCE 354": {
+            "description": "An intensive survey of numerical analysis techniques used for solving engineering problems.  Topics include integration, ordinary differential equations, and the eigenproblem.  1 laboratory.",
+            "title": "Numerical Analysis Laboratory"
+        },
+        "ARCE 371": {
+            "description": "Studies in the relationship of structural framing to overall building geometry.  Emphasis on the stability of structural configurations, calculation of building loads and development of a complete gravity and lateral load path.  3 laboratories.",
+            "title": "Structural Systems Laboratory"
+        },
+        "ARCE 372": {
+            "description": "Steel framed project incorporating structural system configuration and selection, structural analysis for gravity and lateral loads, and construction drawings and specifications.  Integration of building services and architectural design, constructability issues, and relationships between construction methods and cost.  3 laboratories.  Cannot be taken concurrently with ARCE 451 or ARCE 452.",
+            "title": "Steel Structures Design Laboratory"
+        },
+        "ARCE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 3 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ARCE 403": {
+            "description": "Advanced topics in design and construction of steel structures, such as:  plate girders, plastic design of beams and frames, and composite beam design, load and resistance factor design, and advanced topics related to moment frames and braced frames.  3 laboratories.",
+            "title": "Advanced Steel Structures Laboratory"
+        },
+        "ARCE 410": {
+            "description": "Multidisciplinary exploration of the value and collaboration required of an integrated project team approach to the design and construction of sophisticated building envelopes.  Team taught by instructors and practitioners from each of the following disciplines:  architecture, architectural engineering and construction management.  4 lectures.",
+            "title": "Integrated Building Envelopes"
+        },
+        "ARCE 412": {
+            "description": "Analysis of structures subjected to dynamic loads with single- and multi-degrees of freedom.  Development of techniques for analysis of structures in response to time varying loads.  3 lectures.",
+            "title": "Dynamics of Framed Structures"
+        },
+        "ARCE 415": {
+            "description": "Team based interdisciplinary capstone / senior project course.  Analysis and evaluation of interdisciplinary challenges associated with integrating the design and construction processes to deliver a project with respect to the design, budget, schedule, quality, and performance expectations of a client.  4 laboratories.",
+            "title": "Interdisciplinary Capstone Project"
+        },
+        "ARCE 421": {
+            "description": "Principles of soil mechanics, including rudiments of geology, soil classification, gravimetric and volumetric relations, compaction, methods and testing, shear strength of soil and strength theories.  2 lectures, 1 laboratory.",
+            "title": "Soil Mechanics"
+        },
+        "ARCE 422": {
+            "description": "Soil-bearing capacity; sizing and design of spread footings.  Design and analysis of earth-retaining structures.  Analysis of the stability of slopes.  3 lectures.",
+            "title": "Foundation Design"
+        },
+        "ARCE 423": {
+            "description": "Design, analysis, and construction issues related to shallow and deep foundation systems, matt foundations, retaining walls, and grade beams.  Studies investigation the impact of sub-grade structural systems on building behavior and cost.  3 laboratories.",
+            "title": "Advanced Foundation Design"
+        },
+        "ARCE 444": {
+            "description": "Theory and design of basic reinforced concrete elements:  non-slender columns, beams, tee beams and one way slabs.  3 lectures, 1 laboratory.",
+            "title": "Reinforced Concrete Design"
+        },
+        "ARCE 445": {
+            "description": "Design and analysis of prestressed concrete structures.  3 laboratories.",
+            "title": "Prestressed Concrete Design Laboratory"
+        },
+        "ARCE 446": {
+            "description": "Concepts and issues involved in the design of complex structures including tall buildings, shells, arches and tension structures.  3 laboratories.",
+            "title": "Advanced Structural Systems Laboratory"
+        },
+        "ARCE 447": {
+            "description": "Advanced topics in the design of reinforced concrete structures with emphasis on isolated and combined foundations, retaining walls, seismic-resistant ductile frames and yield line theory.  3 laboratories.",
+            "title": "Advanced Reinforced Concrete Laboratory"
+        },
+        "ARCE 448": {
+            "description": "Overview of the general rehabilitation process and philosophy.  Evaluation and analysis of existing structures to determine expected performance due to seismic loads.  Development of basic rehabilitation strategies for buildings.  2 lectures, 1 laboratory.",
+            "title": "Seismic Rehabilitation"
+        },
+        "ARCE 449": {
+            "description": "Analysis and design of cold formed steel structural members subjected to bending, shear, and axial forces.  Project based design and constructability of cold formed structural systems including gravity framing, diaphragms, shear walls and their connections.  3 laboratories.",
+            "title": "Cold Formed Steel Design Laboratory"
+        },
+        "ARCE 451": {
+            "description": "Timber and masonry framed project incorporating structural system configuration and selection, structural analysis for gravity and lateral loads, and construction drawings and specifications.  Integration of building services and architectural design, constructability issues, and relationships between construction methods and cost.  3 laboratories.  Cannot be taken concurrently with ARCE 372 or ARCE 452.",
+            "title": "Timber and Masonry Structures Design and Constructability Laboratory"
+        },
+        "ARCE 452": {
+            "description": "Cast in place concrete framed project incorporating structural system configuration and selection, structural analysis for gravity and lateral loads, and construction drawings and specifications.  Integration of building services and architectural design, constructability issues, and relationships between construction methods and cost.  3 laboratories.  Cannot be taken concurrently with ARCE 372 or ARCE 451.",
+            "title": "Concrete Structures Design and Constructability Laboratory"
+        },
+        "ARCE 453": {
+            "description": "Interdisciplinary projects by interdisciplinary teams under faculty supervision that go beyond topics covered in the Architectural Engineering curriculum.  Projects must include integration with other disciplines outside of structural or architectural engineering.  Total credit limited to 4 units.",
+            "title": "Interdisciplinary Senior Project"
+        },
+        "ARCE 460": {
+            "description": "Investigation of the collaborative nature of the design process as it relates to the architectural engineer and related disciplines Development of skills necessary to create a successful design team through the development of specific projects.  Total credit limited to 4 units.  2 laboratories.",
+            "title": "Collaborative Design Laboratory"
+        },
+        "ARCE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ARCE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ARCE 473": {
+            "description": "Emphasis on long span industrial/warehouse type buildings.  Use of steel in timber/masonry construction and constructability.  Holes in diaphragms, out-of-plane wall behavior and sub-diaphragms, perforated wood and masonry shear walls, pre-manufactured shear walls, masonry retaining walls, connections including post-installed anchors.  3 laboratories.",
+            "title": "Advanced Timber and Masonry Structures Laboratory"
+        },
+        "ARCE 475": {
+            "description": "Principles and practices for the sustainable design, fabrication, and installation of systems for the civil infrastructure and building; including structural, air/gas, water/wastewater, electrical, and control systems.  Methods and materials used for fabrication and installation; including cost and schedule considerations.  4 lectures.  Crosslisted as ARCE/CE 475.",
+            "title": "Civil Infrastructure and Building Systems"
+        },
+        "ARCE 476": {
+            "description": "Principles and practices for the sustainable design, fabrication, and installation of architectural engineering building systems; including air/gas, water/waste water, electrical, and control systems.  Methods and materials used for fabrication and installation; including cost and schedule considerations.  3 lectures.  Not open to students with credit in ARCE/CE 475.",
+            "title": "Architectural Engineering Building Systems"
+        },
+        "ARCE 483": {
+            "description": "Introduction to dynamic response analysis of building structures with emphasis on earthquake ground motion.  Earthquake resistant design of buildings in accordance with building codes.  Application of computer programs and physical models for seismic design.  Laboratory studies utilizing physical models for studying the behavior of building structures subjected to simulated ground motions.  2 lectures, 1 activity.",
+            "title": "Seismic Analysis and Design"
+        },
+        "ARCE 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  No major credit allowed; total credit limited to 12 units.  Credit/No Credit grading only.  Credits to not count toward graduation in the ARCE Degree Program.",
+            "title": "Cooperative Education Experience"
+        },
+        "ARCE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  No major credit allowed; total credit limited to 24 units.  Credit/No Credit grading only.  Credits to not count toward graduation in the ARCE Degree Program.",
+            "title": "Cooperative Education Experience"
+        },
+        "ARCE 501": {
+            "description": "Principles, concepts, and techniques of advanced structural mechanics.  Studies of displacement, strain, stress, strain-displacement relation and constitutive models in three dimensions.  Failure criteria.  Introduction into energy principles and approximate solutions.  3 lectures.",
+            "title": "Advanced Structural Mechanics"
+        },
+        "ARCE 502": {
+            "description": "Principles, concepts, and behavior of structures loaded beyond their linear-elastic limit.  Elastic-plastic behavior of truss, beam, and frame structures.  Buckling and post-buckling behavior of columns.  Behavior of beam-columns and the principle of superposition.  Second-order elastic behavior of frames.  3 lectures.",
+            "title": "Nonlinear Structural Behavior I"
+        },
+        "ARCE 503": {
+            "description": "Principles, concepts, and techniques of nonlinear structural analysis currently used in practice.  Classification of nonlinear problem types.  Investigation of typical iterative solution strategies.  Studies in material and geometric nonlinearities in spring, truss, and frame elements.  Use of current nonlinear analysis software.  3 lectures.",
+            "title": "Nonlinear Structural Behavior II"
+        },
+        "ARCE 504": {
+            "description": "Basic concepts of equilibrium and compatibility.  Stiffness and flexibility properties of various types of finite elements.  Development and application of displacement and force methods.  Elastic stability and dynamic response of buildings to earthquake, wind, and moving loads.  Use of finite-element computer programs.  3 seminars.",
+            "title": "Finite Element Method for Building Structures"
+        },
+        "ARCE 511": {
+            "description": "Design, performance, and construction issues related to structural systems.  Further development of design and analysis techniques necessary for performance based engineering of structural systems.  Assessment of advantages and limitations of different structural forms and systems.  3 laboratories.",
+            "title": "Structural Systems Behavior"
+        },
+        "ARCE 521": {
+            "description": "Static and dynamic loads, structural equilibrium and stability, structural configurations and systems, response to dynamic loads, behavior of structures.  2 seminars, 1 activity.",
+            "title": "Architectural Structures"
+        },
+        "ARCE 522": {
+            "description": "Exploration of the relationship between structural systems and architectural form.  Understanding of structural stability and structural order is developed through construction of a series of small scale models.  Historical perspectives are presented along with the effects of available materials and technology on structural possibilities.  3 seminars.",
+            "title": "Structural Systems"
+        },
+        "ARCE 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ARCE 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ARCE 598": {
+            "description": "Independent development, research, and conclusion of a graduate project by individuals or teams specializing in the area of architectural or structural engineering.  Projects may include graduate students from other disciplines.  Students shall enroll in 3 quarters.  Total credit limited to 9 units.  3 laboratories.",
+            "title": "Structural Engineering Design Project"
+        }
+    },
     "links": [
         {
             "source": "PHYS 141",

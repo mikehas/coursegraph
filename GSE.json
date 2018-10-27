@@ -1,4 +1,78 @@
 {
+    "descriptions": {
+        "GSE 500": {
+            "description": "Advanced study planned and completed under the direction of a departmental faculty member.  Open only to graduate students demonstrating ability to do independent work.  Enrollment by petition.",
+            "title": "Independent Study"
+        },
+        "GSE 510": {
+            "description": "Review and discussion of the basic math tools needed for graduate work in economics, including set theory, linear algebra, properties of functions, static and dynamic optimization.  4 lectures.",
+            "title": "Essential Mathematics for Economic Analysis"
+        },
+        "GSE 511": {
+            "description": "Basic microeconomic theory including theory of the firm, consumer theory, general equilibrium, capital theory, and welfare economics.  4 lectures.",
+            "title": "Microeconomic Analysis"
+        },
+        "GSE 512": {
+            "description": "Basic macroeconomic theory including markets for commodities and credit, the demand for money, market-clearing and the labor market, inflation and interest rates, investment, real business cycles and unemployment, economic growth, government consumption and the role of public services, and taxes, transfers, and the public debt.  4 lectures.",
+            "title": "Macroeconomic Analysis"
+        },
+        "GSE 518": {
+            "description": "Statistical concepts for use in theoretical and applied econometric applications including random variables, independence, expectations, probability, distributions, covariance and correlation, large sample theory, and properties of estimators.  4 lectures.",
+            "title": "Essential Statistics for Econometrics"
+        },
+        "GSE 520": {
+            "description": "The use of statistical procedures to measure theoretical economic relationships and to verify and reject theories.  Advanced coverage of regression analysis and hypothesis testing.  4 lectures.",
+            "title": "Advanced Econometrics I"
+        },
+        "GSE 522": {
+            "description": "Use of statistical procedures to deal with simultaneous equations, limited dependent variables and time-series data.  Includes methods of instrumental variables, generalized method of moments and maximum likelihood.  4 lectures.",
+            "title": "Advanced Econometrics II"
+        },
+        "GSE 524": {
+            "description": "Use of computers to solve economic problems.  Topics include computer programming using econometric software, data gathering and organization, and numerical solution methods for economic problems.  4 lectures.",
+            "title": "Computational Methods in Economics"
+        },
+        "GSE 526": {
+            "description": "Variety of standard and advanced econometric techniques employed in applied microeconomics.  Emphasis on when and how to apply appropriate techniques.  4 lectures.",
+            "title": "Microeconometrics"
+        },
+        "GSE 532": {
+            "description": "Economic analysis of pollution, congestion, public good provision, and natural resource conservation.  Static and dynamic efficiency, economic growth and sustainability, pollution taxes, marketable permits, and the design of market-based regulations.  4 lectures.",
+            "title": "Environmental and Natural Resource Economics"
+        },
+        "GSE 534": {
+            "description": "Analysis of the international movement of goods, services, capital and payments.  The role of exchange rates, tariffs, quotas, and transport costs.  Relationship between international trade and economic growth.  4 lectures.",
+            "title": "International Economics"
+        },
+        "GSE 536": {
+            "description": "Economic analysis of the rationale for public expenditure and taxation.  Externalities, pollution and public policy, income redistribution and public welfare, public goods, collective choice and political institutions, public budgeting techniques and cost-benefit analysis, taxation and tax policy, state-local finance and fiscal federalism.  4 lectures.",
+            "title": "Public Economics"
+        },
+        "GSE 538": {
+            "description": "Economic theories of industrial organization with specific reference to such topics as cartels, market concentration and performance, vertical integration, franchise contracts, ownership and control of firms, multipart and discriminatory pricing, and tie-in sales.  Economic aspects of antitrust law and government regulation of industry.  4 lectures.",
+            "title": "Industrial Economics"
+        },
+        "GSE 542": {
+            "description": "Research methods in labor economics and application of modern empirical techniques to the analysis of labor markets.  Topics include labor supply and demand, discrimination, migration, and human capital accumulation.  4 lectures.",
+            "title": "Advanced Labor Economics"
+        },
+        "GSE 544": {
+            "description": "Representing uncertainty using discrete and continuous conditional probabilities.  Monte Carlo simulation of independent and correlated random variables.  Optimization of decision variables.  Randomization in program evaluation.  Model mis-specification.  Visualization and representation of the results of a decision analysis.  Case studies.  4 lectures.",
+            "title": "Evidence-Based Decision Analysis"
+        },
+        "GSE 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "GSE 580": {
+            "description": "Advanced topics in economics chosen according to the common interests and needs of the students enrolled.  Schedule of Classes will list topic selected.  1-4 seminars.  Total credit limited to 5 units.",
+            "title": "Seminar in Economics"
+        },
+        "GSE 599": {
+            "description": "Individual research under the general supervision of the faculty, leading to a graduate thesis of suitable quality.  Minimum of 8 units required for degree.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "GSE 510",

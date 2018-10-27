@@ -1,4 +1,214 @@
 {
+    "descriptions": {
+        "STAT 130": {
+            "description": "Survey of statistical ideas and philosophy.  Emphasis on concepts rather than in-depth coverage of statistical methods.  Topics include sampling, experimentation, data exploration, chance phenomena, and methods of statistical inference.  Not open to students with credit in any statistics course.  4 lectures.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B.",
+            "title": "Statistical Reasoning"
+        },
+        "STAT 150": {
+            "description": "Orientation to the statistics program, introduction to the discipline of statistics, including the development of the discipline, professional ethics, data visualization and the role of statistics in the scientific enterprise.  2 lectures.",
+            "title": "Introduction to the Discipline of Statistics"
+        },
+        "STAT 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "STAT 217": {
+            "description": "Sampling and experimentation, descriptive statistics, confidence intervals, two-sample hypothesis tests for means and proportions, Chi-square tests, linear and multiple regression, analysis of variance.  Substantial use of statistical software.  Not open to students with credit in STAT 218 or STAT 251.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B.",
+            "title": "Introduction to Statistical Concepts and Methods"
+        },
+        "STAT 218": {
+            "description": "Data collection and experimental design, descriptive statistics, confidence intervals, parametric and non parametric one and two-sample hypothesis tests, analysis of variance, correlation, simple linear regression, chi-square tests.  Applications of statistics to the life sciences.  Substantial use of statistical software.  Not open to students with credit in STAT 217 or STAT 251.  4 lectures.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B.",
+            "title": "Applied Statistics for the Life Sciences"
+        },
+        "STAT 251": {
+            "description": "Descriptive statistics.  Probability and counting rules.  Random variables and probability distributions.  Sampling distributions and point estimation.  Confidence intervals and tests of hypotheses for a single mean and proportion.  4 lectures.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B.",
+            "title": "Statistical Inference for Management I"
+        },
+        "STAT 252": {
+            "description": "Confidence intervals and tests of hypotheses for two means and two proportions.  Introduction to ANOVA, regression, correlation, multiple regression, time series, and forecasting.  Statistical quality control.  Enumerative data analysis.  Substantial use of statistical software.  Course may be offered in classroom-based or online format.  5 lectures.  Fulfills GE B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE B1 course is required to fulfill GE Area B.",
+            "title": "Statistical Inference for Management II"
+        },
+        "STAT 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "STAT 301": {
+            "description": "Introduction to statistics for mathematically inclined students, focused on process of statistical investigations.  Observational studies, controlled experiments, randomization, confounding, randomization tests, hypergeometric distribution, descriptive statistics, sampling, bias, binomial distribution, significance tests, confidence intervals, normal model, t-procedures, two-sample procedures.  Substantial use of statistical software.  4 lectures.",
+            "title": "Statistics I"
+        },
+        "STAT 302": {
+            "description": "Continued study of the process, concepts, and methods of statistical investigations.  Association, chi-square procedures, one-way ANOVA, multiple comparisons, two-way ANOVA with interaction, simple linear regression, correlation, prediction, multiple regression.  Substantial use of statistical software.  4 lectures.",
+            "title": "Statistics II"
+        },
+        "STAT 305": {
+            "description": "Basic probability rules, counting methods, conditional probability.  Discrete and continuous random variables, expected values, variance and covariance.  Properties of linear combinations of random variables with applications to statistical estimators.  Simulation analysis of random phenomena using a modern computer language.  Not open to students with credit in STAT 321.  4 lectures.",
+            "title": "Introduction to Probability and Simulation"
+        },
+        "STAT 312": {
+            "description": "Descriptive and graphical methods.  Discrete and continuous probability distributions.  One and two sample confidence intervals and hypothesis testing.  Single factor analysis of variance.  Quality control.  Introduction to regression and to experimental design.  Substantial use of statistical software.  4 lectures.  Fulfills GE B6.",
+            "title": "Statistical Methods for Engineers"
+        },
+        "STAT 313": {
+            "description": "Analysis of variance and regression analysis for students not majoring in statistics or mathematics.  Includes one-way classification, randomized blocks, Latin squares, factorial designs, multiple regression, diagnostics, and model comparison.  4 lectures.  Fulfills GE Area B1; for students admitted Fall 2016 or later, a grade of C- or better in one GE Area B1 course is required to fulfill GE Area B.",
+            "title": "Applied Experimental Design and Regression Models"
+        },
+        "STAT 321": {
+            "description": "Tabular and graphical methods for data summary, numerical summary measures, probability concepts and properties, discrete and continuous probability distributions, expected values, statistics and their sampling distributions, point estimation, confidence intervals for a mean and proportion.  Use of statistical software.  4 lectures.  Fulfills GE B6.",
+            "title": "Probability and Statistics for Engineers and Scientists"
+        },
+        "STAT 323": {
+            "description": "Principles, construction and analysis of experimental designs.  Completely randomized, randomized complete block, Latin squares, Graeco Latin squares, factorial, and nested designs.  Fixed and random effects, expected mean squares, multiple comparisons, and analysis of covariance.  4 lectures.",
+            "title": "Design and Analysis of Experiments I"
+        },
+        "STAT 324": {
+            "description": "Linear regression including indicator variables, influence diagnostics, assumption analysis, selection of 'best subset', nonstandard regression models, logistic regression, nonlinear regression models.  Not open to students with credit in STAT 334.  4 lectures.",
+            "title": "Applied Regression Analysis"
+        },
+        "STAT 330": {
+            "description": "Data acquisition, cleaning, and management using SAS; reading data into SAS from various sources, recoding variables, subsetting and merging data, exporting results in other formats.  Graphical procedures, basic descriptive and inferential statistics.  Introduction to SAS macros.  4 lectures.",
+            "title": "Statistical Computing with SAS"
+        },
+        "STAT 331": {
+            "description": "Data acquisition, cleaning, and management in R; use of regular expressions; functional and object-oriented programming; graphical, descriptive, and inferential statistical methods; random number generation; Monte Carlo methods including resampling, randomization, and simulation.  4 lectures.",
+            "title": "Statistical Computing with R"
+        },
+        "STAT 334": {
+            "description": "Linear models in algebraic and matrix form, diagnostics, transformations, polynomial models, categorical predictors, model selection, correlated errors, logistic regression.  Not open to students with credit in STAT 324.  4 lectures.",
+            "title": "Applied Linear Models"
+        },
+        "STAT 350": {
+            "description": "Random events, random variables, and random processes, with emphasis on probabilistic treatment of signals and noise.  Specific topics include:  sample spaces, probability, distributions, independence, moments, covariance, time/ensemble averages, stationarity, common processes, correlation and spectral functions.  4 lectures.  Fulfills GE B6.",
+            "title": "Probability and Random Processes for Engineers"
+        },
+        "STAT 365": {
+            "description": "Written communication of statistical ideas and content.  Analyze data using appropriate methods from previous statistics courses.  Writing technical reports with appropriate graphs and tables.  Strategies to discern relevant and necessary information to communicate data, ideas, and results to different audiences.  2 lectures.",
+            "title": "Statistical Communication"
+        },
+        "STAT 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "STAT 405": {
+            "description": "Advanced probability models, their simulation and application.  Poisson processes, Markov chains, random walks, and continuous-time Markov processes.  Monte Carlo integration and simulation methods, including Markov chain Monte Carlo and Gibbs sampling.  4 lectures.",
+            "title": "Applied Probability Models"
+        },
+        "STAT 410": {
+            "description": "Topics related to content, pedagogy, technology, and assessment for teaching statistics in grades 6-16 in accordance with current standards and research for teaching statistics including the Common Core State Standards for Mathematics.  4 lectures.",
+            "title": "Statistics Education: Pedagogy, Content, Technology, and Assessment"
+        },
+        "STAT 414": {
+            "description": "Overview of multilevel and mixed models, including hierarchical data, intraclass correlation, fixed vs.  random coefficients, variance components, comparisons to traditional analyses.  Use of statistical software for implementation of methods.  4 lectures.",
+            "title": "Multilevel and Mixed Modeling"
+        },
+        "STAT 415": {
+            "description": "Bayes' theorem, prior and posterior distributions, likelihood functions, Markov Chain Monte Carlo methods, hierarchical modeling.  Bayesian data analysis, comparison of Bayesian and classical (frequentist) approaches.  4 lectures.",
+            "title": "Bayesian Reasoning and Methods"
+        },
+        "STAT 416": {
+            "description": "Time series components, descriptive smoothing methods, regression models for time series data, forecasting via exponential smoothing, evaluation of forecasts, autocorrelation, ARIMA models and Box-Jenkins methods, combining forecasts, frequency domain analysis, filtering.  4 lectures.",
+            "title": "Statistical Analysis of Time Series"
+        },
+        "STAT 417": {
+            "description": "Parametric and nonparametric methods for analyzing survival data.  Topics include Kaplan-Meier and Nelson-Aalen estimates, Cox regression models, accelerated failure time models.  Use of statistical software to implement methods throughout course.  4 lectures.",
+            "title": "Survival Analysis Methods"
+        },
+        "STAT 418": {
+            "description": "Discrete multivariate statistics, including analysis of cross-classified data, log-linear models for multidimensional contingency tables, goodness of fit statistics, measures of association, model selection, and hypothesis testing.  4 lectures.",
+            "title": "Categorical Data Analysis"
+        },
+        "STAT 419": {
+            "description": "Continuous multivariate statistics.  Multivariate linear model, principal components and factor analysis, discriminant analysis, clustering, classification, and canonical correlation.  Use of statistical software throughout the course.  4 lectures.",
+            "title": "Applied Multivariate Statistics"
+        },
+        "STAT 421": {
+            "description": "Survey planning, execution, and analysis.  Principles of survey research, including non-sampling and sampling error topics.  Survey sample designs, including simple random, systematic, stratified, cluster, and multi-stage.  Estimation procedures and sample size calculations.  4 lectures.",
+            "title": "Survey Sampling and Methodology"
+        },
+        "STAT 423": {
+            "description": "Continuation of STAT 323.  2k factorial designs, 3k factorial designs, balanced and partially balanced incomplete block designs, nested designs, split-plot designs, response surface methodology, confounding, repeated measures, and other design approaches.  4 lectures.",
+            "title": "Design and Analysis of Experiments II"
+        },
+        "STAT 425": {
+            "description": "Basic probability theory, combinatorial methods, independence, conditional and marginal probability, probability models for random phenomena, random variables, probability distributions, distributions of functions of random variables, mathematical expectation, covariance and correlation, conditional expectation.  4 lectures.",
+            "title": "Probability Theory"
+        },
+        "STAT 426": {
+            "description": "Continuation of STAT 425.  Properties of statistics obtained from samples.  Sample mean properties, convergence in probability, law of large numbers, and central limit theorem.  Selected probability distributions.  Theory of estimation.  Sampling distribution of estimators.  4 lectures.",
+            "title": "Estimation and Sampling Theory"
+        },
+        "STAT 427": {
+            "description": "Continuation of STAT 426.  The theory of hypothesis testing and its applications.  Power and uniformly most powerful tests.  Categorical data and nonparametric methods.  Other selected topics.  4 lectures.",
+            "title": "Mathematical Statistics"
+        },
+        "STAT 434": {
+            "description": "Modern methods in predictive modeling and classification.  Splines, smoothing splines, ridge regression, LASSO, regression and classification trees, generalized additive models, logistic regression, and linear discriminant analysis.  Model assessment and selection using cross validation, bootstrapping, AIC, and BIC.  4 lectures.",
+            "title": "Statistical Learning: Methods and Applications"
+        },
+        "STAT 440": {
+            "description": "Programming, data management, and data analysis in preparation for the Certified Base Programmer Exam offered by the SAS Institute.  Topics include accessing data, creating data structures, managing data, generating reports, and handling errors.  2 lectures.",
+            "title": "SAS Certification Preparation"
+        },
+        "STAT 441": {
+            "description": "Programming topics in preparation for the Certified Advanced Programmer Exam offered by the SAS Institute.  Accessing data using PROC SQL, macro processing, applications for indexes, data look-up techniques including array processing, hash objects, and combining/merging.  2 lectures.",
+            "title": "SAS Advanced Certification Preparation"
+        },
+        "STAT 461": {
+            "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report. Minimum 90 hours total time.",
+            "title": "Senior Project I"
+        },
+        "STAT 462": {
+            "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report. Minimum 90 hours total time.",
+            "title": "Senior Project II"
+        },
+        "STAT 465": {
+            "description": "Blending of the theoretical and practical aspects of statistical consulting.  Development of tools necessary to conduct effective consulting sessions, present oral arguments and written reports, work collaboratively to solve problems, and utilize professional publications in statistics.  4 lectures.",
+            "title": "Statistical Consulting"
+        },
+        "STAT 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "STAT 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 6 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "STAT 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 24 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "STAT 511": {
+            "description": "Statistical methods in research for graduate students not majoring in mathematical sciences.  Probability distributions, confidence intervals, hypothesis testing, contingency tables, linear regression and correlation, multiple regression, analysis of variance.  Substantial use of statistical software.  4 lectures.  Formerly STAT 512.",
+            "title": "Statistical Methods"
+        },
+        "STAT 513": {
+            "description": "Applications of statistics for graduate students not majoring in mathematics.  Analysis of variance including the one-way classification, randomized blocks, Latin squares, and factorial designs.  Introduction to multiple regression and to analysis of covariance.  Substantial use of statistical software.  4 lectures.  Not open to students with credit in STAT 313.",
+            "title": "Applied Experimental Design and Regression Models"
+        },
+        "STAT 523": {
+            "description": "Principles, construction and analysis of experimental designs.  Completely randomized, randomized complete block, Latin squares, Graeco-Latin squares, factorial, and nested designs.  Fixed and random effects, expected mean squares, multiple comparisons, and analysis of covariance.  Not open to students with credit in STAT 323.  4 lectures.",
+            "title": "Design and Analysis of Experiments I"
+        },
+        "STAT 524": {
+            "description": "Linear regression including indicator variables, influence diagnostics, assumption analysis, selection of 'best subset', nonstandard regression models, logistic regression, nonlinear regression models.  Not open to students with credit in STAT 324 or STAT 334.  4 lectures.",
+            "title": "Applied Regression Analysis"
+        },
+        "STAT 530": {
+            "description": "Techniques available to the statistician for efficient use of computers to perform statistical computations and to analyze large amounts of data.  Use of the SAS software system.  Includes data preparation, report writing, basic statistical methods, and a research project.  Not open to students with credit in STAT 330.  4 lectures.",
+            "title": "Statistical Computing with SAS"
+        },
+        "STAT 531": {
+            "description": "Obtain, manage, and clean data; use of regular expressions; functional and object-oriented programming; graphical, descriptive, and inferential statistical methods; random number generation; Monte Carlo methods including resampling, randomization, and simulation.  Not open to students with credit in STAT 331.  4 lectures.",
+            "title": "Statistical Computing with R"
+        },
+        "STAT 542": {
+            "description": "Descriptive and graphical methods.  Discrete and continuous probability distributions.  One and two sample confidence intervals and hypothesis testing.  Single factor analysis of variance.  Quality control.  Introduction to regression and to experimental design.  Substantial use of statistical software.  Not open to students with credit in STAT 312.  4 lectures.",
+            "title": "Statistical Methods for Engineers"
+        },
+        "STAT 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "MATH 96",

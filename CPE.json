@@ -1,4 +1,222 @@
 {
+    "descriptions": {
+        "CPE 100": {
+            "description": "Introduction to the computer engineering discipline. Success skills and curricular information. Career paths and opportunities. Professional aspects of engineering and computer science. Interaction with upper division students, alumni, faculty and staff. Introduction to computer software and hardware. Credit/No Credit grading only. 1 lecture.",
+            "title": "Computer Engineering Orientation"
+        },
+        "CPE 101": {
+            "description": "Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction.  Basic control structures, data types, and input/output.  Introduction to the software development process:  design, implementation, testing and documentation.  The syntax and semantics of a modern programming language.  Credit not available for students who have taken CSC/CPE 108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 101.",
+            "title": "Fundamentals of Computer Science"
+        },
+        "CPE 105": {
+            "description": "Facilitated study and discussion of fundamental concepts of computer science and familiarization with programming environments.  Credit/No Credit grading only.  1 laboratory.  Crosslisted as CPE/CSC 105.",
+            "title": "Fundamentals of Computer Science I Supplemental Instruction"
+        },
+        "CPE 108": {
+            "description": "Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming.  Introduction to programming language concepts including control structures, data types, classes, and inheritance.  Program design principles.  Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues).  Intended for students with experience in algorithmic problem solving and using basic control structures and data types in a modern programming language (CPE/CSC 101), but who are not ready for CPE/CSC 202.  Not open to students with credit in CPE/CSC 102 or CPE/CSC 202.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 108.",
+            "title": "Accelerated Introduction to Computer Science"
+        },
+        "CPE 123": {
+            "description": "Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing.  An introduction to computing and to the selected topic domain.  The Schedule of Classes will list topic selected.  No programming experience required.  Not for students with credit in CPE/CSC 103 or CPE/CSC 203.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 123.",
+            "title": "Introduction to Computing"
+        },
+        "CPE 133": {
+            "description": "Number systems, Boolean algebra, Boolean functions, and function minimization.  Analysis and design of combinational and sequential logic circuits.  Hardware Description Language (HDL) concepts and applications digital design and synthesis in Programmable Logic Devices (PLDs).  Not open to students with credit in CPE/EE 129.  Course may be offered in classroom-based or online format.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 133.",
+            "title": "Digital Design"
+        },
+        "CPE 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "CPE 202": {
+            "description": "Introduction to data structures and analysis of algorithms.  Abstract datatypes.  Specification and implementation of advanced data structures.  Theoretical and empirical analysis of recursive and iterative algorithms.  Software performance evaluation and testing techniques.  Not open to students with credit in CSC/CPE 108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 202.  Formerly CPE/CSC 103.",
+            "title": "Data Structures"
+        },
+        "CPE 203": {
+            "description": "Object-oriented programming and design with applications to project construction.  Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 203.  Formerly CPE/CSC 102.",
+            "title": "Project-Based Object-Oriented Programming and Design"
+        },
+        "CPE 233": {
+            "description": "Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs).  Basic computer design with its datapath components and control unit.  Introduction to assembly language programming of an off-the-shelf RISC-based microcontroller.  Not open to students with credit in CPE/EE 229.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 233.",
+            "title": "Computer Design and Assembly Language Programming"
+        },
+        "CPE 290": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CPE 315": {
+            "description": "In-depth study of the instruction set architecture and hardware design of a specific CPU.  Introduction to pipelines, input/output and multi-processors.  Computer abstractions and performance measurement.  3 lectures, 1 laboratory.",
+            "title": "Computer Architecture"
+        },
+        "CPE 321": {
+            "description": "Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 321.",
+            "title": "Introduction to Computer Security"
+        },
+        "CPE 328": {
+            "description": "Discrete-time systems and analysis, with emphasis on linear time-invariant (LTI) systems.  Sampling theorem.  Classification of discrete-time systems.  Convolution and its application to LTI systems.  The z transform, discrete-time Fourier transform, and discrete Fourier transform.  Introduction to digital filters.  3 lectures.  Crosslisted as CPE/EE 328.",
+            "title": "Discrete Time Signals and Systems"
+        },
+        "CPE 329": {
+            "description": "Design, implementation and testing of programmable logic microprocessor-based systems.  Hardware/software tradeoffs (such as timing analysis and power considerations), system economics of programmable logic and microprocessor-based system design.  Interfacing hardware components (such as ADCs/DACs, sensors, transducers).  3 lectures, 1 laboratory.  Not open to students with credit in CPE/EE 336.  Crosslisted as CPE/EE 329.",
+            "title": "Programmable Logic and Microprocessor-Based Systems Design"
+        },
+        "CPE 336": {
+            "description": "Introduction to microcontrollers and integrated microprocessor systems.  Hardware/software trade-offs, system economics, and functional configurations.  Interface design, real-time clocks, interrupts, A/D conversion, serial and parallel communications, watch-dog timers, low power operation, event-based inter-peripheral communication, and assembly and higher-level language programming techniques.  Architecture and design of sampled data and low-power systems.  Not open to students with credit in CPE/EE 329.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 336.",
+            "title": "Microprocessor System Design"
+        },
+        "CPE 350": {
+            "description": "Definition and specification of a system to be constructed in CPE 450; requirements elicitation techniques, research and data gathering methods; project planning, time and budget estimating; project team organization.  Ethics and professionalism.  3 lectures, 1 laboratory.",
+            "title": "Capstone I"
+        },
+        "CPE 357": {
+            "description": "C programming language from a system programming perspective.  Standard C language including operators, I/O functions, and data types in the context of system functions.  Unix commands, shell scripting, file system, editors.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 357.",
+            "title": "Systems Programming"
+        },
+        "CPE 368": {
+            "description": "Laboratory work pertaining to linear systems, including Fourier analysis, time and frequency responses, and system transfer function.  1 laboratory.  Crosslisted as CPE/EE 368.",
+            "title": "Signals and Systems Laboratory"
+        },
+        "CPE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "CPE 416": {
+            "description": "Theory and application of concepts relevant to autonomous mobile robots.  Sensor and actuator interfacing, programming mobile robots, mobile robot configurations, software architectures and algorithms.  3 lectures, 1 laboratory.",
+            "title": "Autonomous Mobile Robotics"
+        },
+        "CPE 419": {
+            "description": "Introduction to applied parallel computing paradigms:  software models, resource allocation, performance measurement, and data sharing.  Emphasis on massively parallel computation and performance improvement for a real-world application of significant scope.  3 lectures, 1 laboratory.",
+            "title": "Applied Parallel Computing"
+        },
+        "CPE 422": {
+            "description": "Introduction to network and web security, including denial of service, botnets, access control, routing attacks, transport layer attacks, tunneling mechanisms, VPNs, IDS, firewalls, penetration testing, key distribution, browser security, social network security, email security, jamming, and wireless security.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 422.",
+            "title": "Network and Web Security"
+        },
+        "CPE 428": {
+            "description": "Introduction to the concepts of 2D and 3D computer vision:  low-level image processing methods such as filtering and edge detection; feature extraction; segmentation and clustering; stereo vision; appearance-based and model-based algorithms.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 428.",
+            "title": "Computer Vision"
+        },
+        "CPE 431": {
+            "description": "Language principles and design issues:  bindings, conversion, parameter passing, and dynamic semantics.  Language implementation:  intermediate code representation, memory management, code optimization, and code generation.  Functional programming languages.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 431.",
+            "title": "Programming Languages II"
+        },
+        "CPE 432": {
+            "description": "Theory and applications of digital computers in linear control systems.  Discrete time methods are used in analysis and design studies.  Digital control systems are synthesized.  3 lectures.  Crosslisted as CPE/EE 432.",
+            "title": "Digital Control Systems"
+        },
+        "CPE 439": {
+            "description": "Theory, design and implementation of real-time operating system-based embedded systems.  Scheduling algorithms, operating system resources, peripheral device interfacing and embedded system architecture.  Resource management issues in a resource-limited (microcontroller-based) environment.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 439.",
+            "title": "Introduction to Real-Time Operating Systems"
+        },
+        "CPE 441": {
+            "description": "Design of VLSI circuits using state-of-the-art CAD software.  Design issues and algorithms related to design using CAD.  Full custom design through automated design and a major multi-week chip design project in lab.  3 lectures, 1 laboratory.  Crosslisted as CPE 441/EE 431.",
+            "title": "Computer-Aided Design of VLSI Devices"
+        },
+        "CPE 450": {
+            "description": "Team-based design, construction and deployment of an embedded system that includes a custom-built computer.  Technical management of product development teams.  Technical documentation, configuration management, quality assurance, integration and systems testing.  Professionalism.  1 lecture, 2 laboratories.",
+            "title": "Capstone II"
+        },
+        "CPE 453": {
+            "description": "Introduction to sequential and multiprogramming operating systems; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I/O control systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 453.",
+            "title": "Introduction to Operating Systems"
+        },
+        "CPE 454": {
+            "description": "Design and implementation of multiprogramming kernels, systems programming methodology, interprocess communications, synchronization, device drivers and network access methods.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 454.",
+            "title": "Implementation of Operating Systems"
+        },
+        "CPE 458": {
+            "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems.  Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 458.",
+            "title": "Current Topics in Computer Systems"
+        },
+        "CPE 461": {
+            "description": "Selection and completion of an individual or team project in laboratory environment.  Project results are presented in a formal report.  3 laboratories.",
+            "title": "Senior Project I"
+        },
+        "CPE 462": {
+            "description": "Selection and completion of an individual or team project in laboratory environment.  Project results are presented in a formal report.  2 laboratories.",
+            "title": "Senior Project II"
+        },
+        "CPE 464": {
+            "description": "Computer network architectures; communications protocol standards; services provided by the network; historical and current examples presented.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Computer Networks"
+        },
+        "CPE 465": {
+            "description": "Advanced topics in computer networks; greater detail of protocol standards and services provided by the network; focus on current industry and research topics.  3 lectures, 1 laboratory.",
+            "title": "Advanced Computer Networks"
+        },
+        "CPE 469": {
+            "description": "Foundations of distributed systems, distributed hash tables (peer-to-peer systems), failure detectors, synchronization, election, inter-process communication, consensus, replication, key-value stores, and measurements.  3 lectures, 1 laboratory.  Crosslisted as CSC/CPE 469.",
+            "title": "Distributed Systems"
+        },
+        "CPE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CPE 471": {
+            "description": "Graphics software development and use of application programming interfaces for 3D graphics.  The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 471.",
+            "title": "Introduction to Computer Graphics"
+        },
+        "CPE 472": {
+            "description": "Design and programming of microprocessor-based digital controls for electro-mechanical plants.  Topics include digital control laws, translation of transfer functions into algorithms, assembly language programming, real-time software design, sample rate selection, finite word-length considerations.  1 laboratory.  Crosslisted as CPE/EE 472.",
+            "title": "Digital Control Systems Laboratory"
+        },
+        "CPE 476": {
+            "description": "Basic and advanced algorithms for real-time, interactive, 3D graphics software.  Modeling (polygon mesh, height field, scene graph), real-time rendering and shading (visibility processing, LOD, texture and light maps), collision detection (bounding volumes, complexity management), interactive controls, multi-player game technology, game engine architecture.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 476.",
+            "title": "Real-Time 3D Computer Graphics Software"
+        },
+        "CPE 479": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CPE 482": {
+            "description": "Selected aspects of design, implementation, verification and analysis of advanced computer systems.  Topics may include computer systems, embedded systems, robotics, mechatronics, haptics, human computer interfaces, digital control, digital signal processing, wireless computing, real time operating systems, and networks.  Class Schedule will list topic selected.  Total credit limited to 8 units, repeatable in same term.  3 lectures, 1 laboratory.",
+            "title": "Advanced Topics in Systems for Computer Engineering"
+        },
+        "CPE 485": {
+            "description": "Overview of existing autonomous mobile robot systems, basic kinematic modeling, control structures, sensing and sensor modeling, localization, and motion planning algorithms.  Implementation of autonomous navigation capabilities.  3 lectures, 1 laboratory.",
+            "title": "Autonomous Robot Navigation"
+        },
+        "CPE 488": {
+            "description": "Materials, processes, and reliability of microelectronics and electronics packaging, surface mount assembly and printed circuit board fabrication.  Organic substrates and ceramic substrates.  Mechanical design, thermal, and electrical considerations in electronic packaging.  Design for manufacturability.  Overview of optoelectronics packaging and other emerging technologies in microelectronics and electronic packaging.  Project on design and manufacture of an electronic device.  3 lectures, 1 laboratory.  Crosslisted as CPE 488/IME 458/MATE 458.",
+            "title": "Microelectronics and Electronics Packaging"
+        },
+        "CPE 493": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CPE 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CPE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CPE 515": {
+            "description": "Comparative study and design of multiprocessor, dataflow, RISC, high level language and other new computer architectures.  VLSI processor design techniques.  3 seminars, 1 laboratory.  Crosslisted as CPE/CSC 515.",
+            "title": "Computer Architecture"
+        },
+        "CPE 521": {
+            "description": "Organization of modern general purpose, high speed digital computer systems.  Design of arithmetic units, control units, memories and memory subsystems.  Cost, power and speed trade-offs in the design of such systems.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 521.",
+            "title": "Computer Systems"
+        },
+        "CPE 522": {
+            "description": "Define and implement a microcontroller-based Real-Time Operating System (RTOS).  Advanced real-time concepts, kernel structure, task and time management, various intertask communication constructs including semaphores, queues and mailboxes.  Scheduler design, memory management and shared resource management in a resource-constrained microcontroller environment.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 522.",
+            "title": "Advanced Real-Time Operating Systems Design"
+        },
+        "CPE 523": {
+            "description": "Full-custom design and analysis of digital circuits using full CMOS, pass-transistor and dynamic circuit topologies.  Transistor sizing for minimizing power consumption, delay and other design criteria.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 523.",
+            "title": "Digital Systems Design"
+        },
+        "CPE 564": {
+            "description": "Exploration of advanced topics in emerging computer networking technologies; focus on leading edge computer network research topics.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 564.",
+            "title": "Computer Networks: Research Topics"
+        },
+        "CPE 569": {
+            "description": "Principles and practices in distributed computing:  interprocess communications, group communications, client-server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols.  Distributed algorithms:  consensus protocols, global state protocols.  Fault tolerance:  classification of faults, replication.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 569.",
+            "title": "Distributed Computing"
+        }
+    },
     "links": [
         {
             "source": "MATH 117",

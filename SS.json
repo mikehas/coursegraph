@@ -1,4 +1,130 @@
 {
+    "descriptions": {
+        "SS 121": {
+            "description": "Biological, chemical, physical and genetic properties of soils.  Application of scientific principles to solving land use, water management, and soil conservation problems.  Interpretation of soils data for making environmental decisions, applying management practices, and sustainable food production.  3 lectures, 1 laboratory.  Fulfills GE Area B5.",
+            "title": "Introductory Soil Science"
+        },
+        "SS 131": {
+            "description": "Soils' ecological functions; soil and the water cycle; soil in production of food, fiber, and forest materials; techniques and reports of soil analyses with agricultural and environmental applications; soil quality; introductory overview of soils and civilizations. Not open to students with credit in SS 121. 3 lectures, 1 activity.",
+            "title": "Soils in Environmental and Agricultural Systems"
+        },
+        "SS 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 12 units, with a maximum of 2 units per quarter.  Crosslisted as ERSC/SS 200.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "SS 221": {
+            "description": "Plant nutrient requirements in the context of soil health.  Composition, value, and use of fertilizer materials, conditioners and agricultural minerals for sustainable crop production and environmental quality.  3 lectures, 1 laboratory.",
+            "title": "Soil Health and Plant Nutrition"
+        },
+        "SS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 lectures.  Crosslisted as ERSC/SS 270.",
+            "title": "Selected Topics"
+        },
+        "SS 301": {
+            "description": "Supervised practice in technical, educational, professional, and operational applications related to earth sciences or soil science.  Students participate in faculty-supervised group or individual activities that support educational and professional goals.  Credit/No Credit grading only.  Total credit limited to 12 units.  1-2 activities.  Crosslisted as ERSC/SS 301.",
+            "title": "Earth Sciences/Soils Science Practicum"
+        },
+        "SS 321": {
+            "description": "Identification of soil morphological and site properties.  Correlation of soil physical and chemical properties with soil taxonomy and land use.  Techniques of interpretations for agriculture, forest lands, wetlands, range lands and urban development.  3 lectures, 1 laboratory.",
+            "title": "Soil Morphology"
+        },
+        "SS 322": {
+            "description": "Investigation and evaluation of the nutrient supplying ability of soils.  Conditions and transformations involved in the transfer of mineral nutrients from soils to plants.  Effects of cultural treatments on soil fertility.  Diagnostic techniques and data interpretation in soil and plant analysis.  3 lectures, 1 laboratory.",
+            "title": "Soil Plant Relationships"
+        },
+        "SS 339": {
+            "description": "Selected students will spend up to 12 weeks with an approved firm or agency engaged in work and study related to their major.  A detailed written proposal and written interim and final reports required.  One unit of credit may be allowed for each full week of internship.  Credit/No Credit grading.  Crosslisted as ERSC/SS 339.",
+            "title": "Internship in Environmental Earth and Soil Sciences"
+        },
+        "SS 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 12 units.  Crosslisted as ERSC/SS 400.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "SS 402": {
+            "description": "Experience in soil, compost, and water testing.  Sampling rationale and protocol.  Analyses of compost feedstocks and finished compost; monitoring for consistency.  Theory and practice in use of analytical instrumentation.  Interpretation of results for soil, compost, and water management.  Total credit limited to 6 units for SS or ERSC majors.  Total credit limited to 3 units for Soil Science minor.",
+            "title": "Soil, Compost, and Water Testing Enterprise"
+        },
+        "SS 421": {
+            "description": "The formation, characteristics, and functions of wetlands.  Genesis of hydric soils.  Plant adaptations to saturated soils.  Wetlands as wildlife habitat.  Policies and social issues associated with wetlands.  The procedures of wetland delineations.  3 lectures, 1 laboratory.  Crosslisted as BIO/NR/SS 421.",
+            "title": "Wetlands"
+        },
+        "SS 422": {
+            "description": "Biochemical activities, ecology and environmental implications of soil organisms.  Effects on the formation, characteristics, and productivity of soils.  Methods of studying soil organisms.  3 lectures, 1 laboratory.",
+            "title": "Soil Ecology"
+        },
+        "SS 423": {
+            "description": "Chemical processes governing weathering, soil mineral formation and stability, common solubility equilibria.  Use of chemical principles to explain surface chemical properties of soils and environmental problems in water and soil chemical systems.  Preparation of professional quality reports based on laboratory data and library research.  3 lectures, 1 laboratory, 1 activity.",
+            "title": "Environmental Soil and Water Chemistry"
+        },
+        "SS 431": {
+            "description": "Development and production of digital soil surveys for interpretive purposes.  Use of soil taxonomy, land classification systems, geographic information system (GIS) software, and geostatistics to evaluate land for best management practices.  2 lectures, 2 laboratories.",
+            "title": "Digital Soil Mapping"
+        },
+        "SS 432": {
+            "description": "Matter and energy in soils, with emphasis on properties and behavior of solids, water, air, and heat.  Applications to agriculture, forestry, range management, engineering, and environmental sciences.  Preparation of professional reports based on laboratory data and library research.  3 lectures, 1 laboratory, 1 activity.",
+            "title": "Environmental Soil Physics"
+        },
+        "SS 440": {
+            "description": "Ecosystem approach to chemical, biological, physical and mechanical properties of forest and range soils.  Site quality, nutrient cycling, erosion and mass movement, fire effects.  Preparation of soil management reports similar to those required by various land management organizations.  Overnight field trips.  3 lectures, 1 laboratory.",
+            "title": "Forest and Range Soils"
+        },
+        "SS 442": {
+            "description": "Vadose zone and groundwater modeling and monitoring for groundwater basin management.  Principles of saturated and unsaturated flow.  Fate and transport of contaminants in soils and subsurface porous media.  Soil remediation and reclamation of disturbed lands.  3 lectures, 1 laboratory.",
+            "title": "Vadose Zone and Groundwater Processes"
+        },
+        "SS 444": {
+            "description": "Morphological description of soils in the field.  Taxonomic determination of classifications and interpretive properties from soil descriptions.  Participation in collegiate soil judging contests.  Total credit limited to 12 units.  1 lecture, 1 laboratory.",
+            "title": "Soil Judging"
+        },
+        "SS 463": {
+            "description": "Review of current research, experiments, and problems related to the student's major field of interest.  Preparation and presentation of reports on problems or research activities.  2 seminars.",
+            "title": "Undergraduate Seminar"
+        },
+        "SS 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 12 units.  1 to 4 lectures.  Crosslisted as ERSC/SS 470.",
+            "title": "Selected Advanced Topics"
+        },
+        "SS 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.  Crosslisted as ERSC/SS 471.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "SS 500": {
+            "description": "Advanced independent study planned and completed under the direction of a member of the Earth and Soil Sciences faculty.  Total credit limited to 6 units.",
+            "title": "Individual Study in Soil Science"
+        },
+        "SS 501": {
+            "description": "Problem solving and research planning for agriculture, natural resources and related sciences.  Preparation of study plans that identify problems, review appropriate literature, formulate objectives, develop methods and provide for presentation and interpretation of results.  Oral reports.  4 lectures.",
+            "title": "Research Planning"
+        },
+        "SS 508": {
+            "description": "Assessment techniques for the development of soil erosion control and the dispersal of surface runoff water on urban, agriculture, riparian, and rangelands.  Development of a water quality management plan for a specific land use.  3 lectures.",
+            "title": "Environmental Assessment for Erosion Control"
+        },
+        "SS 522": {
+            "description": "Current research frontiers in soil fertility.  Evaluating soil testing philosophy, theories and interpretation.  Optimizing soil conditions for maximizing crop production.  Consequences of environmental pollution, trace elements and organic amendments.  Chemical reactions including solubility and chelate equilibria, adsorption phenomena, nutrient mobility, soil mineralogy and weathering.  Use of foliar fertilization.  Radioisotopes in soil fertility.  3 lectures.",
+            "title": "Advanced Soil Fertility"
+        },
+        "SS 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 12 units.  1 to 4 seminars.",
+            "title": "Selected Topics in Soil Science"
+        },
+        "SS 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "SS 581": {
+            "description": "Student study and presentation of selected developments, trends and problems in the field of forest and natural resources, earth and soil sciences, and environmental management.  3 seminars.  Crosslisted as NR/SS 581.",
+            "title": "Graduate Seminar in Environmental Sciences"
+        },
+        "SS 582": {
+            "description": "Development of plans and practices for the management of crop, range, urban and wood land.  2 seminars, 1 laboratory.",
+            "title": "GIS in Advanced Land Management"
+        },
+        "SS 599": {
+            "description": "Individual research in soil science under faculty supervision, leading to a scholarly written presentation exhibiting originality, clarity, critical and independent thinking, proper analysis of data, appropriate organization and format, and accurate and thorough documentation.  Six units required for the M.S.  degree.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "MATH 96",

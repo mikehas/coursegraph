@@ -1,4 +1,414 @@
 {
+    "descriptions": {
+        "CE 111": {
+            "description": "Broad overview of the field of civil engineering, including professional societies and their student chapters, professional licensing and registration, professional codes of ethics, the elements of engineering design, and the scope of analysis and design activities undertaken by private- and public-sector civil design professionals. Credit/No Credit grading only. 1 lecture.",
+            "title": "Introduction to Civil Engineering"
+        },
+        "CE 112": {
+            "description": "The civil and environmental engineering design process.  Illustration and quantification of design alternatives.  Practice in creating and evaluating typical designs drawn from different specialty areas of the field.  2 lectures.",
+            "title": "Design Principles in Civil Engineering"
+        },
+        "CE 113": {
+            "description": "Computer-aided drawing (CAD) and related software to display and quantify engineering designs. Elements of engineering design drawings. Related topics in information technology. 2 laboratories.",
+            "title": "Computer Aided Drafting in Civil Engineering"
+        },
+        "CE 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only.",
+            "title": "Special Problems"
+        },
+        "CE 204": {
+            "description": "Stresses, strains, and deformations associated with axial, torsional, and flexural loading of bars, shafts, and beams.  Analysis of elementary determinate and indeterminate mechanical and structural systems.  2 lectures, 1 activity.",
+            "title": "Mechanics of Materials I"
+        },
+        "CE 207": {
+            "description": "Combined stress states including torsion, axial, shear, moment, and pressure vessel loadings.  Principle stress/strain states.  Basic failure criteria.  Analysis of beam forces, moments, deflections, and rotations.  Introduction to stability concepts including column buckling.  1 lecture, 1 activity.",
+            "title": "Mechanics of Materials II"
+        },
+        "CE 251": {
+            "description": "Concepts from basic programming theory introduced in the context of engineering applications.  Topics include the application of programming constructs to demonstrate finite precision calculations, linear systems, linear programming, basic nonlinear systems, plotting, statistics, least squares, approximations, and solve related problems from civil and environmental engineering.  2 activities.",
+            "title": "Programming Applications in Engineering"
+        },
+        "CE 259": {
+            "description": "Experimental determination of mechanical properties of concrete, asphalt, and soils as required for engineering applications.  Experimental verification of assumptions made in mechanics of materials procedures.  Use of strain measuring devices.  Preparation of technical reports.  2 laboratories.",
+            "title": "Civil Engineering Materials"
+        },
+        "CE 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CE 321": {
+            "description": "The characteristics and functions of highway, air, rail, transit and other modes of urban and intercity transportation.  Fundamentals of transportation design, operations, and planning.  Evaluation of costs, benefits, and environmental considerations.  3 lectures.",
+            "title": "Fundamentals of Transportation Engineering"
+        },
+        "CE 322": {
+            "description": "Application of principles of transportation planning, operations, and design.  Emphasis on urban transportation planning and operations, and the design of urban and intercity highway and rail facilities.  Experimental determination of the physical and mechanical properties of pavement materials through laboratory and field testing.  Analysis of data and preparation of testing reports.  2 laboratories.",
+            "title": "Fundamentals of Transportation Engineering Laboratory"
+        },
+        "CE 336": {
+            "description": "Hydraulics of pile flow.  Open channel flow, groundwater, and hydrology.  4 lectures.",
+            "title": "Water Resources Engineering"
+        },
+        "CE 337": {
+            "description": "Application of basic fluid dynamic principles to various mechanical systems.  Exposure to experimental problems and techniques with guided laboratory projects related to civil engineering discipline.  1 laboratory.",
+            "title": "Hydraulics Laboratory"
+        },
+        "CE 352": {
+            "description": "Introduction to concepts of structural engineering including ASCE7 loads, vertical and lateral load path, flexible and rigid diaphragms, determinate vs indeterminate systems, and the use of computer programs to solve structural engineering problems.  3 lectures, 1 laboratory.",
+            "title": "Structural Engineering"
+        },
+        "CE 355": {
+            "description": "Analytical and design principles of reinforced concrete in designing civil engineering systems.  Origin of code requirements.  Fundamentals of proportioning.  Details of elements and structural systems.  3 lectures, 1 laboratory.",
+            "title": "Reinforced Concrete Design"
+        },
+        "CE 356": {
+            "description": "Design and behavior of the elements of steel structures.  Design and analysis of bolted, welded and eccentric connections.  Proportioning of members and connections.  Introduction to plastic design, end plate connection, composite construction, shear connections and design of composite beams.  3 lectures, 1 laboratory.",
+            "title": "Structural Steel Design"
+        },
+        "CE 371": {
+            "description": "Theory and practice of planning, scheduling, estimating, and reporting for construction projects.  Fundamentals of scheduling logic including critical path, deterministic, and probabilistic scheduling; including the impact of constraints.  Identifying resources and estimating time requirements for design activities and project operations.  Not open to Architectural Engineering or Construction Management majors.  3 lectures, 1 activity.  Crosslisted as CE/CM 371.",
+            "title": "Construction Management and Project Planning"
+        },
+        "CE 381": {
+            "description": "Engineering geology, elementary mass-volume relations, clay-water interaction, soil classification, soil compaction, geostatic stress distributions, 1-D and 2-D steady-state flow, shear strength under drained and undrained conditions.  4 lectures.",
+            "title": "Geotechnical Engineering"
+        },
+        "CE 382": {
+            "description": "Use of standard laboratory test methods to determine physical, mechanical, and hydraulic properties of soil.  1 laboratory.",
+            "title": "Geotechnical Engineering Laboratory"
+        },
+        "CE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems"
+        },
+        "CE 401": {
+            "description": "Introduction to linear elasticity as a means for development of reduced order theories such as torsion, beams, columns, and plates from the general three-dimensional continuum.  Energy methods as well as the application and limitation of these theories.  4 lectures.",
+            "title": "Advanced Mechanics of Materials"
+        },
+        "CE 404": {
+            "description": "Finite element based solutions to engineering problems with an emphasis on elastostatic problems in structural mechanics.  The power and pitfalls associated with the finite element method highlighted through practical modeling assignments.  Introduces the use of commercial finite element codes.  3 lectures, 1 laboratory.  Crosslisted as BMED/CE/ME 404.",
+            "title": "Applied Finite Element Analysis"
+        },
+        "CE 405": {
+            "description": "Supplementary cementitious materials and chemical admixtures and their incorporation into concrete mix designs.  Design and testing of concrete for durability and other specialized properties.  3 lectures, 1 laboratory.",
+            "title": "Concrete Materials"
+        },
+        "CE 406": {
+            "description": "Structural analysis of frames, trusses, and combined systems.  Modern structural analysis theorems are presented along with discussion of their relation to classical methods.  Specific topics include virtual forces, virtual displacements, compatibility, constraints and matrix formulations.  Course may be offered in classroom-based or online format.  4 lectures, 1 laboratory.",
+            "title": "Structural Analysis"
+        },
+        "CE 407": {
+            "description": "Effect of vibration and transient loads on structural elements.  Dynamics load factors, support motion, damping and natural frequencies of multidimensional structural systems.  Modal analysis.  3 lectures, 1 laboratory.",
+            "title": "Structural Dynamics"
+        },
+        "CE 413": {
+            "description": "Apply advanced CAD software to develop design techniques and convey the completed design on a set of plans; site coordination, basic road design, grading, and utility design.  2 laboratories.",
+            "title": "Advanced Civil Computer-Aided Site Design"
+        },
+        "CE 421": {
+            "description": "Principles of traffic circulation on highway systems and other modes.  Traffic control.  Traffic data collection and analysis.  Capacity analysis.  Traffic modeling.  New technologies.  3 lectures, 1 laboratory.",
+            "title": "Traffic Engineering"
+        },
+        "CE 422": {
+            "description": "Alignment location and safe geometric design of highways.  Earthwork and drainage related to highway.  Theory and practice in design of alignments, highway cross-sections, intersections, interchanges, and freeways in urban and rural areas.  Application of advanced computer software to highway geometrics.  2 lectures, 2 laboratories.",
+            "title": "Highway Geometrics and Design"
+        },
+        "CE 423": {
+            "description": "Specification and operation of Intelligent Transportation Systems (ITS).  Traffic surveillance and control systems including applications to freeways, urban streets, rural highways, and public transportation.  Standards include the National Architecture for ITS.  3 lectures, 1 laboratory.",
+            "title": "Intelligent Transportation Systems"
+        },
+        "CE 424": {
+            "description": "Interdisciplinary aspects of public transportation problems, systems-team design approach to solutions.  History and present state of public transportation; role of public transportation in urban environment; legislative, political, social, and economic aspects of public transportation systems.  Methodology and procedures for transit planning.  Review of transit studies.  3 lectures, 1 laboratory.",
+            "title": "Public Transportation"
+        },
+        "CE 425": {
+            "description": "Introduction to railroad and railway system analysis and design.  Railroads, rail transit and high speed rail applications.  Track foundation design for various conditions.  Approaches to railway analysis and design and an introduction to railway traffic control and signaling.  4 lectures.",
+            "title": "Introduction to Railway Engineering"
+        },
+        "CE 431": {
+            "description": "Waves and their characteristics, types of waves, water wave theories, orbital velocities, refraction of waves, wave diffraction, wave reflection, application of linear theory to wave forces on cylindrical structures, submerged pipelines and vertical flat barriers (sea walls), wave uprush, rubble mound breakwaters.  4 lectures.",
+            "title": "Coastal Hydraulics I"
+        },
+        "CE 432": {
+            "description": "Reformed breaker height determination, wave runup analysis using a reformed breaker height.  Wave setback analysis.  Pile height determination.  Criteria for types of breaking waves.  Revetment analysis, rip-rap revetment design, wave forces on pilings.  4 lectures.",
+            "title": "Coastal Hydraulics II"
+        },
+        "CE 433": {
+            "description": "Analysis and characteristics of flow in open channels; critical flows; uniform flow; gradually varied flow; channel design problems, channel transitions and controls.  Rapidly varied flow; hydraulic jump and energy dissipaters.  Unsteady flows, waves and wave propagation, flood routing.  Applications of numerical methods in hydraulic engineering.  4 lectures.",
+            "title": "Open Channel Hydraulics"
+        },
+        "CE 434": {
+            "description": "Differential equations of groundwater flow, Darcy's Law, solutions of the steady and unsteady flow, differential equations for confined and unconfined flows.  Pumping test design.  Groundwater models, leaky aquifers.  Saltwater intrusion.  4 lectures.",
+            "title": "Groundwater Hydraulics and Hydrology"
+        },
+        "CE 435": {
+            "description": "Analysis of hydrologic cycle components such as precipitation, infiltration and evaporation.  Rainfall-runoff analysis to determine peak flows and runoff hydrographs.  Hydrologic river and reservoir routings and their applications for flood plain management.  Application of frequency analysis methods to determine design rainfalls and design flows.  4 lectures.",
+            "title": "Engineering Hydrology"
+        },
+        "CE 440": {
+            "description": "Water and wastewater flows.  Design of water distribution systems, trans-mission and storage reservoirs, wastewater collection systems, and storm water systems.  Pumps and pump systems, flow measurements.  Water sources for municipal supply.  3 lectures, 1 laboratory.",
+            "title": "Hydraulic Systems Engineering"
+        },
+        "CE 454": {
+            "description": "Design of reinforced concrete, steel and timber structures.  Loading standards, code design methods, connection design.  Comprehensive design projects.  2 lectures, 2 laboratories.",
+            "title": "Structural Design"
+        },
+        "CE 455": {
+            "description": "Analysis and design of timber structures with emphasis on construction methodology, and material behavior.  Topics include:  physical and mechanical properties of structural lumber and glued laminated timber; lateral load paths; diaphragms; connections; shear wall design; and combined load design.  3 lectures, 1 laboratory.",
+            "title": "Design of Timber Structures"
+        },
+        "CE 456": {
+            "description": "Basic principles in seismic analysis and design of civil and environmental systems.  Seismological aspects of earthquakes.  Simple concepts in structural dynamics.  Simplified code-based analysis and design.  4 lectures.  Not open to students with credit in CE 557.",
+            "title": "Seismic Principles for Civil and Environmental Engineering"
+        },
+        "CE 457": {
+            "description": "Fundamentals of the structural analysis and design of highway bridges.  Construction materials in bridges.  Loads on highway bridges.  Load path and distribution in bridge superstructure.  Design of reinforced concrete, pre-stressed concrete, and composite bridges.  3 lectures, 1 laboratory.",
+            "title": "Bridge Engineering"
+        },
+        "CE 458": {
+            "description": "Properties and mechanical characteristics of Fiber Reinforced Polymer (FRP) composite materials; applications in civil engineering structures as primary or secondary reinforcement; and design techniques based on newly developed ACI 440 design guidelines and worldwide experience in FRP design.  Not open to students with credit in CE 558.  3 lectures, 1 laboratory.",
+            "title": "Fiber Reinforced Polymer (FRP) Design"
+        },
+        "CE 459": {
+            "description": "Flexural and shear strengthening reinforced and prestressed concrete members using fiber reinforced polymer composite plates and laminates; seismic repair and rehabilitation of columns, slabs, beams and structures.  Focus on design philosophy and design methodology, based on the current understanding of FRP-strengthening techniques.  Not open to students with credit in CE 556.  3 lectures, 1 laboratory.",
+            "title": "FRP Strengthening of Reinforced Concrete Structures"
+        },
+        "CE 465": {
+            "description": "Advising for Senior Design Project and examination of the non-technical and professional issues engineering design professionals regularly encounter.  Topics include:  communications styles and assertiveness, technical communications (oral and written), lifelong learning, contemporary civil engineering issues, leadership, ethics, and personal and project management.  1 activity.",
+            "title": "Civil Engineering Professional Practice"
+        },
+        "CE 466": {
+            "description": "Work on multi-disciplinary teams to complete an integrated civil design project.  Focus on formal instruction, through project based learning, on selected topics in geotechnical, structural, transportation, and water resources engineering design.  Non-technical topics include team building, technical communications, and professional practice skills that must be mastered to become a successful design professional.  2 lectures, 1 laboratory.",
+            "title": "Senior Design Project I"
+        },
+        "CE 467": {
+            "description": "Continuation of work on multi-disciplinary teams to complete an integrated civil design project started in CE 466.  Focus of formal instruction on selected topics in geotechnical, structural, transportation, and water resources engineering design culminating with oral and written presentations of Senior Design projects.  2 lectures, 1 laboratory.",
+            "title": "Senior Design Project II"
+        },
+        "CE 468": {
+            "description": "Two-part series.  Student teams work in cooperation with a local community organization to complete an integrated civil design project.  Projects representative of those encountered in professional practice.  Focus on professional as well as design issues.  Volunteer service required.  2 lectures, 1 laboratory.",
+            "title": "Community Engineering Senior Design Project I"
+        },
+        "CE 469": {
+            "description": "Two-part series.  Student teams work in cooperation with a local community organization to complete an integrated civil design project.  Projects representative of those encountered in professional practice.  Focus on professional as well as design issues.  Volunteer service required.  2 lectures, 1 laboratory.",
+            "title": "Community Engineering Senior Design Project II"
+        },
+        "CE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CE 474": {
+            "description": "Fundamentals of State and Federal environmental laws essential to getting Civil Engineering projects permitted.  2 lectures.",
+            "title": "Environmental Compliance and Permitting"
+        },
+        "CE 475": {
+            "description": "Principles and practices for the sustainable design, fabrication, and installation of systems for the civil infrastructure and building; including structural, air/gas, water/wastewater, electrical, and control systems.  Methods and materials used for fabrication and installation; including cost and schedule considerations.  4 lectures.  Crosslisted as ARCE/CE 475.",
+            "title": "Civil Infrastructure and Building Systems"
+        },
+        "CE 481": {
+            "description": "Evaluation of shear strength for foundation design.  Analysis of bearing capacity for generalized conditions.  Design of reinforced concrete spread footings.  Stress distributions beneath loaded areas.  Immediate settlement, consolidation settlement, rate of consolidation, and creep.  4 lectures.",
+            "title": "Analysis and Design of Shallow Foundations"
+        },
+        "CE 486": {
+            "description": "Identification and characterization of consolidated geologic materials for the purpose of civil analysis and design.  Interpretation of geologic maps, cross sections, and reports.  Interpretation of aerial photographs.  Engineering considerations important in dealing with transported soils.  4 lectures.",
+            "title": "Introduction to Geological Engineering"
+        },
+        "CE 487": {
+            "description": "Evaluation of the engineering properties of rocks.  Rock core description.  Slope stability analyses in rock.  Discontinuity analysis.  Rockfall hazard assessment and mitigation.  Design of shallow foundations on rock.  4 lectures.",
+            "title": "Design of Foundations and Slopes in Rock"
+        },
+        "CE 488": {
+            "description": "Introduction to the basic concepts of probability theory, statistics, and decision theory as they pertain to problems in civil and environmental engineering.  Emphasis placed on the use of probabilistic modeling, Bayesian statistics, risk analysis, and decision theory.  4 lectures.",
+            "title": "Engineering Risk Analysis"
+        },
+        "CE 493": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limited to 4 units.",
+            "title": "Individual Study"
+        },
+        "CE 501": {
+            "description": "Matrix terminology and operations.  Matrix procedures for analysis of two-dimensional frameworks.  Development of stiffness, flexibility and mixed methods.  Development of algorithms and programs for use in the analysis of structural frameworks.  Discussion of modeling issues and limitations.  3 lectures, 1 laboratory.",
+            "title": "Advanced Matrix Analysis of Structures I"
+        },
+        "CE 504": {
+            "description": "Linear finite element theory and analysis.  Strong, weak and variational formulations.  Physical and isoparametric spaces.  Error estimates and numerical integration.  Development of finite element algorithms.  Use of commercial finite element codes to illustrate course concepts including modeling issues and limitations.  3 lectures, 1 laboratory.  Crosslisted as CE/ME 504.",
+            "title": "Finite Element Analysis"
+        },
+        "CE 511": {
+            "description": "Introduction to continuum mechanics.  Kinematics, stress, and balance laws.  Constitutive theory for isotropic and anisotropic solids and viscous fluids.  Applications including design of beams and pressure vessels, stress concentrations, fiber-reinforced composites, and non-homogeneous biological materials.  4 lectures.  Crosslisted as CE 511/ME 501.",
+            "title": "Continuum Mechanics and Elasticity"
+        },
+        "CE 513": {
+            "description": "Perfectly plastic and work hardening materials; von Mises and Tresca yield, isotropic and kinematic hardening flow rules, boundary-value problems.  Finite elasticity:  kinematics, Cauchy- and Green-elasticity, invariance, constraints, Neo-Hookean and Mooney-Rivlin materials, experimental approaches, non-uniqueness, anisotropy, residual stress, thermoelasticity, boundary-value problems.  4 lectures.  Crosslisted as CE 513/ME 503.",
+            "title": "Inelastic Stress Analysis"
+        },
+        "CE 521": {
+            "description": "Theories, principles, and procedures in the structural design of highway pavements.  Design of flexible and rigid pavements.  Performance of flexible and rigid pavements in the field and the characterization of pavement materials.  Practical and direct exposure to laboratory testing of pavement materials.  3 lectures, 1 laboratory.",
+            "title": "Highway Pavement Designs"
+        },
+        "CE 523": {
+            "description": "Planning of urban and regional multimodal transportation systems.  Modeling of transportation networks and travel demand.  Travel survey design.  Urban data systems.  Evaluation of alternatives based on economic, social, technological, and other factors.  2 lectures, 2 laboratories.",
+            "title": "Transportation Systems Planning"
+        },
+        "CE 524": {
+            "description": "Introduction to pavement management; pavement distress data collection; deflection measurements and analysis; pavement performance modeling; pavement structure design; maintenance planning and rehabilitation strategies; prioritization and optimization; computer applications in pavement management.  2 lectures, 2 laboratories.",
+            "title": "Pavement Performance and Management Systems"
+        },
+        "CE 525": {
+            "description": "Historical background of aviation and airport development; financing; estimating demand; aircraft characteristics; airport capacity; airspace and air traffic control; site selection; airport configuration; geometric design of landing area; planning and development of terminal areas; lighting; pavement design and drainage.  3 lectures, 1 laboratory.",
+            "title": "Airport Planning and Design"
+        },
+        "CE 526": {
+            "description": "Introduction to nature and extent of transportation safety problem worldwide and in the United States.  Several sub-areas of transportation safety:  road safety, human factors, vehicle safety; crash data collection and management; safety planning; hot spot identification; methodologies for conducting transportation accident studies; statistical applications to accident data; predictive model building; 'before-after' studies; countermeasure design.  3 lectures, 1 laboratory.",
+            "title": "Transportation Safety"
+        },
+        "CE 527": {
+            "description": "Presentation and analysis of concepts and designs for sustainable mobility from a global-to-local, interdisciplinary perspective, including pedestrians, bicyclists, and public transportation.  Addresses economy, environment, and equity (social issues) through lectures, panels, excursions and a planning/design project in San Luis Obispo County.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Mobility"
+        },
+        "CE 528": {
+            "description": "Principles of engineering systems analysis and applications to transportation using examples from different modes.  Identification of transportation benefits, costs, user and non-user impacts, transportation cost models, pricing, and optimization.  3 lectures, 1 laboratory.",
+            "title": "Transportation Economics and Analysis"
+        },
+        "CE 529": {
+            "description": "Theory and operation of transportation systems, the systems approach, simulation techniques.  Use of available software packages.  Simulation model development, calibration and use.  2 lectures, 2 laboratories.",
+            "title": "Modeling and Simulation in Transportation"
+        },
+        "CE 533": {
+            "description": "Matrix and simulation methods in hydrology, statistical studies in hydrology and their applications to civil engineering problems.  Generalized hydrologic characteristics.  Hydrologic simulation, computer applications, urban and small watershed hydrology, macroscopic and microscopic approach.  Storm water management models.  Hydrologic design.  4 lectures.",
+            "title": "Advanced Water Resources Engineering"
+        },
+        "CE 535": {
+            "description": "Water resources planning, development, system analysis and optimization.  Dynamic programming, multi-objective water resource systems.  4 lectures.",
+            "title": "Water Resources Systems Planning and Analysis"
+        },
+        "CE 536": {
+            "description": "Modeling, design and analysis of water, wastewater, stormwater systems.  Integration of water resource systems with Geographic Information Systems (GIS).  3 lectures, 1 laboratory.",
+            "title": "Computer Applications in Water Resources with Geographic Info Systems (GIS)"
+        },
+        "CE 537": {
+            "description": "Sources and types of groundwater contamination, contamination transport mechanisms.  Sorption and other chemical reactions.  Numerical modeling of contaminant transport.  Nonaqueous phase liquids.  Groundwater remediation and design.  4 lectures.",
+            "title": "Groundwater Contamination"
+        },
+        "CE 538": {
+            "description": "Integration of water delivery, wastewater collection, drainage systems, and associated treatment components in urbanizing areas.  Relationships between surface and groundwater elements of water sources and disposal.  Use of current design models to quantify the benefits of non-traditional options.  4 lectures.",
+            "title": "Urban Water Systems"
+        },
+        "CE 539": {
+            "description": "Application of fluid mechanics principles to environmental flows.  Emphasis on advection, dispersion, stratification and mixing effects.  Stratified flows, turbulent jets and plumes, wastewater and thermal diffusers, cooling ponds and channels, control of environmental problems.  4 lectures.",
+            "title": "Environmental Hydraulics"
+        },
+        "CE 552": {
+            "description": "Emphasis placed on reinforced concrete behavior and seismic design.  Topics include moment curvature analysis and plastic hinge modeling, strut and tie, design of structural walls, design of concrete moment frames and seismic detailing.  4 lectures.",
+            "title": "Analysis and Seismic Design of Reinforced Concrete"
+        },
+        "CE 553": {
+            "description": "Plastic analysis and capacity design principle; design of ductile steel structures including moment frames, concentrically braced frames, eccentrically braced frames, buckling-restrained braced frames, and steel plate shear walls according to the AISC Seismic Provisions for Structural Steel Buildings.  3 lectures, 1 activity.",
+            "title": "Ductile Design of Steel Structures"
+        },
+        "CE 555": {
+            "description": "Fundamental properties of new and advanced materials.  Experimental techniques.  Fracture characteristics and composite response of cement matrix composites.  New materials and products to advanced applications such as automation.  2 laboratories.",
+            "title": "Advanced Civil Engineering Materials Laboratory"
+        },
+        "CE 556": {
+            "description": "Flexural and shear strengthening reinforced and pre-stressed concrete members using FRP composite laminates and plates; seismic repair and rehabilitation of columns, beams, slabs and whole structures.  Design philosophies based on the current ACI 440 and the most up to date research in FRP composites.  Durability, fire protection and blast mitigation of structures utilizing FRP laminates.  Not open to students with credit in CE 459.  3 lectures, 1 laboratory.",
+            "title": "Advanced Fiber Reinforced Polymer (FRP) Strengthening of Reinforced Concrete Structures"
+        },
+        "CE 557": {
+            "description": "Extension of the basic principles of structural dynamics to analysis of civil structures (buildings, bridges, tanks, etc.) to earthquake loading.  Code based (Uniform Building Code and AASHTO) earthquake resistant design of civil structures.  Not open to students with credit in CE 456.  3 lectures, 1 laboratory.",
+            "title": "Seismic Analysis and Design for Civil Engineers"
+        },
+        "CE 558": {
+            "description": "Properties and mechanical characteristics of FRP composites and design methodologies based on the current understanding and usage of FRP composites.  Applications of composite rebars in civil engineering structures as primary reinforcement.  Design and analysis of reinforced concrete structures utilizing FRP rebars based on the ACI 440 design guidelines.  Not open to students with credit in CE 458.  3 lectures, 1 laboratory.",
+            "title": "Advanced Fiber Reinforced Polymer (FRP) Design"
+        },
+        "CE 559": {
+            "description": "Advanced analysis, design and behavior of prestressed and precast concrete elements and structures.  Origin of code requirements.  Detailed design of prestressed concrete components of civil engineering systems for buildings and highway construction.  Creep and shrinkage of concrete and relaxation of steel applied to prestressing losses.  4 lectures.",
+            "title": "Prestressed Concrete Design"
+        },
+        "CE 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 seminars.",
+            "title": "Selected Advanced Topics"
+        },
+        "CE 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CE 581": {
+            "description": "Advanced topics in saturated flow, unsaturated flow, and consolidation.  Stress-strain-deformation response of soils under both drained and undrained loading.  Conventional and advanced laboratory strength testing.  3 lectures, 1 laboratory.",
+            "title": "Advanced Geotechnical Engineering"
+        },
+        "CE 583": {
+            "description": "Introduction to engineering seismology and ground motion evaluation.  Dynamic behavior of soils.  Seismic site response analysis.  Soil liquefaction evaluation methods and mitigation techniques.  Seismic stability of slopes and retaining walls.  Computer-aided analysis.  4 lectures.",
+            "title": "Geotechnical Earthquake Engineering"
+        },
+        "CE 584": {
+            "description": "Classical and modern earth pressure theories.  Lateral earth pressure calculations for general subsurface conditions.  Analysis and design of reinforced concrete cantilever walls, sheetpile walls, soldier-pile walls, tie-back walls, and mechanically-stabilized earth.  Computer-aided analysis and design.  4 lectures.",
+            "title": "Lateral Support Systems"
+        },
+        "CE 585": {
+            "description": "Analysis of stability by planar, circular arc, piecewise-linear, and composite-surface techniques.  Analysis of earth-fill dams and reservoirs for static, steady flow, sudden drawdown, and seismic loading conditions.  Field instrumentation.  Methods for slope remediation and stabilization.  Computer-aided analysis.  4 lectures.",
+            "title": "Slope Stability Analysis"
+        },
+        "CE 586": {
+            "description": "Bearing capacity and settlement analysis of drilled shafts and driven piles.  Analysis and design of single piles and pile groups for vertical, lateral, and combined loading.  Construction procedures, field inspection, and load-testing.  Computer-aided analysis and design.  4 lectures.",
+            "title": "Analysis and Design of Deep Foundations"
+        },
+        "CE 587": {
+            "description": "Principles for containment applications.  Engineering properties of soils and geosynthetics and their interaction with contaminants and wastes; analysis of geosynthetics used in containment facilities; liners; covers; leachate and gas collection systems; contaminant transport; and monitoring systems.  4 lectures.",
+            "title": "Geoenvironmental Engineering"
+        },
+        "CE 588": {
+            "description": "Ground improvement applications investigated for modification of geomechanical and hydraulic properties of soils.  Engineering properties of soft ground and high water content materials; mechanical, chemical, and thermal stabilization investigated for foundation and environmental remediation applications.  4 lectures.",
+            "title": "Ground Improvement"
+        },
+        "CE 589": {
+            "description": "Geosynthetics applications within civil engineering.  Design content for geotechnical, geoenvironmental, and transportation applications.  Manufacturing processes, material properties, interaction with soils, and service conditions.  4 lectures.",
+            "title": "Geosynthetics Engineering"
+        },
+        "CE 591": {
+            "description": "Preparation for graduate studies and engineering careers.  Further development of oral and written communication skills.  1 seminar.",
+            "title": "Graduate Seminar I"
+        },
+        "CE 592": {
+            "description": "Current research activities and analysis/design philosophies in civil and environmental engineering practice.  Development of oral and written presentation skills.  1 seminar.",
+            "title": "Graduate Seminar II"
+        },
+        "CE 593": {
+            "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 594": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 595": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CE 596": {
+            "description": "Comprehensive exam for a non-thesis master's student.  The comprehensive examination assesses the student's ability to integrate knowledge, show critical and independent thinking, and demonstrate mastery of the subject matter.  Timing of the comprehensive exam shall be scheduled with the faculty advisor per department guidelines.",
+            "title": "Comprehensive Examination"
+        },
+        "CE 599": {
+            "description": "Each individual or group will be assigned a project for solution under faculty supervision as a requirement for the master's degree, culminating in a written report/thesis.",
+            "title": "Design Project (Thesis)"
+        }
+    },
     "links": [
         {
             "source": "MATH 141",

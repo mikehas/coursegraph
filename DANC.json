@@ -1,4 +1,110 @@
 {
+    "descriptions": {
+        "DANC 130": {
+            "description": "Introduction to Joseph Pilates' Physicalmind conditioning method. Development of ideal physical fitness for the attainment and maintenance of a uniformly developed body and sound mind. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "Pilates and Conditioning Fundamentals"
+        },
+        "DANC 131": {
+            "description": "Fundamentals of ballet technique stressing alignment, turn-out, five basic positions, seven movements of dance, and terminology. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "Beginning Ballet"
+        },
+        "DANC 132": {
+            "description": "Fundamentals of modern technique stressing alignment, off-centered use of torso, floorwork, movement phrases, and improvisation exercises. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "Beginning Modern Dance"
+        },
+        "DANC 133": {
+            "description": "Introduction of jazz dance techniques stressing a variety of styles, alignment, isolation, polyrhythms, syncopation, improvisation, and phrasing. Performance technique and presentation of simple dance phrases. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "Beginning Jazz Dance"
+        },
+        "DANC 134": {
+            "description": "Selected ballroom dances including the cha-cha-cha, foxtrot, merengue, rumba, samba, swing, tango, waltz, and line dance hustle. Emphasis on alignment, etiquette, leading and following, performance techniques, and presentation of simple dance phrases. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "Beginning Ballroom Dance"
+        },
+        "DANC 135": {
+            "description": "Introduction to international folk dances including round, longway, and square sets. Study of various dance steps, formation, positions, historical and cultural background. Purchase of concert ticket(s) may be required. Total credit limited to 6 units. 2 activities.",
+            "title": "International Folk Dance"
+        },
+        "DANC 210": {
+            "description": "Investigation of health and wellness ideologies and techniques for dancers and non-dancers through active participation in fitness circuits and lecture. Elements of fitness, injury prevention, somatic methodologies, anatomy, and body image will be presented and discussed to help students maintain and cultivate optimum health now and in the future. 3 lectures, 1 activity. Fulfills GE D4.",
+            "title": "Active Wellness"
+        },
+        "DANC 221": {
+            "description": "Diverse dance forms. Focus on major western dance artists and their works from the 19th century to the present. Cultural context, style and forms in dance. Introductory survey of major experiments in dance. Purchase of concert ticket(s) may be required. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE C3.",
+            "title": "Dance Appreciation"
+        },
+        "DANC 231": {
+            "description": "Continuation of training in basic technical skills in ballet stressing phrasing, performance, and more complex step patterns.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Intermediate Ballet"
+        },
+        "DANC 232": {
+            "description": "Continuing study of DANC 132 with emphasis on various movement styles, phrasing, more complex step patterns, and performance.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Intermediate Modern Dance"
+        },
+        "DANC 233": {
+            "description": "Continuation of DANC 133 with emphasis on more extensive movement vocabulary.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Intermediate Jazz Dance"
+        },
+        "DANC 234": {
+            "description": "Continuation of DANC 134.  Selected ballroom dances:  cha cha, foxtrot, merengue, rumba, swing, tango, hustle, paso doble, polka and samba.  Emphasis on variations, styles, and performance skill.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Intermediate Ballroom Dance"
+        },
+        "DANC 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "DANC 280": {
+            "description": "Directed group study of movement techniques and exercises to facilitate expressive physical performance. Body effectiveness, alignment and conditioning practice integrated with creative exploration and movement analysis of effort, spatial awareness and detailed body usage. 4 lectures. Crosslisted as DANC/TH 280.",
+            "title": "Body Awareness and Expression"
+        },
+        "DANC 321": {
+            "description": "Multicultural approach to history of dance in America, with emphasis on American Indian, West African, Caribbean, Mexican, European, and Asian contributions and influences.  Explores culture through dance.  Purchase of concert ticket(s) required.  4 lectures.  Fulfills GE C4 except for Theatre Arts majors.  Fulfills USCP.",
+            "title": "Cultural Influence on Dance in America"
+        },
+        "DANC 331": {
+            "description": "Advanced ballet technique and reconstruction of historical ballet repertories from the romantic, classical, neoclassical, and modern periods.  Participation in dance performance of selected repertory.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Advanced Ballet and Repertory"
+        },
+        "DANC 332": {
+            "description": "Intermediate to advanced dance skills learned through the study and performance of selected contemporary dance repertory.  Addresses problems in advanced performance technique.  Informal presentation in performance situation.  Purchase of concert ticket(s) may be required.  Total credit limited to 6 units.  2 activities.",
+            "title": "Contemporary Dance Repertory"
+        },
+        "DANC 340": {
+            "description": "Principles of dance composition.  Exploration of creative potential and development of movement motifs through choreographic studies.  Preparation for informal public presentation of student generated choreographic works.  Purchase of concert ticket(s) may be required.  Total credit limited to 8 units.  1 lecture, 1 laboratory, 2 activities.",
+            "title": "Dance Composition"
+        },
+        "DANC 341": {
+            "description": "Advanced practical application of choreography and dance concert production.  Production of the student-produced Spring Dance Concert will be developed and executed.  Investigation of complete choreographic work via peer and faculty review.  Total credit limited to 8 units.  2 laboratories.",
+            "title": "Dance Concert Practicum"
+        },
+        "DANC 345": {
+            "description": "Workshop in concert preparation for major public dance production.  Exploration and process of concert dance choreography.  Purchase of concert ticket(s) may be required.  Total credit limited to 16 units.  2 activities, 2 laboratories.",
+            "title": "Choreography/Workshop in Dance Concert Preparation"
+        },
+        "DANC 346": {
+            "description": "Directed production of annual Orchesis Dance Company Concert and other public performances.  Attendance of professional dance concert(s) required.  Purchase of concert ticket(s) may be required.  Total credit limited to 16 units.  1-4 laboratories.",
+            "title": "Dance Production"
+        },
+        "DANC 381": {
+            "description": "Dance skills and techniques.  Experience in selected dance forms.  Rhythmic structure and analysis of dance steps.  Includes introduction to dance pedagogy, curricular materials and evaluative procedures.  Purchase of concert ticket(s) may be required.  2 lectures, 2 activities.",
+            "title": "Dance Teaching Methods for Dance Minors"
+        },
+        "DANC 400": {
+            "description": "Individual investigation, research and studies or survey of selected problems in dance and related areas.  Total credit limited to 8 units with a maximum of 4 units per quarter.",
+            "title": "Special Problems"
+        },
+        "DANC 430": {
+            "description": "Directed study of selected topics for advanced dance students.  Focus on advanced level technique, style, concepts and choreography of classical and contemporary dance forms.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  2 activities.",
+            "title": "Advanced Selected Techniques"
+        },
+        "DANC 470": {
+            "description": "Directed study of selected topics for advanced dance students.  Class Schedule will list topics selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "DANC 471": {
+            "description": "Directed group laboratory study of selected topics for dance students.  Class Schedule will list topics selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "DANC 134",

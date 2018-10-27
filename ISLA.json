@@ -1,4 +1,90 @@
 {
+    "descriptions": {
+        "ISLA 123": {
+            "description": "Introductory exploration of science, technology, and society relationships from interdisciplinary perspectives in the arts, communications, humanities, and social sciences. Topic areas include ethics and public policy; gender, race and culture; media arts and society; science and risk communication. 4 lectures.",
+            "title": "Introduction to Science, Technology & Society"
+        },
+        "ISLA 201": {
+            "description": "Focus on methods, concepts and skills in the Interdisciplinary Studies major, and on career and graduate school opportunities.  Refinement of individualized plan of study to reflect professional, educational, and personal goals.  4 lectures.",
+            "title": "Introduction to Interdisciplinary Studies"
+        },
+        "ISLA 240": {
+            "description": "The intimate connection between the desire for artistic expression and current technologies that can assist that expression.  Examination of technologies for theater, sound, cinema, gaming, and embodied media.  Guest speakers with expertise.  4 lectures.",
+            "title": "Introduction to Media Arts and Technologies"
+        },
+        "ISLA 303": {
+            "description": "Humanistic investigation into the theoretical and practical applications of technology with specific reference to the social effects of technological change.  For all majors.  Non-technical.  4 lectures.  Crosslisted as HNRS 304/ISLA 303.  Fulfills GE C4.",
+            "title": "Values and Technology"
+        },
+        "ISLA 305": {
+            "description": "Exploration of contemporary issues in science, technology, engineering, and mathematics (STEM), with an emphasis on public understandings of and engagements with STEM research and teaching cultures.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE Area F.",
+            "title": "Topics in Public Engagements with STEM"
+        },
+        "ISLA 315": {
+            "description": "An interdisciplinary approach to selected topics and issues that address how social, economic, political, and cultural forces have shaped the challenges that face contemporary Latin America.  Descriptive subtitles assigned to each course.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE D5.",
+            "title": "Critical Issues in Latin American Studies"
+        },
+        "ISLA 316": {
+            "description": "Selective examination of the historical and cultural legacy of London within the development of Western civilization as well as its influence on the submission and eventual emergence of the non-Western world in the twentieth century.  An analytical and interpretive study of how London shaped the social, economic, political and legal institutions of Western society.  4 lectures.  Fulfills GE D5.",
+            "title": "London: From Roman Colony to World Capital"
+        },
+        "ISLA 319": {
+            "description": "Analytical and interpretive survey of the principal center of the English speaking world.  The development of London from Roman administrative capital to modern cultural, financial and political colossus.  Credit/No Credit grading only.  2 activities.",
+            "title": "London Activities"
+        },
+        "ISLA 320": {
+            "description": "The interplay of values, media, and culture from an interdisciplinary perspective.  Descriptive subtitles assigned to each course.  The Schedule of Classes will list topic selected.  4 lectures.  Total credit limited to 8 units with different subtopic; repeatable in same term.  Crosslisted as HNRS/ISLA 320.  Fulfills GE C4.",
+            "title": "Topics and Issues in Values, Media and Culture"
+        },
+        "ISLA 330": {
+            "description": "Scientific investigation of the natural features of the Cal Poly landscape and their transformations by land management technology.  Analysis of the environmental, economic, social, and political effects of agriculture, resource extraction, and construction technology on that landscape.  Emphasis on the educational, land-use, and long term planning issues of technology presented by this case study.  4 lectures.  Crosslisted as AG/ISLA/UNIV 330.  Fulfills GE Area F.",
+            "title": "Cal Poly Land: Nature, Technology, and Society"
+        },
+        "ISLA 340": {
+            "description": "Creation of expressive technology-based pre-production works for standard television and film presentation to interactive technological environments.  Pre-production script work, storyboarding, flow chart design, collaborative story creation, audience testing, and basic animatic construction.  Visiting professionals work with students directly in collaborative workshops.  3 lectures, 1 activity.",
+            "title": "Media Arts and Technologies: Storytelling"
+        },
+        "ISLA 341": {
+            "description": "Cinematic production including adapting a narrative for different presentation formats, storyboarding, lighting, sound recording, cinematography and editing.  Production of short works designed as foundational pieces that can be built upon individually or in teams in independent study.  Visiting professionals run collaborative production workshops.  2 lectures, 2 activities.",
+            "title": "Media Arts and Technologies: Cinematic Process"
+        },
+        "ISLA 350": {
+            "description": "Interdisciplinary investigation of how human activities impact the Earth's environment on a global scale.  Examination of population, resource use, climate change, and biodiversity from scientific/technical and social/economic/ historical/political perspectives.  Use of remote sensing maps.  Sustainable solutions.  4 lectures.  Crosslisted as AG/EDES/ENGR/GEOG/ISLA/SCM/UNIV 350.  Fulfills GE Area F.",
+            "title": "The Global Environment"
+        },
+        "ISLA 355": {
+            "description": "Exploration of interdisciplinary research strategies, theory, and process, including contextualization, perspective taking, and integration.  Development of knowledge and skills needed to conduct original interdisciplinary research.  Preparation for senior project or senior portfolio.  4 lectures.",
+            "title": "Interdisciplinary Research Methods"
+        },
+        "ISLA 393": {
+            "description": "Development of knowledge and skills needed to conduct original action-oriented ethnographic research.  Grounded in the reflexive 'turn' in anthropology and critical race, science, technology and society, queer and feminist studies, students will engage questions of authority, representation, critical consciousness and justice.  4 lectures.   Crosslisted as ANT/ISLA 393.",
+            "title": "Action-oriented Ethnography"
+        },
+        "ISLA 400": {
+            "description": "Independent study project focusing more than one discipline on a problem of study related to the liberal arts.  May involve travel and/or independent research.  Bibliography and study plan submitted in advance.  Total credit limited to 8 units.",
+            "title": "Independent Study Project"
+        },
+        "ISLA 440": {
+            "description": "Advanced examination of selected interdisciplinary topic.  Topics will be examined from perspective of multiple disciplines.  The Class Schedule will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Advanced Interdisciplinary Studies Seminar"
+        },
+        "ISLA 450": {
+            "description": "Extensive work experience in London.  Administration, orientation, and supervision of independent work by the service provider.  Intensive two-week orientation, eight-week full-time work assignment.  Evaluation by instructor, internship supervisor, and employer.  Credit/No Credit grading only.  4 lectures, 8 units of independent study.",
+            "title": "Summer Internship in London"
+        },
+        "ISLA 456": {
+            "description": "Develop, maintain and lead teams in a project investigating complex multi-disciplinary issues in science, technology and society.  Integrate knowledge across the minors.  2 lectures, 2 activities.",
+            "title": "Advanced Project-Based Learning in Science, Technology & Society"
+        },
+        "ISLA 461": {
+            "description": "Selection and completion of an interdisciplinary research or creative project that draws upon at least two disciplines.  4 seminars.",
+            "title": "Senior Project"
+        },
+        "ISLA 470": {
+            "description": "Focused interdisciplinary study of an issue impacting or impacted by the liberal arts, combining the insight and expertise of more than one of the liberal arts disciplines, especially as they interface with the sciences and technology and/or international studies in a study abroad setting.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units; repeatable in same term.  2-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "ES 112",

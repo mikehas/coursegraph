@@ -1,4 +1,310 @@
 {
+    "descriptions": {
+        "ART 101": {
+            "description": "Introduction to the artistic practice and cultural value of drawing from the Renaissance to the 21st Century. Emphasis and expansion of the practical skills of observation, rendering, and understanding the signs of meaning produced in visual art. Development of formal techniques, media experimentation, and content creation through personal expression. Exercises to encourage growth in technical skill, conceptual innovation, critical thinking, and visual communication. 3 lectures, 1 laboratory. Fulfills GE C3.",
+            "title": "The Fundamentals of Drawing"
+        },
+        "ART 102": {
+            "description": "Introduces elements and principles of design, establishing a foundation for all artistic practice. Emphasizing critical thinking and creative problem solving, the interrelationship between form and content are examined. Traditional, digital and lens-based media are explored through individual and collaborative experiences. 3 lectures, 1 laboratory.",
+            "title": "Art and Design Foundation Studies I"
+        },
+        "ART 103": {
+            "description": "Visual and aesthetic interactions of color, examined through historical and contemporary models.  Formal techniques, media experimentation and content creation, explored through individual and collaborative experiences.  3 lectures, 1 laboratory.",
+            "title": "Art and Design Foundation Studies II"
+        },
+        "ART 104": {
+            "description": "Principles and essential skills for three-dimensional practice in art and design.  Understanding, envisioning, and communicating effectively about space, objects, scale, and the relationship of the body to the built environment.  3 lectures, 1 laboratory.",
+            "title": "Art and Design Foundation Studies III"
+        },
+        "ART 111": {
+            "description": "Designed to acquaint the non-art major with painting, sculpture, drawing, crafts, architecture and printmaking. Development of vocabulary, analytic skills, and research techniques for the understanding of art objects. 4 lectures. Fulfills GE C3.",
+            "title": "Introduction to Art"
+        },
+        "ART 112": {
+            "description": "History of major art movements in western civilization from ancient art to the twentieth century. Representative periods of western culture, such as the ancient world, the Middle Ages, the Renaissance, and the modern world. 4 lectures. Fulfills GE C3.",
+            "title": "Survey of Western Art"
+        },
+        "ART 122": {
+            "description": "Fundamental techniques in photography. Mechanics of digital cameras, optics, composition, perception of light and subject content. Understanding photographic principles and the language of camera vision. Introduction to the impact of photography on culture. Digital camera required. 3 lectures, 1 laboratory. Fulfills GE C3.",
+            "title": "Basic Digital Photography"
+        },
+        "ART 148": {
+            "description": "Exploration of three dimensional form through problems in modeling, casting, carving, and techniques of assembly. Historical and contemporary concepts as applied to the discipline of sculptural styles. 3 lectures, 1 laboratory. Fulfills GE C3.",
+            "title": "Beginning Sculpture"
+        },
+        "ART 182": {
+            "description": "Introduction to image creation and manipulation, design, illustration, and layout/composition using digital tools, with an emphasis on visual problem solving and creative expression. 3 lectures, 1 laboratory.",
+            "title": "Foundation in Digital Art I"
+        },
+        "ART 183": {
+            "description": "Development of digital skills in image creation, design, illustration, layout, and simple animation.  Emphasis on visual problem solving, creative expression, and narrative.  3 lectures, 1 laboratory.",
+            "title": "Foundation in Digital Art II"
+        },
+        "ART 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "ART 201": {
+            "description": "Development of additional drawing techniques with emphasis on form content, pictorial space, B/W media, color, mixed media and composition.  3 lectures, 1 laboratory.",
+            "title": "Intermediate Drawing"
+        },
+        "ART 203": {
+            "description": "Contemporary issues in art and design, linking 'ideas' to development of concepts.  Emphasis on individual creative process, and problem solving.  Focus on contemporary critical thinking regarding aesthetics, techniques, and vocabulary.  3 lectures, 1 laboratory.",
+            "title": "Art Theory and Practice"
+        },
+        "ART 209": {
+            "description": "Introduction to technical and formal problems in painting.  Exploration of pictorial space, light, and color from observation.  Physical characteristics of paint, various tools, studio methods, and styles of painting.  3 lectures, 1 laboratory.",
+            "title": "Beginning Painting"
+        },
+        "ART 211": {
+            "description": "Development of art from antiquity to the early stages of the Renaissance in Europe. Particular emphasis on European art with appropriate references to sources from antiquity which have been particularly influential on European painting and sculpture. Comparison of relevant parallel examples of the art of non-European cultures. 4 lectures.",
+            "title": "Art Hist - Ancient to Renaissance"
+        },
+        "ART 212": {
+            "description": "The significant visual expressions of Northern and Southern European art of the Renaissance and Baroque period. Relevant parallel examples of the art of antiquity and non-European cultures. 4 lectures.",
+            "title": "Art History - Renaissance through Baroque Eras"
+        },
+        "ART 213": {
+            "description": "Examines the development of significant styles and movements in modern art, including Fauvism, German Expressionism, Cubism, Futurism, Neo-Plasticism, Russian and Soviet avant-gardes, Dada, Surrealism, and/or American modernism. Also introduces selected modern developments in graphic design and photography. 4 lectures. Replaces ART 312.",
+            "title": "Art History- Modern Art, 1900-1945"
+        },
+        "ART 222": {
+            "description": "Control and understanding of tonal range under available light. Composition, camera based visual communication skills and concept development. Emphasis on 'photographic seeing' and professional quality printing. 2 lectures, 2 laboratories.",
+            "title": "Black and White Photography"
+        },
+        "ART 224": {
+            "description": "Introduction to studio lighting and contemporary professional studio photography. Production of professional quality prints using digital camera and printing methods. 3 lectures, 1 laboratory.",
+            "title": "Introduction to Artificial Lighting for Photography"
+        },
+        "ART 227": {
+            "description": "Studio and environmental portraiture.  Emphasis on light ratios/patterns; posing and methods of personality portrayal.  3 lectures, 1 laboratory.",
+            "title": "Portrait Photography"
+        },
+        "ART 237": {
+            "description": "Exploration of the technical and conceptual underpinnings of graphic design.  Focus on the design process and how raw ideas are translated into professional work.  3 lectures, 1 laboratory.",
+            "title": "Graphic Design I"
+        },
+        "ART 238": {
+            "description": "Fundamentals of theory, practice, technology and history of typography.  Exercises include the study of letterforms, type with image, proportion and grids, hierarchy, and legibility.  3 lectures, 1 laboratory.",
+            "title": "Typography I"
+        },
+        "ART 245": {
+            "description": "Studio course in basic clay working with emphasis on design quality, hand building, and use of the potter's wheel.  3 lectures, 1 laboratory.",
+            "title": "Ceramics I"
+        },
+        "ART 260": {
+            "description": "Developing an individual body of artwork.  Rigorous critiques, lectures, and seminar-style discussions aimed at forming a process for discussing artwork.  Art writing, research, and individual conceptual and formal development.  4 lectures.",
+            "title": "Critique, Discourse and Practice"
+        },
+        "ART 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ART 288": {
+            "description": "An introduction to concepts, uses and design principles of interactive media.  Exploration of methods for planning and implementing interaction design projects.  Not open to students with credit in ART 380.  3 lectures, 1 laboratory.",
+            "title": "Interaction Design I"
+        },
+        "ART 302": {
+            "description": "Development of advanced drawing methods and techniques in the study of the human form and structure as it relates to proportion, anatomical analysis, and figure/ground relationships.  Understanding materials, techniques, and ideas in the practice of contemporary figure drawing.  3 lectures, 1 laboratory.",
+            "title": "Figure Drawing"
+        },
+        "ART 309": {
+            "description": "Continued study of technical and formal problems in painting.  Emphasis on the creative process, development of individual ideas, and the connection between form and content.  Contemporary issues in painting introduced.  3 lectures, 1 laboratory.",
+            "title": "Intermediate Painting"
+        },
+        "ART 310": {
+            "description": "Major historical periods of American art from the colonial period to the present.  Special emphasis will be given to the broader notion of American art as a process of developing an identity of the varied historical and sociological forces that have shaped images in American art.  4 lectures.",
+            "title": "Art History - American Art"
+        },
+        "ART 311": {
+            "description": "History of painting and sculpture from the French Revolution to the beginning of the 20th century.  Focuses on significant movements such as Neo-Classicism, Romanticism, Realism, Impressionism and Post-Impressionism.  4 lectures.  Fulfills GE C4 except for Art and Design majors.",
+            "title": "Art History - Nineteenth Century Art"
+        },
+        "ART 313": {
+            "description": "Survey of design from the Victorian era to the present, including major philosophies and movements, political, social, cultural, and technological trends that influenced designers in the 20th century.  4 lectures.",
+            "title": "Design History"
+        },
+        "ART 314": {
+            "description": "In-depth survey of the artistic and cultural achievements in photography from its invention to the present day.  Significant photographers, the evolution of aesthetic criteria in the context of other visual arts as well as social/cultural impact.  4 lectures.  Fulfills GE C4 except for Art and Design majors.",
+            "title": "History of Photography"
+        },
+        "ART 315": {
+            "description": "History of visual art from 1945 to the present.  Focus on significant movements such as Abstract Expressionism, Pop art, minimalism, conceptual art, earthworks, feminism, and postmodernism.  Also focus on new mediums such as performance, video, and installation.  4 lectures.",
+            "title": "Art History - Art Since 1945"
+        },
+        "ART 316": {
+            "description": "Exploration of the role of women in the visual arts.  Women as artists, women as portrayed in art, and feminist theory as it applies to the study of the visual arts and art history.  4 lectures.  Crosslisted as ART/WGS 316.",
+            "title": "Women as Subject and Object in Art History"
+        },
+        "ART 317": {
+            "description": "Survey of the traditional arts of Asia - primarily India, China and Japan.  Emphasis on the connections between the visual arts in Asia and the philosophical, social and cultural environments in which they arose.  4 lectures.",
+            "title": "Asian Art Survey"
+        },
+        "ART 318": {
+            "description": "In-depth examination of significant art movements in Asia.  Each topic will focus on the development of art in Asia within the context of a specific geographical or theoretical framework.  Details will vary depending on topic.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Art and Design majors.",
+            "title": "Asian Art Topics: National, Religious, and Intellectual Movements"
+        },
+        "ART 324": {
+            "description": "Emphasis on personal expression and developing style, introduction to symbology, visual source development and the work of contemporary creative photographers.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Photographic Expression"
+        },
+        "ART 325": {
+            "description": "Emphasis on advanced camera and lighting techniques.  Use of architectural exteriors, interiors, landscapes and studio set-ups to assist mastery of large format cameras.  Other topics include perspective and sharpness correction, lighting (available and artificial), digital imaging and studio equipment.  3 lectures, 1 laboratory.",
+            "title": "Advanced Camera and Lighting Techniques"
+        },
+        "ART 329": {
+            "description": "Creating, lighting and executing editorial assignments.  Producing photography for corporate needs, i.e.  annual reports, online presentations, brochures and in-house publications.  Emphasis on selecting subject matter and handling lights.  3 lectures, 1 laboratory.",
+            "title": "Editorial Photography"
+        },
+        "ART 330": {
+            "description": "Numerous traditional book structures and derivations including accordion, pamphlet, stab, and multiple signature construction. Emphasis on both craftsmanship and experimentation. Hands-on experience and a broad historical overview of paper and book arts. 3 lectures, 1 laboratory.",
+            "title": "Book Arts"
+        },
+        "ART 334": {
+            "description": "Introduction to the basic practices of commercial illustration as used in the visual communications industry.  Emphasis on the generation of ideas, rendering techniques and tools, and self marketing methods, with an overview of the history of illustration.  3 lectures, 1 laboratory.",
+            "title": "Illustration I: Techniques and Tools"
+        },
+        "ART 337": {
+            "description": "Exploration of identity design problems through the use of symbolism and metaphor.  Design and implementation of corporate logos.  3 lectures, 1 laboratory.",
+            "title": "Graphic Design II"
+        },
+        "ART 338": {
+            "description": "Exploration of typography in the form of text.  Application of different typefaces, composition, layout and page systems for the design of periodicals and books.  3 lectures, 1 laboratory.",
+            "title": "Typography II"
+        },
+        "ART 345": {
+            "description": "Studio course in hand, wheel, mold, extruder, jigger, and press forming skills.  Design of single and multiple forms and kiln firing procedures.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Ceramics II"
+        },
+        "ART 348": {
+            "description": "Intermediate sculpture course in expressive use of form with modeling, casting, carving, and/or assembly.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Intermediate Sculpture"
+        },
+        "ART 350": {
+            "description": "Definition and specification of a team-based creative collaboration on a digital interactive art project (e.g.  animation, video game, interactive media display, etc).  Research and techniques, project planning and project team organization, prototype creation.  1 lecture, 1 laboratory.  Crosslisted as ART/CSC 350.",
+            "title": "Computing for Interactive Arts Capstone I"
+        },
+        "ART 353": {
+            "description": "Studio course emphasizing individual and collaborative creative exploration with project content derived from student's experience.  Focus on using traditional as well as new genres of artistic expression such as site specific installations, video art, book works, and performance art.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Intermedia / Art"
+        },
+        "ART 366": {
+            "description": "Critiques, lectures, and seminar-style discussions aimed at establishing a rigorous creative practice.  Includes art writing, research, and individual conceptual and formal development.  3 lectures, 1 laboratory.",
+            "title": "Junior Studio Art Practice"
+        },
+        "ART 370": {
+            "description": "The art and life of Michelangelo (1475-1564), the renowned painter, sculptor, architect, and poet, with reference to early biographies, his artistic development, and the demands of his patrons.  4 lectures.  Fulfills GE C4 except for Art and Design majors.",
+            "title": "Michelangelo"
+        },
+        "ART 371": {
+            "description": "A thematic analysis of Renaissance Art (1300-1600) with special attention paid to politics, patronage, myth, religion, and the development of new genres and subject matter.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Art and Design majors.",
+            "title": "Topics in Renaissance Art"
+        },
+        "ART 373": {
+            "description": "In-depth study of past and contemporary media arts practices.  Explores different approaches used by media artists in the 20th and 21st centuries to examine new media and how the lenses of new technologies are used by artists to present knowledge and alter social, cultural and political behaviors.  4 lectures.",
+            "title": "New Media Art History"
+        },
+        "ART 383": {
+            "description": "Introduction to the use of the DSLR camera as a tool for shooting video and basic digital editing including audio editing.  Topics will include scripting, storyboarding, composition, motion, editing, lighting and sound.  Emphasis on effective communication and expression.  2 lectures, 2 laboratories.",
+            "title": "Digital Video I"
+        },
+        "ART 384": {
+            "description": "Development of skills and techniques in the use of three-dimensional design and modeling via digital technology.  Capabilities of current software in the design and modeling of three-dimensional form.  2 lectures, 2 activities.",
+            "title": "Digital 3D Modeling and Design"
+        },
+        "ART 388": {
+            "description": "Design of original and innovative digital products of interaction design in different media, using user-centered design and usability analysis.  Design research methods to engage potential users form the beginning to the end of the design process.  3 lectures, 1 laboratory.",
+            "title": "Interaction Design II"
+        },
+        "ART 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ART 402": {
+            "description": "Advanced problems in figure drawing and painting.  Advanced methods and techniques in the study of the human form as it relates to technical and conceptual issues.  Includes working from direct observation of the figure and the development of individual content and approaches.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Advanced Figure 2D"
+        },
+        "ART 409": {
+            "description": "Advanced problems in painting and drawing.  Emphasis on the creative process from initial concept to the finished work of art.  Investigation of traditional, non-traditional and explorative work to encourage development of personal approach.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Advanced 2-D"
+        },
+        "ART 427": {
+            "description": "Applied principles of design and color to produce a photograph that sells an idea, product, or service.  Joint projects with ART 432, Advertising Design.  Emphasis on thinking, planning, interpreting, and presenting an idea photographically.  3 lectures, 1 laboratory.",
+            "title": "Advertising Photography"
+        },
+        "ART 432": {
+            "description": "Development of print advertising from concept to final presentation.  Emphasis on art direction, photo direction and copywriting.  For Art and Design majors only.  Computer applications are required for appropriate problems.  3 lectures, 1 laboratory.",
+            "title": "Advertising Design"
+        },
+        "ART 434": {
+            "description": "Advanced development of concepts and illustration techniques and skills, both as analogue and digital, for use in a variety of graphic design applications such as editorial/publication, retail, educational, technical, or advertising purposes.  3 lectures, 1 laboratory.",
+            "title": "Illustration II"
+        },
+        "ART 437": {
+            "description": "Advanced graphic design.  The creation of basic 3-D structures, and the application of graphics in 3-D environments (such as package design and signage).  Emphasis on integrative communication activity of all elements including:  color, graphics, 3-D forms, typography, and constructions, and includes market research.  3 lectures, 1 laboratory.",
+            "title": "Graphic Design III"
+        },
+        "ART 438": {
+            "description": "Advanced exploration of communication and structural aspects of typography.  Focus on experimentation and expressively using type to enhance meaning.  3 lectures, 1 laboratory.",
+            "title": "Typography III"
+        },
+        "ART 439": {
+            "description": "Sequential organization of typographic information in time and how ideas such as intonation, proximity, pacing, rhythm and progression can influence and shape meaning.  Focus on animated typography for a range of applications.  3 lectures, 1 laboratory.",
+            "title": "Type in Motion"
+        },
+        "ART 448": {
+            "description": "Studio course specializing in three-dimensional form.  Materials include clay, plaster, metal, or wood.  Course content will be selected from various topics that are representational, abstraction, non-objective, or conceptual.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units; may be in same term.  3 lectures, 1 laboratory.",
+            "title": "Advanced Topics in Sculpture"
+        },
+        "ART 450": {
+            "description": "Team-based design, construction and deployment of a collaborative interactive computational art project typically found in the fields of animation, game design, and interactive media.  Management of inter-disciplinary teams, documentation, creative development, testing, and assessment.  2 laboratories.  Crosslisted as ART/CSC 450.",
+            "title": "Computing for Interactive Arts Capstone II"
+        },
+        "ART 463": {
+            "description": "Planning, preparation, and physical production of a portfolio of work for entrance into the professional job market or graduate school.  3 lectures, 1 laboratory.",
+            "title": "Senior Portfolio Project"
+        },
+        "ART 466": {
+            "description": "Builds upon content explored in ART 366.  Critiques, lectures, and seminar-style discussions aimed at establishing a rigorous creative practice.  Art writing, research, and individual conceptual and formal development.  3 lectures, 1 laboratory.",
+            "title": "Senior Studio Art Practice"
+        },
+        "ART 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ART 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ART 474": {
+            "description": "A collaborative visualization and design studio focusing on rendering, animation and modeling.  Modeling and animation software for design conceptualization and expression.  Collaboration in teams.  Total credit limited to 8 units.  2 lectures, 2 activities.",
+            "title": "Collaborative Studio: Rendering, Animation and Modeling"
+        },
+        "ART 483": {
+            "description": "Advanced practices in digital video.  Creation of genre-specific narratives using methods in storyboarding, shooting, editing, and sound design.  Advanced methods of storytelling, including documentary video, web-based narratives, and fine art video practices.  Creation of quality expressive videos.  2 lectures, 2 laboratories.",
+            "title": "Digital Video II"
+        },
+        "ART 484": {
+            "description": "Creation of in-depth animations and interactive presentations.  Advanced scripting, storyboarding, video production, and interactive communication techniques.  3 lectures, 1 laboratory.",
+            "title": "Animation, Video, and Interactive Design"
+        },
+        "ART 488": {
+            "description": "Advanced development of complex systems in the interaction design space and an exploration of emerging technologies.  3 lectures, 1 laboratory.",
+            "title": "Interaction Design III"
+        },
+        "ART 489": {
+            "description": "Advanced topics in the digital media field such as interface design, information architecture techniques, digital typography and interactive storytelling.  Survey of new applications of design for the new media, and the development of digital portfolio pieces.  3 lectures, 1 laboratory.",
+            "title": "Advanced Interactive Media Art"
+        },
+        "ART 494": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "ART 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid.  Formal report and evaluation by work supervisor required.  Major credit limited to 12 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        }
+    },
     "links": [
         {
             "source": "ART 102",

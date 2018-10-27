@@ -1,4 +1,430 @@
 {
+    "descriptions": {
+        "CSC 101": {
+            "description": "Basic principles of algorithmic problem solving and programming using methods of top-down design, stepwise refinement and procedural abstraction.  Basic control structures, data types, and input/output.  Introduction to the software development process:  design, implementation, testing and documentation.  The syntax and semantics of a modern programming language.  Credit not available for students who have taken CSC/CPE 108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 101.",
+            "title": "Fundamentals of Computer Science"
+        },
+        "CSC 105": {
+            "description": "Facilitated study and discussion of fundamental concepts of computer science and familiarization with programming environments.  Credit/No Credit grading only.  1 laboratory.  Crosslisted as CPE/CSC 105.",
+            "title": "Fundamentals of Computer Science I Supplemental Instruction"
+        },
+        "CSC 108": {
+            "description": "Accelerated introduction to basic principles of algorithmic and object-oriented problem solving and programming.  Introduction to programming language concepts including control structures, data types, classes, and inheritance.  Program design principles.  Use and implementation of algorithms (searching, sorting, recursion) and data structures (lists, stacks, and queues).  Intended for students with experience in algorithmic problem solving and using basic control structures and data types in a modern programming language (CPE/CSC 101), but who are not ready for CPE/CSC 202.  Not open to students with credit in CPE/CSC 102 or CPE/CSC 202.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 108.",
+            "title": "Accelerated Introduction to Computer Science"
+        },
+        "CSC 123": {
+            "description": "Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing.  An introduction to computing and to the selected topic domain.  The Schedule of Classes will list topic selected.  No programming experience required.  Not for students with credit in CPE/CSC 103 or CPE/CSC 203.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 123.",
+            "title": "Introduction to Computing"
+        },
+        "CSC 171": {
+            "description": "Use of click-and-drag software application to create an entertaining or informative, socially responsible application, such as a game. Team collaboration to design, develop, and test applications. Focus on design, teamwork, and using an iterative development process. An enjoyable introduction to both computer science and interactive entertainment. No computer science experience required. 3 lectures, 1 laboratory.",
+            "title": "Introduction to Interactive Entertainment"
+        },
+        "CSC 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "CSC 202": {
+            "description": "Introduction to data structures and analysis of algorithms.  Abstract datatypes.  Specification and implementation of advanced data structures.  Theoretical and empirical analysis of recursive and iterative algorithms.  Software performance evaluation and testing techniques.  Not open to students with credit in CSC/CPE 108.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 202.  Formerly CPE/CSC 103.",
+            "title": "Data Structures"
+        },
+        "CSC 203": {
+            "description": "Object-oriented programming and design with applications to project construction.  Introduction to class design, interfaces, inheritance, generics, exceptions, streams, and testing.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 203.  Formerly CPE/CSC 102.",
+            "title": "Project-Based Object-Oriented Programming and Design"
+        },
+        "CSC 209": {
+            "description": "Reinforcement of computer science fundamentals.  Review of important algorithms, language features, design, syntax, and testing techniques.  Repeated application of techniques to solve problems in a constrained amount of time.  Primarily intended to support students preparing for the Association for Computing Machinery's International Collegiate Programming Contest.  Credit/No Credit grading only.  Total credit limited to 15 units.  1 laboratory.",
+            "title": "Problem Solving with Computers"
+        },
+        "CSC 225": {
+            "description": "Introduction to computer systems.  Simple instruction set architecture and the computer hardware needed to implement that architecture.  Machine and assembly language programming.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Computer Organization"
+        },
+        "CSC 231": {
+            "description": "Programming techniques and procedures with applications to engineering problems.  Introduction to numerical methods and simulation.  Credit not allowed for CSC, Software Engineering or CPE majors.  2 activities.",
+            "title": "Programming for Engineering Students"
+        },
+        "CSC 232": {
+            "description": "Computer programming, with an emphasis on procedural programming, taught using a language hosted by applications commonly used in science and engineering.  Credit not allowed for CSC, CPE or Software Engineering majors.  2 lectures, 1 activity.",
+            "title": "Computer Programming for Scientists and Engineers"
+        },
+        "CSC 234": {
+            "description": "The C programming language and the UNIX programming environment.  Operators, standard I/O functions, strings, pointers and arrays, data types and storage classes.  Unix shell programming and basic I/O system calls.  Credit not allowed for CSC, Software Engineering or CPE majors.  3 lectures.",
+            "title": "C and Unix"
+        },
+        "CSC 235": {
+            "description": "Introduction to the fundamentals of computer programming with an emphasis on mathematical, scientific and engineering applications:  principles of algorithmic problem solving and procedural programming using a modern programming language, data types, elementary data structures, input/output and control structures.  Not a substitute for CSC/CPE 101 for CSC/CPE majors or minors.  3 lectures, 1 laboratory.",
+            "title": "Fundamentals of Computer Science for Scientists and Engineers I"
+        },
+        "CSC 236": {
+            "description": "Further study of computer program development with an emphasis on mathematical, scientific and engineering applications.  Introduction to more complicated data types and structures.  Practice of more complicated techniques of procedural programming.  Introduction to the principles of object-oriented programming using a modern programming language.  Detailed discussion of lists and classic list algorithms, algorithm analysis, multidimensional arrays, records, dynamic data structures, file input/output, classes.  Not a substitute for CSC/CPE 202 for CSC/CPE/SE majors or minors.  3 lectures, 1 laboratory.",
+            "title": "Fundamentals of Computer Science for Scientists and Engineers II"
+        },
+        "CSC 290": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CSC 300": {
+            "description": "The responsibilities of the computer science professional.  The ethics of science and the IEEE/ACM Software Engineering Code of Ethics.  Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world.  Applications to ethical dilemmas in computing.  Technical presentation methods and practice.  3 lectures, 1 laboratory.",
+            "title": "Professional Responsibilities"
+        },
+        "CSC 301": {
+            "description": "Principles and practices for defining and applying software processes to individual software development tasks.  Quantitative methods for the measurement and analysis of software development cost and quality.  Interpretation and evaluation of process metrics for creation of improvement plans.  Adaptation of processes to individual styles.  3 lectures, 1 laboratory.",
+            "title": "Personal Software Process"
+        },
+        "CSC 302": {
+            "description": "Social, ethical, political and technological implications and effects of computers in the modern world.  Examination of the benefits and side-effects of computer applications and automation.  Case study review and analysis.  4 lectures.  Fulfills GE Area F.",
+            "title": "Computers and Society"
+        },
+        "CSC 303": {
+            "description": "Practical coverage of educational techniques appropriate for tutoring in CSC/CPE undergraduate courses, including Socratic methods for tutoring of technical topics, design of test questions and grading rubrics, and lecture presentation.  Intended for CSC/CPE/SE students interested in tutoring, grading, or a career in teaching computer science.  1 lecture, 1 laboratory.  Not available for technical elective credit.",
+            "title": "Teaching Computer Science"
+        },
+        "CSC 305": {
+            "description": "Practical software development skills needed for construction of mid-sized production-quality software modules, using the CSC upper division programming language.  Topics include inheritance, exceptions, and memory and disk-based dynamic data structures.  Students must complete an individual programming project of mid-level complexity.  3 lectures, 1 laboratory.",
+            "title": "Individual Software Design and Development"
+        },
+        "CSC 307": {
+            "description": "Requirements, specification, design, implementation, testing and verification of large software systems.  Study and use of the software process and software engineering methodologies; working in project teams.  Not open to students with credit in CSC 308.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Software Engineering"
+        },
+        "CSC 308": {
+            "description": "Principles for engineering requirements analysis and design of large complex software systems.  Software process models.  Methods of project planning, tracking, documentation, communication, and quality assurance.  Analysis of engineering tradeoffs.  Group laboratory project.  Technical oral and written presentations.  3 lectures, 1 laboratory.",
+            "title": "Software Engineering I"
+        },
+        "CSC 309": {
+            "description": "Continuation of the software lifecycle.  Methods and tools for the implementation, integration, testing and maintenance of large software systems.  Software development and test environments.  Software quality assurance.  Group laboratory project.  Technical presentation methods and practice.  3 lectures, 1 laboratory.",
+            "title": "Software Engineering II"
+        },
+        "CSC 310": {
+            "description": "How computers and computer devices work.  Introduction to software systems and applications.  How computers connect with various media including images, speech and data.  How information is encoded and transmitted across networks.  Relationship between the computer and human information processing.  4 lectures.  Crosslisted as CSC 310/HNRS 311.  Fulfills GE Area F.",
+            "title": "Computers for Poets"
+        },
+        "CSC 311": {
+            "description": "Interdisciplinary creation of static and animated computational art using algorithms.  General design principles in a digital setting, including color, shape, composition, perspective, principles of animation.  Development of computational tools such as variables, iteration, logic, functions.  Creative expression via coding and creative coding.  3 lectures, 1 laboratory.  Fulfills GE Area F.",
+            "title": "Computational Art"
+        },
+        "CSC 320": {
+            "description": "Exploration of practical computer security in everyday life for non-majors.  Covering the principles, technologies and tools used to secure the Internet and keep ourselves 'digitally' secure, including:  privacy and anonymity, web and data security, cryptography, malware, authentication and access control.  3 lectures, 1 laboratory.  Fulfills GE Area F.",
+            "title": "Practical Computer Security for Everyone"
+        },
+        "CSC 321": {
+            "description": "Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 321.",
+            "title": "Introduction to Computer Security"
+        },
+        "CSC 323": {
+            "description": "An introduction to the theory and practice of building secure, cryptographic systems.  Core cryptographic primitives.  Implementation, evaluation and subversion of widely deployed cryptographic products and protocols.  3 lectures, 1 laboratory.",
+            "title": "Cryptography Engineering"
+        },
+        "CSC 325": {
+            "description": "Introduction to policies and technologies related to digital privacy.  Legal decisions and policies, domestic and global cultural expectations, and privacy related technologies including applications to surveillance, big data, websites, mobile, and privacy by design.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Privacy: Policy and Technology"
+        },
+        "CSC 344": {
+            "description": "Music-producing programs.  Software synthesizers:  oscillators, coupled oscillators, wavetable synthesis.  Sound processing units/filters:  LTI, FIR, IIR, nonlinear.  Physics of sound, mathematical foundations of sound synthesis and filtering, existing sound formats (both sampled and MIDI).  3 lectures, 1 laboratory.",
+            "title": "Music Programming"
+        },
+        "CSC 348": {
+            "description": "Structures of computer science:  logic, sets, relations, functions, graphs and trees.  Propositional and predicate logic.  Applications of predicate logic to preconditions, postconditions, and proof techniques.  Complexity of algorithms.  Not open to students with credit in CSC 141.  4 lectures.",
+            "title": "Discrete Structures"
+        },
+        "CSC 349": {
+            "description": "Intermediate and advanced algorithms and their analysis.  Mathematical, geometrical, and graph algorithms.  NP-complete problems.  Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search.  Course may be offered in classroom-based or online format.  3 lectures, 1 laboratory.",
+            "title": "Design and  Analysis of Algorithms"
+        },
+        "CSC 350": {
+            "description": "Definition and specification of a team-based creative collaboration on a digital interactive art project (e.g.  animation, video game, interactive media display, etc).  Research and techniques, project planning and project team organization, prototype creation.  1 lecture, 1 laboratory.  Crosslisted as ART/CSC 350.",
+            "title": "Computing for Interactive Arts Capstone I"
+        },
+        "CSC 357": {
+            "description": "C programming language from a system programming perspective.  Standard C language including operators, I/O functions, and data types in the context of system functions.  Unix commands, shell scripting, file system, editors.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 357.",
+            "title": "Systems Programming"
+        },
+        "CSC 365": {
+            "description": "Basic principles of database management systems (DBMS) and of DBMS application development.  DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Database Systems"
+        },
+        "CSC 366": {
+            "description": "The database modeling problem.  Database modeling levels:  external, conceptual, logical and physical.  Database models:  entity-relationship, relational, object-oriented, semantic, and object-relational.  Normal forms.  Distributed database design.  Functional analysis of database applications and transaction specification, design, and implementation.  3 lectures, 1 laboratory.",
+            "title": "Database Modeling, Design and Implementation"
+        },
+        "CSC 369": {
+            "description": "Introduction to distributed computing paradigms and cloud computing.  Modern distributed computing infrastructures.  Problem-solving in a distributed computing environment.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Distributed Computing"
+        },
+        "CSC 371": {
+            "description": "In-depth study of game design including rules, player interaction, and storytelling.  Exploration of effective use of sound, art, and game controls in creating meaningful play.  Development of fully functioning and engaging games, following standard domain-specific software development processes and using physical prototyping and playtesting.  Current, industry-tested game engines.  3 lectures, 1 laboratory.",
+            "title": "Game Design"
+        },
+        "CSC 378": {
+            "description": "Project-based, software oriented, design of interactive entertainment applications.  Topics may include interactive storytelling, game physics, game AI, scripting, and development of virtual worlds using modeling and rendering tools.  Projects require significant programming.  3 lectures, 1 laboratory.",
+            "title": "Interactive Entertainment Engineering"
+        },
+        "CSC 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems"
+        },
+        "CSC 402": {
+            "description": "Software requirements elicitation, analysis and documentation.  Team process infrastructure and resource estimation to support appropriate levels of quality.  Software architectural design.  3 lectures, 1 laboratory.",
+            "title": "Software Requirements Engineering"
+        },
+        "CSC 405": {
+            "description": "Design and construction of sizeable software products.  Technical management of software development teams.  Software development process models, software design, documentation, quality assurance during development, software unit and integration testing; CASE tools, development environments, test tools, configuration management.  3 lectures, 1 laboratory.",
+            "title": "Software Construction"
+        },
+        "CSC 406": {
+            "description": "Deployment of a sizeable software product by a student team.  Software maintenance and deployment economic issues.  Management of deployed software:  version control, defect tracking and technical support.  3 lectures, 1 laboratory.",
+            "title": "Software Deployment"
+        },
+        "CSC 409": {
+            "description": "Selected topics in software engineering.  Topics may include program generation, quality assurance, formal methods, software metrics, design methods, testing, or software development processes.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Current Topics in Software Engineering"
+        },
+        "CSC 410": {
+            "description": "Theory and practice of evaluation of software and software systems.  Design of experiments for measuring software performance, measuring software output quality, comparing multiple implementations of the same algorithm, and evaluation of software heuristics.  Selection of appropriate software evaluation measures and criteria.  3 lectures, 1 laboratory.",
+            "title": "Software Evaluation"
+        },
+        "CSC 422": {
+            "description": "Introduction to network and web security, including denial of service, botnets, access control, routing attacks, transport layer attacks, tunneling mechanisms, VPNs, IDS, firewalls, penetration testing, key distribution, browser security, social network security, email security, jamming, and wireless security.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 422.",
+            "title": "Network and Web Security"
+        },
+        "CSC 424": {
+            "description": "Principles behind secure software design including threat models, trust management, common vulnerabilities and mitigation techniques, robust software development, isolation of untrusted code, auditability, and testing.  3 lectures, 1 laboratory.",
+            "title": "Software Security"
+        },
+        "CSC 429": {
+            "description": "Selected topics in emerging areas of computer security.  Potential topics include:  network and web security, critical infrastructure protection, embedded systems security, malware analysis, mobile security, and digital forensics, among others.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Current Topics in Computer Security"
+        },
+        "CSC 430": {
+            "description": "Construction of the front end of a compiler including lexical analysis, syntactic analysis, type checking, and formal semantics.  Introduction to regular languages, finite automata, and context-free grammars.  3 lectures, 1 laboratory.",
+            "title": "Programming Languages I"
+        },
+        "CSC 431": {
+            "description": "Language principles and design issues:  bindings, conversion, parameter passing, and dynamic semantics.  Language implementation:  intermediate code representation, memory management, code optimization, and code generation.  Functional programming languages.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 431.",
+            "title": "Programming Languages II"
+        },
+        "CSC 435": {
+            "description": "Principles of object-oriented design, with emphasis on use of these principles in the design of graphical interfaces.  Comparison and contrasting of two major object-oriented languages and their corresponding GUI class libraries.  Language-independent object-oriented design methods, and application of these methods in the construction of a GUI-based project.  Course may be offered in classroom-based or online format.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Object Oriented Design Using Graphical User Interfaces"
+        },
+        "CSC 436": {
+            "description": "Inception, development, testing, and deployment of mobile applications.  Introduction to tools, libraries, and frameworks for one or more mobile platforms and devices.  Emphasis on software engineering best practices for developing entrepreneurial or humanitarian mobile-centric applications.  3 lectures, 1 laboratory.",
+            "title": "Mobile Application Development"
+        },
+        "CSC 437": {
+            "description": "Project-based study of web-based three-tiered applications, including current best practices and tools for design, implementation and testing of browser interface, serverside business logic, object-relational mapping, databases, and web services.  3 lectures, 1 laboratory.",
+            "title": "Dynamic Web Development"
+        },
+        "CSC 445": {
+            "description": "Theory of formal languages and automata.  Turing machines.  Chomsky hierarchy.  Theory of decidability and computability.  4 lectures.",
+            "title": "Theory of Computation I"
+        },
+        "CSC 448": {
+            "description": "Introduction to the use of computers to solve problems in molecular biology.  The algorithms, languages, and databases important in determining and analyzing nucleic and protein sequences and their structure.  3 lectures, 1 laboratory.",
+            "title": "Bioinformatics Algorithms"
+        },
+        "CSC 450": {
+            "description": "Team-based design, construction and deployment of a collaborative interactive computational art project typically found in the fields of animation, game design, and interactive media.  Management of inter-disciplinary teams, documentation, creative development, testing, and assessment.  2 laboratories.  Crosslisted as ART/CSC 450.",
+            "title": "Computing for Interactive Arts Capstone II"
+        },
+        "CSC 453": {
+            "description": "Introduction to sequential and multiprogramming operating systems; kernel calls, interrupt service mechanisms, scheduling, files and protection mechanisms, conventional machine attributes that apply to operating system implementation, virtual memory management, and I/O control systems.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 453.",
+            "title": "Introduction to Operating Systems"
+        },
+        "CSC 454": {
+            "description": "Design and implementation of multiprogramming kernels, systems programming methodology, interprocess communications, synchronization, device drivers and network access methods.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 454.",
+            "title": "Implementation of Operating Systems"
+        },
+        "CSC 458": {
+            "description": "Selected aspects of design, implementation and analysis of networks, advanced operating and distributed systems.  Topics may include process management, virtual memory, process communication, context switching, file system designs, persistent objects, process and data migration, load balancing, security and networks.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 458.",
+            "title": "Current Topics in Computer Systems"
+        },
+        "CSC 466": {
+            "description": "Overview of modern knowledge discovery from data (KDD) methods and technologies.  Topics in data mining (association rules mining, classification, clustering), information retrieval, web mining.  Emphasis on use of KDD techniques in modern software applications.  3 lectures, 1 laboratory.",
+            "title": "Knowledge Discovery from Data"
+        },
+        "CSC 468": {
+            "description": "Data structures and algorithms used in the implementation of database systems.  Implementation of data and transaction managers:  access methods interfaces, concurrency control and recovery, query processors and optimizers.  Introduction to implementation of distributed database systems.  3 lectures, 1 laboratory.",
+            "title": "Database Management Systems Implementation"
+        },
+        "CSC 469": {
+            "description": "Foundations of distributed systems, distributed hash tables (peer-to-peer systems), failure detectors, synchronization, election, inter-process communication, consensus, replication, key-value stores, and measurements.  3 lectures, 1 laboratory.  Crosslisted as CSC/CPE 469.",
+            "title": "Distributed Systems"
+        },
+        "CSC 471": {
+            "description": "Graphics software development and use of application programming interfaces for 3D graphics.  The graphics pipeline, modeling, geometric and viewing transforms, lighting and shading, rendering, interaction techniques and graphics hardware.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 471.",
+            "title": "Introduction to Computer Graphics"
+        },
+        "CSC 473": {
+            "description": "Illumination models, reflectance, absorption, emittance, Gouraud shading, Phong shading, raytracing polyhedra and other modeling primitives, coherence, acceleration methods, radiosity, form factors, advanced algorithms.  3 lectures, 1 laboratory.",
+            "title": "Advanced Rendering Techniques"
+        },
+        "CSC 474": {
+            "description": "Basic and advanced algorithms for generating sequences of synthetic images.  Interpolation in time and space, procedural and keyframe animation, particle systems, dynamics and inverse kinematics, morphing and video.  3 lectures, 1 laboratory.",
+            "title": "Computer Animation"
+        },
+        "CSC 476": {
+            "description": "Basic and advanced algorithms for real-time, interactive, 3D graphics software.  Modeling (polygon mesh, height field, scene graph), real-time rendering and shading (visibility processing, LOD, texture and light maps), collision detection (bounding volumes, complexity management), interactive controls, multi-player game technology, game engine architecture.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 476.",
+            "title": "Real-Time 3D Computer Graphics Software"
+        },
+        "CSC 477": {
+            "description": "Basic data processing (magnitude, grouping and segmentation), visualization design, cognition and perception, spatial data visualizations (2D and 3D, e.g.  GIS data, medical data) information data visualization, spatial encoding, color encoding, and interaction.  3 lectures, 1 laboratory.",
+            "title": "Scientific and Information Visualization"
+        },
+        "CSC 478": {
+            "description": "Selected aspects of the design, implementation and analysis of computer graphics.  Topics may include rendering, modeling, visualization, animation, virtual reality, computer vision, multimedia, and perception issues.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Current Topics in Computer Graphics"
+        },
+        "CSC 480": {
+            "description": "Programs and techniques that characterize artificial intelligence.  Programming in a high level language.  3 lectures, 1 laboratory.",
+            "title": "Artificial Intelligence"
+        },
+        "CSC 481": {
+            "description": "In-depth treatment of knowledge representation, utilization and acquisition in a programming environment.  Emphasis on the use of domain-specific knowledge to obtain expert performance in programs.  3 lectures, 1 laboratory.",
+            "title": "Knowledge Based Systems"
+        },
+        "CSC 483": {
+            "description": "Selected aspects of the field of human-computer interaction.  Topics may include dynamic information visualization, universal access, social impact of technology usage, educational technology, human cognition and performance studies, and extended usability evaluation techniques.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Current Topics in Human-Computer Interaction"
+        },
+        "CSC 484": {
+            "description": "Introduction to the importance of user-centered principles in the design of good interfaces and effective human-computer interaction.  Topics include:  study of human characteristics affected by interface design, effective requirements data collection and analysis, user-centered approaches to software engineering, and evaluation of interface and interaction quality.  3 lectures, 1 laboratory.",
+            "title": "User-Centered Interface Design and Development"
+        },
+        "CSC 486": {
+            "description": "Application of the theories of human-computer interaction to the task of user-centered design.  Survey of techniques for studying and involving users in different aspects of the design process, and demonstration of where and when applicable.  Combining of theoretical understanding with practical experience to design solutions to problems facing interactive systems designers.  3 lectures, 1 laboratory.",
+            "title": "Human-Computer Interaction Theory and Design"
+        },
+        "CSC 489": {
+            "description": "Selected aspects of the design, implementation and analysis of advanced systems and concepts in the area of artificial intelligence.  Topics may include knowledge representation, reasoning, learning, or planning, and specific techniques like intelligent agents, genetic algorithms, semantic web, or robotics.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  3 lectures, 1 laboratory.",
+            "title": "Current Topics in Artificial Intelligence"
+        },
+        "CSC 490": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CSC 491": {
+            "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment.  Project may include students from other disciplines.  Formulation of outline, literature review, and project schedule.",
+            "title": "Senior Project I"
+        },
+        "CSC 492": {
+            "description": "Selection and completion of a project by individuals or team which is typical of problems which graduates must solve in their fields of employment.  Project may include students from other disciplines.  Project results are presented in a formal report.",
+            "title": "Senior Project II"
+        },
+        "CSC 493": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 6 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 18 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  A more fully developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 496": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CSC 500": {
+            "description": "Individual directed study of advanced topics.  Total credit limited to 4 units.  Credit/No Credit grading only.",
+            "title": "Directed Study"
+        },
+        "CSC 508": {
+            "description": "In-depth study of requirements engineering, software project management, formal specifications and object-oriented analysis.  4 seminars.",
+            "title": "Software Engineering I"
+        },
+        "CSC 509": {
+            "description": "In-depth study of software modeling and design.  Formal design methodologies.  Design patterns.  Detailed case studies of existing projects.  Tools and methods for designing large software systems.  4 seminars.",
+            "title": "Software Engineering II"
+        },
+        "CSC 515": {
+            "description": "Comparative study and design of multiprocessor, dataflow, RISC, high level language and other new computer architectures.  VLSI processor design techniques.  3 seminars, 1 laboratory.  Crosslisted as CPE/CSC 515.",
+            "title": "Computer Architecture"
+        },
+        "CSC 521": {
+            "description": "Exploration of advanced topics in computer security with an emphasis on research topics.  3 lectures, 1 laboratory.",
+            "title": "Computer Security"
+        },
+        "CSC 530": {
+            "description": "Advanced programming language and translator concepts.  Language concepts to be covered will be selected from current state-of-the-art languages and current issues in language design.  Compiler concepts will include retargetable code generation, use of translator-writing systems, and error recovery.  4 seminars.",
+            "title": "Languages and Translators"
+        },
+        "CSC 540": {
+            "description": "Advanced topics in theoretical computer science from such areas as automata theory, cellular automata theory, computational complexity, and program verification.  4 seminars.",
+            "title": "Theory of Computation II"
+        },
+        "CSC 550": {
+            "description": "General concepts of computer architecture and operating systems.  Design features of advanced computers, general time-sharing systems and schemes for dynamic memory allocation, scheduling and protection.  Dynamic linkage between subroutines.  Intercommunication between input/output and processors.  4 seminars.",
+            "title": "Operating Systems"
+        },
+        "CSC 560": {
+            "description": "Current topics in database systems:  distributed databases and transactions, nested and long-running transactions, distributed concurrency control, semantic and object-oriented data models, database systems for non-traditional applications:  engineering design databases, active, logic, temporal, multimedia, and real-time databases.  4 seminars.",
+            "title": "Database Systems"
+        },
+        "CSC 564": {
+            "description": "Exploration of advanced topics in emerging computer networking technologies; focus on leading edge computer network research topics.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 564.",
+            "title": "Computer Networks: Research Topics"
+        },
+        "CSC 566": {
+            "description": "Advanced topics in the areas of data mining, knowledge discovery in data, machine learning, information retrieval and intelligent analysis of information.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.",
+            "title": "Topics in Advanced Data Mining"
+        },
+        "CSC 569": {
+            "description": "Principles and practices in distributed computing:  interprocess communications, group communications, client-server model, distributed objects, message queue system, distributed services, mobile agents, object space, Internet protocols.  Distributed algorithms:  consensus protocols, global state protocols.  Fault tolerance:  classification of faults, replication.  3 lectures, 1 laboratory.  Crosslisted as CPE/CSC 569.",
+            "title": "Distributed Computing"
+        },
+        "CSC 570": {
+            "description": "Directed group study of selected topics for graduate students.  Topics will normally consist of continuations of those in CSC 520, CSC 530, CSC 540, CSC 550, CSC 560 and CSC 580, and other topics as needed.  Class Schedule will list topic selected.  Topic credit limited to 12 units.  2 to 4 seminars.",
+            "title": "Current Topics in Computer Science"
+        },
+        "CSC 572": {
+            "description": "Advanced topics in computer graphics with emphasis on leading edge computer graphics technologies and advanced topics in graphics fundamentals.  3 lectures, 1 laboratory.",
+            "title": "Computer Graphics"
+        },
+        "CSC 580": {
+            "description": "Current research in the field of artificial intelligence with emphasis on cooperative agents, distributed agents, and decision making in complex, concurrent environments.  AI programming in a distributed environment.  3 lectures, 1 laboratory.",
+            "title": "Artificial Intelligence"
+        },
+        "CSC 581": {
+            "description": "Methods and techniques that computer-based systems can provide to make the management of knowledge and information in digital form easier for the user.  Emphasis on support for knowledge-intensive activities performed by users.  3 lectures, 1 laboratory.",
+            "title": "Computer Support for Knowledge Management"
+        },
+        "CSC 582": {
+            "description": "Classic Natural Language Processing systems and techniques; review of recent advancements in the subject.  Topics selected from:  parsing, tagging, word-sense disambiguation, natural language generation, data mining, voice recognition, vocalization, knowledge management, semantic networks, stylistics and machine learning.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Natural Language Processing"
+        },
+        "CSC 590": {
+            "description": "Preparation for conducting research in the field of computer science, through discussions, selected readings, and student presentations.  1 seminar.",
+            "title": "Thesis Seminar"
+        },
+        "CSC 593": {
+            "description": "Advanced study analysis and part-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 594": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 595": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CSC 596": {
+            "description": "Individual research or activity under faculty supervision, beginning work on the master's thesis.",
+            "title": "Thesis I"
+        },
+        "CSC 597": {
+            "description": "Individual research or activity under faculty supervision, continuing work on the master's thesis.",
+            "title": "Thesis II"
+        },
+        "CSC 599": {
+            "description": "Individual research or activity under faculty supervision leading to an acceptable thesis.",
+            "title": "Thesis III"
+        }
+    },
     "links": [
         {
             "source": "MATH 117",

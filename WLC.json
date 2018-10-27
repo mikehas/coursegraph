@@ -1,4 +1,82 @@
 {
+    "descriptions": {
+        "WLC 101": {
+            "description": "Organized group instruction arranged for students who wish to acquire basic skill in a language other than English indicated by subtitle. Language taught in its intercultural context. 3 lectures, 1 activity. Formerly MLL 101.",
+            "title": "Elementary World Language I"
+        },
+        "WLC 102": {
+            "description": "Organized group instruction arranged for students who wish to acquire basic skill in a language other than English indicated by subtitle.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Formerly MLL 102.",
+            "title": "Elementary World Language II"
+        },
+        "WLC 103": {
+            "description": "Organized group instruction arranged for students who wish to acquire basic skill in a language other than English indicated by subtitle.  Language taught in its intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Formerly MLL 103.",
+            "title": "Elementary World Language III"
+        },
+        "WLC 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems at the lower-division level.  Total credit limited to 8 units.  Formerly MLL 200.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "WLC 201": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills within an intercultural context in a language other than English indicated by subtitle.  To be taken in numerical sequence.  3 lectures, 1 activity.  Formerly MLL 201.",
+            "title": "Intermediate World Language I"
+        },
+        "WLC 202": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills within an intercultural context in a language other than English indicated by subtitle.  To be taken in numerical sequence.  3 lectures, 1 activity.  Formerly MLL 202.",
+            "title": "Intermediate World Language II"
+        },
+        "WLC 270": {
+            "description": "Acquisition of language and cultural competencies while studying abroad.  Total credit limited to 12 units, with a maximum of 12 units per quarter.  3 lectures, 1 activity.  Formerly MLL 270.",
+            "title": "Language Study Abroad"
+        },
+        "WLC 290": {
+            "description": "Directed group study of selected topics.  Open to undergraduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.  Formerly MLL 290.",
+            "title": "Selected Topics"
+        },
+        "WLC 310": {
+            "description": "Interdisciplinary examination of the humanities in a selected culture.  Special focus on the arts, literature, philosophy and language in that culture.  The Class Schedule will list topic selected.  Total credit limited to 12 units with different subtopic.  4 lectures.  Fulfills GE C4.  Formerly ISLA 310.",
+            "title": "Humanities in World Cultures"
+        },
+        "WLC 312": {
+            "description": "Interdisciplinary examination of humanities in Chicano culture.  Special focus on the arts, literature, social situations, and the monolingual and bilingual language aspects in Chicano culture.  4 lectures.  Fulfills GE C4 and USCP.  Formerly ISLA 312.",
+            "title": "Humanities in Chicano/a Culture"
+        },
+        "WLC 318": {
+            "description": "Examination and experience of Spanish culture via participant observation in Spain.  An introductory exploration of the development of Spanish architecture, art, literature, music, theatre and popular culture as experienced in Valladolid, Spain.  Credit/No Credit grading only.  2 activities.  Formerly ISLA 318.",
+            "title": "Culture of Spain: Activities"
+        },
+        "WLC 360": {
+            "description": "Methods and techniques of doing research.  Critical thinking and library research in languages other than English.  Introduction to different senior project formats:  scholarly essays, lesson planning, translations, creative works, community-based projects.  4 lectures.  Formerly MLL 360.",
+            "title": "Research Methods in World Languages and Cultures"
+        },
+        "WLC 370": {
+            "description": "Focus on ways in which technology impacts language use.  Characteristics of social media interactions (texting, Facebook) in different languages (e.g., Spanish, French, German, Chinese) are compared.  Special attention given to linguistic diversity and the emergence of multilingual identities on digital platforms.  Course may be offered in classroom-based or online format.  4 lectures.  Fulfills GE D5, except for MLL majors.",
+            "title": "Language, Technology and Society"
+        },
+        "WLC 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units.  Formerly MLL 400.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "WLC 424": {
+            "description": "The development of objectives, curriculum, material and assessment tools for teaching world languages to a diverse student body in secondary schools.  Theoretical and hands-on practice based on the California Standards for the Teaching Profession and state curriculum frameworks.  4 lectures.",
+            "title": "Methods in Teaching Languages Other Than English"
+        },
+        "WLC 425": {
+            "description": "Principles and practices in effective teaching of world languages at the middle and high school level, learning theories, curriculum content and structure, classroom issues, and the teaching profession.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 seminars.",
+            "title": "World Languages Clinical Experience Seminar"
+        },
+        "WLC 451": {
+            "description": "Supervised work experience in a private, governmental, or non-governmental organization working in Latin America or on a critical issue related to Latin America.  Student engagement in all duties and responsibilities of employees and interns engaged in comparable work.  30 hours of work experience per unit of credit.  Total credit limited to 12 units.  Credit/No Credit grading only.  Formerly ISLA 451.",
+            "title": "Latin American Studies Internship"
+        },
+        "WLC 460": {
+            "description": "Selection and completion of a project under faculty mentorship.  Projects represent individual, well-defined problems and potential solutions that reflect pertinent scholarly activity in the field of modern languages and literatures, with special emphasis in one of the languages/cultures taught in the department.  Total credit limited to 4 units.  Formerly MLL 460.",
+            "title": "Senior Project"
+        },
+        "WLC 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected and language of instruction.  Total credit limited to 8 units.  4 lectures.  Formerly MLL 470.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "WLC 101",

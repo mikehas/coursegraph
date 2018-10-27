@@ -1,4 +1,406 @@
 {
+    "descriptions": {
+        "HIST 100": {
+            "description": "Introduction to the study of history, focusing on methods, topics, skills in the History major at Cal Poly, and internship and career opportunities.  To be taken in the first year of study at Cal Poly.  2 seminars.",
+            "title": "Introduction to the Study of History"
+        },
+        "HIST 110": {
+            "description": "Beginnings of western civilization from the river valley societies of the Middle  East, circa 3,000 BCE to the Renaissance in Western  Europe to 1550 CE. Political, economic, social, intellectual, and artistic development of that period. 4 lectures.",
+            "title": "Western Civilization: Ancient to Renaissance"
+        },
+        "HIST 111": {
+            "description": "Development of western civilization from 1550 CE to the present. Comparison of liberal modernization of the West with the conservative modernization in Central, East and Southeast Europe. Political, economic, social, intellectual, and artistic developments of that period. Particular attention to understanding dynamics that produce pluralistic mass societies such as Great Britain and France, and authoritarian mass societies such as Nazi Germany and the Soviet Union. 4 lectures.",
+            "title": "Western Civilization: Reformation to the Present"
+        },
+        "HIST 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "HIST 201": {
+            "description": "Survey of the first half of U.S. history, including: contact and settlement, American Revolution, slavery, westward expansion, early California, Civil War, and California and U.S. Constitutions. Particular attention to how race, class, and gender shaped changing definitions of freedom and equality. Not open to students with credit in HIST 206 or HIST 207. 4 lectures. Crosslisted as HIST 201/HNRS 203. Fulfills D1 and USCP.",
+            "title": "United States History to 1865"
+        },
+        "HIST 202": {
+            "description": "Survey of the second half of U.S. history, including reconstruction, industrialization, the regulatory state, foreign affairs, and the remaking of citizenship rights and society. Particular attention to how race, class, and gender shaped changing definitions of freedom and equality. Not open to students with credit in HIST 206 or HIST 207. 4 lectures. Crosslisted as HIST/HNRS 202. Fulfills GE Area D1 and USCP.",
+            "title": "United States History Since 1865"
+        },
+        "HIST 206": {
+            "description": "The social, cultural, constitutional, and political history of African American, Asian American, Native American, European American, and Latino/a men and women. Not open to students with credit in HIST 201 or HIST 202. 4 lectures. Fulfills GE D1 and USCP.",
+            "title": "American Cultures"
+        },
+        "HIST 207": {
+            "description": "The multiple and conflicting ways in which various Americans (defined in terms of race, class and gender) have struggled to formulate and promote their own understandings of freedom and equality, from the pre-conquest era to the present. 4 lectures. Not open to students with credit in HIST 201 or HIST 202. Crosslisted as HIST/HNRS 207. Fulfills GE D1 and USCP.",
+            "title": "Freedom and Equality in American History"
+        },
+        "HIST 208": {
+            "description": "Survey of California history from the pre-Columbian period to the present. Native American culture, Spanish imperialism, the Mexican War, gold rush, immigration, dominance of the Southern Pacific Railroad, progressivism, growth of Los Angeles, and California's impact on national and world economy and politics. 4 lectures. Fulfills USCP.",
+            "title": "Survey of California History"
+        },
+        "HIST 210": {
+            "description": "Global history from the beginnings of organized agriculture to the Industrial Revolution. Focus on causation, using geography and cultural creation to highlight economic, political, social, and intellectual developments of the major civilizations of earth. Priority given to Liberal Studies majors. 4 lectures. Fulfills GE D3.",
+            "title": "World History I"
+        },
+        "HIST 213": {
+            "description": "The relationship between states and economies in the modern period. Themes of modernization, industrialization, and colonial expansion. The  major theories of political economy, especially liberalism and socialism. 4 lectures. Crosslisted as HIST/HNRS 213. Fulfills GE D2.",
+            "title": "Modern Political Economy"
+        },
+        "HIST 214": {
+            "description": "Comparative examination of socio-economic structures of the Middle East and Latin America in the framework of global economy. Analysis of the historical context of integration of these two regions in the international economic system and the local reactions to the effects of global forces on national structures. 4 lectures. Fulfills GE D2.",
+            "title": "Political Economy of Latin America and the Middle East"
+        },
+        "HIST 216": {
+            "description": "History of global social movements from the late nineteenth century to the present. May include, but not limited to: socialism, nationalism, feminism, fascism and communism, pacifism, life reform, gay liberation, indigenous peoples' movements, and environmentalism. Includes a service learning component. 4 lectures. Crosslisted as HIST/HNRS 216. Fulfills GE D3.",
+            "title": "Comparative Social Movements"
+        },
+        "HIST 221": {
+            "description": "History of world societies in comparative global perspective. Cross-cultural exchange, interaction, and conflict in the making of the world to 1000, concentrating on the rise of earliest human communities, growth of states, economic, political, and cultural transformations. 4 lectures. Fulfills GE D3.",
+            "title": "World History, Beginnings to 1000"
+        },
+        "HIST 222": {
+            "description": "History of world societies in comparative global perspective. Cross-cultural exchange, interaction, and conflict in the making of the world to 1800, concentrating on the global interaction and integration, cultural and ecological exchange, economic, political, and cultural transformations. 4 lectures. Fulfills GE D3.",
+            "title": "World History, 1000 - 1800"
+        },
+        "HIST 223": {
+            "description": "Comparative history of Western and non-Western societies in global perspective. Cross-cultural exchange, interaction, and conflict in the making of the modern world, with focus on the economic, political, and cultural transformations that facilitated and emerged from imperialism. 4 lectures. Crosslisted as HIST/HNRS 223. Fulfills GE D3.",
+            "title": "World History, 1800 - Present"
+        },
+        "HIST 225": {
+            "description": "Comparative history of the causes and consequences of global warfare for diverse societies and individuals from prehistory to the present. Topics include the environment, technology, migration, economics, politics, religion, law, ethnicity, class, and gender as they relate to history of global warfare. 4 lectures. Fulfills GE D3.",
+            "title": "The World at War"
+        },
+        "HIST 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "HIST 303": {
+            "description": "Designed to develop student's ability to research and write an interpretive paper on a specific topic.  Seminar participants practice the skills of library research, historical and historiographical analysis, and writing and revising.  Paper in lieu of final examination.  The Schedule of Classes will list topic selected.  4 lectures and research project.",
+            "title": "Research and Writing Seminar in History"
+        },
+        "HIST 304": {
+            "description": "Theoretical approaches used to study the past, including scholarship on history and memory, the influence of interdisciplinary studies, the significance of race and gender as categories of analysis, and the place of history and the historian in contemporary society.  3 seminar meetings and research project.",
+            "title": "Historiography"
+        },
+        "HIST 306": {
+            "description": "A history of the development of witchcraft ideas, persecutions, and skepticism in the western world from 1400 to 1800, focusing on the legal, economic, social, and intellectual currents that produced, fired, and eventually ended the phenomenon.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "The Witch-Hunts in Europe, 1400-1800"
+        },
+        "HIST 307": {
+            "description": "Intellectual and cultural history of Europe from the nineteenth century to the present.  Liberalism, radical thought, feminism, evolutionary theory, psycho-analysis, structuralism, existentialism, and postmodernism.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "European Thought 1800-2000"
+        },
+        "HIST 308": {
+            "description": "The African, Islam and Euro-American dimensions of the trans-Atlantic slave trade, with focus on its varying roots, organization and impact on cross-cultural and global levels.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "The Trans-Atlantic Slave Trade"
+        },
+        "HIST 309": {
+            "description": "The cultures of West African and the African Diaspora, with special attention to the intersection of Animist, Islamic and Western cultures, and the survival of African cultures in the Americas as manifested in the artistic, religious, literary, and other humanistic legacies of the African Diaspora.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Cultures of West Africa and the African Diaspora"
+        },
+        "HIST 310": {
+            "description": "The pre-modern and modern histories of China and Japan.  Focus on the traditional era, the transition to modernity, cultural uniqueness within East Asian civilization, and western images of Asia.  4 lectures.  Crosslisted as HIST 310/HNRS 312.  Fulfills GE D5 except for History majors.",
+            "title": "East Asian Culture and Civilization"
+        },
+        "HIST 314": {
+            "description": "Political, social, and economic development of the Middle Eastern countries in the context of regional history and international politics since the birth of Islam.  Particular attention to the resurgence of religious movements and their connection with nationalism and anti-colonialism in the region.  3 lectures and research project.",
+            "title": "Middle East"
+        },
+        "HIST 316": {
+            "description": "Modern histories of China, Japan and Korea:  great disruptions of modernity that have transformed these societies, common characteristics of modernity in East Asia, great differences between Chinese, Japanese and Korean histories, and the mutually constitutive nature of these East Asian histories.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Modern East Asia"
+        },
+        "HIST 317": {
+            "description": "The history of the sea, people who travel across it, live alongside or in the midst of it, or simply seek it out.  Topics include imperialism, maritime commerce, port cities, littoral societies, piracy, tourism, popular culture.  4 lectures.  Crosslisted as HIST/HNRS 317.  Fulfills GE D5 except for History majors.",
+            "title": "The Lure of the Sea"
+        },
+        "HIST 318": {
+            "description": "Comparative history of social, economic, political, and cultural changes in urban life during the nineteenth and twentieth centuries.  Topics may include but are not limited to:  commerce and labor; disease and death; conservation and preservation; gender and sexuality; race and ethnicity.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "The City in the Modern World"
+        },
+        "HIST 319": {
+            "description": "Modern histories of South and Southeast Asia:  traditional empires and cultures, spread of modern capitalism, Western and Japanese colonialism, decolonization and independence, ethnic and religious tensions, roles in contemporary economy and geopolitics.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Modern South and Southeast Asia"
+        },
+        "HIST 320": {
+            "description": "Settlement and evolution of British America, background to the imperial dispute, events leading to the Revolution, Articles of Confederation, Constitution, the national economy, roles of and impact on African-Americans, women, Native Americans and Loyalists.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Colonial and Revolutionary America"
+        },
+        "HIST 321": {
+            "description": "The experiences of nineteenth-century Americans.  Focus on industrialization, antebellum reform, slavery, the Civil War battlefield and homefront, Reconstruction, and the creation of a New South.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Civil War America"
+        },
+        "HIST 322": {
+            "description": "American history since 1900.  Focus on domestic and foreign policy interactions, struggle of disenfranchised groups for social and political equality, and changes in culture and identity.  4 lectures.  Crosslisted as HIST 322/HNRS 323.  Fulfills GE D5 except for History majors.",
+            "title": "Modern America"
+        },
+        "HIST 324": {
+            "description": "An introduction to the historical novel as it has developed in the United States since the 1960s.  Exploration of how historical novels typically represent the past and the ways in which they change our notion of what counts as 'history.' 4 lectures.  Crosslisted as HIST/HNRS 324.  Fulfills GE D5 except for History majors.",
+            "title": "The Historical Novel in the United States, 1960s to the Present"
+        },
+        "HIST 326": {
+            "description": "Topics include imperialism, the world wars, the Cold War, decolonization, and globalization.  Particular attention to ideologies shaping U.S.  policy; ethics and decision-making at multiple levels; and political, economic, social, and cultural consequences of U.S.  activity for societies and individuals around the world.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "United States Foreign Relations since 1898"
+        },
+        "HIST 334": {
+            "description": "Europe's 'long nineteenth century' reveals continuity and dramatic changes in politics, social structures and identities, forms of cultural expression, and scientific and technological knowledge.  Topics include the French and Industrial revolutions; liberalism; nationalism; socialism; modernism; imperialism; and World War I.  4 lectures.  Crosslisted as HIST/HNRS 334.  Fulfills GE D5 except for History majors.",
+            "title": "Modern Europe, 1789-1914"
+        },
+        "HIST 335": {
+            "description": "Examination of twentieth-century European history.  Topics include:  First World War, World Economic Crisis, communism, fascism, mass culture, shifting gender roles, Second World War, Cold War, Velvet Revolution, and the European Union.  4 lectures.  Crosslisted as HIST/HNRS 335.  Fulfills GE D5 except for History majors.",
+            "title": "Modern Europe, 1914-Present"
+        },
+        "HIST 336": {
+            "description": "Historical examination of Great Britain's challenge to its sovereignty and freedom by the regime of Nazi Germany from 1939-1945.  An account of how Britain formed an alliance with the United States, and how that partnership forged a successful campaign that culminated in the survival of Britain and destruction of the Nazi regime.  4 lectures.  Fulfills GE D5 except for History majors.",
+            "title": "Britain at War: The British, the Americans and the Struggle for Freedom, 1939-1945"
+        },
+        "HIST 337": {
+            "description": "Survey of Latin American history in the colonial period from 1492 to the early nineteenth century.  Special attention to the indigenous cultures, the Iberian civilization, and the evolving relationship between them.  4 lectures.  Fulfills GE D5 except for History majors.  Formerly HIST 339.",
+            "title": "Colonial Latin America"
+        },
+        "HIST 338": {
+            "description": "Social, economic and political history of Latin America from the 19th century to the present.  Historical development of economic structures and political and cultural institutions in the region, including Central America, the Hispanic Caribbean, and South America.  4 lectures.  Fulfills GE D5 except for History majors.  Formerly HIST 340.",
+            "title": "Modern Latin America"
+        },
+        "HIST 341": {
+            "description": "Political, social, and economic development of Central American countries in the context of regional history and international politics during the nineteenth and twentieth Centuries.  3 lectures and research project.",
+            "title": "Modern Central America"
+        },
+        "HIST 350": {
+            "description": "History of the intellectual, social, and cultural changes in the early modern period known as the 'Scientific Revolution.' Main topics include the Copernican Revolution, mechanical philosophy, natural history, and the social and material practices of early modern science.  4 lectures.  Crosslisted as HIST/HNRS 350.  Fulfills GE D5 except for History majors.",
+            "title": "The Scientific Revolution, c"
+        },
+        "HIST 354": {
+            "description": "History of computer network technology from the Cold War to the present.  Origins of the Internet, development of TCP/IP, growth of network democracy, encryption, race and gender in cyberspace, Usenet and hypertext.  4 lectures.  Fulfills GE Area F.",
+            "title": "History of Network Technology"
+        },
+        "HIST 359": {
+            "description": "Evolution of materials (ceramics, metals, polymers, composites, semiconductors) in the context of history.  Traces the link between historical and technological developments enabled by materials from the Stone Age to the Electronic Age.  4 lectures.  Crosslisted as HIST/MATE 359.  Fulfills GE Area F.",
+            "title": "Living in a Material World"
+        },
+        "HIST 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "HIST 401": {
+            "description": "Age of exploration.  European powers in eastern North America.  English settlements, development of the English colonies, with emphasis on Virginia and Massachusetts.  Proprietary interests, growth of internal control, and colonial conflicts.  3 lectures and research project.",
+            "title": "Early America"
+        },
+        "HIST 402": {
+            "description": "Background to the imperial dispute, events leading to the Revolution, Articles of Confederation, Constitution, impact on the national economy, women, African-Americans, Loyalists, Native Americans.  The Schedule of Classes will list topic selected.  3 lectures and research project.",
+            "title": "American Revolution and the New Nation"
+        },
+        "HIST 405": {
+            "description": "History of African Americans from the colonial period to the Civil War, roughly 1619-1865.  The slave trade, slavery in the colonies, plantation slavery, the Black West, and free Black culture and institutions.  3 lectures and research project.",
+            "title": "African-American History to 1865"
+        },
+        "HIST 406": {
+            "description": "History of African-Americans from the Civil War to the present.  Reconstruction, racial segregation, the Harlem Renaissance, the Great Migration, the Civil Rights Movement, Black Feminism and Black Power.  3 lectures and research project.  Fulfills USCP.",
+            "title": "African-American History from 1865"
+        },
+        "HIST 407": {
+            "description": "American science during the Cold War, including the development of weapons-related technologies, the effects of economic change and foreign policy, ethical debates among scientists, and shifting public perceptions of science.  3 lectures and research project.",
+            "title": "Science and Society in Cold War America"
+        },
+        "HIST 408": {
+            "description": "Principle forces affecting the nation's political, social and economic life during the Age of Franklin Roosevelt.  Included are the politics of the New Deal, government regulation of the economy and response to the Depression, the rise of the modern presidency, racial and ethnic conflict, the politics of class and gender, the home front at war and post-war tension.  3 lectures and research project.",
+            "title": "The Age of Roosevelt: Depression and World War, 1929-50"
+        },
+        "HIST 409": {
+            "description": "Interaction of revolutionary Vietnamese nationalism with U.S.  foreign policy.  Analysis of the conduct of the war.  Assessment of the impact of the war on U.S.  society.  3 lectures and research project.",
+            "title": "Vietnam War at Home and Abroad"
+        },
+        "HIST 413": {
+            "description": "Topics include liberalism, conservatism, civil rights, foreign policy, the war in Vietnam, stagflation and deregulation, and key social and cultural movements.  Emphasis on politics, economic conditions, and ideology.  3 lectures and research project.",
+            "title": "Turbulent Decades: The United States in the 1960s and 1970s"
+        },
+        "HIST 416": {
+            "description": "Japan's development as a modern state (1800-2000 CE).  Themes include Japan's engagement with modernity and nationalism, the emperor system, Japanese imperialist expansion, and postwar reconstruction of Japanese society.  3 lectures and research project.",
+            "title": "Modern Japan"
+        },
+        "HIST 417": {
+            "description": "Chinese history in the twentieth century:  the fall of the Qing Dynasty and founding of Republic of China in 1912, problems of imperialism and modernity, Chinese Communist Party and People's Republic of China since 1949.  3 lectures and research project.",
+            "title": "20th Century China"
+        },
+        "HIST 418": {
+            "description": "Examination of 20th century Chinese history through the use of Chinese feature films.  Films (with English subtitles) serve as main texts for understanding the tremendous changes in modern Chinese history, and the evolving relationships between film and Chinese society.  4 lectures.",
+            "title": "Chinese Film and History"
+        },
+        "HIST 419": {
+            "description": "Modern history of mainland and maritime Southeast Asia, focusing on the development of political institutions and changing political and cultural identities.  Early empires, expansion of capitalism, colonial rule and wars through era of independence.  3 lectures and research project.",
+            "title": "Modern Southeast Asia"
+        },
+        "HIST 421": {
+            "description": "Comparative history of prostitution from antiquity to present.  Analysis of prostitution from social, cultural, political, gendered and economic perspectives.  4 lectures.  Crosslisted as HIST/WGS 421.",
+            "title": "The History of Prostitution"
+        },
+        "HIST 422": {
+            "description": "Relationships between film and postwar Japanese society; recurring themes and images that link the diverse body of postwar Japanese film.  Films (with English subtitles) serve as main texts for understanding of the tremendous changes in recent Japanese history.  3 lectures, 1 activity.",
+            "title": "Japanese Postwar Film and History"
+        },
+        "HIST 423": {
+            "description": "The history of Vietnam and the influences on its national identities, including migration, cultural adaptations, temporality and territoriality, foreign influences, and racial formations within and outside of the borders of today's Vietnam.  3 lectures and research project.",
+            "title": "The History of Vietnam"
+        },
+        "HIST 424": {
+            "description": "Organization, selection, presentation, application, and interpretation of subject matter in history in secondary schools.  4 seminars.",
+            "title": "Organizing and Teaching History"
+        },
+        "HIST 425": {
+            "description": "Supervised practicum for part-time and full-time student teachers in the Social Science Credential Program.  Teaching techniques and strategies useful for addressing a wide range of issues that arise in grades 6-12 social science classrooms.  Credit/No Credit grading only.  Total credit limited to 8 units.  2 seminars.",
+            "title": "History-Social Sciences Student Teaching Seminar"
+        },
+        "HIST 426": {
+            "description": "Political, social, intellectual and economic roots of Russian Absolutism.  Emergence of Russia as an imperial power, reform, reaction and revolution - 1689-1914.  3 lectures and research project.",
+            "title": "Imperial Russia"
+        },
+        "HIST 427": {
+            "description": "Transformation of Russian autocracy from tsarist to Bolshevik under the impact of World War I and the Revolution of 1917.  The formative force of Marxism-Leninism; Civil War; the 'experimental' 20s; forced collectivization and industrialization; the Purges; 'engineering' a new Soviet Woman and Man for a new communist world; War:  Second and Cold.  3 lectures and research project.",
+            "title": "Soviet Russia"
+        },
+        "HIST 428": {
+            "description": "History of the Indian Ocean from pre-Islamic times to the present.  Exploration of unity and diversity of interconnected societies of the sea and shores of the Indian Ocean.  Examination of geography, trade, travel, naval power and exploration in the political, religious, cultural, maritime and economic history of this vital region.  4 lectures.",
+            "title": "The Indian Ocean"
+        },
+        "HIST 429": {
+            "description": "Survey of African history from earliest times.  Ancient African civilizations, Moslem penetration, the rise of indigenous kingdoms and the continuous impact of Atlantic slave trade.  3 lectures and research project.",
+            "title": "Precolonial African History"
+        },
+        "HIST 430": {
+            "description": "Survey of African history in the 19th and 20th centuries including European colonialism, African resistance, the rise of African nationalism and problems since independence.  3 lectures and research project.",
+            "title": "Modern African History"
+        },
+        "HIST 432": {
+            "description": "Consideration of major themes in human interactions with the environment from the colonial period to the present.  Major topics include:  changing subsistence systems; the environmental impact of industrialization; conservation and sustainability; and the rise of modern environmental movements.  3 lectures and a research project.",
+            "title": "United States Environmental History"
+        },
+        "HIST 433": {
+            "description": "Historiographical and chronological survey since European contact.  Emphasis on the frontier and borderlands concepts, Native America, the Hispanic Southwest, US expansion and conquest, industrial capitalism, inter-societal and transnational economies, immigration, public memory, and racial identity formation.  3 lectures and a research project.",
+            "title": "History of the American West, Southwest Borderlands, and California"
+        },
+        "HIST 434": {
+            "description": "Female ideology and experience from the colonial period through the American Civil War.  Use of a variety of sources, including women's own writing, in order to understand the history of women as it both reflects and shapes American culture and society.  3 lectures and research project.  Crosslisted as HIST/WGS 434.",
+            "title": "American Women's History to 1870"
+        },
+        "HIST 435": {
+            "description": "The female past in the modern period of U.S.  history.  Considers how transformations in gender roles are reflective of other significant changes in American culture and society.  Emphasis on class, race, and ethnic variations in women's experience.  3 lectures and research project.  Crosslisted as HIST/WGS 435.  Fulfills USCP.",
+            "title": "American Women's History from 1870"
+        },
+        "HIST 437": {
+            "description": "Background of German Romantic Nationalism; national unification and defeat in World War I; the failure of Weimar Democracy and political radicalization; the Nazi political, economic, and social revolution 1933-1939.  3 lectures and research project.",
+            "title": "Nazi Germany"
+        },
+        "HIST 440": {
+            "description": "Selected topics and issues in United States history.  Descriptive subtitles assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and a research project.",
+            "title": "Topics and Issues in the History of the United States"
+        },
+        "HIST 441": {
+            "description": "Selected topics and issues in European history.  Descriptive subtitles assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and research project.",
+            "title": "Topics and Issues in European History"
+        },
+        "HIST 442": {
+            "description": "Selected topics and issues in Latin American history.  Descriptive subtitles will be assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and research project.",
+            "title": "Topics and Issues in Latin American History"
+        },
+        "HIST 443": {
+            "description": "Selected topics and issues in Asian history.  Descriptive subtitles will be assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and research project.",
+            "title": "Topics and Issues in Asian History"
+        },
+        "HIST 444": {
+            "description": "Selected topics and issues in African history.  Descriptive subtitles will be assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and research project.",
+            "title": "Topics and Issues in African History"
+        },
+        "HIST 445": {
+            "description": "Selected topics and issues in comparative history.  Descriptive subtitles will be assigned to each course.  The Schedule of Classes will list topic selected.  May be repeated to 8 units.  3 lectures and research project.",
+            "title": "Topics and Issues in Comparative History"
+        },
+        "HIST 452": {
+            "description": "Europe from 1348 to 1620 CE, with topics including the urban milieu, Renaissance philosophy and artistic expression, the new prince, the educational revolution, the Renaissance Church, Martin Luther, Jean Calvin, and the monumental economic, social, and political changes of the sixteenth century.  3 lectures and research project.",
+            "title": "Renaissance and Reformation Europe"
+        },
+        "HIST 453": {
+            "description": "Europe from 1559 to 1715 CE, focusing on the Catholic-Protestant conflict, the rise of the Absolutist state (especially Louis XIV), the 'Crisis of the Seventeenth Century,' the Thirty Years War, the English Civil War and Cromwell, and the Newtonian Paradigm.  3 lectures and research project.",
+            "title": "Religious Wars and Absolutism"
+        },
+        "HIST 458": {
+            "description": "Social, economic, political, and cultural effects of changing gender systems in modern Europe, particularly but not exclusively with regard to sex and sexuality.  3 lectures and research project.  Crosslisted as HIST/WGS 458.",
+            "title": "Gender and Sexuality in Modern Europe"
+        },
+        "HIST 459": {
+            "description": "The history of imperialism and postcolonial studies and the influences of social, economic, and political impact of the empire system on indigenous people, cultures, economy, and politics.  3 lectures and research project.",
+            "title": "Imperialism and Postcolonial Studies"
+        },
+        "HIST 460": {
+            "description": "Completion of paper or creative project under faculty supervision.  Must be historical in nature, investigate a question of significance, include an historiographical analysis, and make an argument based on primary and secondary sources.  Take HIST 461 during a subsequent quarter.",
+            "title": "Senior Project I"
+        },
+        "HIST 461": {
+            "description": "Completion of paper or creative project begun in HIST 460 under faculty supervision.",
+            "title": "Senior Project II"
+        },
+        "HIST 467": {
+            "description": "Supervised work experience using skills of the discipline of history in a public agency ranging from 12 to 36 hours per week.  Interns work directly under the supervision of an employee of the agency and are subject to the professional responsibilities typical of the state.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "History Internship"
+        },
+        "HIST 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "HIST 475": {
+            "description": "History of Arabia from pre-Islamic times to the present.  Political, cultural, social and economic history of Oman, the United Arab Emirates, Qatar, Bahrain, Kuwait, Saudi Arabia and Yemen.  Emphasis on regional connectivity, imperialism and the origins of modern Gulf nation states, and historical roots to contemporary problems in the region.  4 lectures.",
+            "title": "Arabia and the Arab Gulf States"
+        },
+        "HIST 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  No major credit allowed; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "HIST 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  No major credit allowed; total credit limited to 24 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "HIST 500": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units.",
+            "title": "Special Problems for Graduate Students"
+        },
+        "HIST 504": {
+            "description": "Weekly reading and discussion course on practical methods and theoretical approaches to the study and writing of history.  4 seminars.",
+            "title": "Graduate Study in History"
+        },
+        "HIST 505": {
+            "description": "Intensive study of selected topics in United States history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in United States History"
+        },
+        "HIST 506": {
+            "description": "Intensive study of selected topics in modern European history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in European History"
+        },
+        "HIST 507": {
+            "description": "Intensive study of selected topics in East Asian history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in East Asian History"
+        },
+        "HIST 508": {
+            "description": "Intensive study of selected topics in Latin American history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in Latin American History"
+        },
+        "HIST 509": {
+            "description": "Intensive study of selected topics in African history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in African History"
+        },
+        "HIST 510": {
+            "description": "Intensive study of selective topics in comparative history.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Graduate Seminar in Comparative History"
+        },
+        "HIST 512": {
+            "description": "Directed supervision of reading for MA comprehensive exams.  Regular consultation between advisor and student.  Total credit limited to 4 units.",
+            "title": "Supervised Reading for Comprehensive Exams"
+        },
+        "HIST 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "HIST 599": {
+            "description": "Directed supervision of MA thesis.  Regular consultation between advisor and student.  Course to be taken three times over three separate quarters; total credit limited to 9 units.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "HIST 100",

@@ -1,4 +1,138 @@
 {
+    "descriptions": {
+        "WVIT 101": {
+            "description": "Introduction to the wine and viticulture program. Emphasis on curriculum and career planning. Credit/No Credit grading only. 1 lecture.",
+            "title": "Orientation to Wine and Viticulture"
+        },
+        "WVIT 102": {
+            "description": "Introduction to wine grape growing, winemaking, and wine business. Brief history and overview of major global wine regions, including growing conditions, grape varieties, winemaking styles, and wine business practices. 4 lectures.",
+            "title": "Global Wine and Viticulture"
+        },
+        "WVIT 202": {
+            "description": "Introduction to the science of winemaking:  development of wine components in grapes, grape maturation, harvesting, pre-fermentation wine-making methods, alcoholic fermentation, malolactic fermentation, wine maturation and post fermentation practices, wine spoilage, maintenance of wine integrity.  4 lectures.",
+            "title": "Fundamentals of Enology"
+        },
+        "WVIT 210": {
+            "description": "Critical viticultural practices including planting, pruning, canopy management, fruit thinning, harvest, floor management, trellis and irrigation maintenance. 2 activities. Crosslisted as AEPS/WVIT 210.",
+            "title": "Viticultural Practices"
+        },
+        "WVIT 233": {
+            "description": "Fundamentals of grape growing, with emphasis on wine grapes.  Fundamentals of vine anatomy and physiology, development and phenology, trellising systems, soils, climatic factors, vineyard establishment, grafting, irrigation, fertility, harvest practices, pruning, major pests, and major varieties and rootstocks.  Not open to students with credit in WVIT 231.  4 lectures.  Formerly WVIT 232.",
+            "title": "Basic Viticulture"
+        },
+        "WVIT 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "WVIT 301": {
+            "description": "Wine yeasts, bacteria, and molds:  morphology and methods of identification; successful alcoholic and malolactic fermentations; management and prevention of unwanted microbial growth; micro-organisms and flavor development.  3 lectures, 1 laboratory.  Crosslisted as MCRO/WVIT 301.",
+            "title": "Wine Microbiology"
+        },
+        "WVIT 302": {
+            "description": "Alcoholic and malolactic fermentation, maturation, stabilization and bottling of finished wines.  Not open to students with credit in WVIT 404, WVIT 405 or WVIT 406.  1 lecture, 1 laboratory.",
+            "title": "Wine Fermentation Laboratory"
+        },
+        "WVIT 331": {
+            "description": "Advanced viticulture theory and practice, with an emphasis on fall season activities.  Identification of rootstocks, wine and table grapes, species taxonomy and diversity, and breeding for grapevine improvement.  Field trips required.  3 lectures, 1 laboratory.  Crosslisted as AEPS/WVIT 331.",
+            "title": "Advanced Viticulture - Fall"
+        },
+        "WVIT 332": {
+            "description": "Advanced viticulture theory and practice with emphasis on winter season activities.  Pruning to influence vine balance, productivity, training and trellising systems, vineyard establishment, cover cropping and weed management.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Advanced Viticulture - Winter"
+        },
+        "WVIT 333": {
+            "description": "Advanced viticulture theory and practices with emphasis on spring activities.  Vine source/sink relations, factors impacting yield and berry composition, the role environmental conditions on vine physiology, and canopy management.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Advanced Viticulture - Spring"
+        },
+        "WVIT 339": {
+            "description": "One or two quarters spent with an approved wine industry employer engaged in wine production or related agribusiness and viticulture activities.  Applying and developing production and managerial skills and abilities.  One unit of credit may be allowed for each full week of completed and reported internship.  Total Major credit limited to 6 units.  Total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Internship Wine and Viticulture"
+        },
+        "WVIT 343": {
+            "description": "Wine pricing as it relates to quality, packaging, and service.  Distribution options with emphasis on the three tier system, promotional strategies, including public relations, mass media advertising, personal selling, and direct marketing.  Domestic and international marketplaces.  4 lectures.",
+            "title": "Branded Wine Marketing"
+        },
+        "WVIT 344": {
+            "description": "Factors driving direct-to-consumer initiatives in the US wine business:  tasting rooms, wine clubs/mailing lists, eCommerce, telemarketing, and events.  Using current research and case studies to explore features of a direct-to-consumer approach, while facilitating compliance.  Topics include:  experiential marketing, social media, brand differentiation.  4 lectures.",
+            "title": "Direct to Consumer Wine Sales"
+        },
+        "WVIT 365": {
+            "description": "Winery laboratory practices.  Basic principles, techniques, and interpretation of common analyses for sugars, acidity, nitrogen, alcohol, volatile acidity, sulfur dioxide, phenols and color; wine and must amelioration, amendment effects, usage, calculations and procedures of addition.  3 lectures, 1 laboratory.",
+            "title": "Wine Analysis and Amelioration"
+        },
+        "WVIT 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "WVIT 404": {
+            "description": "Planning, managing and implementing harvest in the pilot winery; sanitation practices; monitoring grape maturity; handling juices and musts; alcoholic and malolactic fermentation, general cellar practices; sensory and laboratory analyses.  3 lectures, 1 laboratory.",
+            "title": "Winemaking I"
+        },
+        "WVIT 405": {
+            "description": "Planning, managing and implementing harvest in the pilot winery; sanitation practices; monitoring and maintaining wine integrity; planning for bottling; blending trials; general cellar practices; sensory and laboratory analyses.  3 lectures, 1 laboratory.",
+            "title": "Winemaking II"
+        },
+        "WVIT 406": {
+            "description": "Planning, managing and implementing the preparation of wine for bottling; blending; fining; filtration; bottling; conducting general cellar practices; sensory and laboratory analyses.  3 lectures, 1 laboratory.",
+            "title": "Winemaking III"
+        },
+        "WVIT 414": {
+            "description": "Comprehensive survey of major grape pests including diseases, insects, weeds, vertebrates, and nematodes.  Identification and biology of grape pests and natural enemies, monitoring, and integrated pest management (IPM) strategies, including cultural, biological, and chemical controls.  Guest lectures.  3 lectures, 1 activity.  Crosslisted as AEPS/WVIT 414.",
+            "title": "Grape Pest Management"
+        },
+        "WVIT 423": {
+            "description": "Legal aspects of wine making/marketing.  Emphasis of both Federal (Tax and Trade Bureau) and State business requirements as well as State and Federal regulations impacting winery and viticultural practices in California.  4 lectures.",
+            "title": "Wine Law and Compliance"
+        },
+        "WVIT 428": {
+            "description": "Winegrape vineyard management practices including:  financial projections and budgeting, contracting and supervision of labor, trellis installation and repair, irrigation systems maintenance, fertilization and spray scheduling.  Field trips required.  3 lectures, 1 laboratory.",
+            "title": "Winegrape Vineyard Management"
+        },
+        "WVIT 433": {
+            "description": "Professional selling in the wine industry.  Selling wine through the seven avenues of wine distribution in the 3-tier system.  Exploration of aspects of wine selling, from customer relation management to cultural and legal differences among states.  How strategies for selling differ for various sized wineries.  4 lectures.",
+            "title": "Wine Sales and E-Commerce"
+        },
+        "WVIT 442": {
+            "description": "Evaluation of wines using the techniques in sensory evaluation.  Difference and rating tests; descriptive analysis and pairing of wine and food.  3 lectures, 1 laboratory.",
+            "title": "Sensory Evaluation of Wine"
+        },
+        "WVIT 444": {
+            "description": "Application of statistical theory to design research to examine the wine and grape markets.  Research examining the evaluation of appropriate data collection methods, quantitative analyses, and interpretation of primary and secondary wine and grape industry data.  4 lectures.",
+            "title": "Wine Marketing Research and Market Analysis"
+        },
+        "WVIT 447": {
+            "description": "Scope and elements of the international wine logistics system including supply and distribution channels, transportation, inventory, warehousing, packaging and order processing.  4 lectures.",
+            "title": "Logistics for the Global Wine Industry"
+        },
+        "WVIT 450": {
+            "description": "The strategic planning process for wine businesses.  Development of a complete business plan with careful adherence to the unique and complex regulations that apply to wine businesses.  The business plan will include specification of the product, distribution, finance, and marketing.  4 lectures.",
+            "title": "Wine Business Strategies"
+        },
+        "WVIT 460": {
+            "description": "Selection and analysis of wine and viticulture business problems and opportunities in directed group-based projects.  Problems typical to those that graduates may encounter in marketing and management in the wine and viticulture industry.  Formal report and presentation required.  4 lectures.",
+            "title": "Senior Project - Wine Business"
+        },
+        "WVIT 463": {
+            "description": "Current issues and trends in viticulture, enology and wine business.  Career opportunities and planning for WVIT majors nearing graduation.  2 seminars.",
+            "title": "Issues, Trends and Careers in the Wine Industry"
+        },
+        "WVIT 464": {
+            "description": "Completion of a research proposal and comprehensive literature review, including analysis of experimental results from published peer-reviewed articles in enology and/or viticulture.  Written and oral presentations.  4 lectures.",
+            "title": "Senior Project - Enology and Viticulture"
+        },
+        "WVIT 465": {
+            "description": "Involvement in the experimental design, execution, data analysis and reporting of research under the direct supervision of faculty.  Completion of several critiques of current peer-reviewed journal articles in enology and/or viticulture.  Total credit limited to 4 units.",
+            "title": "Senior Project - Research Experience in Enology or Viticulture"
+        },
+        "WVIT 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "WVIT 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "CHEM 111",

@@ -1,4 +1,374 @@
 {
+    "descriptions": {
+        "CHEM 101": {
+            "description": "Introduction to the chemistry and biochemistry disciplines.  Orientation, advising, career opportunities and introduction to the faculty.  Designed for first-year CHEM and BCHEM majors.  Credit/No Credit grading only.  1 lecture.",
+            "title": "Introduction to the Chemical Sciences"
+        },
+        "CHEM 106": {
+            "description": "Introductory course in chemistry.  Measurement, metric system, properties of matter, chemical symbols, atomic structure, chemical formulas, nomenclature, chemical equations, the mole concept, stoichiometry.  Not open to students majoring in Chemistry or Biochemistry.  Not open to students with credit in CHEM 110, CHEM 111, CHEM 124, or CHEM 127.  3 lectures.",
+            "title": "Introductory Chemistry"
+        },
+        "CHEM 110": {
+            "description": "The fundamentals of chemical cause and effect-structure/function relationships.  The basic principles of chemistry and their applications to solving human problems in organic materials science, biochemistry, toxicology, environmental science, agriculture, nutrition, and medicine.  Not open to students majoring in Chemistry or Biochemistry.  Not open to students with credit in CHEM 111, CHEM 124, or CHEM 127.  3 lectures, 1 laboratory.  Fulfills Ge Area B3 & B4.",
+            "title": "World of Chemistry"
+        },
+        "CHEM 111": {
+            "description": "Introduction to atomic theory, chemical reactions, bonding, stoichiometry, nomenclature, and solutions.  Intended for students who are preparing for CHEM 212/312.  Not open to students with credit in CHEM 124 or CHEM 127.  Credit will be granted in only one of the following courses:  CHEM 110 or CHEM 111.  4 lectures, 1 laboratory.   Fulfills GE Area B3 & B4.",
+            "title": "Survey of Chemistry"
+        },
+        "CHEM 124": {
+            "description": "Stoichiometry, thermochemistry, atomic structure, bonding, solid-state structures, intermolecular forces, and foundational principles of organic chemistry.  Not open to students with credit in CHEM 127.  Credit will be granted in only one of the following courses:  CHEM 110, CHEM 111, or CHEM 124.  3 lectures, 1 laboratory.  Fulfills GE Area B3 & B4.",
+            "title": "General Chemistry for Physical Science and Engineering I"
+        },
+        "CHEM 125": {
+            "description": "Topics include solution chemistry, thermodynamics, kinetics, equilibrium (including acids and bases), electrochemistry, and nuclear chemistry.  Not open to students with credit in CHEM 128.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4.",
+            "title": "General Chemistry for Physical Science and Engineering II"
+        },
+        "CHEM 126": {
+            "description": "Topics in equilibrium, kinetics, acid-base chemistry, and molecular structure, contextualized within major sub-disciplines of chemistry.  Not open to students with credit in CHEM 129.  3 lectures, 1 laboratory.",
+            "title": "General Chemistry for Physical Science and Engineering III"
+        },
+        "CHEM 127": {
+            "description": "Introduction to atomic theory, chemical reactions, bonding, stoichiometry, nomenclature, gas laws, thermochemistry, molecular structure, and intermolecular forces.  Intended primarily for students in agriculture and life sciences.  Not open to students with credit in CHEM 124.  Credit will be granted in only one of the following courses:  CHEM 110, CHEM 111, or CHEM 127.  3 lectures, 1 laboratory.  Fulfills GE Area B3 & B4.",
+            "title": "General Chemistry for Agriculture and Life Science I"
+        },
+        "CHEM 128": {
+            "description": "Continuation of CHEM 127.  Colligative properties, colloids and solutions, oxidation-reduction reactions, electrochemistry, kinetics, equilibria, and thermodynamics.  Not open to students with credit in CHEM 125.  3 lectures, 1 laboratory.",
+            "title": "General Chemistry for Agriculture and Life Science II"
+        },
+        "CHEM 129": {
+            "description": "Continuation of CHEM 128.  Acid and base equilibria, buffers, transition elements, solubility, complex ions, hybrid orbital theory, molecular orbital theory, and nuclear chemistry.  Laboratory study of the chemical properties and semi-micro qualitative analysis of the representative group elements of the periodic table.  Not open to students with credit in CHEM 126.  3 lectures, 1 laboratory.",
+            "title": "General Chemistry for Agriculture and Life Science III"
+        },
+        "CHEM 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "CHEM 201": {
+            "description": "Laboratory research under faculty supervision.  Credit/No Credit grading only.  Total credit limited to 6 units.  1-3 laboratories.",
+            "title": "Undergraduate Research"
+        },
+        "CHEM 202": {
+            "description": "Introduction to the diversity of fields in biotechnology.  Applications in agriculture, nutrition, medicine and environmental problems.  1 lecture, 1 activity.  Crosslisted as BIO/CHEM 202.",
+            "title": "Orientation to Biotechnology"
+        },
+        "CHEM 203": {
+            "description": "Introduction to basic scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for second-year students majoring in Biochemistry or in Chemistry.  Credit/No Credit grading only.  1 seminar.",
+            "title": "Undergraduate Seminar I"
+        },
+        "CHEM 212": {
+            "description": "Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home.  CHEM 212 accepted in lieu of CHEM 312, but not for upper division credit.  Not open to students with credit in CHEM 312, CHEM 216/316.  4 lectures, 1 laboratory.",
+            "title": "Introduction to Organic Chemistry"
+        },
+        "CHEM 216": {
+            "description": "Fundamental concepts and laboratory skills of organic chemistry.  Structure, bonding, nomenclature, isomerism, stereochemistry and physical properties of organic compounds.  Introduction to spectroscopy.  Reactions and mechanisms of alkanes, alkenes and alkyl halides.  Fundamental laboratory techniques in organic chemistry.  Not open to students with credit in CHEM 316.  4 lectures, 1 laboratory.",
+            "title": "Organic Chemistry I"
+        },
+        "CHEM 217": {
+            "description": "Properties and reactions of carbonyl compounds, alcohols, ethers, amines and carbohydrates with an in-depth treatment of the reaction mechanisms.  Introductory concepts and applications of infrared and NMR spectroscopy.  Not open to students with credit in CHEM 317.  3 lectures.",
+            "title": "Organic Chemistry II"
+        },
+        "CHEM 218": {
+            "description": "Properties and reactions of alkynes, heterocyclic and aromatic compounds with an in-depth treatment of the mechanisms of the reactions.  Introductory concepts and applications of ultraviolet spectroscopy and mass spectrometry.  Not open to students with credit in CHEM 318.  3 lectures.",
+            "title": "Organic Chemistry III"
+        },
+        "CHEM 220": {
+            "description": "Laboratory experiments exploring reactions in organic chemistry, applying fundamental laboratory techniques covered in CHEM 216.  Not open to Chemistry and Biochemistry majors.  1 laboratory.",
+            "title": "Organic Chemistry Laboratory For Life Sciences II"
+        },
+        "CHEM 221": {
+            "description": "Laboratory experiments exploring reactions in organic chemistry, applying fundamental laboratory techniques covered in CHEM 216.  2 laboratories.",
+            "title": "Organic Chemistry Laboratory II"
+        },
+        "CHEM 222": {
+            "description": "Introduction to chemical structure and behavior by computational chemistry techniques.  Applications include scientific visualization, molecular modeling, geometry optimization, transition states and molecular dynamics.  1 lecture, 1 laboratory.",
+            "title": "Introduction to Computational Chemistry"
+        },
+        "CHEM 223": {
+            "description": "Practice in multi-step organic synthesis, enzymatic organic chemistry, biomimetic organic chemistry.  Not open to Biochemistry or Chemistry majors.  1 laboratory.",
+            "title": "Organic Chemistry Laboratory for Life Sciences III"
+        },
+        "CHEM 231": {
+            "description": "Theory and application of chemical equilibrium to analytical problems.  Survey of important analytical methods with stress placed on the theory and application associated with titrimetric and spectrophotometric analysis.  3 lectures, 2 laboratories.",
+            "title": "Quantitative Analysis"
+        },
+        "CHEM 252": {
+            "description": "Techniques of glassblowing applied to the making of simple laboratory apparatus.  1 laboratory.",
+            "title": "Laboratory Glassblowing"
+        },
+        "CHEM 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CHEM 302": {
+            "description": "Introduction to chemical processes in the ocean including chemical oceanography and marine chemical ecology.  3 lectures.",
+            "title": "Marine Chemistry"
+        },
+        "CHEM 303": {
+            "description": "Advanced exploration of more sophisticated scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for third-year CHEM and BCHM majors.  Credit/No Credit grading only.  1 seminar.",
+            "title": "Undergraduate Seminar II"
+        },
+        "CHEM 308": {
+            "description": "Introduction to the methodology and techniques used in genetic engineering.  Applications in agriculture, nutrition, medicine and environmental problems.  Potential benefits and problems, including the underlying ethical questions.  Not open to students with credit in CHEM 373, or to Biological Sciences, Marine Sciences, or Microbiology majors.  4 lectures.  Crosslisted as BIO/CHEM 308.  Fulfills GE Area F.",
+            "title": "Genetic Engineering Technology"
+        },
+        "CHEM 312": {
+            "description": "Structure, isomerism, nomenclature, fundamental reactions of major functional groups and applications of organic chemicals in agriculture, medicine, industry, and the home.  Not open to students with credit in CHEM 212 or CHEM 216/316.  4 lectures, 1 laboratory.",
+            "title": "Survey of Organic Chemistry"
+        },
+        "CHEM 313": {
+            "description": "Chemistry of biomolecules including carbohydrates, proteins, fats, vitamins, enzymes and hormones.  Basic molecular biology with applications to biotechnology and genetic engineering.  Practical intermediary metabolism of prokaryotic and eukaryotic systems.  4 lectures, 1 laboratory.",
+            "title": "Survey of Biochemistry and Biotechnology"
+        },
+        "CHEM 324": {
+            "description": "Practice in multiple step organic synthesis, column chromatography, vacuum distillation, enzymes as chemical reagents, inert atmosphere techniques, introduction to FT NMR spectroscopy and mass spectrometry, survey of organic chemical literature.  2 laboratories.",
+            "title": "Organic Chemistry Laboratory III"
+        },
+        "CHEM 331": {
+            "description": "Theory and application of chemical equilibrium to analytical problems.  Survey of important analytical methods with stress placed on the theory and application associated with titrimetric and spectrophotometric analysis.  3 lectures, 2 laboratories.",
+            "title": "Quantitative Analysis"
+        },
+        "CHEM 341": {
+            "description": "Chemical aspects of water and water pollution:  alkalinity; acid deposition, particularly relating to lake and stream acidification and forest decline; drinking water treatment and trihalomethanes; wastewater treatment; detergents, builders, and eutrophication; pesticides; other toxic organic compounds such as PCBs and dioxin; hazardous wastes; toxic elements such as Pb, Hg, Sn, Cd, and Se.  3 lectures.",
+            "title": "Environmental Chemistry: Water Pollution"
+        },
+        "CHEM 349": {
+            "description": "History, development, and use of chemical and biological warfare (CBW).  Chemical and biological disarmament.  Production and destruction of CBW agents.  Uses of CBW.  CBW terrorism.  Ethics of CBW.  2 lectures, 2 seminars.  Fulfills GE Area F.",
+            "title": "Chemical and Biological Warfare"
+        },
+        "CHEM 350": {
+            "description": "Laboratory regulations, equipment hazard analysis, hazardous chemicals, classification of chemicals, toxic materials handling, reaction hazards, radiation, emergency procedures, safety management programs and legal concerns.  Includes project.  1 lecture.",
+            "title": "Chemical Safety"
+        },
+        "CHEM 351": {
+            "description": "Basic physical chemistry for the study of chemical and biochemical systems.  Kinetic-molecular theory, gas laws, principles of thermodynamics.  3 lectures.",
+            "title": "Physical Chemistry I"
+        },
+        "CHEM 352": {
+            "description": "Application of physical chemistry to chemical and biochemical systems.  Electrochemistry, kinetics, viscosity, surface and transport properties.  3 lectures.",
+            "title": "Physical Chemistry II"
+        },
+        "CHEM 353": {
+            "description": "Principles and applications of quantum chemistry.  Chemical bonding and molecular structure.  Spectroscopy and diffraction.  3 lectures.",
+            "title": "Physical Chemistry III"
+        },
+        "CHEM 354": {
+            "description": "Experimental studies of gases, solutions, thermochemistry, chemical and phase equilibria, electrochemistry, chemical and enzyme kinetics, computational methods and applications to chemistry and biochemistry.  Applicable literature and databases.  2 laboratories.",
+            "title": "Physical Chemistry Laboratory"
+        },
+        "CHEM 357": {
+            "description": "Experimental and computational investigations of quantum chemistry, spectroscopy, symmetry and statistical chemistry.  1 laboratory.",
+            "title": "Physical Chemistry III Lab"
+        },
+        "CHEM 371": {
+            "description": "Chemistry and function of major cellular constituents:  proteins, lipids, carbohydrates, and membranes.  4 lectures, 1 laboratory.",
+            "title": "Biochemical Principles"
+        },
+        "CHEM 372": {
+            "description": "Intermediary metabolism of carbohydrates, lipids, amino acids and nucleotides, regulation and integration of metabolic pathways, bioenergetics, photosynthesis, electron transport, nitrogen fixation, biochemical function of vitamins and minerals.  4 lectures.",
+            "title": "Metabolism"
+        },
+        "CHEM 373": {
+            "description": "Structure of nucleic acids and chromosomes.  Mechanisms and regulation of nucleic acid and protein synthesis.  Molecular biology techniques.  3 lectures.",
+            "title": "Molecular Biology"
+        },
+        "CHEM 377": {
+            "description": "Introduction to pharmacology and toxicology:  history, sources, development and testing, physical and chemical properties, biochemical and physiological effects, mechanisms of action, and the therapeutic uses and toxicology of common drugs and poisons.  3 lectures.",
+            "title": "Chemistry of Drugs and Poisons"
+        },
+        "CHEM 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 3 units per quarter.  1-3 laboratories.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "CHEM 401": {
+            "description": "Laboratory research under faculty supervision.  Credit/No Credit grading only.  Total credit limited to 6 units.  4 units may be applied to approved chemistry electives.  1-3 laboratories.",
+            "title": "Advanced Undergraduate Research"
+        },
+        "CHEM 403": {
+            "description": "Culminating experience with high level scientific literature and scientific presentation skills.  Targeted advising and preparation for research and career opportunities.  Designed for fourth-year CHEM and BCHM majors.  1 seminar.",
+            "title": "Undergraduate Seminar III: Senior Project"
+        },
+        "CHEM 405": {
+            "description": "Selected advanced topics in physical chemistry, which may include statistical mechanics, computational chemistry, nonequilibrium thermodynamics, lasers in chemistry, solid-state and/or advanced spectroscopy.  Total credit limited to 6 units.  3 lectures.",
+            "title": "Advanced Physical Chemistry"
+        },
+        "CHEM 414": {
+            "description": "A mechanistic study of organic reactions; correlation of structure with reactivity; reaction intermediates and species involved in reactions; methods of probing reaction mechanisms.  3 lectures.",
+            "title": "Advanced Organic Chemistry - Mechanisms"
+        },
+        "CHEM 418": {
+            "description": "Introduction to the chemistry of neurotransmission.  Emphasis on molecular makeup and function of voltage gated ion channels; receptors and enzymes involved in signal transduction; biosynthesis, storage, release, reuptake, and breakdown of major neurotransmitters.  Mechanism of action of agonists and antagonists, and their effects on the central and peripheral nervous systems.  3 lectures.",
+            "title": "Neurochemistry"
+        },
+        "CHEM 419": {
+            "description": "Methods of investigating reaction mechanisms, mechanisms of chemical catalysis, organic models of enzymes, chemistry of vitamins that serve as enzyme cofactors, chemistry of the phosphate group, synthesis of biomolecules.  3 lectures.",
+            "title": "Bioorganic Chemistry"
+        },
+        "CHEM 420": {
+            "description": "Modern methods of organic synthesis.  Carbon-carbon bond forming reactions, functional group transformations, protecting groups, strategies of total synthesis of natural products.  3 seminars.",
+            "title": "Advanced Organic Chemistry - Synthesis"
+        },
+        "CHEM 439": {
+            "description": "Theory, practice and method selection of modern instrumental analytical techniques, including spectroscopic, electrochemical, chromatographic and thermal methods.  Current industrial applications.  Laboratory work emphasizes optimization of experimental parameters.  3 lectures, 2 laboratories.",
+            "title": "Instrumental Analysis"
+        },
+        "CHEM 441": {
+            "description": "Introduction to new problems in molecular biology and current computer applications for genetic database analyses.  Use of software for:  nucleic acid, genome and protein sequence analysis; genetic databases, database tools; industrial applications in bioinformatics; ethical and societal concerns.  3 lectures, 1 laboratory.  Crosslisted as BIO/CHEM 441.",
+            "title": "Bioinformatics Applications"
+        },
+        "CHEM 444": {
+            "description": "Physical properties of polymers and coatings and their measurement.  Molecular weight averages, glass transition, thermodynamics of polymers.  Viscoelastic properties, rheology, molecular weight determination.  Thermal analysis, spectroscopic analysis, mechanical testing.  3 lectures.",
+            "title": "Polymers & Coatings I"
+        },
+        "CHEM 445": {
+            "description": "Introduction to polymerization methods and mechanisms.  Chemistry of initiators, catalysts and inhibitors, kinetics of polymerization.  Uses of representative polymer types.  Synthesis, film formation, structure and properties of polymers commonly used in coatings and adhesives.  3 lectures.",
+            "title": "Polymers & Coatings II"
+        },
+        "CHEM 446": {
+            "description": "Surface energy.  Capillarity, solid and liquid interface, adsorption.  Surface areas of solids.  Contact angles and wetting.  Friction, lubrication and adhesion.  Relationship of surface to bulk properties of materials.  Applications.  3 lectures.  Crosslisted as CHEM/MATE 446.",
+            "title": "Surface Chemistry of Materials"
+        },
+        "CHEM 447": {
+            "description": "Experimental techniques of producing and characterizing coatings.  Polymer characterization and analysis.  Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography.  Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis.  Polymer rheology.  Infrared, Raman and FT-NMR spectroscopy.  Atomic force microscopy.  2 laboratories.",
+            "title": "Polymers and Coatings Laboratory I"
+        },
+        "CHEM 448": {
+            "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques.  Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts.  Synthesis of step-growth polymers.  Kinetics of polymer reactions.  Synthesis of resins used in modern coatings.  2 laboratories.",
+            "title": "Polymers and Coatings Laboratory II"
+        },
+        "CHEM 449": {
+            "description": "Selected students will spend up to 12 weeks with an approved polymers and coatings firm engaged in production or related business.  Time will be spent applying and developing production and technical skills and abilities in the polymers and coatings industry.",
+            "title": "Polymers and Coatings Internship"
+        },
+        "CHEM 450": {
+            "description": "Formulation of modern coatings.  Raw materials including resins, solvents, pigments, and additives.  Formulation principles for solvent-borne and coatings, waterborne, powder, radiation cure and architectural coatings.  Regulatory issues; VOC's.  Coating properties, film formation, film defects, application methods, color and color acceptance.  Not open to students with credit in CHEM 550.  3 lectures.",
+            "title": "Polymers and Coatings III"
+        },
+        "CHEM 451": {
+            "description": "Preparation and characterization of coatings - solvent based and waterborne.  Thermoplastic and thermosetting coatings.  Coating film preparation methods.  Applications of spectroscopy, scanning probe microscopy, thermal analysis, rheology in characterizing coatings.  VOC, long-term exposure testing.  Measurement of appearance (color, gloss).  Not open to students with credit in CHEM 551.  2 laboratories.",
+            "title": "Polymers and Coatings Laboratory III"
+        },
+        "CHEM 454": {
+            "description": "Structure-property-processing correlations of functional polymeric materials.  Additive group contribution methodologies for predicting and determining physical properties.  Semi-empirical approaches for estimating and evaluating the values of physical properties from chemical structures.  4 lectures.",
+            "title": "Functional Polymeric Materials"
+        },
+        "CHEM 458": {
+            "description": "Separation, purification, and identification of organic molecules using chemical and instrumental methods, including nuclear magnetic resonance, infrared and ultraviolet spectroscopy and mass spectroscopy, and techniques in high resolution FT-NMR.  1 lecture, 2 laboratories.",
+            "title": "Instrumental Organic Qualitative Analysis"
+        },
+        "CHEM 459": {
+            "description": "Oral presentation of current developments in chemistry based on current literature.  Searching for, organizing and presenting developments from current literature in chemistry and biochemistry.  Preparation for employment and for independent work, including senior project, in chemistry and biochemistry.  2 seminars.",
+            "title": "Undergraduate Seminar"
+        },
+        "CHEM 461": {
+            "description": "Completion of a senior project report under faculty supervision.  Minimum 30 hours time commitment.",
+            "title": "Senior Project Report"
+        },
+        "CHEM 463": {
+            "description": "Advanced laboratory research.  Results are presented in a poster session or other public forum.  Total credit limited to 2 units with a maximum of 1 unit per quarter.  1 laboratory.",
+            "title": "Honors Research"
+        },
+        "CHEM 465": {
+            "description": "Teaching assignment in an undergraduate college classroom.  Includes teaching and related activities under the direction of a permanent faculty member in the Department of Chemistry and Biochemistry.  Total credit limited to 4 units.",
+            "title": "College Teaching Practicum"
+        },
+        "CHEM 466": {
+            "description": "Pedagogical instruction and introduction to education research for Chemistry Learning Assistants.  Effective questioning, the effect of explanatory knowledge on student learning, student misconceptions in chemistry, collaborative problem solving techniques in chemistry, studio curriculum development, content in the general chemistry curriculum.  Total credit limited to 4 units.  Credit/No Credit grading only.  2 seminars.",
+            "title": "Learning Assistant Seminar"
+        },
+        "CHEM 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CHEM 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CHEM 474": {
+            "description": "Experiments in protein purification and analysis from recombinant sources.  Ion-exchange and affinity chromatography, electrophoresis and blotting.  UV, chemical, immune, and fluorescent detection.  Enzyme kinetic analysis.  1 lecture, 2 laboratories.",
+            "title": "Protein Techniques Laboratory"
+        },
+        "CHEM 475": {
+            "description": "Introduction to techniques used in molecular biology and biotechnology; DNA extraction, characterization, cloning, Southern blotting, reverse transcription, polymerase chain reaction, and sequencing analysis.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM 475.",
+            "title": "Molecular Biology Laboratory"
+        },
+        "CHEM 476": {
+            "description": "Heterologous gene expression of a recombinant protein in a microbial system:  gene cloning, construction of expression plasmid, DNA sequence analysis, transformation of microbial host, selection and analysis of transformed host cells, expression and purification of recombinant protein.  1 lecture, 2 laboratories.  Crosslisted as BIO/CHEM 476.",
+            "title": "Gene Expression Laboratory"
+        },
+        "CHEM 477": {
+            "description": "Consideration of current selected topics in pharmacology and drug targeting.  3 lectures.",
+            "title": "Biochemical Pharmacology"
+        },
+        "CHEM 481": {
+            "description": "A systematic study of chemical and physical properties of inorganic compounds based on periodic groupings with emphasis on chemical bonding and structure.  Topics will include coordination chemistry and kinetics, organometallic chemistry, advanced acid-base relationships and bonding theories plus other selected topics.  3 lectures.",
+            "title": "Inorganic Chemistry"
+        },
+        "CHEM 484": {
+            "description": "Laboratory techniques in inorganic chemistry.  Synthetic and analytic techniques as applied to inorganic and organometallic chemistry.  2 laboratories.",
+            "title": "Inorganic Chemistry Laboratory"
+        },
+        "CHEM 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  2 units only applicable to approved chemistry electives.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CHEM 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  2 units only applicable to approved chemistry electives.  Major credit limited to 4 units; total credit limited to 24 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "CHEM 500": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 6 units, with a maximum of 3 units per quarter.",
+            "title": "Special Problems for Graduate Students"
+        },
+        "CHEM 528": {
+            "description": "Nutritional aspects of biochemistry.  Lecture, library research and student presentations.  Topics include vitamins and minerals, essential and energy providing nutrients, deficiency, degenerative and genetic diseases of metabolism.  Emphasis on current research and controversy.  3 lectures.",
+            "title": "Nutritional Biochemistry"
+        },
+        "CHEM 544": {
+            "description": "Physical properties of polymers and coatings and their measurement; molecular weight averages, glass transition, thermodynamics of polymers, viscoelastic properties, rheology; molecular weight determination, thermal analysis, spectroscopic analysis, mechanical testing, atomic force microscopy.  Special individual project.  Not open to students with credit in CHEM 444.  3 lectures.",
+            "title": "Polymer Physical Chemistry and Analysis"
+        },
+        "CHEM 545": {
+            "description": "Polymerization methods and mechanisms; chemistry of initiators, catalysts and inhibitors; use of representative types; synthesis, structure and properties of polymers commonly used in coatings and adhesives.  Special individual project.  Not open to students with credit in CHEM 445.  3 lectures.",
+            "title": "Polymer Synthesis and Mechanisms"
+        },
+        "CHEM 547": {
+            "description": "Polymer characterization and analysis.  Molecular weight analysis using viscometry, light scattering, and gel permeation chromatography.  Thermal analysis using differential scanning calorimetry, thermal mechanical analysis and dynamic mechanical analysis.  Polymer rheology.  Infrared, Raman and FT-NMR spectroscopy.  Atomic force microscopy.  Special individual project.  Not open to students with credit in CHEM 447.  2 laboratories.",
+            "title": "Polymer Characterization and Analysis Laboratory"
+        },
+        "CHEM 548": {
+            "description": "Polymer synthesis using solution, suspension, bulk, emulsion techniques.  Synthesis of chain growth polymers using free radical, anionic, cationic, and other catalysts.  Synthesis of step-growth polymers.  Kinetics of polymer reactions.  Synthesis of resins used in modern coatings.  Special individual project.  Not open to students with credit in CHEM 448.  2 laboratories.",
+            "title": "Polymer Synthesis Laboratory"
+        },
+        "CHEM 550": {
+            "description": "Formulation of modern coatings.  Raw materials including resins, solvents, pigments, and additives.  Formulation principles for solvent-borne and high solids coatings, water-borne coatings, powder coatings, radiation cure coatings and architectural coatings.  Regulatory issues; VOC's.  Coating properties, film formation, film defects, application methods, color and color acceptance.  Special individual project.  3 lectures.",
+            "title": "Coatings Formulation Principles"
+        },
+        "CHEM 551": {
+            "description": "Laboratory formulation of modern coatings.  Formation of pigment dispersions.  Formulation of solvent-borne and high solids coatings, water-borne coatings, powder coatings, radiation cure coatings and architectural coatings.  VOC measurements.  Measurement of coating properties, film formation, film defects, application methods, color and color acceptance, hiding, gloss.  Accelerated weathering.  Special individual project.  2 laboratories.",
+            "title": "Coatings Formulation Laboratory"
+        },
+        "CHEM 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CHEM 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CHEM 590": {
+            "description": "Problems and topics in polymers and coatings selected according to the interest and needs of the students enrolled.  Total credit limited to 3 units.  1 seminar.",
+            "title": "Graduate Seminar in Polymers and Coatings"
+        },
+        "CHEM 598": {
+            "description": "Supervised industrial graduate internship in polymers and coatings science.  Provides students with industrial research experience.  Requires approval of graduate advisor.  Students engage in industrial research and development at an approved industry, make regular reports back to graduate advisor, and present formal report and seminar on work each quarter.  Total credit limited to 9 units.",
+            "title": "Graduate Project"
+        },
+        "CHEM 599": {
+            "description": "Directed graduate research in specialized advanced topics related to polymers and coatings science, leading to a graduate thesis of suitable quality.  Requires approval of graduate advisor.  Students are expected to work independently and report weekly to faculty advisor.  Total credit limited to 9 units.",
+            "title": "Graduate Thesis"
+        }
+    },
     "links": [
         {
             "source": "MATH 96",

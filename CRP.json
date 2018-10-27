@@ -1,4 +1,314 @@
 {
+    "descriptions": {
+        "CRP 101": {
+            "description": "Introduction to what professional planners do in the public and private sectors and how they help manage growth and change. Credit/No Credit grading only. 1 lecture.",
+            "title": "Introduction to the Profession of City and Regional Planning"
+        },
+        "CRP 201": {
+            "description": "Basic techniques used in graphic communication for representation of the real world on two-dimensional planes. Use of scale, drawing conventions, orthographic and isometric projections, perspective drawings. Basic design and site analysis skills. Sketching, delineation and rendering including the use of black and white and color techniques. 4 laboratories.",
+            "title": "Basic Graphic Skills"
+        },
+        "CRP 202": {
+            "description": "Exploring elements and principles of environmental design.  Understanding the form and character of the designed urban environment.  Introduction to problem analysis and problem solving in environmental design.  Implications of design decisions and solutions on urban context.  Assignments of object, project and system scale in an urban context.  4 laboratories.",
+            "title": "Urban Design Studio I"
+        },
+        "CRP 203": {
+            "description": "Applications of basic design fundamentals and skills to the design of environments through design exercises applied to planning.  Problem analysis and problem solving skills as applied to environmental design issues.  4 laboratories.",
+            "title": "Urban Design Studio II"
+        },
+        "CRP 204": {
+            "description": "Definition/nature of urban design:  a typology of procedures and products.  Urban design as a field between planning, architecture, and landscape architecture.  Visual assessment and townscape movement.  Environmental perception, behavior and spatial fit.  Typo-morphology and the architecture of the city.  1 lecture, 2 activities.",
+            "title": "Theories and Methods of Urban Design"
+        },
+        "CRP 211": {
+            "description": "Historical overview of the evolution of cities - how the form and function of cities evolved among different societies from antiquity to contemporary times. Includes early cities in Mesopotamia, Central America; Greece and Rome; Renaissance, Baroque; and North and South America. 4 lectures.",
+            "title": "Cities: Form, Culture and Evolution"
+        },
+        "CRP 212": {
+            "description": "Understanding the issues of contemporary urban growth and change. Development of theories of urban planning and design. Introduction to zoning, planning regulations and codes, and professional practice. Relationship of environmental design disciplines, citizen groups, and individuals to urban planning. 4 lectures.",
+            "title": "Introduction to Urban Planning"
+        },
+        "CRP 213": {
+            "description": "Collection, organization, and presentation of information and data related to population, housing and employment.  Analytical applications to estimate population over time, housing demand by type and income and employment by standard classification.  Application of urban economic theory related to jobs and housing.  3 lectures, 1 laboratory.",
+            "title": "Population, Housing and Economic Applications"
+        },
+        "CRP 214": {
+            "description": "How cities and regions work.  Relationship between human activities and patterns of land use and circulation.  Spatial analysis and location theories.  Methods for conducting studies to describe, analyze, and map land uses.  Regional-scale transportation analysis, traffic impact studies, and multimodal transportation plans.  3 lectures, 1 activity.",
+            "title": "Land Use and Transportation Studies"
+        },
+        "CRP 215": {
+            "description": "How the social/spatial relationships among racial/ethnic and gender groups are expressed in terms of human settlement patterns, civic involvement and everyday negotiations.  Ways in which segregation and marginalization are expressed in western and non-western contexts.  4 lectures.  Crosslisted as CRP/ES 215.  Fulfills USCP.",
+            "title": "Planning for and with Multiple Publics"
+        },
+        "CRP 216": {
+            "description": "Introduction to the use of computer applications for planners. Includes spreadsheets, statistical applications, database, geographic information systems, and graphics. 1 lecture, 1 laboratory.",
+            "title": "Computer Applications for Planning"
+        },
+        "CRP 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "CRP 304": {
+            "description": "Weekly meetings of students from two distinct self-defined identity groups, with trained peer facilitators, in which readings, experiential activities, informed dialogue, and reflective writing are integrated as a means of encouraging self and group awareness and exploring ways to promote just community across difference.  Supplemented by weekly lecture/discussions.  2 lectures, 2 discussions.  Crosslisted as CRP/PSY 304.  Fulfills GE D5 except for the following majors:  City and Regional Planning, Child Development, and Psychology.",
+            "title": "Intergroup Dialogues"
+        },
+        "CRP 314": {
+            "description": "Theories of planning.  Role of planner in society, purpose of planning, administrative framework in which planning takes place.  Alternative approaches to planning, values, ethics in planning.  Activities aimed at exploring communicative and participatory aspects of planning theory.  3 lectures, 1 activity.",
+            "title": "Planning Theory"
+        },
+        "CRP 315": {
+            "description": "Analysis of the revenue streams and costs involved in project development.  Impact analysis of costs and revenues on private and public sectors included.  Construction of pro-formas for various project types.  3 lectures, 1 laboratory.",
+            "title": "Fiscal and Project Feasibility"
+        },
+        "CRP 325": {
+            "description": "Study of the design of cities for walking and bicycling and its importance to the future of transportation and the resilience of cities.  Reflection on how bicycles and pedestrians shape the urban environment through literature, music, policy, and design practices.  4 lectures.  Fulfills GE D5 except for City and Regional Planning majors.",
+            "title": "Reflections on Biking, Walking and the City"
+        },
+        "CRP 334": {
+            "description": "Examination of the changes in the social and spatial organization of urban settlements in the twenty-first century caused by the urbanization and globalization processes.  Comparative analysis of the traditional and contemporary cities in the Pacific Rim, South America and Eastern Europe.  4 lectures.  Fulfills GE D5 except for City and Regional Planning majors.",
+            "title": "Cities in a Global World"
+        },
+        "CRP 336": {
+            "description": "Examination of the challenges that arise when human and natural systems interact and the tools planners have to manage this interaction.  Relevant principles from a variety of disciplines are used to assess environmental problems and identify solutions in human-dominated systems.  4 lectures.",
+            "title": "Introduction to Environmental Planning"
+        },
+        "CRP 338": {
+            "description": "Explores changes in urban form and urban experience associated with advances in digital technology.  Implications for the design of places and the distribution of economic and social benefit.  Lecture-discussions and opportunities to explore technology initiatives in community building.  4 lectures.  Fulfills GE Area F.",
+            "title": "Digital Cities"
+        },
+        "CRP 339": {
+            "description": "Creation of safer, more resilient cities through systematic application of urban disaster risk reduction methods that utilize the technology of GIS combined with principles from the engineering and geo-sciences.  Emphasis on hazard identification and methods to lower disaster risk.  3 lectures, 1 activity.  Fulfills GE Area F.",
+            "title": "Disaster-Resistant Sustainable Communities"
+        },
+        "CRP 341": {
+            "description": "Urban design theories and methods related to planning and urban development.  Integration of circulation, environmental, land-use, and design aspects.  Infill or new development projects at the scale of a neighborhood, large PUD, complex circulation corridor, small town or planned community.  4 laboratories.",
+            "title": "Urban Design Studio III"
+        },
+        "CRP 342": {
+            "description": "Case studies and applications of theory and methods to regional and environmental systems.  Interrelationships between natural, economic, and social and political systems.  Application of California Environmental Quality Act and environmental impact assessment methods.  Environmental equity and sustainable bioregions.  2 lectures, 2 laboratories.",
+            "title": "Environmental Planning Methods"
+        },
+        "CRP 351": {
+            "description": "Emergency management emphasizing the Standardized Emergency Management System (SEMS) and Emergency Operations Center (EOC) operations.  Earthquake hazard used as the case to explore potential wide geographic impacts, multiple secondary hazards, and multidisciplinary problem-solving methods in natural disasters faced by local governments and communities.  2 lectures, 1 activity.  Crosslisted as CRP/NR 351.",
+            "title": "Introduction to Emergency Management in California"
+        },
+        "CRP 400": {
+            "description": "Individual or group investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "CRP 401": {
+            "description": "Strategies and procedures for public sector management of recovery from disasters.  Understanding the role of, and relationship between, federal, state and local agencies to provide assistance to individuals and communities in the post-disaster environment.  Issues in the recovery process.  2 lectures, 1 activity.  Crosslisted as CRP/NR 401.",
+            "title": "Disaster Recovery"
+        },
+        "CRP 402": {
+            "description": "Study of contemporary urban design through the detailed examination of major city/country case studies.  Analysis of the cultural, social and political factors influencing the practice of urban design and its major trends in different countries.  4 lectures.",
+            "title": "Contemporary Urban Design"
+        },
+        "CRP 404": {
+            "description": "Detailed examination of the law governing use and protection of natural resources with focus on the legal institutions entrusted with the public duty of protecting the environment.  3 lectures.  Crosslisted as CRP/NR 404.",
+            "title": "Environmental Law"
+        },
+        "CRP 408": {
+            "description": "Detailed examination of the various legal systems of water use, regulation and management in California and the United States.  Discussion on the key concepts and principles of state, federal and interstate water quantity and quality control; focusing on issues and problems, why conflicts occur and how solutions evolve.  3 lectures.  Crosslisted as CRP/NR 408.",
+            "title": "Water Resource Law and Policy"
+        },
+        "CRP 409": {
+            "description": "Work experience as a supervised employee in a planning-related agency or private firm.  Prior contract specifying the product of internship required between student, agency and faculty.  Sixty hours work experience for two units of credit.  Credit/No Credit grading.",
+            "title": "Planning Internship"
+        },
+        "CRP 410": {
+            "description": "Application of planning theory and methods to the analysis and creation of community plans.  Interrelationships in the natural and built environments related to land use, circulation, social and other conditions.  Includes field trips and individual, team and interdisciplinary approaches.  4 laboratories.",
+            "title": "Community Planning Laboratory I"
+        },
+        "CRP 411": {
+            "description": "Continuation of CRP 410.  Application of planning theory and methods to the analysis and creation of community plans.  Interrelationships in the natural and built environments related to land use, circulation, social and other conditions.  Includes field trips and individual, team and interdisciplinary approaches.  4 laboratories.",
+            "title": "Community Planning Lab II"
+        },
+        "CRP 412": {
+            "description": "Theory and practice of plan implementation.  Regulation and nonregulatory approaches to plan implementation, including development regulation, economic development, growth management, habitat conservation planning, capital improvement planning, redevelopment programs, and transportation system management.  The California Specific Plan will serve as the course model.  4 lectures.",
+            "title": "Plan Implementation"
+        },
+        "CRP 420": {
+            "description": "Public controls protecting natural environmental systems.  Land use and environmental controls.  Review of control mechanisms.  State and federal legislation.  Legal implications of controls, public planning and policy issues.  4 lectures.",
+            "title": "Land Use Law"
+        },
+        "CRP 426": {
+            "description": "Introduction to advanced topics on the relationship between the built environment and public health, assessment methods, and planning approaches to creating healthier communities.  4 lectures.",
+            "title": "Planning Healthy Communities"
+        },
+        "CRP 428": {
+            "description": "Comparative assessment of planning for international development to improve the quality of life of people in cities and regions around the world.  Critical analysis of theories and practices underlying programs and projects and their pertinence to the United States.  4 lectures.",
+            "title": "International Planning and Development"
+        },
+        "CRP 430": {
+            "description": "Relationships of planning organizations to other governmental bodies, public agencies and citizen groups.  Working in a public planning agency and private practice.  Current topics in planning practice.  3 lectures.",
+            "title": "Professional Planning Practice"
+        },
+        "CRP 435": {
+            "description": "Circulation and transportation elements of the General Plan.  Transportation planning theory, methods and tools related to systematic analysis of city and regional transportation problems including environmental impact assessment.  Application of techniques for assessing transportation systems, gravity models, route selections, land use models and relationship to transportation.  3 seminars, 1 activity.",
+            "title": "Transportation Theory"
+        },
+        "CRP 436": {
+            "description": "Focus on processes and skills of citizen participation and consensus building.  Application of mediation and negotiation techniques.  Use of collaboration in forming visions of the future and reaching agreements among multiple interests.  Use of group process skills to establish effective communication and agreements.  Organizing and operating public meetings.  3 lectures, 1 laboratory.",
+            "title": "Collaborative Planning"
+        },
+        "CRP 438": {
+            "description": "Interdisciplinary exploration of policy and planning associated with pollution prevention and control, including institutional, legal, economic, political, social, and technology-related aspects.  Includes hands-on activity in small groups.  4 lectures.",
+            "title": "Pollution Prevention and Control"
+        },
+        "CRP 440": {
+            "description": "Introduction of the planning role in reducing greenhouse gas emissions and adapting to climate change.  Basic climate science, greenhouse gas emissions inventories, politics of climate change, and federal/state policy.  Focus on development and implementation of local climate action plans.  4 lectures.",
+            "title": "Climate Action Planning"
+        },
+        "CRP 442": {
+            "description": "Understanding housing issues, policies and programs from a planning perspective.  Analysis of the economic underpinnings of land markets and housing markets, housing plans, finance, public programs, affordable housing.  4 seminars.",
+            "title": "Housing and Planning"
+        },
+        "CRP 445": {
+            "description": "Introduction to urban ecology as an organizing framework for addressing environmental problems.  Provides the opportunity to explore an urban ecological research question through quantitative stream assessment and qualitative social survey data collection and analysis.  3 lectures, 1 laboratory.",
+            "title": "Planning and Urban Ecology"
+        },
+        "CRP 446": {
+            "description": "Application of zoning regulations, subdivision ordinances, design standards, building codes, exactions, fees, and related requirements within the development review process leading to land use entitlement.  Land development is evaluated from permit application submittal to condition compliance during the plan check, construction, and operational phases of a project.  4 lectures.",
+            "title": "Development Review and Entitlement"
+        },
+        "CRP 448": {
+            "description": "Introduction to philosophies and theories of urban design.  Holistic comprehension of forces generating the city form.  Exploration of evaluation criteria and critical analysis of the built environment.  Cultural, economic, political, behavioral, visual, perceptual, and morphological aspects of urban form.  4 seminars.",
+            "title": "Principles of Urban Design"
+        },
+        "CRP 452": {
+            "description": "Introduction to community design as an interdisciplinary subject.  Focus on the active involvement of end-users in the creation and management of built environments.  Principles and techniques of participatory design and planning, including charrettes, design games and participatory technologies.  Demonstration of participatory techniques through case studies and application.  3 lectures, 1 laboratory.",
+            "title": "Community Design Methods"
+        },
+        "CRP 456": {
+            "description": "Introduction to the use of web technologies for planning and community engagement.  Includes web publishing, mapping, surveys, video, collaboration and social media tools.  Course may be offered in classroom-based or online format.  2 lectures.",
+            "title": "Web Technologies for Planning"
+        },
+        "CRP 457": {
+            "description": "GIS applications using computer-based systems in gathering, managing and analyzing information pertinent to planning.  Development of skills in systematic data acquisition, processing and maintenance with applied planning problems within the convenient medium of GIS and general information systems.  2 seminars, 1 laboratory.",
+            "title": "GIS Applications in Planning"
+        },
+        "CRP 458": {
+            "description": "Creation of safer, more resilient cities through systematic application of urban disaster risk reduction and regeneration planning principles and methods.  Integration of insights from the design, resource management, and urban administration professions for minimizing disaster losses and improving recovery activities.  4 lectures.",
+            "title": "Local Hazard Mitigation Planning and Design"
+        },
+        "CRP 461": {
+            "description": "Research and problem analysis in planning.  Selection and completion of a project under faculty supervision.  Projects typical of problems addressed in planning practice.  Project results presented in a formal report.  To be completed in two quarters.  Minimum 120 hours time.",
+            "title": "Senior Project I"
+        },
+        "CRP 462": {
+            "description": "Research and problem analysis in planning.  Selection and completion of a project under faculty supervision.  Projects typical of problems addressed in planning practice.  Project results presented in a formal report.  To be completed in two quarters.  Minimum 120 hours time.",
+            "title": "Senior Project II"
+        },
+        "CRP 463": {
+            "description": "Practical applications of city and regional planning theory and practice solving problems related to the built environment.  Assembly of project documents and reports that meet the senior project requirement.  4 seminars.",
+            "title": "Senior Project Professional Practice"
+        },
+        "CRP 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "CRP 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CRP 472": {
+            "description": "Lecture and discussion by faculty members and invited guests on controversial or topical planning related subject matter at campus and/or off-campus locations.  Topics to be announced in advance by CRP Department.  Total credit limited to 3 units.  Credit/No Credit grading only.  1 seminar.",
+            "title": "Planning Colloquium"
+        },
+        "CRP 483": {
+            "description": "Study of special issues and problems through field research and other forms of investigation and involvement in an off-campus setting.  Requirements determined prior to individual project through contractual arrangement between the student and the department.  Departmental Off-Campus Study Program guidelines apply.  The Schedule of Classes will list topic selected.",
+            "title": "Special Studies in City and Regional Planning"
+        },
+        "CRP 500": {
+            "description": "Independent research, studies, or surveys of selected subjects.  Total credit limited to 9 units.",
+            "title": "Individual Study"
+        },
+        "CRP 501": {
+            "description": "Origins and evolutionary stages of settlement patterns and the use of land and natural environment.  Changing spatial structure in the development of cities and regions.  Beginnings and the historical development of the planning profession.  4 lectures.",
+            "title": "Foundations of Cities and Planning"
+        },
+        "CRP 504": {
+            "description": "Introduction to the theory and practice of sustainable communities.  Addresses creating communities that foster economic and environmental health, social equity, and citizen participation.  Promotes comprehensive planning through urban design, transportation, environment, and community development.  Includes hands-on learning and field study.  3 seminars, 1 laboratory.",
+            "title": "Sustainable Communities"
+        },
+        "CRP 509": {
+            "description": "Professional development course, including environmental assessment workshop, applied research workshop, internship seminar, and other events.  Total credit limited to 3 units.  Credit/No Credit grading only.  1-3 activities.",
+            "title": "Professional Development"
+        },
+        "CRP 510": {
+            "description": "Theory of planning.  Development of contemporary planning thought from varying sources and perspectives.  Political and social context of planning.  Alternative professional roles, and planning processes.  Values and ethical issues in planning.  4 seminars.",
+            "title": "Planning Theory"
+        },
+        "CRP 512": {
+            "description": "Introduction to geographic information systems (GIS) as a tool for analyzing and managing spatial information pertinent to planning.  Introduction to various drawing media and delineation techniques for planners, including three-dimensional visualization and graphic skills.  Integration of visual and digital media in presentations.  Credit/No Credit grading only.  4 laboratories.",
+            "title": "Introduction to Visual Communication and GIS"
+        },
+        "CRP 513": {
+            "description": "Application of research design to planning issues.  Comparison of case study, comparative and problem-solving methods.  Primary and secondary data sources, including field survey techniques.  4 seminars.",
+            "title": "Planning Research and Analysis"
+        },
+        "CRP 516": {
+            "description": "Problem recognition, data selection, analysis and synthesis with applications of system design, statistical techniques and symbolic modeling to urban design and regional growth and development policies.  3 seminars, 1 laboratory.",
+            "title": "Demographic and Analytic Tools"
+        },
+        "CRP 518": {
+            "description": "Analysis of the social, economic, environmental, political contexts of public policy decisions.  Public policy issues and use of concepts and tools related to monitoring and assessment.  4 lectures.",
+            "title": "Policy Development"
+        },
+        "CRP 520": {
+            "description": "Fundamental analysis for assessing feasibility of public and private development projects.  Principles and techniques for analyzing markets and assessing cash flow for individual projects.  Economic, fiscal and tax impacts as factors determining public participation in private projects.  4 seminars.",
+            "title": "Feasibility Studies"
+        },
+        "CRP 525": {
+            "description": "Theory and practice of plan implementation.  Regulatory and non-regulatory frameworks for plan implementation.  Growth management, development regulation, capital improvement programs, redevelopment.  4 seminars.",
+            "title": "Plan Implementation"
+        },
+        "CRP 530": {
+            "description": "Preparation for professional practice in public planning agencies and private firms.  Applications of organization theory to planning agencies and firms.  Work programs, staff development, budgets, contracting, proposal preparation, conflict management.  Relationships with other agencies and firms, clients, public and media.  4 seminars.",
+            "title": "Planning Agency Management"
+        },
+        "CRP 535": {
+            "description": "The role of law in the planning and regulation of land use.  Constitutional constraints on land use regulation.  Legal and policy issues for environmental protection and public administration.  Relevant legislation and case law.  4 lectures.",
+            "title": "Land Use and Planning Law"
+        },
+        "CRP 545": {
+            "description": "Environmental planning as a field of inquiry and action.  Several parallel streams of knowledge are pursued:  environmental planning theory; ecological process and assessment in human-dominated settings; environmental impact assessment; and the review and application of environmental planning tools.  3 seminars, 1 laboratory.",
+            "title": "Principles of Environmental Planning"
+        },
+        "CRP 552": {
+            "description": "Application of planning theory and methods to community and regional planning projects.  Structured for research, analysis, synthesis, and implementation practice.  Interrelationships of natural and built environments, transportation systems, and economic and social conditions at various planning scales.  Includes field trips and individual, team and interdisciplinary approaches.  2 seminars, 2 laboratories.",
+            "title": "Community and Regional Planning Studio I"
+        },
+        "CRP 553": {
+            "description": "Project-scale planning problems.  Arranging structures, circulation systems, utilities and plant material on natural and urban sites to support human activity while minimizing disruption to natural systems.  Includes planned unit developments, waterfronts, hillsides, campuses and commercial centers.  Field trips.  4 laboratories.",
+            "title": "Project Planning and Design Studio"
+        },
+        "CRP 554": {
+            "description": "Application of planning theory and methods to community and regional planning projects.  Structured for research, analysis, synthesis, and implementation practice.  Interrelationships of natural and built environments, transportation systems, and economic and social conditions at various planning scales.  Includes field trips, and individual, team and interdisciplinary approaches.  2 seminars, 2 laboratories.",
+            "title": "Community and Regional Planning Studio II"
+        },
+        "CRP 556": {
+            "description": "Application of planning theory and methods to community and regional planning projects.  Individual faculty-assigned laboratory work leading to the completion of a professional quality project focused on a real-world planning task.  Structured for research, analysis, synthesis and implementation practice.  3 seminars and supervised work.",
+            "title": "Community and Regional Planning Studio III"
+        },
+        "CRP 570": {
+            "description": "Directed group study of selected planning topics.  Total credit limited to 12 units.  4 seminars.",
+            "title": "Selected Topics in Planning"
+        },
+        "CRP 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "CRP 596": {
+            "description": "Individual research under the supervision of the faculty, leading to completion of a professional project based on a real world planning task or carefully constructed simulation.  Must be taken in all quarters requiring supervision; minimum of 6 units required for degree.  Total credit limited to 8 units.",
+            "title": "Professional Project"
+        },
+        "CRP 599": {
+            "description": "Individual research under the general supervision of the faculty, leading to a graduate thesis.  Must be taken in all quarters requiring supervision; minimum of 6 units required for degree.  Total credit limited to 8 units.",
+            "title": "Thesis"
+        }
+    },
     "links": [
         {
             "source": "CRP 201",

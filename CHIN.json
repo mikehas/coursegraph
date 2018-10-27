@@ -1,4 +1,30 @@
 {
+    "descriptions": {
+        "CHIN 101": {
+            "description": "Beginning Mandarin Chinese. Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture. 3 lectures, 1 activity.",
+            "title": "Elementary Mandarin Chinese I"
+        },
+        "CHIN 102": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary Mandarin Chinese II"
+        },
+        "CHIN 103": {
+            "description": "Class practice and assigned outside work in pronunciation, sentence structure, reading, writing and introduction to Chinese culture.  To be taken in numerical sequence.  3 lectures, 1 activity.",
+            "title": "Elementary Mandarin Chinese III"
+        },
+        "CHIN 201": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate Mandarin Chinese I"
+        },
+        "CHIN 202": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate Mandarin Chinese II"
+        },
+        "CHIN 203": {
+            "description": "Development of presentational, interpersonal, and interpretive intermediate-level language skills in Mandarin Chinese within an intercultural context.  To be taken in numerical sequence.  3 lectures, 1 activity.  Fulfills GE C5.",
+            "title": "Intermediate Mandarin Chinese III"
+        }
+    },
     "links": [
         {
             "source": "CHIN 101",

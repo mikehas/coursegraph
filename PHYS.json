@@ -1,4 +1,234 @@
 {
+    "descriptions": {
+        "PHYS 104": {
+            "description": "Elementary introduction to mechanics, gases, liquids and solids, heat, vibrations and waves, light, electricity and magnetism.  Intended to provide non-science students with an understanding of basic physical concepts.  Not open to students who have credit in a college physics course.  4 lectures.  Fulfills GE Area B3.",
+            "title": "Introductory Physics"
+        },
+        "PHYS 107": {
+            "description": "Physics of Earth's atmosphere.  Topics include the physical basis for temperature, wind generation, atmospheric circulation, humidity, adiabatic processes, cloud formation, cyclone development, precipitation, and storm growth.  Other topics include the variety of storms and their effects, satellite imaging, and air pollution and its possible effect on global temperature change.  4 lectures.  Fulfills GE Area B3.",
+            "title": "Introduction to Meteorology"
+        },
+        "PHYS 111": {
+            "description": "Exploration of the key concepts of quantum mechanics and Einstein's special and general theories of relativity. Particle-wave duality, Heisenberg's uncertainty principle, Schrodinger's cat, warped spacetime, black holes. 4 lectures. Fulfills GE B3.",
+            "title": "Contemporary Physics for Nonscientists"
+        },
+        "PHYS 121": {
+            "description": "Introductory course in mechanics emphasizing motion, force, and energy.  Not open to students having a grade of C- or better in PHYS 131 or PHYS 141.  4 lectures.  Fulfills GE B3.",
+            "title": "College Physics I"
+        },
+        "PHYS 122": {
+            "description": "Continuation of PHYS 121.  Topics include properties of materials, fluids, waves and vibrations, sound, heat, light and optics.  Not open for credit to students having a grade of C- or better in PHYS 132.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4.",
+            "title": "College Physics II"
+        },
+        "PHYS 123": {
+            "description": "Continuation of PHYS 121 and 122.  Electrostatics, electric current, magnetic fields and induction.  Elements of modern physics.  Not open for credit to students having a grade of C- or better in PHYS 133.  3 lectures, 1 laboratory.",
+            "title": "College Physics III"
+        },
+        "PHYS 125": {
+            "description": "Laboratory experiments to complement introductory course in mechanics, emphasizing experiments on motion, force, and energy.  Not open to students with a grade of C- or better in PHYS 131 or PHYS 141.  1 laboratory.",
+            "title": "College Physics I Laboratory"
+        },
+        "PHYS 131": {
+            "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering students, and for students majoring in the physical sciences.  Not open to students with credit in PHYS 141.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS 131.  Fulfills GE B3 & B4.",
+            "title": "General Physics I"
+        },
+        "PHYS 132": {
+            "description": "Oscillations, waves in elastic media, sound waves.  Temperature, heat and the first law of thermodynamics.  Kinetic theory of matter, second law of thermodynamics.  Geometrical and physical optics.  3 lectures, 1 laboratory.  Crosslisted as HNRS/PHYS 132.  Fulfills GE B3 & B4.",
+            "title": "General Physics II"
+        },
+        "PHYS 133": {
+            "description": "Charge and matter, electric field, electric potential, dielectrics, capacitance, current and resistance, electromotive force and circuits, magnetic fields, magnetic field of a moving charge, induced emf.  3 lectures, 1 laboratory.  Fulfills GE B3 & B4.",
+            "title": "General Physics III"
+        },
+        "PHYS 141": {
+            "description": "Fundamental principles of mechanics.  Vectors, particle kinematics.  Equilibrium of a rigid body.  Work and energy, linear momentum, rotational kinematics and dynamics.  Primarily for engineering and science students.  Not open to students with credit in PHYS 131.  4 lectures.  Crosslisted as HNRS 134/PHYS 141.  Fulfills GE B3.",
+            "title": "General Physics IA"
+        },
+        "PHYS 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "PHYS 202": {
+            "description": "Introduction to using computers for solving problems in physics:  differential equations, matrix manipulations, simulations and numerical techniques, nonlinear dynamics.  4 lectures.",
+            "title": "Physics on the Computer"
+        },
+        "PHYS 206": {
+            "description": "L-R-C circuits and electronic circuit elements emphasizing the applications of analog and digital electronics to instrumentation in modern physics.  3 lectures, 1 laboratory.",
+            "title": "Experimental Physics"
+        },
+        "PHYS 211": {
+            "description": "Special relativity, fundamental principles of quantum mechanics, emphasizing the modern description of atomic phenomena.  Wave-particle duality, Bohr theory, Schroedinger equation, elementary atomic structure.  4 lectures.",
+            "title": "Modern Physics I"
+        },
+        "PHYS 212": {
+            "description": "Applications of quantum physics to atoms, molecules, solid state systems, nuclei, and elementary particles including angular momentum and spin.  Topics may include applications of statistical mechanics, principles of the laser, cooling and trapping of atoms, Bose-Einstein condensates, semiconductors, superconductors, heavy ion physics, and other topics of current interest.  4 lectures.",
+            "title": "Modern Physics II"
+        },
+        "PHYS 220": {
+            "description": "Introduction to the research programs of faculty in the department and opportunities for research.  Survey of departmental facilities and procedures related to research.  Overview of external research programs/internships.  Credit/No Credit grading.  1 lecture.",
+            "title": "Introduction to Physics Research"
+        },
+        "PHYS 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "PHYS 301": {
+            "description": "Thermodynamics and statistical mechanics.  Entropy, temperature, ensembles, partition functions, chemical potential, free energy.  Selected applications including paramagnetism, ideal gas, Fermi-Dirac and Bose-Einstein distributions.  4 lectures.",
+            "title": "Thermal Physics I"
+        },
+        "PHYS 302": {
+            "description": "Laws of motion, kinematics and dynamics of a particle.  Use of numerical methods for solving problems.  Work and energy.  Linear and angular momentum.  Lagrange's and Hamilton's equations and the calculus of variations.  Newton's Law of gravity, Kepler's laws of orbital motion, and central force problems.  4 lectures.",
+            "title": "Classical Mechanics I"
+        },
+        "PHYS 303": {
+            "description": "Mechanics in non-inertial reference frames.  Dynamics of a rigid bodies.  Coupled oscillators and normal modes.  Use of numerical methods for solving problems.  3 lectures.",
+            "title": "Classical Mechanics II"
+        },
+        "PHYS 310": {
+            "description": "Physics and mathematics applied to broad energy topics.  Efficient usage, transportation, solar energy, nuclear fission and fusion.  Plasma, hydrogen economy, fuel cells, wind wave, tidal, and geothermal energy.  Transmission, storage, fossils.  National planning, and energy economics.  3 lectures.",
+            "title": "Physics of Energy"
+        },
+        "PHYS 313": {
+            "description": "Properties of the atmosphere, atmospheric motions, solar and terrestrial radiation.  Emphasis on conservation laws of momentum, energy and mass applied to understanding the Earth's atmospheric motions.  3 lectures.",
+            "title": "Introduction to Atmospheric Physics"
+        },
+        "PHYS 315": {
+            "description": "Interaction of radiation with matter, theory of laser action, characteristics and modification of laser output, types of lasers.  Holography and other applications.  3 lectures.",
+            "title": "Introduction to Lasers and Laser Applications"
+        },
+        "PHYS 318": {
+            "description": "Fundamental experiments and basic postulates of special relativity.  Simultaneity, length and time measurements.  Lorentz transformations.  Four-Vectors.  Space-time diagrams.  Relativistic mechanics and electromagnetism.  3 lectures.  Formerly PHYS 317.",
+            "title": "Special Theory of Relativity"
+        },
+        "PHYS 322": {
+            "description": "Introduction to vibrations and waves and their applications.  Harmonic oscillator, waves, complex notation, superposition, interference, coherence, Fourier analysis.  Applications may include sound, optics, quantum mechanics, and electromagnetic radiation.  3 lectures.",
+            "title": "Vibrations and Waves"
+        },
+        "PHYS 323": {
+            "description": "Geometrical optics, lens systems, aberrations, physical optics and polarization.  3 lectures, 1 laboratory.",
+            "title": "Optics"
+        },
+        "PHYS 330": {
+            "description": "Inquiry approaches to teaching physics incorporating insights from physics education research and the use of computer technology.  Emphasis on pedagogical approaches and assessment that engage learners in scientific discourse and the development of basic models of physics phenomena such as motion, forces, energy, and momentum through experimentation.  2 lectures, 2 activities.",
+            "title": "Teaching Physics"
+        },
+        "PHYS 340": {
+            "description": "Experimental studies of the quantum properties of atoms and nuclei.  Measurements of fundamental constants.  Statistics and data analysis.  1 lecture, 1 laboratory.",
+            "title": "Quantum Physics Laboratory I"
+        },
+        "PHYS 341": {
+            "description": "Experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields.  2 laboratories.",
+            "title": "Quantum Physics Laboratory II"
+        },
+        "PHYS 342": {
+            "description": "Advanced experimental studies of quantum properties of atoms and nuclei.  Interactions of radiation, particles and fields emphasizing spectroscopic techniques.  1 laboratory.",
+            "title": "Quantum Physics Laboratory III"
+        },
+        "PHYS 357": {
+            "description": "Advanced analog and digital electronics, computer interfacing to experiments, robotics.  2 lectures, 1 laboratory.",
+            "title": "Advanced Instrumentation in Experimental Physics"
+        },
+        "PHYS 400": {
+            "description": "Individual investigations, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "PHYS 401": {
+            "description": "Additional topics in thermodynamics and statistical physics, including chemical equilibrium, phase transitions, transport processes, and cryogenics.  3 lectures.",
+            "title": "Thermal Physics II"
+        },
+        "PHYS 403": {
+            "description": "Elementary particles and their interactions, fundamental forces, the Standard Model of particle physics.  Symmetries and conservation laws including parity, charge conjugation, and time reversal invariance, as well as charge-parity violation.  Dirac equation, quantum electrodynamics, and Feynman diagrams.  Advanced nuclear physics.  Topics may include decays, symmetries of the quark model, neutrinos, nucleosynthesis, and the quark-gluon plasma.  3 lectures.",
+            "title": "Particle and Nuclear Physics"
+        },
+        "PHYS 404": {
+            "description": "Individual investigations, research, studies, or surveys of selected problems.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Research Experience for Advanced Undergraduates"
+        },
+        "PHYS 405": {
+            "description": "Wave nature of matter and the basic postulates of quantum mechanics.  The wave function, operators, and their interpretation.  Schroedinger's equation and its solutions in one and more dimensions.  The hydrogen atom and the periodic table.  4 lectures.",
+            "title": "Quantum Mechanics I"
+        },
+        "PHYS 406": {
+            "description": "Angular momentum operators and problems in three dimensions including the hydrogen atom.  Elements of matrix mechanics and properties of spin state vectors.  Time-independent and time-dependent perturbation theory.  Topics may include variational principle, WKB approximation.  3 lectures.",
+            "title": "Quantum Mechanics II"
+        },
+        "PHYS 408": {
+            "description": "Electric and magnetic field theory using vector analysis.  Electric fields, dielectric materials, magnetic fields, induced emf, magnetic materials, Maxwell's equations, wave equation.  4 lectures.",
+            "title": "Electromagnetic Fields and Waves I"
+        },
+        "PHYS 409": {
+            "description": "Wave equation, plane electromagnetic waves, guided waves.  Dipole radiation, radiation from an accelerated charge.  Special relativity.  3 lectures.",
+            "title": "Electromagnetic Fields and Waves II"
+        },
+        "PHYS 410": {
+            "description": "Gravity and the figure of the Earth.  Body wave seismology, structure and composition of the Earth, heat flow and heat sources, Earth tides, rotational dynamics, the geomagnetic field and its source, paleomagnetism.  3 lectures.",
+            "title": "Physics of Solid Earth"
+        },
+        "PHYS 412": {
+            "description": "Physics of solids including the structural, mechanical, thermal, and electronic properties, energy band theory and the properties of metals and semiconductors.  3 lectures.  Fulfills GE B6 with PHYS 452.",
+            "title": "Solid State Physics"
+        },
+        "PHYS 413": {
+            "description": "Semiconducting devices, including junction and field-effect transistors, LED's, and diode lasers.  Magnetic properties of solids.  Superconductivity, including discussion of high-temperature superconductors.  Other topics of current interest in solid state physics.  3 lectures.",
+            "title": "Advanced Topics in Solid State Physics"
+        },
+        "PHYS 417": {
+            "description": "Analysis of linear and nonlinear dynamical systems with emphasis on geometrical methods and visualization techniques.  Fixed points, phase plane analysis, bifurcations and limit cycles.  Laboratory component includes data acquisition and analysis using computers, numerical simulations of dynamical systems, and analysis of discrete systems.  3 lectures, 1 laboratory.  Fulfills GE B6.",
+            "title": "Nonlinear Dynamical Systems"
+        },
+        "PHYS 418": {
+            "description": "Introduction to Einstein's theory of gravity:  general relativity.  Geometric description of special relativity as flat spacetime.  Extension to curved spacetimes and description of gravity.  Topics include solar system tests of relativity, black holes, gravitational waves, and applications to astronomy and cosmology.  3 lectures.",
+            "title": "Introduction to General Relativity"
+        },
+        "PHYS 422": {
+            "description": "Experimental procedures in polymer electronics.  Investigation of the characteristics of a polymer electronic device.  1 laboratory.  Crosslisted as EE/PHYS 422.",
+            "title": "Polymer Electronics Laboratory"
+        },
+        "PHYS 423": {
+            "description": "Advanced topics of modern optics.  May include:  fiber optics, Fourier optics, quantum optics, lasers, holography, non-linear optics.  3 lectures, 1 laboratory.",
+            "title": "Advanced Optics"
+        },
+        "PHYS 424": {
+            "description": "Contour integration in the complex plane, properties of common special functions and delta functions used in physics, partial differential equations, Green's function techniques for solving differential equations.  3 lectures.",
+            "title": "Theoretical Physics"
+        },
+        "PHYS 452": {
+            "description": "Selected experiments on X-ray diffraction, Hall effect, optical absorption, thermo-electric effect, photovoltaic cells, diode characteristics, and superconductivity.  1 laboratory.  Fulfills GE B6 with PHYS 412.",
+            "title": "Solid State Physics Laboratory"
+        },
+        "PHYS 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time.",
+            "title": "Senior Project I"
+        },
+        "PHYS 462": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 60 hours total time.",
+            "title": "Senior Project II"
+        },
+        "PHYS 463": {
+            "description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories.",
+            "title": "Senior Project - Laboratory Research I"
+        },
+        "PHYS 464": {
+            "description": "Selection and completion of a laboratory research project under faculty supervision.  Projects typical of problems which graduates will encounter in industry or graduate school.  Project results are presented in a formal report.  Minimum 60 hours total time.  2 laboratories.",
+            "title": "Senior Project - Laboratory Research II"
+        },
+        "PHYS 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "PHYS 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "PHYS 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "PHYS 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Total credit limited to 12 units; major credit limited to 2 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        }
+    },
     "links": [
         {
             "source": "MATH 96",

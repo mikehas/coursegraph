@@ -1,4 +1,34 @@
 {
+    "descriptions": {
+        "SOCS 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "SOCS 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 8 units, with a maximum of 4 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "SOCS 440": {
+            "description": "Supervised training, research, and work in public and private organizations.  Credit/No Credit grading only.  Total credit limited to 18 units.",
+            "title": "Internship"
+        },
+        "SOCS 461": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project I"
+        },
+        "SOCS 462": {
+            "description": "Selection and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Minimum 120 hours total time.",
+            "title": "Senior Project II"
+        },
+        "SOCS 485": {
+            "description": "Part-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        },
+        "SOCS 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 24 units.  Credit/No Credit grading only.",
+            "title": "Cooperative Education Experience"
+        }
+    },
     "links": [],
     "nodes": [
         {

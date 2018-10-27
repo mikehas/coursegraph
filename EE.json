@@ -1,4 +1,462 @@
 {
+    "descriptions": {
+        "EE 111": {
+            "description": "A general overview of the field of electrical engineering.  Preparation for successful completion of the Electrical Engineering (EE) program at Cal Poly.  1 lecture.  Not required for students with transfer credit for EE 211 or EE 241.",
+            "title": "Introduction to Electrical Engineering"
+        },
+        "EE 112": {
+            "description": "Introduction to basic circuit analysis.  Resistive circuits, voltage and current sources, network theorems.  Course may be offered in classroom-based or online format.  2 lectures.",
+            "title": "Electric Circuit Analysis I"
+        },
+        "EE 133": {
+            "description": "Number systems, Boolean algebra, Boolean functions, and function minimization.  Analysis and design of combinational and sequential logic circuits.  Hardware Description Language (HDL) concepts and applications digital design and synthesis in Programmable Logic Devices (PLDs).  Not open to students with credit in CPE/EE 129.  Course may be offered in classroom-based or online format.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 133.",
+            "title": "Digital Design"
+        },
+        "EE 151": {
+            "description": "A variety of hands-on experiments and demonstrations in electrical engineering, providing background and motivation for successful completion of the Electrical Engineering (EE) program at Cal Poly.  Not open to students with credit for EE 241.  1 laboratory.",
+            "title": "Introduction to Electrical Engineering Laboratory"
+        },
+        "EE 200": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems"
+        },
+        "EE 201": {
+            "description": "Application of fundamental circuit laws and theorems to the analysis of DC, and steady-state single-phase and three-phase circuits.  Not for electrical engineering majors.  Course may be offered in classroom-based or online format.  3 lectures.",
+            "title": "Electric Circuit Theory"
+        },
+        "EE 211": {
+            "description": "Continuation of basic circuit analysis.  Op-amp circuits.  Energy storage elements, RC and RL circuits, and AC steady state analysis.  3 lectures.",
+            "title": "Electric Circuit Analysis II"
+        },
+        "EE 212": {
+            "description": "AC power, 3-phase circuits.  Mutual inductance, series and parallel resonance and two-port networks.  Frequency response, including Bode plots.  3 lectures.",
+            "title": "Electric Circuit Analysis III"
+        },
+        "EE 228": {
+            "description": "Continuous-time systems analysis, with emphasis on linear time-invariant (LTI) systems.  Classifications of continuous-time systems.  Convolution and its application to LTI systems.  The Laplace transform, Fourier transform, and Fourier series, and their application to the analysis of LTI systems.  4 lectures.",
+            "title": "Continuous-Time Signals and Systems"
+        },
+        "EE 233": {
+            "description": "Design and implementation of digital computer circuits via CAD tools for programmable logic devices (PLDs).  Basic computer design with its datapath components and control unit.  Introduction to assembly language programming of an off-the-shelf RISC-based microcontroller.  Not open to students with credit in CPE/EE 229.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 233.",
+            "title": "Computer Design and Assembly Language Programming"
+        },
+        "EE 241": {
+            "description": "Use of electrical and electronic test equipment.  Experimental verification of circuit analysis concepts including Kirchhoff's Laws, Thevenin's Theorem, maximum power transfer and superposition.  1 laboratory.",
+            "title": "Electric Circuit Analysis Laboratory II"
+        },
+        "EE 242": {
+            "description": "Observation of transient and steady-state phenomena, phase-shift circuits, resonance.  Use of phasor diagrams.  1 laboratory.",
+            "title": "Electric Circuit Analysis Laboratory III"
+        },
+        "EE 251": {
+            "description": "Techniques of measurement of DC and steady-state AC circuit parameters.  Equivalent circuits, nonlinear elements, resonance.  1 laboratory.",
+            "title": "Electric Circuits Laboratory"
+        },
+        "EE 255": {
+            "description": "Fundamentals of electro-mechanical energy conversion.  Magnetic circuits and electromagnetic devices.  Theory of operation and operating characteristics of transformers, and AC induction and synchronous machines.  3 lectures.",
+            "title": "Energy Conversion Electromagnetics"
+        },
+        "EE 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "EE 295": {
+            "description": "Single-phase and three-phase transformers.  Starting of rotating machines, evaluation of characteristics of rotating machines.  1 laboratory.",
+            "title": "Energy Conversion Electromagnetics Laboratory"
+        },
+        "EE 302": {
+            "description": "Introduction to feedback control systems.  System modeling.  Transfer functions.  Graphical system representation.  System time response, stability.  Root Locus.  Frequency response.  Compensation.  3 lectures.",
+            "title": "Classical Control Systems"
+        },
+        "EE 306": {
+            "description": "Internal operation, semiconductor physics, terminal characteristics, models and application of diodes (LEDs, solar cells, and photo-diodes) and transistors (field-effect and bipolar).  3 lectures.",
+            "title": "Semiconductor Device Electronics"
+        },
+        "EE 307": {
+            "description": "Analysis, design, application and interfacing of integrated logic circuits, including NMOS, CMOS, TTL, ECL, and other logic families.  3 lectures.",
+            "title": "Digital Electronics and Integrated Circuits"
+        },
+        "EE 308": {
+            "description": "Analysis and design of integrated circuits for use in analog applications.  Gain, frequency response, and feedback of linear small-signal amplifiers.  3 lectures.",
+            "title": "Analog Electronics and Integrated Circuits"
+        },
+        "EE 314": {
+            "description": "Analog modulation, including:  double-sideband modulation, amplitude modulation, single-sideband modulation, frequency modulation, phase modulation.  Performances of such systems in the presence of white Gaussian noise.  Implementations of transmitters and receivers.  3 lectures.",
+            "title": "Introduction to Communication Systems"
+        },
+        "EE 321": {
+            "description": "Semiconductor devices and circuits.  Instrumentation amplifiers, power control rectifiers, feedback, pulse circuits, digital logic circuits.  Not for Electrical Engineering majors.  3 lectures.",
+            "title": "Electronics"
+        },
+        "EE 322": {
+            "description": "Microcontroller history and computer systems overview.  Introduction to basic electrical circuits and computer programming concepts.  Overview of computer peripherals such as LEDs, switches, LCD displays, timers, and ADCs; and interfacing various types of external sensors.  Developing applications of microcontrollers using an integrated development environment.  3 lectures, 1 laboratory.  Fulfills GE Area F.",
+            "title": "Microcontrollers for Everyone"
+        },
+        "EE 328": {
+            "description": "Discrete-time systems and analysis, with emphasis on linear time-invariant (LTI) systems.  Sampling theorem.  Classification of discrete-time systems.  Convolution and its application to LTI systems.  The z transform, discrete-time Fourier transform, and discrete Fourier transform.  Introduction to digital filters.  3 lectures.  Crosslisted as CPE/EE 328.",
+            "title": "Discrete Time Signals and Systems"
+        },
+        "EE 329": {
+            "description": "Design, implementation and testing of programmable logic microprocessor-based systems.  Hardware/software tradeoffs (such as timing analysis and power considerations), system economics of programmable logic and microprocessor-based system design.  Interfacing hardware components (such as ADCs/DACs, sensors, transducers).  3 lectures, 1 laboratory.  Not open to students with credit in CPE/EE 336.  Crosslisted as CPE/EE 329.",
+            "title": "Programmable Logic and Microprocessor-Based Systems Design"
+        },
+        "EE 335": {
+            "description": "Maxwell's equations.  Plane wave propagation in free space.  Static electric and magnetic fields.  Distributed-circuit concepts and transmission line parameters.  Reflections and standing waves.  The Smith chart and its applications.  Transmission line measurements and impedance matching techniques.  4 lectures.",
+            "title": "Electromagnetic Fields and Transmission"
+        },
+        "EE 336": {
+            "description": "Introduction to microcontrollers and integrated microprocessor systems.  Hardware/software trade-offs, system economics, and functional configurations.  Interface design, real-time clocks, interrupts, A/D conversion, serial and parallel communications, watch-dog timers, low power operation, event-based inter-peripheral communication, and assembly and higher-level language programming techniques.  Architecture and design of sampled data and low-power systems.  Not open to students with credit in CPE/EE 329.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 336.",
+            "title": "Microprocessor System Design"
+        },
+        "EE 342": {
+            "description": "Laboratory work pertaining to classical control systems, including servo control, transient and frequency responses, stability, and computer-aided analysis of control systems.  1 laboratory.",
+            "title": "Classical Control Systems Laboratory"
+        },
+        "EE 346": {
+            "description": "Experimental determination of device characteristics and models.  1 laboratory.",
+            "title": "Semiconductor Device Electronics Laboratory"
+        },
+        "EE 347": {
+            "description": "Computer simulation and experimental investigation of the characteristics, applications and interfacing of different logic families.  1 laboratory.",
+            "title": "Digital Electronics and Integrated Circuits Laboratory"
+        },
+        "EE 348": {
+            "description": "Design, simulation, construction and testing of solid state amplifiers and sub-circuits to meet stated specifications.  1 laboratory.",
+            "title": "Analog Electronics and Integrated Circuits Laboratory"
+        },
+        "EE 361": {
+            "description": "Instrumentation amplifiers, feedback, rectifiers and power control, pulse and digital logic circuits.  1 laboratory.",
+            "title": "Electronics Laboratory"
+        },
+        "EE 368": {
+            "description": "Laboratory work pertaining to linear systems, including Fourier analysis, time and frequency responses, and system transfer function.  1 laboratory.  Crosslisted as CPE/EE 368.",
+            "title": "Signals and Systems Laboratory"
+        },
+        "EE 375": {
+            "description": "Transmission line and passive component measurements at microwave frequencies.  Response to pulse excitation using time domain techniques and sinusoidal excitation using frequency domain techniques.  Application of the Smith Chart and network analyzers in transmission line characterization and impedance matching techniques.  1 laboratory.",
+            "title": "Electromagnetic Fields and Transmission Laboratory"
+        },
+        "EE 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 5 units.",
+            "title": "Special Problems"
+        },
+        "EE 402": {
+            "description": "Maxwell's equations and plane wave propagation in materials.  Reflection and transmission of normal and oblique incidence plane waves at planar boundaries between different media.  Wave guides.  Antennas.  4 lectures.",
+            "title": "Electromagnetic Waves"
+        },
+        "EE 403": {
+            "description": "Propagation of light in optical fibers, attenuation and bandwidth.  LED and Laser Diode sources for use with optical fibers.  Optical sources, detectors, and receivers.  Design of optical communication systems with applications in telecommunications and local area networks (LANs).  3 lectures.",
+            "title": "Fiber Optic Communication"
+        },
+        "EE 405": {
+            "description": "Design of modern electronic amplifiers and amplifier systems with advanced techniques.  UHF and microwave small signal amplifier design utilizing microstrip transmission lines, S parameters of GaAs FET, and bipolar transistors.  Low noise, broadband, and power amplifier designs.  Oscillator designs.  3 lectures.",
+            "title": "High Frequency Amplifier Design"
+        },
+        "EE 406": {
+            "description": "Introduction to electric power systems.  Representation of power systems and its components including transmission lines, synchronous machines, transformers and loads.  One line diagrams and per unit calculations.  symmetrical faults.  Load flow analysis.  4 lectures.",
+            "title": "Power Systems Analysis I"
+        },
+        "EE 407": {
+            "description": "Symmetrical components, unbalanced faults, power system stability, system protection, relays and relay systems, power system instrumentation and measurement techniques, economic operation.  4 lectures.",
+            "title": "Power Systems Analysis II"
+        },
+        "EE 409": {
+            "description": "Design of electronic systems and subsystems using analog and digital integrated circuits.  Design principles and techniques.  Analysis and design of feedback amplifiers; operational amplifier applications.  Design of analog/digital and digital/analog converters.  Power supply design.  Emphasis on IC implementation.  3 lectures.",
+            "title": "Electronic Design"
+        },
+        "EE 410": {
+            "description": "Introduction to power electronics and power semiconductor devices.  Analysis, performance characterization, and design of power electronics converters such as:  rectifiers, DC choppers, AC voltage controllers, and single-phase inverters.  Operation of DC motor drives.  Use of commercially available software.  3 lectures, 1 laboratory.",
+            "title": "Power Electronics I"
+        },
+        "EE 411": {
+            "description": "Switching losses.  Analysis, performance characterization, and design of snubber circuits and resonant converters.  Operation of DC transmission lines, flexible AC transmission system (FACTS) controllers, three-phase inverters, and AC motor drives.  Use of commercially available software.  3 lectures, 1 laboratory.",
+            "title": "Power Electronics II"
+        },
+        "EE 412": {
+            "description": "Application of linear integrated circuits to data acquisition problems:  transducer interfacing, linear and nonlinear preprocessing, phase-locked loops, and high performance quantization and recovery (A/D, D/A conversion).  3 lectures.",
+            "title": "Advanced Analog Circuits"
+        },
+        "EE 413": {
+            "description": "Advanced design of electronic circuits and subsystems, including sustainability and design as a process.  Automated testing with GPIB instruments.  Implementation of specific design projects, including team-based projects.  3 lectures, 1 laboratory.",
+            "title": "Advanced Electronic Design"
+        },
+        "EE 415": {
+            "description": "Design of modern electronic communication and telemetry systems.  Emphasis:  practical implementation and comparative evaluation of various communication systems.  3 lectures.",
+            "title": "Communication Systems Design"
+        },
+        "EE 416": {
+            "description": "Baseband (PCM, PAM, DM) signals and transmission.  Bandpass (PSK, FSK, ASK) modulation and demodulation techniques.  Digital communication signals in the presence of noise and detection of signals in Gaussian noise.  Other topics such as:  quantization, multiplexing and multiple access, spread spectrum techniques, coding, synchronization.  3 lectures.",
+            "title": "Digital Communication Systems"
+        },
+        "EE 417": {
+            "description": "Alternating current machines.  Generalized, operational and dynamic analysis.  Steady-state and transient operation of synchronous machines and linear induction machines.  3 lectures, 1 laboratory.",
+            "title": "Alternating Current Machines"
+        },
+        "EE 418": {
+            "description": "Modern optical design with emphasis on the use of computers to design simple optical systems and to evaluate existing optical designs.  Paraxial and exact ray tracing through thin and thick lenses, mirrors, and prisms.  Radiometry and photometry.  Electro-optic, acousto-optic, and magneto-optic modulators and their applications.  Thermal detectors, semiconductor detectors, and charge coupled device (CCD) arrays.  3 lectures.",
+            "title": "Photonic Engineering"
+        },
+        "EE 419": {
+            "description": "Review of Z-transform, convolution and discrete Fourier Transform.  Digital filter design.  Fast Fourier Transform.  Theory and applications of digital signal processors.  3 lectures.",
+            "title": "Digital Signal Processing"
+        },
+        "EE 420": {
+            "description": "Electrical engineering aspects of photovoltaic and wind power generation and usage, and electrochemical energy conversion.  Power control, processing, and quality for grid-connected and stand-alone systems.  Distribution and storage of electric energy.  Hydrogen and synthetic fuels.  Distributed generation.  3 lectures, 1 laboratory.",
+            "title": "Sustainable Electric Energy Conversion"
+        },
+        "EE 422": {
+            "description": "Experimental procedures in polymer electronics.  Investigation of the characteristics of a polymer electronic device.  1 laboratory.  Crosslisted as EE/PHYS 422.",
+            "title": "Polymer Electronics Laboratory"
+        },
+        "EE 423": {
+            "description": "Fabrication science and technology for creating micro and nano scale devices.  Explore basic processes such as oxidation, diffusion, ion implantation, etching, chemical and physical vapor deposition, photolithography.  Develop an understanding of the science of each process and how to select the right steps for fabricating electronic, photon and micro-electro-mechanical systems devices.  3 lectures.  Crosslisted as BMED 434/EE 423/MATE 430.",
+            "title": "Micro/Nano Fabrication"
+        },
+        "EE 424": {
+            "description": "Radiation characteristics, sensor technology and platforms, satellite systems, system design tradeoffs, collection and transmission of radio-metric data, GPS, thermal remote sensing, active radar and microwave remote sensing, interpretation and exploitation of remotely sensed data for various applications.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Remote Sensing"
+        },
+        "EE 425": {
+            "description": "Approximation Theory.  All pole filters.  Frequency transformations.  Elements of passive synthesis.  Time delay filters.  Theory and design of active filter.  Sensitivity analysis.  3 lectures.",
+            "title": "Analog Filter Design"
+        },
+        "EE 428": {
+            "description": "Introduction to the concepts of 2D and 3D computer vision:  low-level image processing methods such as filtering and edge detection; feature extraction; segmentation and clustering; stereo vision; appearance-based and model-based algorithms.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 428.",
+            "title": "Computer Vision"
+        },
+        "EE 431": {
+            "description": "Design of VLSI circuits using state-of-the-art CAD software.  Design issues and algorithms related to design using CAD.  Full custom design through automated design and a major multi-week chip design project in lab.  3 lectures, 1 laboratory.  Crosslisted as CPE 441/EE 431.",
+            "title": "Computer-Aided Design of VLSI Devices"
+        },
+        "EE 432": {
+            "description": "Theory and applications of digital computers in linear control systems.  Discrete time methods are used in analysis and design studies.  Digital control systems are synthesized.  3 lectures.  Crosslisted as CPE/EE 432.",
+            "title": "Digital Control Systems"
+        },
+        "EE 433": {
+            "description": "Design of magnetic components.  Fundamentals of magnetics, magnetic cores, design of power transformer, three-phase transformer, dc inductor, ac inductors, dc-dc converter transformer design, actuators.  Use of commercially available software.  3 lectures, 1 laboratory.",
+            "title": "Introduction to Magnetic Design"
+        },
+        "EE 434": {
+            "description": "Multidisciplinary investigation of automotive renewable fuels and electric/hybrid vehicles.  Analyze and design related technologies and systems.  Methods for complete-cycle energy and GHG analysis.  Comparative emissions, efficiency, power output, and infrastructure requirements.  Laboratory projects converting engines and vehicles to operate on alternative fuels or electric propulsion.  3 lectures, 1 laboratory.  Crosslisted as BRAE/EE 434.",
+            "title": "Automotive Engineering for a Sustainable Future"
+        },
+        "EE 439": {
+            "description": "Theory, design and implementation of real-time operating system-based embedded systems.  Scheduling algorithms, operating system resources, peripheral device interfacing and embedded system architecture.  Resource management issues in a resource-limited (microcontroller-based) environment.  3 lectures, 1 laboratory.  Crosslisted as CPE/EE 439.",
+            "title": "Introduction to Real-Time Operating Systems"
+        },
+        "EE 440": {
+            "description": "Wireless microwave system design and analysis.  RF transmission lines, microwave networks, receiver design, modulation techniques, and mixer characterization and realizations.  Noise and distortion, RF oscillators and frequency synthesizers, filter design.  Radiating systems and electromagnetic wave propagation, microwave amplifier design.  3 lectures.",
+            "title": "Wireless Communications"
+        },
+        "EE 443": {
+            "description": "Experimental investigation of the properties of optical fibers, sources, and detectors.  Measurement of fiber physical characteristics, attenuation, losses, and bandwidth.  Evaluation of an analog and digital fiber optic data link.  1 laboratory.",
+            "title": "Fiber Optics Laboratory"
+        },
+        "EE 444": {
+            "description": "Protective relaying, coordination, and relay calibration.  Power control using transformers, parallel operation of generators, and computer simulation of power systems.  1 laboratory.",
+            "title": "Power Systems Laboratory"
+        },
+        "EE 445": {
+            "description": "Experimental investigation employing advanced techniques.  Design of high-frequency electronic amplifiers utilizing S-parameters of bipolar transistors, network analyzers, and computer simulation techniques.  1 laboratory.",
+            "title": "High Frequency Amplifier Design Laboratory"
+        },
+        "EE 449": {
+            "description": "Design of electronic systems and subsystems using integrated circuits.  1 laboratory.",
+            "title": "Electronic Design Laboratory"
+        },
+        "EE 450": {
+            "description": "Engineering principles, design, and installation of solar photovoltaic power systems including grid-tie and off-grid systems.  Photonic energy conversion, solar module engineering, solar power electronics, photovoltaic site planning, mechanical and structural considerations, permit processes, government incentives, and analysis of financial and investment issues.  Field trips required.  3 lectures, 1 laboratory.  Crosslisted as BRAE/EE/HNRS 450.",
+            "title": "Solar Photovoltaic System Engineering"
+        },
+        "EE 452": {
+            "description": "Advanced laboratory study of LC and VCO oscillators, phase detectors, phase-locked loop circuits, transducer interface circuits, noise sources and signal-to-noise determination, ADC and DAC for data conversion.  Formal experiments and computer SPICE simulation.  1 laboratory.",
+            "title": "Advanced Analog Circuits Laboratory"
+        },
+        "EE 455": {
+            "description": "Advanced laboratory study of sensitivity and stability of active networks prescribed for realization of transfer functions by active network synthesis techniques.  Formal experiments and individual project work.  1 laboratory.",
+            "title": "Analog Filter Design Laboratory"
+        },
+        "EE 456": {
+            "description": "Methods of digital modulation and demodulation.  Emphasis on spectral analysis, bandwidth requirements and other practical considerations of modulation and demodulation.  1 laboratory.",
+            "title": "Digital Communication Systems Laboratory"
+        },
+        "EE 458": {
+            "description": "Experimental investigation of the techniques used in processing optical signals.  Formal experiments on electro-optic modulation, acousto-optic modulation.  Construction of an RF spectrum analyzer.  Analog processing of optical signals, and charge-coupled array devices.  1 laboratory.",
+            "title": "Photonic Engineering Laboratory"
+        },
+        "EE 459": {
+            "description": "Experiments in digital filter design and digital signal processing emphasizing various areas of application.  Formal experiments and individual project work, including DSP algorithm and digital filter analysis, design and implementation using Matlab, and real-time implementations using C on an embedded DSP processor.  1 laboratory.",
+            "title": "Digital Signal Processing Laboratory"
+        },
+        "EE 460": {
+            "description": "Introduction to teamwork and team-oriented project execution.  Project planning, scheduling and analysis.  Usage of tools for project management including Gantt and Pert Charts.  Project development, cost and time estimation using top-down and bottom-up approaches.  Ethics and ethical issues as they pertain to the conduct of engineering.  Development of senior project proposal.  1 lecture, 1 laboratory.",
+            "title": "Senior Project Preparation"
+        },
+        "EE 461": {
+            "description": "Investigation and design of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.",
+            "title": "Senior Project I"
+        },
+        "EE 462": {
+            "description": "Continuation and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.",
+            "title": "Senior Project II"
+        },
+        "EE 463": {
+            "description": "Investigation and design of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Not open to students with credit in EE 461.  2 laboratories.",
+            "title": "Senior Project Design Laboratory I"
+        },
+        "EE 464": {
+            "description": "Continuation and completion of a project under faculty supervision.  Projects typical of problems which graduates must solve in their fields of employment.  Project results are presented in a formal report.  Not open to students with credit in EE 462.  2 laboratories.",
+            "title": "Senior Project Design Laboratory II"
+        },
+        "EE 470": {
+            "description": "Directed group study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "EE 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "EE 472": {
+            "description": "Design and programming of microprocessor-based digital controls for electro-mechanical plants.  Topics include digital control laws, translation of transfer functions into algorithms, assembly language programming, real-time software design, sample rate selection, finite word-length considerations.  1 laboratory.  Crosslisted as CPE/EE 472.",
+            "title": "Digital Control Systems Laboratory"
+        },
+        "EE 480": {
+            "description": "Wireless microwave system design and analysis.  RF transmission lines, microwave networks, receiver design, modulation techniques, and mixer characterization and realizations.  Noise and distortion, RF oscillators and frequency synthesizers, filter design.  Radiating systems and electromagnetic wave propagation, microwave amplifier design.  1 laboratory.",
+            "title": "Wireless Communications Laboratory"
+        },
+        "EE 494": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Evaluation by work supervisor required.  Credit/No Credit grading only.  No major credit allowed; total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "EE 495": {
+            "description": "Full-time work experience in business, industry, government, and other areas of student career interest.  Positions are paid and usually require relocation and registration in course for two consecutive quarters.  Formal report and evaluation by work supervisor required.  Major credit limited to 4 units; total credit limited to 12 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "EE 500": {
+            "description": "Advanced study planned and completed under the direction of a member of the department faculty.  Open only to graduate students who have demonstrated ability to do independent work.  Enrollment by petition.  Total credit limit at discretion of graduate advisor, not to exceed 9 units.",
+            "title": "Individual Study"
+        },
+        "EE 502": {
+            "description": "Application of Maxwell's equations and boundary value problems to waveguide structures.  Striplines and microstrip lines.  S-parameters.  Microwave equivalent circuit theorem.  Passive microwave devices.  Charge and field interactions in oscillators and amplifiers.  Transferred electron devices, avalanche transit-time devices, and microwave transistors.  Circuits associated with oscillators and reflection type amplifiers.  4 seminars.",
+            "title": "Microwave Engineering"
+        },
+        "EE 504": {
+            "description": "Introduction to software defined radios, including architectures of software defined radio receivers and transmitters, design principles and trade-offs, signal processing techniques, and applications of the technologies.  3 seminars, 1 laboratory.",
+            "title": "Software Defined Radio"
+        },
+        "EE 509": {
+            "description": "Theory, design, and applications of biologically inspired computational paradigms, including artificial neural networks, evolutionary computation, swarm intelligence, and hybrid intelligent systems.  4 seminars.",
+            "title": "Computational Intelligence"
+        },
+        "EE 511": {
+            "description": "Advanced topics in electric machines theory.  Introduction to Park's transformation.  Analysis of electric machines using Kron's generalized concept.  Vector control of induction machines.  4 seminars.",
+            "title": "Electric Machines Theory"
+        },
+        "EE 513": {
+            "description": "State representation of dynamic systems.  Mathematical models of physical devices, controllability and observability.  Design of closed-loop systems.  Optimal control theory.  4 seminars.",
+            "title": "Control Systems Theory"
+        },
+        "EE 514": {
+            "description": "Summary course covering five selected graduate-level topics in automatic control theory and practice; implementation issues in digital control, nonlinear control theory and design, LQ and time optimal control, variable structure control, and fuzzy logic/model-free control.  4 seminars.",
+            "title": "Advanced Topics in Automatic Control"
+        },
+        "EE 515": {
+            "description": "Advanced topics in filter design and implementation.  Emphasis placed on current applications and on the processing of real signals.  Topics may include signal analysis via spectral estimation, short time Fourier transforms, and spectrograms.  Effects of coefficient quantization, and limits of practical filters.  State space realization.  Optimal and adaptive filters for signal prediction, system identification, and noise cancellation.  Techniques implemented in programming assignments.  4 seminars.",
+            "title": "Discrete Time Filters"
+        },
+        "EE 516": {
+            "description": "Fundamental topics in statistical pattern recognition including Bayesian decision theory, Maximum-likelihood and Bayesian estimation, non-parametric density estimation, feature selection, dimension reduction, and clustering, with application to image pattern recognition.  3 seminars, 1 laboratory.",
+            "title": "Pattern Recognition"
+        },
+        "EE 518": {
+            "description": "Unsymmetrical faults.  Protection fundamentals.  Instrument transformers.  Power system grounding.  Generator protection, transformer protection, busbar protection, line and motor protection.  4 seminars.",
+            "title": "Power System Protection"
+        },
+        "EE 519": {
+            "description": "Advanced power system stability analysis, numerical methods in power system analysis.  4 seminars.",
+            "title": "Advanced Analysis of Power Systems"
+        },
+        "EE 520": {
+            "description": "Solar radiation and insolation variability.  Solar cell theory.  Photovoltaic module and array design.  Interfacing PV generators with various kinds of loads.  Power processing circuits and systems.  Energy storage options.  Stand-alone and grid-connected systems.  Economic and policy issues.  4 seminars.",
+            "title": "Solar-Photovoltaic Systems Design"
+        },
+        "EE 521": {
+            "description": "Organization of modern general purpose, high speed digital computer systems.  Design of arithmetic units, control units, memories and memory subsystems.  Cost, power and speed trade-offs in the design of such systems.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 521.",
+            "title": "Computer Systems"
+        },
+        "EE 522": {
+            "description": "Define and implement a microcontroller-based Real-Time Operating System (RTOS).  Advanced real-time concepts, kernel structure, task and time management, various intertask communication constructs including semaphores, queues and mailboxes.  Scheduler design, memory management and shared resource management in a resource-constrained microcontroller environment.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 522.",
+            "title": "Advanced Real-Time Operating Systems Design"
+        },
+        "EE 523": {
+            "description": "Full-custom design and analysis of digital circuits using full CMOS, pass-transistor and dynamic circuit topologies.  Transistor sizing for minimizing power consumption, delay and other design criteria.  3 seminars, 1 laboratory.  Crosslisted as CPE/EE 523.",
+            "title": "Digital Systems Design"
+        },
+        "EE 524": {
+            "description": "Physical theory of solid-state devices.  Properties of metal-semiconductor junctions and p-n junctions.  Derivation of properties of diodes, transistors, and four-layer devices from basic physical and mathematical considerations.  3 seminars.",
+            "title": "Solid State Electronics"
+        },
+        "EE 525": {
+            "description": "Probability and stochastic processes used in random signal analysis.  Response of linear systems to random inputs.  Auto-correlation and power spectral densities.  Applications in signal processing using the discrete Kalman filter.  4 seminars.",
+            "title": "Stochastic Processes"
+        },
+        "EE 526": {
+            "description": "Modern digital communication systems.  M-ary signals.  Vector space representation of signals.  Optimum receiver principles.  Common signal sets.  Signal space dimensionality versus time-bandwidth product.  4 seminars.",
+            "title": "Advanced Digital Communications"
+        },
+        "EE 527": {
+            "description": "Selected advanced topics in power electronics such as dc-dc converters, phase-controlled rectifiers, switched-mode inverters, ac and dc drives, HVDC transmission, or utility applications of power electronics.  4 seminars.",
+            "title": "Advanced Topics in Power Electronics"
+        },
+        "EE 528": {
+            "description": "Processing and interpretation of images by computer.  Emphasis on current applications with real images used in programming assignments.  Topics may include histogram equalization, 2-D convolution, correlation, frequency-domain processing, median filtering, compression, Hough transform, segmentation and region growing, morphological operations, texture description, shape description, Bayes classifier.  4 seminars.",
+            "title": "Digital Image Processing"
+        },
+        "EE 529": {
+            "description": "Emphasis on device theory of operation, fabrication techniques and circuit principles of active microwave solid-state devices, their noise aspects and systems applications.  3 seminars.",
+            "title": "Microwave Device Electronics"
+        },
+        "EE 530": {
+            "description": "Approach to the design and analysis of optical systems using linear communication theory, including Fourier analysis.  Analysis of two-dimensional signals and systems, foundations of scalar diffraction theory.  Fresnel and Fraunhofer diffraction.  Wave-optics analysis of coherent optical systems, frequency analysis of optical imaging systems, holo-graphy.4 seminars.",
+            "title": "Fourier Optics"
+        },
+        "EE 533": {
+            "description": "Principles of antenna theory.  Antenna parameters, radiation integrals.  Duality and reciprocity theorems.  Wire antennas.  Antenna arrays.  Traveling wave antennas.  Broadband and frequency independent antennas.  Aperture and reflector antennas.  Microstrip antennas.  Antenna design.  4 seminars.",
+            "title": "Antennas"
+        },
+        "EE 541": {
+            "description": "Experimental measurement in waveguide and microstrip circuits employing the advanced Network Analyzer.  Design of both passive and active microwave circuits using microstrip.  Graphical and analytical design techniques as well as the use of computer-aided design codes.  2 laboratories.",
+            "title": "Advanced Microwave Laboratory"
+        },
+        "EE 544": {
+            "description": "Experimental procedures in solid-state electronics and integrated circuits.  Investigation and improvement of the characteristics of solid-state electronic devices and integrated circuits.  1 laboratory.",
+            "title": "Solid-state Electronics and VLSI Laboratory"
+        },
+        "EE 563": {
+            "description": "Current developments in the fields of electrical and electronic engineering. Participation by students, faculty and guest lecturers. Open to graduate students with a background in electrical or electronic engineering. Credit/No Credit grading only. Total credit limited to 3 units. 1 seminar.",
+            "title": "Graduate Seminar"
+        },
+        "EE 570": {
+            "description": "Directed group study of selected topics for advanced students.  Open to graduate students and selected seniors with electrical and electronic engineering background.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 seminars.",
+            "title": "Selected Advanced Topics"
+        },
+        "EE 571": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "EE 594": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  Credit/No Credit grading only.  Total credit limited to 24 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "EE 595": {
+            "description": "Advanced study analysis and full-time work experience in student's career field; current innovations, practices, and problems in administration, supervision, and organization of business, industry, and government.  Must have demonstrated ability to do independent work and research in career field.  A fully-developed formal report and evaluation by work supervisor required.  Total credit limited to 12 units.",
+            "title": "Cooperative Education Experience"
+        },
+        "EE 599": {
+            "description": "Each individual or group will select, with faculty guidance and approval, a topic for independent research or investigation resulting in a thesis or project to be used to satisfy the requirement for the degree.  An appropriate experimental or analytical thesis or project may be accepted.",
+            "title": "Design Project (Thesis)"
+        }
+    },
     "links": [
         {
             "source": "MATH 142",

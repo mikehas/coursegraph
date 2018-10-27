@@ -1,4 +1,242 @@
 {
+    "descriptions": {
+        "ARCH 101": {
+            "description": "Exploration of the major paradigms which have guided the development of architectural education and the profession. Survey of the roles of the architects and an introduction to curricula and programs designed to prepare students for careers in architecture. Credit/No Credit grading only. 1 lecture. Total credit limited to 3 units.",
+            "title": "Survey of Architectural Education and Practice"
+        },
+        "ARCH 106": {
+            "description": "Use and application of construction processes and materials. 2 lectures.",
+            "title": "Materials of Construction"
+        },
+        "ARCH 131": {
+            "description": "An introduction to the issues, concepts, processes and skills pertaining to two- and three-dimensional design and the freehand, constructed and digital representation and visual communication of ideas, objects and environments.  Purchase of a laptop computer, software and peripherals is highly recommended to participate in this course.  4 laboratories.",
+            "title": "Design and Visual Communication 1"
+        },
+        "ARCH 132": {
+            "description": "Continuation of ARCH 131 plus the issues, concepts, processes and skills pertaining to color theory and the design and visual communication of architectural space.  Purchase of a laptop computer, software and peripherals is highly recommended to participate in this course.  4 laboratories.",
+            "title": "Design and Visual Communication 1"
+        },
+        "ARCH 133": {
+            "description": "Continuation of ARCH 131 and ARCH 132 plus the issues, concepts, processes and skills pertaining to the analysis and design of architectural form, space and organizations.  Purchase of a laptop computer, software and peripherals is highly recommended to participate in this course.  4 laboratories.",
+            "title": "Design and Visual Communication 1"
+        },
+        "ARCH 204": {
+            "description": "Theories of architectural design.  3 lectures.",
+            "title": "Architectural Theory"
+        },
+        "ARCH 207": {
+            "description": "Theory and application of climate, energy use and comfort as determinants of architectural form in small-scale buildings.  Emphasis on architectural methods of ventilating, cooling, heating, and lighting for envelope-load dominated buildings.  2 lectures, 2 activities.",
+            "title": "Architectural Technology Fundamentals 2"
+        },
+        "ARCH 217": {
+            "description": "Architecture and urbanism in the ancient world, from prehistory to the Middle Ages. Social, cultural and physical conditions that influenced the built environment to the Mediterranean basis, plus Europe, Asia, Africa and Pre-Columbian America. 4 lectures. Fulfills GE C3.",
+            "title": "History of World Architecture: Prehistory - Middle Ages"
+        },
+        "ARCH 218": {
+            "description": "World architecture and urbanism from the Middle Ages until the end of the 18th century Baroque. Social, cultural and physical conditions which influenced the built environment of Europe, Asia, and the Pre-Columbian and Colonial Americas. 4 lectures. Fulfills GE C3.",
+            "title": "History of World Architecture: Middle Ages - 18th Century"
+        },
+        "ARCH 219": {
+            "description": "Architecture and urbanism of the modern world, from the 18th century to the present. Social, cultural and physical conditions influencing the built environment of Europe, Asia, Africa and the Americas. 4 lectures. Fulfills GE C3.",
+            "title": "History of World Architecture: 18th Century - Present"
+        },
+        "ARCH 241": {
+            "description": "The language, principles and materials of construction with an emphasis on the origin, history, and application of traditional and emergent materials.  2 lectures, 2 activities.",
+            "title": "Architectural Technology Fundamentals 2"
+        },
+        "ARCH 242": {
+            "description": "A continuation of ARCH 241 with an emphasis on the fundamental aspects of construction systems and the basics of construction documentation.  2 lectures, 2 activities.",
+            "title": "Architectural Technology Fundamentals 2"
+        },
+        "ARCH 251": {
+            "description": "Continuation of ARCH 133 in terms of materiality and the theories, concepts, processes and skills pertaining to the analysis and design of architectural form, space and organizations to communicate intended concepts and meanings.  5 laboratories.",
+            "title": "Architectural Design 2"
+        },
+        "ARCH 252": {
+            "description": "Continuation of ARCH 251 plus the theories, concepts, processes and skills pertaining to light, construction and function as determinants that shape the built environment and support the communication of intended concepts and meanings.  5 laboratories.",
+            "title": "Architectural Design 2"
+        },
+        "ARCH 253": {
+            "description": "Continuation of ARCH 251 and ARCH 252 plus the theories, concepts, processes and skills pertaining to context, structure and climate as determinants that shape the built environment and support the communication of intended concepts and meanings.  5 laboratories.",
+            "title": "Architectural Design 2"
+        },
+        "ARCH 270": {
+            "description": "Directed group study of selected topics. The Schedule of Classes will list title selected. Open to first-, second-, third-year students. Total credit limited to 8 units. 1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ARCH 302": {
+            "description": "Theories of architecture and their application in architectural design.  3 lectures.",
+            "title": "Theories of Architectural Design"
+        },
+        "ARCH 307": {
+            "description": "Continuation of ARCH 341 plus theory and application of climate, energy use and comfort as determinants of architectural form in large-scale buildings.  Emphasis on architectural and mechanical methods of ventilating, cooling, heating, lighting, acoustics, and water and waste systems for internal-load dominated buildings.  2 lectures, 2 discussions.",
+            "title": "Architectural Systems Integration 3"
+        },
+        "ARCH 313": {
+            "description": "Development of proficiency in architectural presentation.  Projects and critiques.  2 laboratories.",
+            "title": "Advanced Delineation"
+        },
+        "ARCH 320": {
+            "description": "In-depth examination of a significant region, movement or period in architectural history, theory and criticism.  The material covered will vary depending upon the topic.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units.  4 lectures.  Fulfills GE C4 except for Architecture majors.",
+            "title": "Topics in Architectural History"
+        },
+        "ARCH 326": {
+            "description": "The role of culture and setting in the construction of spatial, material and landscape concepts and artifacts, through the introduction of selected North American cultures, with focus from 1300 AD through contemporary time.  4 lectures.  Crosslisted as ARCH/ES 326.  Fulfills GE C4.  Fulfills USCP.",
+            "title": "Native American Architecture and Place"
+        },
+        "ARCH 341": {
+            "description": "Continuation of ARCH 207 plus the concepts, methods and processes and building systems that pertain to the detailing and construction of large-scale masonry, steel, concrete and combination structures.  2 lectures, 2 discussions.",
+            "title": "Architectural Systems Integration 3"
+        },
+        "ARCH 342": {
+            "description": "Continuation of ARCH 307 plus the concepts, methods, and processes pertaining to the preparation of outline specifications, production of design development drawings, life safety, building systems integration and building envelope and fabrication systems that inform the design and development of large scale buildings.  2 lectures, 2 discussions.",
+            "title": "Architectural Systems Integration 3"
+        },
+        "ARCH 351": {
+            "description": "Continuation of ARCH 253 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating architecture with an emphasis on implications of the program and space planning issues as building form generator.  1 lecture, 4 laboratories.",
+            "title": "Architectural Design 3"
+        },
+        "ARCH 352": {
+            "description": "Continuation of ARCH 351 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating sustainable architecture with an emphasis on implications of ecological, environmental and site issues as building form generator.  1 lecture, 4 laboratories.",
+            "title": "Architectural Design 3"
+        },
+        "ARCH 353": {
+            "description": "Continuation of ARCH 352 plus the development and exploration of architectural theories, building systems, and design concepts and processes involved in creating large-scale architecture with an emphasis on implications of socio-cultural and comprehensive/life safety systems integration issues as building form generator.  1 lecture, 4 laboratories.",
+            "title": "Architectural Design 3"
+        },
+        "ARCH 363": {
+            "description": "Preparation for off-campus architectural study programs includes cultural orientation, an introduction to basic language skills, travel and housing protocols as well as academic and financial advising.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  2 seminars.",
+            "title": "Off-Campus Orientation Seminar"
+        },
+        "ARCH 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.  Credit/No Credit grading only.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ARCH 420": {
+            "description": "Special topics based on the exploration of specific approaches, periods of time, and cultural or geographic areas.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units; repeatable in same term.  4 seminars.",
+            "title": "Seminar in Architectural History, Theory and Criticism"
+        },
+        "ARCH 443": {
+            "description": "An exploration of topics related to the practice of architecture, including financial considerations, client obligations, project and practice management, leadership, legal responsibilities, ethics and professional judgment, and community and social responsibility, as well as the process and requirements for internship and licensure.  2 lectures, 2 discussions.",
+            "title": "Issues in Contemporary Professional Practice"
+        },
+        "ARCH 445": {
+            "description": "Design role of the urban architect.  Economic, environmental and technological forces impacting on architectural practice in urban areas.  3 lectures.",
+            "title": "Urban Design in Architecture"
+        },
+        "ARCH 451": {
+            "description": "Problems of increasing architectural complexity involving the comprehensive integration of architectural theory, design processes, and building systems with emphasis placed on multifunction singular buildings.  5 laboratories.",
+            "title": "Architectural Design 4"
+        },
+        "ARCH 452": {
+            "description": "Problems of increasing architectural complexity involving the comprehensive integration of architectural theory, design processes, and building systems with emphasis placed on multibuilding, multifunctional projects.  5 laboratories.",
+            "title": "Architectural Design 4"
+        },
+        "ARCH 453": {
+            "description": "Problems of increasing architectural complexity involving the comprehensive integration of architectural theory, design processes, and building systems with emphasis placed on multifunctional projects in an urban context.  Total credit limited to 10 units and may substitute for ARCH 451 or ARCH 452.  5 laboratories.",
+            "title": "Architectural Design 4"
+        },
+        "ARCH 460": {
+            "description": "Advanced methods in the application of computer graphics and multi-media techniques in architectural design.  2 lectures, 1 activity.",
+            "title": "Computer Graphics Applications III"
+        },
+        "ARCH 461": {
+            "description": "Applications of computer-aided manufacturing in architectural design with emphasis on subtractive and additive fabrication methods, material assemblies, and advanced techniques in digital design software.  2 lectures, 2 activities.",
+            "title": "Advanced Computer-Aided Fabrication in Architecture"
+        },
+        "ARCH 462": {
+            "description": "Selected topics addressing various aspects of Architectural Practice for advanced students in CAED.  Topics may include strategic planning, managing quality, ethics, and legal considerations.  Open to undergraduate and graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 8 units; repeatable in same term.  3-4 lectures.",
+            "title": "Topics in Architectural Practice"
+        },
+        "ARCH 464": {
+            "description": "Exposure to aspects of computer-aided design.  Class Schedule will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Computer Applications in Design"
+        },
+        "ARCH 465": {
+            "description": "The role of various media of visual communication as tools of documentation, analysis and creation in the design visual environment.  Skills in graphics, photography, product design, film, video techniques, and printmaking graphics will be developed in specific relation to environmental design study and presentation.  Class Schedule will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Design Related Media"
+        },
+        "ARCH 466": {
+            "description": "Design from its beginning with the crafts design period to its expression of industrial design in its present form.  Various stages in the evolution of design explored through analyzing the influences and contributions of leading artists.  Class Schedule will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Topics in Architectural History and Theory"
+        },
+        "ARCH 467": {
+            "description": "Architecture and urban theoretical intentions and results in the context of the Capitol of the United States - Washington, DC.  This theoretical and historical study will not occur within the confines of the classroom, but directly within the 'laboratory' of the city.  Class Schedule will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Undergraduate Research"
+        },
+        "ARCH 468": {
+            "description": "Technologies which provide a 'well building' environment by engaging in:  weather protection; thermal/moisture control; natural and artificial lighting; and electrical and other 'energy source' utility service.  3 lectures.",
+            "title": "Advanced Environmental Building Systems"
+        },
+        "ARCH 469": {
+            "description": "Relationship of art and architecture addressed to encourage critical debate.  Historically, the 'art' and the 'architecture' were not as polarized as today.  Both historical perspective and practical issues concerning collaboration.  Class Schedule will list topic selected.  Total credit limited to 12 units.  3 lectures.",
+            "title": "Topics in Design Methods"
+        },
+        "ARCH 470": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 16 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ARCH 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  Open to undergraduate and graduate students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1 to 4 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        },
+        "ARCH 472": {
+            "description": "For students preparing for further study or practice relating to housing, urban design and new communities.  This course will address design objectives, concepts, and current theories and forms in housing and mixed-use projects.  3-4 lectures.",
+            "title": "Housing Design Concepts"
+        },
+        "ARCH 473": {
+            "description": "Applied research through the design and fabrication of full-scale building assemblies, using computer-aided manufacturing.  Material properties, methods of manufacturing, and building performance.  Total credit limited to 12 units.  2 lectures, 2 activities.",
+            "title": "Material Innovation Lab"
+        },
+        "ARCH 480": {
+            "description": "Special issues and problems through research, field trips, design projects, and other forms of investigation and involvement.  Course requirements are determined prior to each individual project through a contractual agreement between students and department.  The departmental Off Campus Study Guidelines apply except when superseded by guidelines and practices of the London Study Program of the College of Liberal Arts.  Total credit limited to 36 units.",
+            "title": "Special Studies in Architecture"
+        },
+        "ARCH 481": {
+            "description": "Comprehensive building design and research project in an architectural concentration area.  Demonstration of professional competency in integration of architectural theory, principles and practice with creative, organizational and technical abilities in architectural programming, design and design research.  Total credit limited to 15 units.  5 laboratories.",
+            "title": "Senior Architectural Design Project"
+        },
+        "ARCH 485": {
+            "description": "Part-time or full-time professional work experience in architecture and related fields, usually off-campus.  Positions are paid or unpaid.  Formal report and evaluation by work supervisor required.  30 hours of work experience per quarter per unit of credit.  Total credit limited to 24 units.",
+            "title": "Internship/Cooperative Education Experience"
+        },
+        "ARCH 492": {
+            "description": "Development of the framework and format of a thesis project proposal related to the specific design option.  Work to include:  research topic, intent, scope, methodology, assumptions, outline of work program and documentation.  3 seminars.",
+            "title": "Senior Design Thesis"
+        },
+        "ARCH 510": {
+            "description": "Application of systematic, step-by-step procedures to rational and intuitive judgmental tasks.  Methods for formulation, idea production, evaluation, and testing applied to planning, testing, design information systems, communication between designer and client, user participation in design, and other current topics.  511 focuses on specific problem area among topics and may be repeated up to 9 units.  3 lectures.",
+            "title": "Environmental Design Methods"
+        },
+        "ARCH 532": {
+            "description": "Roles of research and analysis in architecture.  Approaches to research, hypothesis testing, design process, and systems for design.  Use of research findings in various decision-making systems.  3 seminars.",
+            "title": "Research Methods in Architecture"
+        },
+        "ARCH 551": {
+            "description": "Professional initiative and responsibility in integrating architectural design theory and practice with fields influencing the total environment.  Building types considered as the coordinating factor.  Total credit limited to 15 units with no more than 5 units in any one quarter.  5 laboratories.",
+            "title": "Architectural Design"
+        },
+        "ARCH 561": {
+            "description": "Continuation of ARCH 551.  Advanced studies integrating architectural design theory and practice with fields influencing the shaping of the total environment.  Total credit limited to 9 units.  3 laboratories.",
+            "title": "Advanced Design"
+        },
+        "ARCH 570": {
+            "description": "Directed group study of selected topics for graduate students.  Open to undergraduate and graduate students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ARCH 580": {
+            "description": "Directed group study of selected topics in the theory of architecture for graduate students.  The Schedule of Classes will list topic selected.  Total credit limited to 9 units.  3 seminars.",
+            "title": "Seminar in Theory of Architecture"
+        },
+        "ARCH 598": {
+            "description": "Completion of a master project demonstrating in-depth research ability at a graduate level.  Total credit limited to 9 units.  3 or 6 laboratories.",
+            "title": "Master's Design Project"
+        },
+        "ARCH 599": {
+            "description": "Completion of a thesis embodying original research in an area of environmental design.  Total credit limited to 9 units.",
+            "title": "Master's Thesis"
+        }
+    },
     "links": [
         {
             "source": "ARCH 131",

@@ -1,4 +1,146 @@
 {
+    "descriptions": {
+        "ES 112": {
+            "description": "Introductory and interdisciplinary study of the ways that race and ethnicity are created by both historical processes and American institutional formation - specifically social, political, economic, legal and cultural institutions. Special attention paid to the interlocking systems of race, class, gender and sexuality. 4 lectures. Crosslisted as ES/HNRS 112. Fulfills GE D1 and USCP.",
+            "title": "Race, Culture and Politics in the United States"
+        },
+        "ES 114": {
+            "description": "Racial equality movements, including the history of Ethnic Studies (1960's & 70's), and the social practices, institutions, cultural representations/discourses, and public policies that construct and reinforce racism, racist ideology, and pseudo-scientific conceptions of race and intersections with gender and class. 4 lectures. Fulfills USCP.",
+            "title": "Introduction to Ethnic Studies: Race in the United States"
+        },
+        "ES 200": {
+            "description": "Supervised investigation, including a written report, of a topic chosen with prior approval of instructor.  Total credit limited to 4 units.",
+            "title": "Special Problems"
+        },
+        "ES 212": {
+            "description": "How the global dispersal of Europeans, Asians, and Africans, the hemispheric dispersal of Latin Americans, and the forced internal migration of Native Americans have contributed to American cultural heritage and the struggles for ethnic, class and gender equality, and justice. 4 lectures. Crosslisted as ES/HNRS 212. Fulfills GE D3 and USCP.",
+            "title": "Global Origins of United States Cultures"
+        },
+        "ES 215": {
+            "description": "How the social/spatial relationships among racial/ethnic and gender groups are expressed in terms of human settlement patterns, civic involvement and everyday negotiations.  Ways in which segregation and marginalization are expressed in western and non-western contexts.  4 lectures.  Crosslisted as CRP/ES 215.  Fulfills USCP.",
+            "title": "Planning for and with Multiple Publics"
+        },
+        "ES 241": {
+            "description": "A survey of the interdisciplinary field of indigenous studies and specifically the social, political, economic, legal, and cultural institutions of American Indian, Native Alaskan, and Native Hawaiian peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States. 4 lectures. Fulfills GE D3 and USCP.",
+            "title": "Survey of Indigenous Studies"
+        },
+        "ES 242": {
+            "description": "A survey of the interdisciplinary field of Africana Studies and specifically the social, political, economic, legal, and cultural institutions of African American, Afro-Caribbean, and African diasporic peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States. 4 lectures. Fulfills GE D3 and USCP.",
+            "title": "Survey of Africana Studies"
+        },
+        "ES 243": {
+            "description": "A survey of the interdisciplinary field of Latino/a Studies and specifically the social, political, economic, legal, and cultural institutions of Chicano/a and other Latino/a peoples within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States. Course may be offered in classroom-based or online format. 4 lectures. Fulfills GE D3 and USCP.",
+            "title": "Survey of Latino/a Studies"
+        },
+        "ES 244": {
+            "description": "A survey of the interdisciplinary field of Asian American Studies and specifically the social, political, economic, legal, and cultural institutions of West Asian, South Asian, Southeast Asian, and East Asian peoples in the United States within a transnational and global context. Special attention paid to the interlocking systems of race, class, gender, and sexuality, particularly within but not limited to the United States. 4 lectures. Fulfills GE D3 and USCP.",
+            "title": "Survey of Asian American Studies"
+        },
+        "ES 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ES 300": {
+            "description": "Overview of contemporary Chicano/a non-fiction literature since 1848.  Thematic concerns, literary criticism, literary techniques, historical and socio-cultural factors influencing non-fiction Chicano/a literary genres.  Instructor reserves option to select non-fiction genres to be studied.  4 lectures.  Fulfills GE C4 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Chicano/a Non-Fiction Literature"
+        },
+        "ES 308": {
+            "description": "Prehistorical and historical record of human use of and attitude toward fire.  Mythology and religion of fire.  Traditional, cultural and ethnic variations and their influence on modern U.S.  institutions involved in managing fire.  3 lectures, 1 activity.  Crosslisted as ES/NR 308.  Fulfills GE D5.",
+            "title": "Fire and Society"
+        },
+        "ES 310": {
+            "description": "Dynamics of hip-hop culture, its historical development, political significance, and social influence.  How hip-hop exemplifies cross-cultural hybridization within not only Black communities nationally and internationally, but also amongst indigenous, Latino/a, and Asian peoples in the U.S.  and beyond.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Hip-Hop, Poetics and Politics"
+        },
+        "ES 320": {
+            "description": "Comparative study of the cultural representations of, and counter-representations by, American racial/ethnic groups in American popular opinion and consciousness, with particular emphasis on African Americans.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "African American Cultural Images"
+        },
+        "ES 321": {
+            "description": "Comparative study of the cultural representations of, and counter-representations by racial/ethnic groups in American popular opinion and consciousness, with particular emphasis on Native Americans.  The cultural images of Native peoples in the United States that have characterized relationships.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Native American Cultural Images"
+        },
+        "ES 322": {
+            "description": "Comparative study of the cultural representations of, and counter-representations by, American racial/ethnic groups in American popular opinion and consciousness, with particular emphasis on Asian-Americans.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Asian American Cultural Images"
+        },
+        "ES 323": {
+            "description": "Comparative study of the cultural representations (racializing images and discourses) of, and counter-representations by, American cultural/ethnic groups in American popular opinion and consciousness, with particular emphasis on Mexican Americans/Latinos.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Mexican American Cultural Images"
+        },
+        "ES 325": {
+            "description": "Gender and sexuality issues that influence the social, political, economic and cultural development of African-America.  Special attention given to how racism affects the realization of standard gender conventions within black communities, as well as to myths of black sexuality, black feminism, and queer politics.  4 lectures.  Fulfills USCP.",
+            "title": "Sexuality and Gender in African American Communities"
+        },
+        "ES 326": {
+            "description": "The role of culture and setting in the construction of spatial, material and landscape concepts and artifacts, through the introduction of selected North American cultures, with focus from 1300 AD through contemporary time.  4 lectures.  Crosslisted as ARCH/ES 326.  Fulfills GE C4.  Fulfills USCP.",
+            "title": "Native American Architecture and Place"
+        },
+        "ES 330": {
+            "description": "History and current status of Chinese Americans, with emphasis on the international contexts, organizations and institutions of Chinese America, and on Chinese Americans' demographic compositions, spatial patterns, and cultural, socioeconomic, and political adaptation experiences.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "The Chinese American Experience"
+        },
+        "ES 335": {
+            "description": "An interdisciplinary examination of the historical development of Filipina/o American identities and communities.  The social, cultural and political institutions that have influenced Filipina/o immigration, participatory citizenship, activism and cultural practices.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "The Filipina/o American Experience"
+        },
+        "ES 340": {
+            "description": "Culture and ethnicity as key factors in the production, perception, and interpretation of art and the humanities.  Critical analysis of cultural attitudes and knowledge in expressive arts and cultural production, and of the contexts of cultural production as reflective of ethnicity.  The Schedule of Classes will list topic selected.  Total credit limited to 12 units.  4 lectures.  Fulfills GE C4 except for Comparative Ethnic Studies majors.",
+            "title": "Cultural Production and Ethnicity"
+        },
+        "ES 345": {
+            "description": "Theories, research and methods focused on the interlocking systems of sexuality, race, racialization, and ethnicity in local, national and comparative global/transnational contexts.  Relationships between racialization and heteronormativity; queer of color critique; queer migration; decolonizing queer organizing, theory, and knowledge production.  4 lectures.  Crosslisted as ES/WGS 345.  Fulfills GE D5 except for Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Queer Ethnic Studies"
+        },
+        "ES 350": {
+            "description": "Interdisciplinary examination of the complex relationships between gender, race, culture, science, technology in educational, work, knowledge production, policy, and ethical contexts.  Topics may include reproductive, medical, genetic, and emerging technologies and exploration of efforts to create more socially responsible science/technology.  3 lectures, 1 activity.  Crosslisted as ES 350/HNRS 353/WGS 350.  Fulfills GE Area F and USCP.",
+            "title": "Gender, Race, Culture, Science and Technology"
+        },
+        "ES 351": {
+            "description": "Cross-cultural exploration of the intersections of gender, race, class, nation in the global engineering workforce, small- and large-scale technological systems, and international development programs; special attention to 21st century challenges and efforts to create more socially responsible engineering and technology.  4 lectures.  Crosslisted as ES/WGS 351.  Fulfills GE Area D5 except for Comparative Ethnic Studies majors.",
+            "title": "Gender, Race, Class, Nation in Global Engineering, Technology & International Development"
+        },
+        "ES 360": {
+            "description": "Comparative study of how race and culture shape landscapes, and how social hierarchies allocate the use of natural resources and the burdens of environmental pollution.  4 lectures.  Crosslisted as ES/NR 360.  Fulfills GE C4 and USCP.",
+            "title": "Ethnicity and the Land"
+        },
+        "ES 380": {
+            "description": "History and evolution of the critical race theory movement.  Defining issues of the field; in particular, the relationship between race, power and the law.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "Critical Race Theory"
+        },
+        "ES 381": {
+            "description": "The investigation of the social construction of race in the United States through historicizing the category of 'whiteness.' Why 'white' was invented as a racial category and how white privilege has been sustained through social, political, economic and legal practices.  4 lectures.  Fulfills GE D5 except for Comparative Ethnic Studies majors.  Fulfills USCP.",
+            "title": "The Social Construction of Whiteness"
+        },
+        "ES 390": {
+            "description": "Theory and practice of research methodology in comparative ethnic studies.  Topics include the scientific method, qualitative and quantitative methodologies, and ethical practices.  Research report prepared from start to finish, including database searching, collecting pilot data, and proper formatting of a research report.  Issues of race in research practice and use foregrounded throughout.  3 lectures, 1 activity.",
+            "title": "Research Methodology in Comparative Ethnic Studies"
+        },
+        "ES 400": {
+            "description": "Individual investigation, research, studies or surveys of selected problems.  Total credit limited to 4 units.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ES 406": {
+            "description": "Interdisciplinary examination of the evolution of international law effecting indigenous peoples in the U.S.  and in the Americas.  Development of international legal and sociological norms and their impact on human rights of indigenous peoples with particular attention to environmental issues.  4 lectures.  Crosslisted as ES/NR 406.",
+            "title": "Indigenous Peoples and International Law and Policy"
+        },
+        "ES 410": {
+            "description": "Selected topics and issues in comparative ethnic studies.  Class Schedule will list topic selected.  Repeatable for a maximum of 8 units.  4 seminars.",
+            "title": "Advanced Topics in Comparative Ethnic Studies"
+        },
+        "ES 450": {
+            "description": "Supervised project based on fieldwork in comparative ethnic studies.  4 seminars.",
+            "title": "Fieldwork in Comparative Ethnic Studies"
+        },
+        "ES 461": {
+            "description": "Completion of a project under faculty supervision.  Results presented in a formal paper or project.",
+            "title": "Senior Project"
+        },
+        "ES 470": {
+            "description": "Directed group study of selected topics for advanced students.  Class Schedule will list topic selected.  Total credit limited to 8 units.  1-4 lectures.",
+            "title": "Selected Advanced Topics"
+        }
+    },
     "links": [
         {
             "source": "STAT 217",

@@ -1,4 +1,58 @@
 {
+    "descriptions": {
+        "MCRO 100": {
+            "description": "Group research experience in microbiology through participation in a faculty-student research project.  Foundations of the scientific method including literature review, design of experiments, common laboratory techniques, data analysis, interpretation of results and scientific communication.  Intended for freshmen and sophomores with no research experience.  Priority to MCRO majors.  Credit/No Credit grading only.  1 seminar, 1 laboratory.",
+            "title": "Introduction to Microbiology Research"
+        },
+        "MCRO 221": {
+            "description": "Morphology, metabolism, classification, and identification; microbiology of air, soil, water, and foods with applications to industry, agriculture, medicine, and public health.  Not open to students with credit in MCRO 224; not open for major credit for BIO/MCRO/MSCI.  3 lectures, 1 laboratory.  Fulfills GE B2 & B4.",
+            "title": "Microbiology"
+        },
+        "MCRO 224": {
+            "description": "Microbial cellular structure and function, nutrition and growth dynamics, control of microbial growth, metabolism, genetics, and viruses.  Both prokaryotic and eukaryotic microorganisms emphasized.  3 lectures, 2 laboratories.  Fulfills GE B2 & B4.",
+            "title": "General Microbiology I"
+        },
+        "MCRO 225": {
+            "description": "Microbial diversity, systematics, ecology, and symbiotic relationships.  Introduction to host-microorganism interactions including pathogenesis, epidemiology, and immunology.  3 lectures, 2 laboratories.",
+            "title": "General Microbiology II"
+        },
+        "MCRO 301": {
+            "description": "Wine yeasts, bacteria, and molds:  morphology and methods of identification; successful alcoholic and malolactic fermentations; management and prevention of unwanted microbial growth; micro-organisms and flavor development.  3 lectures, 1 laboratory.  Crosslisted as MCRO/WVIT 301.",
+            "title": "Wine Microbiology"
+        },
+        "MCRO 320": {
+            "description": "Recent outbreaks of human diseases, interrelationships between infectious disease agents, human biology, and the environment.  Infectious agents and disease processes, virulence mechanisms, and host immune response.  Clinical approaches and surveillance methods to detect, investigate, and monitor emerging pathogens.  Factors involved in the accelerating emergence of diseases and bioterrorist agents.  3 lectures.",
+            "title": "Emerging Infectious Diseases"
+        },
+        "MCRO 342": {
+            "description": "Principles of disease prevention and control.  Water-, food-, and air-borne microbial contaminations and epidemiology of ensuing diseases.  3 lectures, 1 laboratory.",
+            "title": "Public Health Microbiology"
+        },
+        "MCRO 402": {
+            "description": "Infective macromolecules (prions, viroids, and viruses) associated with microbes, plants, and animals.  Epidemiology, immune responses, pathogenicity, carcinogenesis, diagnoses, vaccination, and therapy.  3 lectures, 1 laboratory.",
+            "title": "General Virology"
+        },
+        "MCRO 421": {
+            "description": "Physiological activities of microorganisms involved in the preparation, preservation, deterioration, and toxicity of foods and related products.  Detection and prevention of spoilage microorganisms and foodborne pathogens.  3 lectures, 1 laboratory.",
+            "title": "Food Microbiology"
+        },
+        "MCRO 423": {
+            "description": "Microorganisms as agents of disease in humans.  Epidemiology, host-parasite relationships, and chemotherapy.  The compromised host and opportunistic disease.  Laboratory safety.  Procedures for laboratory diagnosis of human diseases.  Rapid miniaturized methods of identification.  3 lectures, 2 laboratories.",
+            "title": "Medical Microbiology"
+        },
+        "MCRO 424": {
+            "description": "Cellular structure and life processes of bacteria; chemical composition, growth, and metabolism.  General biological and evolutionary considerations.  3 lectures, 2 laboratories.",
+            "title": "Microbial Physiology"
+        },
+        "MCRO 433": {
+            "description": "Principles and methods used for production of enzymes, pharmaceuticals, chemicals, and food additives using micro-organisms.  Topics include screening and strain improvement, regulation of metabolite production, genetic engineering, heterologous gene expression systems, large-scale production, and intellectual property.  3 lectures.",
+            "title": "Microbial Biotechnology"
+        },
+        "MCRO 436": {
+            "description": "Ecology and interactions of microorganisms in natural environments.  Role of microorganisms in ecosystem function such as nutrient cycling, extreme environments, symbioses.  Applications of microorganisms in the environment such as bioremediation, biocontrol, biofuels.  Field trip may be required.  2 lectures, 2 activities.",
+            "title": "Microbial Ecology"
+        }
+    },
     "links": [
         {
             "source": "BIO 161",

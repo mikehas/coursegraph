@@ -28,7 +28,6 @@ groups = {}
 all_prereqs = {}
 
 depts = []
-descriptions = {}
 
 def getGroupNum(prefix):
     global groups_idx, groups
@@ -98,23 +97,19 @@ for c in courses.values():
             if prereq not in all_prereqs:
                 all_prereqs[prereq] = 'generated'
 
-        descriptions.update({c['course_id']: { 'description': c['description'], 'prereqs': c['prequisites'], 'title': c['title']}})
-
 for p in all_prereqs:
     if p not in courses:
         print(p)
         addNode(p, p.split()[0])
 
 graph['links'] = name_links
-graph['descriptions'] = descriptions
 
 pprint(graph)
 pprint(depts)
-#
-# if filter == "":
-#     writeFile(graph, "courses.json")
-# else:
-#     writeFile(graph, filter + ".json")
+
+if filter == "":
+    writeFile(graph, "courses.json")
+else:
+    writeFile(graph, filter + ".json")
 
 # writeFile(depts, "departments.json")
-writeFile(descriptions, 'descriptions.json')

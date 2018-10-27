@@ -1,4 +1,58 @@
 {
+    "descriptions": {
+        "ASTR 101": {
+            "description": "Descriptive astronomical properties of the Earth, Moon, other planets and their satellites. Comets, asteroids and other members of the Solar System. Theories of the formation of the Solar System. Opportunities for telescope observations. Intended for non-engineering and non-science majors. Not open to students who have completed or are taking ASTR 301 or ASTR 302. 4 lectures. Fulfills GE B3.",
+            "title": "Introduction to the Solar System"
+        },
+        "ASTR 102": {
+            "description": "Descriptive astronomical properties of the Sun, stars, galaxies and interstellar material. Expanding universe and cosmological models. Opportunities for telescope observations. Not open to students who have completed or are taking ASTR 112, ASTR 301, ASTR 302, or PHYS 132. 4 lectures. Fulfills GE B3.",
+            "title": "Introduction to Stars and Galaxies"
+        },
+        "ASTR 200": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Undergraduates"
+        },
+        "ASTR 270": {
+            "description": "Directed group study of selected topics.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Topics"
+        },
+        "ASTR 301": {
+            "description": "Quantitative and descriptive properties of planetary systems, including our solar system.  Physics of planets and their formation, moons, comets, and interplanetary media.  Extrasolar planets and astrobiology.  3 lectures.",
+            "title": "Planetary Systems"
+        },
+        "ASTR 302": {
+            "description": "Quantitative and descriptive properties of stars, galaxies and interstellar material; including stellar structure and evolution, and structure and evolution of galaxies.  3 lectures.",
+            "title": "Stars and Galaxies"
+        },
+        "ASTR 324": {
+            "description": "The state of navigation prior to 1800 and the world wide problem of determining longitude at sea.  Emphasis on historical and modern-day scientific solutions to the longitude problem and navigation technology, time and timekeeping, celestial navigation, and awareness of technological solutions to societal problems.  4 lectures.  Fulfills GE Area F.",
+            "title": "Longitude, Navigation, and Timekeeping"
+        },
+        "ASTR 326": {
+            "description": "Introduction to the basic ideas of modern observational cosmology from the Big Bang to the ultimate fate of the universe.  Topics include:  special and general relativity, curvature of space, dark matter, dark energy, cosmic microwave background, type Ia supernovae.  3 lectures.",
+            "title": "Cosmology"
+        },
+        "ASTR 400": {
+            "description": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Special Problems for Advanced Undergraduates"
+        },
+        "ASTR 404": {
+            "description": "Individual investigations, research, studies, or surveys of selected problems.  Credit/No Credit grading only.  Total credit limited to 4 units, with a maximum of 2 units per quarter.",
+            "title": "Research Experience for Advanced Undergraduates"
+        },
+        "ASTR 444": {
+            "description": "Introduction to observational astronomy.  Coordinate systems, telescopes and observational instruments (CCDs, filters, spectrographs), observational methods and techniques, data reduction and analysis.  Laboratory activities include use of a telescope, CCD camera for data acquisition, data reduction and analysis, and presentation of results.  3 lectures, 1 laboratory.",
+            "title": "Observational Astronomy"
+        },
+        "ASTR 470": {
+            "description": "Directed group study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 4 lectures.",
+            "title": "Selected Advanced Topics"
+        },
+        "ASTR 471": {
+            "description": "Directed group laboratory study of selected topics for advanced students.  The Schedule of Classes will list title selected.  Total credit limited to 8 units.  1 to 2 laboratories.",
+            "title": "Selected Advanced Laboratory"
+        }
+    },
     "links": [
         {
             "source": "PHYS 132",
